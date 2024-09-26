@@ -1,4 +1,4 @@
-# Ward map of the UK 2024
+# UK wards hex cartogram (2024) non-contiguous
 
 This sub-project aims to build a hex cartogram of 2024 UK wards similar to the effort to create [an MSOA cartogram by the House of Commons Library](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/).
 
