@@ -2,12 +2,19 @@
 
 This sub-project aims to build a hex cartogram of 2024 UK wards similar to the effort to create [an MSOA cartogram by the House of Commons Library](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/).
 
-Wards should be grouped by local authority district. In some places it may make sense to make a contiguous group of local authorities (e.g. Greater Manchester) but each local authority should also be contiguous within itself. In general, leaving gaps between local authority groups is better because the gaps can be used to make the overall map look more like the country as a whole. It also means that any future ward additions/removals will be easier to deal with as less of the map will need re-arranging. Having each local authority be contiguous makes it easier to extract local authority-specific cartograms in the future.
+## Rules to guide layout
+
+These are some things to keep in mind when designing the layout: 
+
+1. Wards should be grouped by local authority district as a contiguous shape. In some places it may make sense to make a contiguous group of local authorities (e.g. Greater Manchester) but each local authority should also be contiguous within itself. In general, leaving gaps between local authority groups is better because the gaps can be used to make the overall map look more like the country as a whole. It also means that any future ward additions/removals will be easier to deal with as less of the map will need re-arranging. Having each local authority be contiguous makes it easier to extract local authority-specific cartograms in the future.
+2. Try to keep local authorities with an overall shape the roughly resembles the real geography.
+3. Any wards with compass directions (e.g. Droylsden East and Droylsden West) should be arranged in roughly the correct orientation.
+4. Try to preserve familiar features from the real geography e.g. islands, estuaries, coastlines etc. This won't always be possible and approximations will need to be made but it can help people navigate the abstracted geography.
 
 
 ## Editing
 
-To help break up the task into more manageable pieces, the full ward map has been broken up by region. This makes it easier to work on and different people can edit different regions without fear of clashes.
+To help break up the task into more manageable pieces, the full ward map has been broken up by region or nation. This makes smaller files that are easier to work on and different people can edit different regions with less fear of clashes.
 
 * [E12000001 - North East](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000001.hexjson)
 * [E12000002 - North West](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson)
@@ -22,8 +29,7 @@ To help break up the task into more manageable pieces, the full ward map has bee
 * [S92000003 - Scotland](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/S92000003.hexjson)
 * [W92000004 - Wales](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/W92000004.hexjson)
 
-Please edit a region using the hex builder tool, save the output as HexJSON, then over-write the appropriate file in this directory.
-
+Please edit a region using the hex builder tool, save the output as HexJSON[^1], then over-write the appropriate file in this directory. 
 The [full map](https://open-innovations.org/projects/hexmaps/editor/?../maps/uk-wards-2024.hexjson) will be created by combining each of the regions into a final HexJSON file.
 
 The [Wards (May 2024) Boundaries UK SGC](https://geoportal.statistics.gov.uk/datasets/ons::wards-may-2024-boundaries-uk-bsc-2/explore) from the ONS is useful to see the geographic placement of wards. 
@@ -393,3 +399,5 @@ This is a list of local authority districts and if their wards have been arrange
 - [ ] [W06000022](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/W92000004.hexjson) - Newport
 - [ ] [W06000023](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/W92000004.hexjson) - Powys
 - [ ] [W06000024](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/W92000004.hexjson) - Merthyr Tydfil
+
+[^1]: [HexJSON](https://open-innovations.org/projects/hexmaps/hexjson) is a simple text-based file format for sharing hex layouts. 
