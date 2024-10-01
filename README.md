@@ -2,7 +2,7 @@
 
 This sub-project aims to build a hex cartogram of 2024 UK wards similar to the effort to create [an MSOA cartogram by the House of Commons Library](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/).
 
-Wards should be grouped by local authority district with gaps between local authorities. This will make it straightforward to extract local authority-specific wards cartograms in future.
+Wards should be grouped by local authority district. In some places it may make sense to make a contiguous group of local authorities (e.g. Greater Manchester) but each local authority should also be contiguous within itself. In general, leaving gaps between local authority groups is better because the gaps can be used to make the overall map look more like the country as a whole. It also means that any future ward additions/removals will be easier to deal with as less of the map will need re-arranging. Having each local authority be contiguous makes it easier to extract local authority-specific cartograms in the future.
 
 
 ## Editing
