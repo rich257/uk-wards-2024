@@ -178,7 +178,7 @@ This is a list of local authority districts and if their wards have been arrange
 - [ ] E07000122
 - [ ] E07000123
 - [ ] E07000124
-- [ ] E07000125
+- [x] E07000125 - Rossendale
 - [ ] E07000126
 - [ ] E07000127
 - [ ] E07000128
