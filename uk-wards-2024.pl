@@ -11,6 +11,8 @@ if($ARGV[0] eq "split"){
 	splitRegions();
 }elsif($ARGV[0] eq "combine"){
 	combineRegions();
+}elsif($ARGV[0] eq "ticklist"){
+	createTickList();
 }
 
 simplify();
@@ -68,6 +70,21 @@ sub simplify {
 	open($fh,">","simple.hexjson");
 	print $fh $simple;
 	close($fh);
+}
+
+sub createTickList {
+	print "Creating tick list from $config->{'final'}\n";
+	my ($lads,$id,$lad,$fh);
+	my $hexjson = getJSON($config->{'final'});
+
+	foreach $id (keys(%{$hexjson->{'hexes'}})){
+		$lad = $hexjson->{'hexes'}{$id}{'LAD24CD'};
+		$lads->{$lad} = $hexjson->{'hexes'}{$id}{'LAD24NM'};
+	}
+
+	foreach $lad (sort(keys(%{$lads}))){
+		print "- [ ] $lad - $lads->{$lad}\n";
+	}
 }
 
 sub splitRegions {
