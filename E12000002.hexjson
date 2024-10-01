@@ -815,16 +815,15 @@
 		"E05015340":{"LAD24CD":"E08000012","LAD24NM":"Liverpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#DE5DAE","lat":"53.43173","lon":"-2.87753","n":"Yew Tree","q":-359,"r":482},
 		"E05015546":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.91587","lon":"-2.20991","n":"Barnoldswick","q":-276,"r":603},
 		"E05015547":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.90635","lon":"-2.15467","n":"Earby & Coates","q":-269,"r":601},
-		"E05015817":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#011095","lat":"53.71609","lon":"-2.19341","n":"Bacup","q":-284,"r":549},
-		"E05015818":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#011095","lat":"53.68828","lon":"-2.20351","n":"Britannia & Lee Mill","q":-284,"r":548},
-		"E05015819":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#011095","lat":"53.72589","lon":"-2.28449","n":"Goodshaw & Cribden","q":-286,"r":549},
-		"E05015820":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#011095","lat":"53.65461","lon":"-2.28412","n":"Greenfield & Eden","q":-286,"r":547},
-		"E05015821":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#011095","lat":"53.6926","lon":"-2.26107","n":"Hareholme & Waterfoot","q":-285,"r":548},
-		"E05015822":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#011095","lat":"53.72194","lon":"-2.32788","n":"Haslingden","q":-287,"r":549},
-		"E05015823":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#011095","lat":"53.68411","lon":"-2.36467","n":"Helmshore","q":-287,"r":547},
-		"E05015824":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#011095","lat":"53.69571","lon":"-2.29398","n":"Longholme","q":-286,"r":548},
-		"E05015825":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#011095","lat":"53.72108","lon":"-2.24147","n":"Whitewell & Stacksteads","q":-285,"r":549},
-		"E05015826":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#011095","lat":"53.66759","lon":"-2.18139","n":"Whitworth","q":-284,"r":547}
+		"E05015817":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.71609","lon":"-2.19341","n":"Bacup","q":-284,"r":549},
+		"E05015818":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.68828","lon":"-2.20351","n":"Britannia & Lee Mill","q":-284,"r":548},
+		"E05015819":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.72589","lon":"-2.28449","n":"Goodshaw & Cribden","q":-286,"r":549},
+		"E05015820":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.65461","lon":"-2.28412","n":"Greenfield & Eden","q":-286,"r":547},
+		"E05015821":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.6926","lon":"-2.26107","n":"Hareholme & Waterfoot","q":-285,"r":548},
+		"E05015822":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.72194","lon":"-2.32788","n":"Haslingden","q":-287,"r":549},
+		"E05015823":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.68411","lon":"-2.36467","n":"Helmshore","q":-287,"r":548},
+		"E05015824":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.69571","lon":"-2.29398","n":"Longholme","q":-286,"r":548},
+		"E05015825":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.72108","lon":"-2.24147","n":"Whitewell & Stacksteads","q":-285,"r":549},
+		"E05015826":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.66759","lon":"-2.18139","n":"Whitworth","q":-284,"r":547}
 	},
-	"layout":"odd-r"
-}
+	"layout":"odd-r"}
