@@ -703,7 +703,7 @@
 		"E05014116":{"LAD24CD":"E09000022","LAD24NM":"Lambeth","RGN24CD":"E12000007","RGN24NM":"London","colour":"#69C853","lat":"51.43116","lon":"-0.12191","n":"Streatham Wells","q":-15,"r":-17 },
 		"E05014117":{"LAD24CD":"E09000022","LAD24NM":"Lambeth","RGN24CD":"E12000007","RGN24NM":"London","colour":"#69C853","lat":"51.48757","lon":"-0.12169","n":"Vauxhall","q":-15,"r":-3 },
 		"E05014118":{"LAD24CD":"E09000022","LAD24NM":"Lambeth","RGN24CD":"E12000007","RGN24NM":"London","colour":"#69C853","lat":"51.50198","lon":"-0.11362","n":"Waterloo & South Bank","q":-14,"r":0 },
-		"E05014119":{"LAD24CD":"E09000022","LAD24NM":"Lambeth","RGN24CD":"E12000007","RGN24NM":"London","colour":"#69C853","lat":"51.44471","lon":"-0.09995","n":"West Dulwich","q":-12,"r":-13}
-	 },
+		"E05014119":{"LAD24CD":"E09000022","LAD24NM":"Lambeth","RGN24CD":"E12000007","RGN24NM":"London","colour":"#69C853","lat":"51.44471","lon":"-0.09995","n":"West Dulwich","q":-12,"r":-13 }
+	},
 	"layout":"odd-r"
 }
