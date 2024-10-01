@@ -79,11 +79,11 @@ sub createTickList {
 
 	foreach $id (keys(%{$hexjson->{'hexes'}})){
 		$lad = $hexjson->{'hexes'}{$id}{'LAD24CD'};
-		$lads->{$lad} = $hexjson->{'hexes'}{$id}{'LAD24NM'};
+		$lads->{$lad} = {'name'=>$hexjson->{'hexes'}{$id}{'LAD24NM'},'region'=>$hexjson->{'hexes'}{$id}{'RGN24CD'}};
 	}
 
 	foreach $lad (sort(keys(%{$lads}))){
-		print "- [ ] $lad - $lads->{$lad}\n";
+		print "- [ ] [$lad](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/$lads->{$lad}{'region'}.hexjson) - $lads->{$lad}{'name'}\n";
 	}
 }
 
