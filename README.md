@@ -261,7 +261,7 @@ This is a list of local authority districts and if their wards have been arrange
 - [ ] [E07000245](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000006.hexjson) - West Suffolk
 - [ ] [E08000001](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson) - Bolton
 - [ ] [E08000002](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson) - Bury
-- [ ] [E08000003](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson) - Manchester
+- [x] [E08000003](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson) - Manchester (@slowe)
 - [ ] [E08000004](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson) - Oldham
 - [ ] [E08000005](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson) - Rochdale
 - [ ] [E08000006](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson) - Salford
