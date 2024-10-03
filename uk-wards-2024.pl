@@ -59,7 +59,7 @@ sub simplify {
 	
 	foreach $id (keys(%{$hexjson->{'hexes'}})){
 		foreach $d (keys(%{$hexjson->{'hexes'}{$id}})){
-			if($d ne "q" && $d ne "r"){
+			if($d ne "q" && $d ne "r" && $d ne "name" && $d ne "n"){
 				delete $hexjson->{'hexes'}{$id}{$d};
 			}
 		}
@@ -67,7 +67,7 @@ sub simplify {
 	my $simple = makeJSON($hexjson);
 	$simple =~ s/\t//gs;
 	$simple =~ s/ \}/\}/gs;
-	open($fh,">","simple.hexjson");
+	open($fh,">","uk-wards-2024.hexjson");
 	print $fh $simple;
 	close($fh);
 }
