@@ -279,10 +279,10 @@ This is a list of local authority districts and if their wards have been arrange
 - [ ] [E08000013](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson&labels=true) - St. Helens
 - [ ] [E08000014](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson&labels=true) - Sefton
 - [ ] [E08000015](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson&labels=true) - Wirral
-- [ ] [E08000016](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - Barnsley
+- [x] [E08000016](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - Barnsley
 - [ ] [E08000017](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - Doncaster
 - [ ] [E08000018](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - Rotherham
-- [ ] [E08000019](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - Sheffield
+- [x] [E08000019](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - Sheffield
 - [ ] [E08000021](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000001.hexjson&labels=true) - Newcastle upon Tyne
 - [ ] [E08000022](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000001.hexjson&labels=true) - North Tyneside
 - [ ] [E08000023](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000001.hexjson&labels=true) - South Tyneside
