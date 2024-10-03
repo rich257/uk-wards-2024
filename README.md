@@ -47,9 +47,9 @@ This is a list of local authority districts and if their wards have been arrange
 - [ ] [E06000008](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson&labels=true) - Blackburn with Darwen
 - [ ] [E06000009](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson&labels=true) - Blackpool
 - [x] [E06000010](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - Kingston upon Hull, City of
-- [ ] [E06000011](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - East Riding of Yorkshire
-- [ ] [E06000012](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - North East Lincolnshire
-- [ ] [E06000013](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - North Lincolnshire
+- [x] [E06000011](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - East Riding of Yorkshire
+- [x] [E06000012](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - North East Lincolnshire
+- [x] [E06000013](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - North Lincolnshire
 - [x] [E06000014](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - York (@slowe)
 - [ ] [E06000015](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Derby
 - [ ] [E06000016](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Leicester
