@@ -344,5 +344,6 @@
 		"E05015883":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.05266","lon":"-1.61076","n":"Weetslade","q":-201,"r":888 },
 		"E05015884":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.04671","lon":"-1.45908","n":"Whitley Bay North","q":-182,"r":886 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

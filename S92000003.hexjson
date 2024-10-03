@@ -356,4 +356,6 @@
 		"S13003155":{"LAD24CD":"S12000027","LAD24NM":"Shetland Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F48DB2","lat":"60.00938","lon":"-1.28143","n":"Shetland South","q":-430,"r":1007 },
 		"S13003156":{"LAD24CD":"S12000027","LAD24NM":"Shetland Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F48DB2","lat":"60.27345","lon":"-1.49779","n":"Shetland West","q":-431,"r":1009}
 	},
-	"layout":"odd-r"}
+	"layout":"odd-r",
+	"version":"0.3"
+}

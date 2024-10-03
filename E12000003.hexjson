@@ -411,4 +411,6 @@
 		"E05015474":{"LAD24CD":"E06000011","LAD24NM":"East Riding of Yorkshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#6DF3E3","lat":"53.94487","lon":"-0.88428","n":"Pocklington Provincial","q":-45,"r":573 },
 		"E05015475":{"LAD24CD":"E06000011","LAD24NM":"East Riding of Yorkshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#6DF3E3","lat":"53.9399","lon":"-0.7456","n":"Wolds Weighton","q":-44,"r":573}
 	},
-	"layout":"odd-r"}
+	"layout":"odd-r",
+	"version":"0.4"
+}

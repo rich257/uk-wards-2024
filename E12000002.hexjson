@@ -826,4 +826,6 @@
 		"E05015825":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.72108","lon":"-2.24147","n":"Whitewell & Stacksteads","q":-285,"r":549 },
 		"E05015826":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.66759","lon":"-2.18139","n":"Whitworth","q":-284,"r":547}
 	},
-	"layout":"odd-r"}
+	"layout":"odd-r",
+	"version":"0.4"
+}
