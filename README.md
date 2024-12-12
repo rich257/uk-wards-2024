@@ -77,7 +77,7 @@ This is a list of local authority districts and if their wards have been arrange
 - [ ] [E06000040](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - Windsor and Maidenhead
 - [ ] [E06000041](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - Wokingham
 - [ ] [E06000042](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - Milton Keynes
-- [ ] [E06000043](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - Brighton and Hove
+- [x] [E06000043](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - Brighton and Hove
 - [ ] [E06000044](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - Portsmouth
 - [ ] [E06000045](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - Southampton
 - [ ] [E06000046](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - Isle of Wight
