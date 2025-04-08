@@ -199,7 +199,7 @@
 		this.select = function(){
 			var sel = out.querySelector('li.selected');
 			var id = sel.getAttribute('data-id');
-			opts.layer._layers[id].fireEvent('click');
+			//opts.layer._layers[id].fireEvent('click');
 			map.fitBounds(opts.layer._layers[id].getBounds(),{padding:[100,100]});
 			this.close();
 			return this;
