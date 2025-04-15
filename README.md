@@ -35,7 +35,7 @@ Local authority layouts:
 - [E06000011](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E06000011.hexjson&labels=true) - East Riding of Yorkshire
 - [E06000012](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E06000012.hexjson&labels=true) - North East Lincolnshire
 - [E06000013](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E06000013.hexjson&labels=true) - North Lincolnshire
-- [E06000014](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E06000014.hexjson&labels=true) - York (@slowe)
+- [E06000014](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E06000014.hexjson&labels=true) - York
 - [E06000015](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E06000015.hexjson&labels=true) - Derby
 - [E06000016](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E06000016.hexjson&labels=true) - Leicester
 - [E06000017](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E06000017.hexjson&labels=true) - Rutland
@@ -166,7 +166,7 @@ Local authority layouts:
 - [E07000122](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E07000122.hexjson&labels=true) - Pendle
 - [E07000123](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E07000123.hexjson&labels=true) - Preston
 - [E07000124](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E07000124.hexjson&labels=true) - Ribble Valley
-- [E07000125](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E07000125.hexjson&labels=true) - Rossendale (@slowe)
+- [E07000125](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E07000125.hexjson&labels=true) - Rossendale
 - [E07000126](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E07000126.hexjson&labels=true) - South Ribble
 - [E07000127](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E07000127.hexjson&labels=true) - West Lancashire
 - [E07000128](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E07000128.hexjson&labels=true) - Wyre
@@ -251,8 +251,8 @@ Local authority layouts:
 - [E07000245](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E07000245.hexjson&labels=true) - West Suffolk
 - [E08000001](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000001.hexjson&labels=true) - Bolton
 - [E08000002](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000002.hexjson&labels=true) - Bury
-- [E08000003](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000003.hexjson&labels=true) - Manchester (@slowe)
-- [E08000004](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000004.hexjson&labels=true) - Oldham (@slowe)
+- [E08000003](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000003.hexjson&labels=true) - Manchester
+- [E08000004](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000004.hexjson&labels=true) - Oldham
 - [E08000005](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000005.hexjson&labels=true) - Rochdale
 - [E08000006](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000006.hexjson&labels=true) - Salford
 - [E08000007](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000007.hexjson&labels=true) - Stockport
@@ -279,11 +279,11 @@ Local authority layouts:
 - [E08000029](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000029.hexjson&labels=true) - Solihull
 - [E08000030](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000030.hexjson&labels=true) - Walsall
 - [E08000031](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000031.hexjson&labels=true) - Wolverhampton
-- [E08000032](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000032.hexjson&labels=true) - Bradford (@slowe)
-- [E08000033](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000033.hexjson&labels=true) - Calderdale (@slowe)
-- [E08000034](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000034.hexjson&labels=true) - Kirklees (@slowe)
-- [E08000035](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000035.hexjson&labels=true) - Leeds (@slowe)
-- [E08000036](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000036.hexjson&labels=true) - Wakefield (@slowe)
+- [E08000032](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000032.hexjson&labels=true) - Bradford
+- [E08000033](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000033.hexjson&labels=true) - Calderdale
+- [E08000034](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000034.hexjson&labels=true) - Kirklees
+- [E08000035](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000035.hexjson&labels=true) - Leeds
+- [E08000036](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000036.hexjson&labels=true) - Wakefield
 - [E08000037](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E08000037.hexjson&labels=true) - Gateshead
 - [E09000001](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E09000001.hexjson&labels=true) - City of London
 - [E09000002](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E09000002.hexjson&labels=true) - Barking and Dagenham
