@@ -13,29 +13,14 @@ These are some things to keep in mind when helping to design the layout:
 
 ## Editing
 
-To help break up the task into more manageable pieces, the full ward map has been broken up by region or nation. This makes smaller files that are easier to work on and different people can edit different regions with less fear of clashes.
+To help break up the task into more manageable pieces, the full ward map has been broken up by local authority. This makes smaller files that are easier to work on and different people can edit different areas with less fear of clashes.
 
-* [E12000001 - North East](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000001.hexjson&labels=true)
-* [E12000002 - North West](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson&labels=true)
-* [E12000003 - Yorkshire and the Humber](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true)
-* [E12000004 - East Midlands](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true)
-* [E12000005 - West Midlands](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000005.hexjson&labels=true)
-* [E12000006 - East of England](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000006.hexjson&labels=true)
-* [E12000007 - London](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000007.hexjson&labels=true)
-* [E12000008 - South East](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true)
-* [E12000009 - South West](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000009.hexjson&labels=true)
-* [N92000002 - Northern Ireland](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/N92000002.hexjson&labels=true)
-* [S92000003 - Scotland](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/S92000003.hexjson&labels=true)
-* [W92000004 - Wales](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/W92000004.hexjson&labels=true)
-
-Please edit a region using the hex builder tool, save the output as HexJSON[^1], then over-write the appropriate file in this directory. 
-The [full map](https://open-innovations.org/projects/hexmaps/editor/?../maps/uk-wards-2024.hexjson) will be created by combining each of the regions into a final HexJSON file.
+Please edit a local authority (below) using the hex builder tool, save the output as HexJSON[^1], then over-write the appropriate file in this directory. 
+The [full map](https://open-innovations.org/projects/hexmaps/editor/?../maps/uk-wards-2024.hexjson) will be created by combining each of the local authorities into a final HexJSON file.
 
 The [Wards (May 2024) Boundaries UK SGC](https://geoportal.statistics.gov.uk/datasets/ons::wards-may-2024-boundaries-uk-bsc-2/explore) from the ONS is useful to see the geographic placement of wards. We have a [version of the ward map](wards.html) that may be useful. 
 
-## Local authority layouts
-
-This is a list of local authority districts' hex layouts:
+Local authority layouts:
 
 - [E06000001](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E06000001.hexjson&labels=true) - Hartlepool
 - [E06000002](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/LAD/E06000002.hexjson&labels=true) - Middlesbrough
