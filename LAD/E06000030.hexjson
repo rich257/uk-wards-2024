@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05008954":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.5604","lon":"-1.78926","n":"Central","q":-279,"r":379 },
+		"E05008955":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.51575","lon":"-1.74512","n":"Chiseldon and Lawn","q":-277,"r":378 },
+		"E05008956":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.5675","lon":"-1.73389","n":"Covingham and Dorcan","q":-276,"r":380 },
+		"E05008957":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.55642","lon":"-1.78362","n":"Eastcott","q":-278,"r":379 },
+		"E05008958":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.57822","lon":"-1.7751","n":"Gorse Hill and Pinehurst","q":-277,"r":380 },
+		"E05008960":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.55105","lon":"-1.74573","n":"Liden, Eldene and Park South","q":-276,"r":378 },
+		"E05008961":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.55251","lon":"-1.84479","n":"Lydiard and Freshbrook","q":-280,"r":379 },
+		"E05008962":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.56296","lon":"-1.80974","n":"Mannington and Western","q":-279,"r":380 },
+		"E05008963":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.54411","lon":"-1.78177","n":"Old Town","q":-278,"r":378 },
+		"E05008965":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.59144","lon":"-1.82234","n":"Priory Vale","q":-280,"r":381 },
+		"E05008966":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.53873","lon":"-1.66735","n":"Ridgeway","q":-276,"r":379 },
+		"E05008967":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.57568","lon":"-1.80275","n":"Rodbourne Cheney","q":-278,"r":380 },
+		"E05008968":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.61226","lon":"-1.82022","n":"St Andrews","q":-279,"r":382 },
+		"E05008969":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.58495","lon":"-1.72478","n":"St Margaret and South Marston","q":-277,"r":381 },
+		"E05008970":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.56979","lon":"-1.83323","n":"Shaw","q":-280,"r":380 },
+		"E05008971":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.55962","lon":"-1.75565","n":"Walcot and Park North","q":-277,"r":379 },
+		"E05008972":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.51989","lon":"-1.8055","n":"Wroughton and Wichelstowe","q":-279,"r":378 },
+		"E05010755":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.63861","lon":"-1.72599","n":"Blunsdon and Highworth","q":-278,"r":382 },
+		"E05010756":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.59122","lon":"-1.80223","n":"Haydon Wick","q":-279,"r":381 },
+		"E05010757":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.59161","lon":"-1.7713","n":"Penhill and Upper Stratton","q":-278,"r":381 }
+	},
+	"layout":"odd-r"
+}

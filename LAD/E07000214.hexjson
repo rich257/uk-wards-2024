@@ -1,0 +1,19 @@
+{
+	"hexes":{
+		"E05012026":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.36612","lon":"-0.70015","n":"Bagshot","q":-216,"r":333 },
+		"E05012027":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.33666","lon":"-0.66323","n":"Bisley & West End","q":-216,"r":331 },
+		"E05012028":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.31606","lon":"-0.73965","n":"Frimley","q":-218,"r":331 },
+		"E05012029":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.30562","lon":"-0.73044","n":"Frimley Green","q":-217,"r":330 },
+		"E05012030":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.33342","lon":"-0.70781","n":"Heatherside","q":-216,"r":332 },
+		"E05012031":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.34877","lon":"-0.67616","n":"Lightwater","q":-215,"r":332 },
+		"E05012032":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.30302","lon":"-0.7138","n":"Mytchett & Deepcut","q":-217,"r":331 },
+		"E05012033":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.35072","lon":"-0.7281","n":"Old Dean","q":-217,"r":334 },
+		"E05012034":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.32846","lon":"-0.72286","n":"Parkside","q":-217,"r":332 },
+		"E05012035":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.33273","lon":"-0.76067","n":"St Michaels","q":-219,"r":333 },
+		"E05012036":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.33987","lon":"-0.72153","n":"St Pauls","q":-217,"r":333 },
+		"E05012037":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.34046","lon":"-0.74491","n":"Town","q":-218,"r":333 },
+		"E05012038":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.32512","lon":"-0.7516","n":"Watchetts","q":-218,"r":332 },
+		"E05012039":{"LAD24CD":"E07000214","LAD24NM":"Surrey Heath","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#575924","lat":"51.36308","lon":"-0.62414","n":"Windlesham & Chobham","q":-215,"r":333 }
+	},
+	"layout":"odd-r"
+}

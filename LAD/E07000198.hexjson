@@ -1,0 +1,32 @@
+{
+	"hexes":{
+		"E05007039":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"52.98742","lon":"-1.90189","n":"Alton","q":-264,"r":456 },
+		"E05007040":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.05749","lon":"-2.10824","n":"Bagnall and Stanley","q":-267,"r":457 },
+		"E05007041":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.11326","lon":"-2.16898","n":"Biddulph East","q":-268,"r":459 },
+		"E05007042":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.11667","lon":"-2.14333","n":"Biddulph Moor","q":-267,"r":460 },
+		"E05007043":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.1348","lon":"-2.15948","n":"Biddulph North","q":-268,"r":460 },
+		"E05007044":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.10081","lon":"-2.15259","n":"Biddulph South","q":-267,"r":458 },
+		"E05007045":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.11399","lon":"-2.19057","n":"Biddulph West","q":-269,"r":459 },
+		"E05007046":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.08348","lon":"-2.13184","n":"Brown Edge and Endon","q":-266,"r":458 },
+		"E05007047":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"52.99995","lon":"-2.0656","n":"Caverswall","q":-267,"r":455 },
+		"E05007048":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.02786","lon":"-2.07927","n":"Cellarhead","q":-266,"r":456 },
+		"E05007049":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.00088","lon":"-1.96656","n":"Cheadle North East","q":-265,"r":456 },
+		"E05007050":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"52.97652","lon":"-1.9657","n":"Cheadle South East","q":-265,"r":455 },
+		"E05007051":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.0042","lon":"-2.01663","n":"Cheadle West","q":-266,"r":455 },
+		"E05007052":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"52.94905","lon":"-1.97696","n":"Checkley","q":-265,"r":454 },
+		"E05007053":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.05194","lon":"-2.0409","n":"Cheddleton","q":-266,"r":457 },
+		"E05007054":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.02287","lon":"-1.92651","n":"Churnet","q":-265,"r":457 },
+		"E05007055":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.16844","lon":"-2.00532","n":"Dane","q":-265,"r":461 },
+		"E05007056":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"52.96928","lon":"-2.05405","n":"Forsbrook","q":-266,"r":454 },
+		"E05007057":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.08015","lon":"-1.84379","n":"Hamps Valley","q":-263,"r":458 },
+		"E05007058":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.12049","lon":"-2.08928","n":"Horton","q":-267,"r":459 },
+		"E05007059":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.06232","lon":"-1.95926","n":"Ipstones","q":-264,"r":458 },
+		"E05007060":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.0972","lon":"-2.00915","n":"Leek East","q":-265,"r":459 },
+		"E05007061":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.11491","lon":"-2.02393","n":"Leek North","q":-265,"r":460 },
+		"E05007062":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.09084","lon":"-2.03918","n":"Leek South","q":-265,"r":458 },
+		"E05007063":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.10512","lon":"-2.04524","n":"Leek West","q":-266,"r":459 },
+		"E05007064":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.12263","lon":"-1.88899","n":"Manifold","q":-264,"r":459 },
+		"E05007065":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.02919","lon":"-2.11132","n":"Werrington","q":-267,"r":456 }
+	},
+	"layout":"odd-r"
+}

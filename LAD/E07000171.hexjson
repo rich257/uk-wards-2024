@@ -1,0 +1,30 @@
+{
+	"hexes":{
+		"E05006377":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.40937","lon":"-0.83562","n":"Beckingham","q":-224,"r":471 },
+		"E05006378":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.39426","lon":"-1.06544","n":"Blyth","q":-226,"r":471 },
+		"E05006380":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.36657","lon":"-0.9145","n":"Clayworth","q":-224,"r":470 },
+		"E05006381":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.2644","lon":"-0.92043","n":"East Markham","q":-225,"r":467 },
+		"E05006382":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.32153","lon":"-0.9119","n":"East Retford East","q":-224,"r":469 },
+		"E05006383":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.33264","lon":"-0.95431","n":"East Retford North","q":-225,"r":469 },
+		"E05006384":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.3055","lon":"-0.9499","n":"East Retford South","q":-224,"r":468 },
+		"E05006385":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.31942","lon":"-0.95367","n":"East Retford West","q":-225,"r":468 },
+		"E05006386":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.45368","lon":"-0.93809","n":"Everton","q":-225,"r":471 },
+		"E05006387":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.42038","lon":"-1.06004","n":"Harworth","q":-225,"r":472 },
+		"E05006388":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.36557","lon":"-1.08548","n":"Langold","q":-226,"r":470 },
+		"E05006389":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.44975","lon":"-0.85859","n":"Misterton","q":-224,"r":472 },
+		"E05006390":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.29673","lon":"-0.83573","n":"Rampton","q":-223,"r":468 },
+		"E05006391":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.38304","lon":"-1.01694","n":"Ranskill","q":-225,"r":470 },
+		"E05006392":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.35502","lon":"-0.82072","n":"Sturton","q":-223,"r":470 },
+		"E05006393":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.328","lon":"-0.99467","n":"Sutton","q":-226,"r":469 },
+		"E05006394":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.24598","lon":"-0.82447","n":"Tuxford and Trent","q":-224,"r":467 },
+		"E05006395":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.2563","lon":"-1.12306","n":"Welbeck","q":-227,"r":467 },
+		"E05006396":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.3178","lon":"-1.06977","n":"Worksop East","q":-227,"r":469 },
+		"E05006397":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.33294","lon":"-1.13925","n":"Worksop North","q":-228,"r":470 },
+		"E05006399":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.31797","lon":"-1.16199","n":"Worksop North West","q":-229,"r":469 },
+		"E05006400":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.28867","lon":"-1.14185","n":"Worksop South","q":-227,"r":468 },
+		"E05006401":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.29635","lon":"-1.07445","n":"Worksop South East","q":-226,"r":468 },
+		"E05015476":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.3495","lon":"-1.12191","n":"Carlton","q":-227,"r":470 },
+		"E05015477":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.32371","lon":"-1.11013","n":"Worksop North East","q":-228,"r":469 }
+	},
+	"layout":"odd-r"
+}

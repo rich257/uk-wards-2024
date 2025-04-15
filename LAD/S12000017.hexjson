@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"S13002990":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"58.24654","lon":"-4.58753","n":"North, West and Central Sutherland","q":-303,"r":645 },
+		"S13002991":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"58.5208","lon":"-3.50118","n":"Thurso and Northwest Caithness","q":-302,"r":645 },
+		"S13002992":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"58.3918","lon":"-3.40398","n":"Wick and East Caithness","q":-301,"r":644 },
+		"S13002993":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"58.09364","lon":"-4.00729","n":"East Sutherland and Edderton","q":-302,"r":644 },
+		"S13002994":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.58481","lon":"-5.09182","n":"Wester Ross, Strathpeffer and Lochalsh","q":-303,"r":644 },
+		"S13002995":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.72549","lon":"-4.38805","n":"Cromarty Firth","q":-303,"r":643 },
+		"S13002996":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.77676","lon":"-4.05485","n":"Tain and Easter Ross","q":-302,"r":643 },
+		"S13002997":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.60525","lon":"-4.44512","n":"Dingwall and Seaforth","q":-302,"r":642 },
+		"S13002998":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.59023","lon":"-4.25612","n":"Black Isle","q":-301,"r":642 },
+		"S13002999":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.4258","lon":"-6.22733","n":"Eilean á Chèo","q":-305,"r":643 },
+		"S13003000":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"56.97109","lon":"-5.20947","n":"Caol and Mallaig","q":-303,"r":640 },
+		"S13003001":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.2754","lon":"-4.70287","n":"Aird and Loch Ness","q":-303,"r":642 },
+		"S13003002":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.47189","lon":"-4.2599","n":"Inverness West","q":-303,"r":641 },
+		"S13003003":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.48146","lon":"-4.24671","n":"Inverness Central","q":-302,"r":641 },
+		"S13003004":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.4427","lon":"-4.2346","n":"Inverness Ness-side","q":-302,"r":640 },
+		"S13003005":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.47888","lon":"-4.19334","n":"Inverness Millburn","q":-301,"r":641 },
+		"S13003006":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.51506","lon":"-4.05903","n":"Culloden and Ardersier","q":-300,"r":641 },
+		"S13003007":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.4674","lon":"-3.8626","n":"Nairn and Cawdor","q":-299,"r":640 },
+		"S13003008":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.33799","lon":"-4.0999","n":"Inverness South","q":-301,"r":640 },
+		"S13003009":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.07207","lon":"-4.0048","n":"Badenoch and Strathspey","q":-300,"r":640 },
+		"S13003010":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"56.77799","lon":"-5.67669","n":"Fort William and Ardnamurchan","q":-304,"r":639 }
+	},
+	"layout":"odd-r"
+}

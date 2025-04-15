@@ -1,0 +1,21 @@
+{
+	"hexes":{
+		"E05015170":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.23246","lon":"-1.44318","n":"Brampton East & Boythorpe","q":-236,"r":464 },
+		"E05015171":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.23626","lon":"-1.46501","n":"Brampton West & Loundsley Green","q":-237,"r":464 },
+		"E05015172":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.2622","lon":"-1.40036","n":"Brimington North","q":-235,"r":466 },
+		"E05015173":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.24857","lon":"-1.39908","n":"Brimington South","q":-235,"r":465 },
+		"E05015174":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.24589","lon":"-1.44742","n":"Brockwell","q":-237,"r":465 },
+		"E05015175":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.26457","lon":"-1.45538","n":"Dunston","q":-237,"r":466 },
+		"E05015176":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.2222","lon":"-1.40857","n":"Hasland","q":-235,"r":463 },
+		"E05015177":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.24773","lon":"-1.46654","n":"Linacre","q":-238,"r":465 },
+		"E05015178":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.22386","lon":"-1.42922","n":"Rother","q":-236,"r":463 },
+		"E05015179":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.23716","lon":"-1.41567","n":"Spire","q":-235,"r":464 },
+		"E05015180":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.26111","lon":"-1.35555","n":"Staveley Central","q":-234,"r":465 },
+		"E05015181":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.27813","lon":"-1.35607","n":"Staveley North","q":-233,"r":466 },
+		"E05015182":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.25189","lon":"-1.36261","n":"Staveley South","q":-234,"r":466 },
+		"E05015183":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.22564","lon":"-1.4599","n":"Walton","q":-237,"r":463 },
+		"E05015184":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.27294","lon":"-1.42258","n":"Whittington","q":-236,"r":466 },
+		"E05015185":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.25321","lon":"-1.42975","n":"Whittington Moor","q":-236,"r":465 }
+	},
+	"layout":"odd-r"
+}

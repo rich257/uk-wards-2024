@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05010128":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.30281","lon":"-3.69455","n":"Allington & Strete","q":-326,"r":323 },
+		"E05010129":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.4456","lon":"-4.00855","n":"Bickleigh & Cornwood","q":-330,"r":325 },
+		"E05010130":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.35562","lon":"-3.69629","n":"Blackawton & Stoke Fleming","q":-326,"r":324 },
+		"E05010131":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.32427","lon":"-3.88386","n":"Charterlands","q":-328,"r":324 },
+		"E05010132":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.46608","lon":"-3.7217","n":"Dartington & Staverton","q":-327,"r":325 },
+		"E05010133":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.38083","lon":"-3.57261","n":"Dartmouth & East Dart","q":-325,"r":325 },
+		"E05010134":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.40292","lon":"-3.89043","n":"Ermington & Ugborough","q":-328,"r":325 },
+		"E05010135":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.38993","lon":"-3.90888","n":"Ivybridge East","q":-329,"r":325 },
+		"E05010136":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.39143","lon":"-3.93196","n":"Ivybridge West","q":-329,"r":324 },
+		"E05010137":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.28798","lon":"-3.77048","n":"Kingsbridge","q":-327,"r":323 },
+		"E05010138":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.32611","lon":"-3.80429","n":"Loddiswell & Aveton Gifford","q":-327,"r":324 },
+		"E05010139":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.448","lon":"-3.63635","n":"Marldon & Littlehempston","q":-325,"r":326 },
+		"E05010140":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.36996","lon":"-4.00197","n":"Newton & Yealmpton","q":-330,"r":324 },
+		"E05010141":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.25181","lon":"-3.82005","n":"Salcombe & Thurlestone","q":-328,"r":323 },
+		"E05010142":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.45311","lon":"-3.8154","n":"South Brent","q":-327,"r":326 },
+		"E05010143":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.23915","lon":"-3.70734","n":"Stokenham","q":-326,"r":322 },
+		"E05010144":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.42462","lon":"-3.69329","n":"Totnes","q":-326,"r":326 },
+		"E05010145":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.33387","lon":"-4.06628","n":"Wembury & Brixton","q":-331,"r":323 },
+		"E05010146":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.39816","lon":"-3.69506","n":"West Dart","q":-326,"r":325 },
+		"E05010147":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.43254","lon":"-4.10219","n":"Woolwell","q":-331,"r":325 }
+	},
+	"layout":"odd-r"
+}

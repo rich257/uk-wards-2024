@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"S13002946":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.09288","lon":"-3.45507","n":"Dunfermline North","q":-291,"r":612 },
+		"S13002947":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.0619","lon":"-3.48539","n":"Dunfermline Central","q":-292,"r":612 },
+		"S13002948":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.05751","lon":"-3.41425","n":"Dunfermline South","q":-292,"r":611 },
+		"S13002949":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.03553","lon":"-3.45035","n":"Rosyth","q":-292,"r":610 },
+		"S13002950":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.05011","lon":"-3.34497","n":"Inverkeithing and Dalgety Bay","q":-291,"r":610 },
+		"S13002953":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.09517","lon":"-3.23944","n":"Burntisland, Kinghorn and Western Kirkcaldy","q":-290,"r":610 },
+		"S13002954":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.13291","lon":"-3.19187","n":"Kirkcaldy North","q":-290,"r":611 },
+		"S13002955":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.11988","lon":"-3.17653","n":"Kirkcaldy Central","q":-289,"r":610 },
+		"S13002956":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.13322","lon":"-3.13813","n":"Kirkcaldy East","q":-289,"r":611 },
+		"S13002958":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.21362","lon":"-3.17791","n":"Glenrothes North, Leslie and Markinch","q":-289,"r":613 },
+		"S13002959":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.17112","lon":"-3.1455","n":"Glenrothes Central and Thornton","q":-289,"r":612 },
+		"S13002960":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.30091","lon":"-3.16896","n":"Howe of Fife and Tay Coast","q":-289,"r":615 },
+		"S13002961":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.40028","lon":"-2.93567","n":"Tay Bridgehead","q":-288,"r":616 },
+		"S13002962":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.3365","lon":"-2.85011","n":"St Andrews","q":-288,"r":615 },
+		"S13002963":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.25647","lon":"-2.78507","n":"East Neuk and Landward","q":-287,"r":614 },
+		"S13002964":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.30793","lon":"-2.9881","n":"Cupar","q":-288,"r":614 },
+		"S13002965":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.22184","lon":"-2.99253","n":"Leven, Kennoway and Largo","q":-288,"r":613 },
+		"S13002966":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.17386","lon":"-3.06272","n":"Buckhaven, Methil and Wemyss Villages","q":-288,"r":612 },
+		"S13003128":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.10346","lon":"-3.34521","n":"Cowdenbeath","q":-291,"r":611 },
+		"S13003129":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.18453","lon":"-3.23889","n":"Glenrothes West and Kinglassie","q":-290,"r":613 },
+		"S13003130":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.1433","lon":"-3.26376","n":"Lochgelly, Cardenden and Benarty","q":-290,"r":612 },
+		"S13003131":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.10195","lon":"-3.55527","n":"West Fife and Coastal Villages","q":-293,"r":611 }
+	},
+	"layout":"odd-r"
+}

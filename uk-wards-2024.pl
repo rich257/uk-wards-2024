@@ -1,18 +1,27 @@
-	#!/usr/bin/perl
-
+#!/usr/bin/perl
 use utf8;
 use JSON::XS;
 use Data::Dumper;
 
 # A JSON containing the property "final" which points to where the combined file is
-$config = getJSON("config.json");
+$config = LoadJSON("config.json");
 
 if($ARGV[0] eq "split"){
-	splitRegions();
+
+	splitAreas();
+
 }elsif($ARGV[0] eq "combine"){
-	combineRegions();
+
+	if($ARGV[1] eq "LAD"){
+		combineLAD();
+	}else{
+		combineRegions();
+	}
+
 }elsif($ARGV[0] eq "ticklist"){
-	createTickList();
+
+	#createTickList();
+
 }
 
 simplify();
@@ -22,14 +31,62 @@ simplify();
 
 #############################
 
-sub getJSON {
-	my (@files,$str,@lines);
+sub msg {
+	my $str = $_[0];
+	my $dest = $_[1]||"STDOUT";
+	
+	my %colours = (
+		'black'=>"\033[0;30m",
+		'red'=>"\033[0;31m",
+		'green'=>"\033[0;32m",
+		'yellow'=>"\033[0;33m",
+		'blue'=>"\033[0;34m",
+		'magenta'=>"\033[0;35m",
+		'cyan'=>"\033[0;36m",
+		'white'=>"\033[0;37m",
+		'none'=>"\033[0m"
+	);
+	foreach my $c (keys(%colours)){ $str =~ s/\< ?$c ?\>/$colours{$c}/g; }
+	if($dest eq "STDERR"){
+		print STDERR $str;
+	}else{
+		print STDOUT $str;
+	}
+}
+
+sub error {
+	my $str = $_[0];
+	$str =~ s/(^[\t\s]*)/$1<red>ERROR:<none> /;
+	msg($str,"STDERR");
+}
+
+sub warning {
+	my $str = $_[0];
+	$str =~ s/(^[\t\s]*)/$1<yellow>WARNING:<none> /;
+	msg($str,"STDERR");
+}
+
+sub ParseJSON {
+	my $str = shift;
+	my $json = {};
+	if(!$str){ $str = "{}"; }
+	eval {
+		$json = JSON::XS->new->decode($str);
+	};
+	if($@){ error("\tInvalid output.\n"); }
+	return $json;
+}
+
+sub LoadJSON {
+	my (@files,$str,@lines,$json);
 	my $file = $_[0];
-	open(FILE,$file);
+	open(FILE,"<:utf8",$file);
 	@lines = <FILE>;
 	close(FILE);
-	$str = join("",@lines);
-	return JSON::XS->new->decode($str);	
+	$str = (join("",@lines));
+	# Error check for JS variable e.g. South Tyneside https://maps.southtyneside.gov.uk/warm_spaces/assets/data/wsst_council_spaces.geojson.js
+	$str =~ s/[^\{]*var [^\{]+ = //g;
+	return ParseJSON($str);
 }
 
 sub makeJSON {
@@ -53,13 +110,13 @@ sub makeJSON {
 }
 
 sub simplify {
-	print "Simplifying the content of $config->{'final'}\n";
+	msg("Simplifying the content of <cyan>$config->{'final'}<none>\n");
 	my ($regions,$id,$region,$fh);
-	my $hexjson = getJSON($config->{'final'});
+	my $hexjson = LoadJSON($config->{'final'});
 	
 	foreach $id (keys(%{$hexjson->{'hexes'}})){
 		foreach $d (keys(%{$hexjson->{'hexes'}{$id}})){
-			if($d ne "q" && $d ne "r" && $d ne "name" && $d ne "n"){
+			if($d ne "q" && $d ne "r" && $d ne "name" && $d ne "n" && $d ne "colour" && $d ne "RGN24CD" && $d ne "LAD24CD"){
 				delete $hexjson->{'hexes'}{$id}{$d};
 			}
 		}
@@ -73,9 +130,9 @@ sub simplify {
 }
 
 sub createTickList {
-	print "Creating tick list from $config->{'final'}\n";
+	msg("Creating tick list from <cyan>$config->{'final'}<none>\n");
 	my ($lads,$id,$lad,$fh);
-	my $hexjson = getJSON($config->{'final'});
+	my $hexjson = LoadJSON($config->{'final'});
 
 	foreach $id (keys(%{$hexjson->{'hexes'}})){
 		$lad = $hexjson->{'hexes'}{$id}{'LAD24CD'};
@@ -83,41 +140,55 @@ sub createTickList {
 	}
 
 	foreach $lad (sort(keys(%{$lads}))){
-		print "- [ ] [$lad](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/$lads->{$lad}{'region'}.hexjson) - $lads->{$lad}{'name'}\n";
+		msg("- [ ] [$lad](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/$lads->{$lad}{'region'}.hexjson) - $lads->{$lad}{'name'}\n");
 	}
 }
 
-sub splitRegions {
-	print "Splitting regions in $config->{'final'}\n";
-	my ($regions,$id,$region,$fh);
-	my $hexjson = getJSON($config->{'final'});
+sub splitAreas {
+	msg("Splitting regions in <cyan>$config->{'final'}<none>\n");
+	my ($regions,$id,$region,$fh,$lads,$lad);
+	my $hexjson = LoadJSON($config->{'final'});
 	
 	foreach $id (keys(%{$hexjson->{'hexes'}})){
-#		print "$id\n";
 		$region = $hexjson->{'hexes'}{$id}{'RGN24CD'};
+		$lad = $hexjson->{'hexes'}{$id}{'LAD24CD'};
 		if(!$regions->{$region}){
 			$regions->{$region} = {'layout'=>$hexjson->{'layout'},'hexes'=>{}};
 		}
 		$regions->{$region}{'hexes'}{$id} = $hexjson->{'hexes'}{$id};
+		if(!$lads->{$lad}){
+			$lads->{$lad} = {'layout'=>$hexjson->{'layout'},'hexes'=>{}};
+		}
+		$lads->{$lad}{'hexes'}{$id} = $hexjson->{'hexes'}{$id};
 	}
 	
+	# Make regions
 	foreach $region (sort(keys(%{$regions}))){
-		print $region."\n";
+		msg("\t<yellow>$region<none>\n");
 		open($fh,">",$region.".hexjson");
 		print $fh makeJSON($regions->{$region});
+		close($fh);
+	}
+	
+	# Make LADs
+	foreach $lad (sort(keys(%{$lads}))){
+		msg("\t<yellow>$lad<none>\n");
+		open($fh,">","LAD/".$lad.".hexjson");
+		print $fh makeJSON($lads->{$lad});
 		close($fh);
 	}
 }
 
 sub combineRegions {
 	my ($tmp,$dh,$filename,$json,$hex,$fh);
+	msg("Combining regions:\n");
 	$json = {'layout'=>'odd-r','hexes'=>{}};
 	opendir($dh,"./");
 	while(($filename = readdir($dh))){
 		if($filename =~ /[ENSW][0-9]{8}.hexjson$/){
-			if($filename =~ /(E12000001|E12000002|E12000003|E12000004|E12000005|E12000006|E12000007|E12000009|N92000002|S92000003|W92000004)/){
-				print "Read from $filename\n";
-				$tmp = getJSON($filename);
+			if($filename =~ /(E12000001|E12000002|E12000003|E12000004|E12000005|E12000006|E12000007|E12000008|E12000009|N92000002|S92000003|W92000004)/){
+				msg("\t<cyan>$filename<none>\n");
+				$tmp = LoadJSON($filename);
 				foreach $hex (keys(%{$tmp->{'hexes'}})){
 					$json->{'hexes'}{$hex} = $tmp->{'hexes'}{$hex};
 				}

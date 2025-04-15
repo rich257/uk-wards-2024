@@ -1,0 +1,31 @@
+{
+	"hexes":{
+		"E05014770":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.76995","lon":"-1.66172","n":"Ashley, Bashley & Fernhill","q":-240,"r":308 },
+		"E05014771":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.92883","lon":"-1.60825","n":"Ashurst, Bramshaw, Copythorne & Netley Marsh","q":-239,"r":310 },
+		"E05014772":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.76011","lon":"-1.66808","n":"Ballard","q":-241,"r":307 },
+		"E05014773":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.73979","lon":"-1.65616","n":"Barton & Becton","q":-240,"r":305 },
+		"E05014774":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.80522","lon":"-1.72258","n":"Bransgore, Burley, Sopley & Ringwood East","q":-241,"r":308 },
+		"E05014775":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.84338","lon":"-1.48489","n":"Brockenhurst & Denny Lodge","q":-239,"r":309 },
+		"E05014776":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.8724","lon":"-1.42748","n":"Dibden & Dibden Purlieu","q":-238,"r":310 },
+		"E05014777":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.96329","lon":"-1.81405","n":"Downlands & Forest North","q":-241,"r":310 },
+		"E05014778":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.81491","lon":"-1.35192","n":"Fawley, Blackfield, Calshot & Langley","q":-237,"r":308 },
+		"E05014779":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.92552","lon":"-1.75237","n":"Fordingbridge, Godshill & Hyde","q":-240,"r":310 },
+		"E05014780":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.79707","lon":"-1.48204","n":"Forest & Solent","q":-238,"r":308 },
+		"E05014781":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.83239","lon":"-1.38683","n":"Hardley, Holbury & North Blackfield","q":-238,"r":309 },
+		"E05014782":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.86607","lon":"-1.40329","n":"Hythe Central","q":-238,"r":311 },
+		"E05014783":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.85575","lon":"-1.39786","n":"Hythe South","q":-237,"r":310 },
+		"E05014784":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.76064","lon":"-1.54865","n":"Lymington","q":-239,"r":307 },
+		"E05014785":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.8817","lon":"-1.62357","n":"Lyndhurst & Minstead","q":-240,"r":309 },
+		"E05014786":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.89077","lon":"-1.44756","n":"Marchwood & Eling","q":-239,"r":311 },
+		"E05014787":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.74294","lon":"-1.59631","n":"Milford & Hordle","q":-240,"r":307 },
+		"E05014788":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.75072","lon":"-1.66253","n":"Milton","q":-240,"r":306 },
+		"E05014789":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.74677","lon":"-1.56053","n":"Pennington","q":-239,"r":306 },
+		"E05014790":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.87797","lon":"-1.76513","n":"Ringwood North & Ellingham","q":-241,"r":309 },
+		"E05014791":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.82301","lon":"-1.78608","n":"Ringwood South","q":-242,"r":307 },
+		"E05014792":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.78","lon":"-1.60259","n":"Sway","q":-239,"r":308 },
+		"E05014793":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.92458","lon":"-1.49327","n":"Totton Central","q":-238,"r":312 },
+		"E05014794":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.92689","lon":"-1.51484","n":"Totton North","q":-240,"r":313 },
+		"E05014795":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.9102","lon":"-1.49789","n":"Totton South","q":-239,"r":312 }
+	},
+	"layout":"odd-r"
+}

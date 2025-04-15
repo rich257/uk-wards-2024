@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"W05001627":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.58867","lon":"-3.01782","n":"Allt-yr-yn","q":-308,"r":398 },
+		"W05001628":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.58916","lon":"-2.95308","n":"Alway","q":-305,"r":398 },
+		"W05001629":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.5951","lon":"-2.96993","n":"Beechwood","q":-306,"r":399 },
+		"W05001630":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.60817","lon":"-3.02826","n":"Bettws","q":-309,"r":399 },
+		"W05001631":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.61094","lon":"-2.86447","n":"Bishton and Langstone","q":-304,"r":399 },
+		"W05001632":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.61609","lon":"-2.96817","n":"Caerleon","q":-306,"r":400 },
+		"W05001633":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.57318","lon":"-3.02079","n":"Gaer","q":-308,"r":397 },
+		"W05001634":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.57865","lon":"-3.0747","n":"Graig","q":-309,"r":396 },
+		"W05001635":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.57546","lon":"-2.95744","n":"Lliswerry","q":-306,"r":397 },
+		"W05001636":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.56715","lon":"-2.88947","n":"Llanwern","q":-305,"r":397 },
+		"W05001637":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.61302","lon":"-3.00579","n":"Malpas","q":-308,"r":400 },
+		"W05001638":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.56613","lon":"-2.98874","n":"Pillgwenlly","q":-307,"r":397 },
+		"W05001639":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.59124","lon":"-2.93698","n":"Ringland","q":-304,"r":398 },
+		"W05001640":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.58405","lon":"-3.04159","n":"Rogerstone East","q":-309,"r":397 },
+		"W05001641":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.60254","lon":"-3.04873","n":"Rogerstone North","q":-309,"r":398 },
+		"W05001642":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.59229","lon":"-3.06346","n":"Rogerstone West","q":-310,"r":397 },
+		"W05001643":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.60356","lon":"-3.00116","n":"Shaftesbury","q":-308,"r":399 },
+		"W05001644":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.59971","lon":"-2.98092","n":"St Julians","q":-307,"r":399 },
+		"W05001645":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.58485","lon":"-2.99717","n":"Stow Hill","q":-307,"r":398 },
+		"W05001646":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.53632","lon":"-3.04405","n":"Tredegar Park and Marshfield","q":-308,"r":396 },
+		"W05001647":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.58855","lon":"-2.98332","n":"Victoria","q":-306,"r":398 }
+	},
+	"layout":"odd-r"
+}

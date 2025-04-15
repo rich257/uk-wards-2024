@@ -1,0 +1,17 @@
+{
+	"hexes":{
+		"E05013038":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.67917","lon":"-1.21731","n":"Burn Valley","q":-251,"r":538 },
+		"E05013039":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.71081","lon":"-1.23321","n":"De Bruce","q":-251,"r":540 },
+		"E05013040":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.64628","lon":"-1.24628","n":"Fens & Greatham","q":-253,"r":537 },
+		"E05013041":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.67135","lon":"-1.22282","n":"Foggy Furze","q":-252,"r":538 },
+		"E05013042":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.70872","lon":"-1.27053","n":"Hart","q":-252,"r":541 },
+		"E05013043":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.69726","lon":"-1.20597","n":"Headland & Harbour","q":-251,"r":539 },
+		"E05013044":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.6717","lon":"-1.2401","n":"Manor House","q":-253,"r":538 },
+		"E05013045":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.66308","lon":"-1.22011","n":"Rossmere","q":-252,"r":537 },
+		"E05013046":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.66812","lon":"-1.30894","n":"Rural West","q":-253,"r":539 },
+		"E05013047":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.65335","lon":"-1.19167","n":"Seaton","q":-251,"r":537 },
+		"E05013048":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.69608","lon":"-1.24322","n":"Throston","q":-252,"r":540 },
+		"E05013049":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.68822","lon":"-1.22328","n":"Victoria","q":-252,"r":539 }
+	},
+	"layout":"odd-r"
+}

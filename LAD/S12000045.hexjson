@@ -1,0 +1,12 @@
+{
+	"hexes":{
+		"S13002901":{"LAD24CD":"S12000045","LAD24NM":"East Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0FDB06","lat":"55.95532","lon":"-4.34226","n":"Milngavie","q":-299,"r":606 },
+		"S13002902":{"LAD24CD":"S12000045","LAD24NM":"East Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0FDB06","lat":"55.92977","lon":"-4.3459","n":"Bearsden North","q":-300,"r":605 },
+		"S13002903":{"LAD24CD":"S12000045","LAD24NM":"East Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0FDB06","lat":"55.91601","lon":"-4.32475","n":"Bearsden South","q":-299,"r":605 },
+		"S13002904":{"LAD24CD":"S12000045","LAD24NM":"East Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0FDB06","lat":"55.96407","lon":"-4.20779","n":"Bishopbriggs North and Campsie","q":-298,"r":606 },
+		"S13002905":{"LAD24CD":"S12000045","LAD24NM":"East Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0FDB06","lat":"55.90637","lon":"-4.20248","n":"Bishopbriggs South","q":-298,"r":605 },
+		"S13002906":{"LAD24CD":"S12000045","LAD24NM":"East Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0FDB06","lat":"55.9255","lon":"-4.1378","n":"Lenzie and Kirkintilloch South","q":-297,"r":605 },
+		"S13002907":{"LAD24CD":"S12000045","LAD24NM":"East Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0FDB06","lat":"55.94482","lon":"-4.11511","n":"Kirkintilloch East and North and Twechar","q":-297,"r":606 }
+	},
+	"layout":"odd-r"
+}

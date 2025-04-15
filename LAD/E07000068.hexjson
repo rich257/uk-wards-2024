@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"E05015651":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.67197","lon":"0.309294","n":"Blackmore & Doddinghurst","q":-175,"r":401 },
+		"E05015652":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.62692","lon":"0.299318","n":"Brentwood North","q":-176,"r":399 },
+		"E05015653":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.61605","lon":"0.308881","n":"Brentwood South","q":-175,"r":398 },
+		"E05015654":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.61568","lon":"0.287656","n":"Brentwood West","q":-176,"r":398 },
+		"E05015655":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.65084","lon":"0.221524","n":"Brizes, Stondon Massey & South Weald","q":-176,"r":400 },
+		"E05015656":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.59042","lon":"0.332155","n":"Herongate, Ingrave & West Horndon","q":-175,"r":397 },
+		"E05015657":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.62667","lon":"0.364775","n":"Hutton East","q":-173,"r":398 },
+		"E05015658":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.63616","lon":"0.344616","n":"Hutton North","q":-174,"r":399 },
+		"E05015659":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.62082","lon":"0.329292","n":"Hutton South","q":-174,"r":398 },
+		"E05015660":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.66564","lon":"0.367266","n":"Ingatestone, Fryerning & Mountnessing","q":-174,"r":400 },
+		"E05015661":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.64221","lon":"0.291044","n":"Pilgrims Hatch","q":-175,"r":400 },
+		"E05015662":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.63871","lon":"0.326248","n":"Shenfield","q":-175,"r":399 },
+		"E05015663":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.60215","lon":"0.291482","n":"Warley","q":-176,"r":397 }
+	},
+	"layout":"odd-r"
+}

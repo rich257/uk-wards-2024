@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05012156":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.82304","lon":"-2.60788","n":"Berry Hill","q":-298,"r":390 },
+		"E05012157":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.77231","lon":"-2.56399","n":"Bream","q":-297,"r":388 },
+		"E05012158":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.82216","lon":"-2.49796","n":"Cinderford East","q":-296,"r":390 },
+		"E05012159":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.82579","lon":"-2.53091","n":"Cinderford West","q":-297,"r":390 },
+		"E05012160":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.79386","lon":"-2.61829","n":"Coleford","q":-298,"r":389 },
+		"E05012161":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.95807","lon":"-2.43309","n":"Dymock","q":-296,"r":393 },
+		"E05012162":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.95509","lon":"-2.343","n":"Hartpury & Redmarley","q":-295,"r":391 },
+		"E05012163":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.87884","lon":"-2.36254","n":"Longhope & Huntley","q":-296,"r":391 },
+		"E05012164":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.84118","lon":"-2.57824","n":"Lydbrook","q":-298,"r":391 },
+		"E05012165":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.72424","lon":"-2.50637","n":"Lydney East","q":-296,"r":387 },
+		"E05012166":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.74306","lon":"-2.51495","n":"Lydney North","q":-296,"r":388 },
+		"E05012167":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.72319","lon":"-2.55721","n":"Lydney West & Aylburton","q":-297,"r":387 },
+		"E05012168":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.85868","lon":"-2.52675","n":"Mitcheldean, Ruardean & Drybrook","q":-297,"r":391 },
+		"E05012169":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.91814","lon":"-2.39482","n":"Newent & Taynton","q":-295,"r":392 },
+		"E05012170":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.77124","lon":"-2.63373","n":"Newland & Sling","q":-298,"r":388 },
+		"E05012171":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.7915","lon":"-2.45803","n":"Newnham","q":-295,"r":388 },
+		"E05012172":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.75909","lon":"-2.52584","n":"Pillowell","q":-297,"r":389 },
+		"E05012173":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.79324","lon":"-2.51775","n":"Ruspidge","q":-296,"r":389 },
+		"E05012174":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.72528","lon":"-2.63053","n":"St. Briavels","q":-298,"r":387 },
+		"E05012175":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.68352","lon":"-2.62593","n":"Tidenham","q":-297,"r":386 },
+		"E05012176":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.82888","lon":"-2.40332","n":"Westbury-on-Severn","q":-295,"r":390 }
+	},
+	"layout":"odd-r"
+}

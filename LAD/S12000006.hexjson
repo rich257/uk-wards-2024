@@ -1,0 +1,17 @@
+{
+	"hexes":{
+		"S13002880":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"54.84414","lon":"-5.02389","n":"Stranraer and the Rhins","q":-304,"r":583 },
+		"S13002881":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"54.9186","lon":"-4.69573","n":"Mid Galloway and Wigtown West","q":-303,"r":583 },
+		"S13002882":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"55.03612","lon":"-4.11951","n":"Dee and Glenkens","q":-302,"r":583 },
+		"S13002883":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"54.99408","lon":"-3.86875","n":"Castle Douglas and Crocketford","q":-301,"r":583 },
+		"S13002884":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"54.96283","lon":"-3.64423","n":"Abbey","q":-300,"r":582 },
+		"S13002885":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"55.07758","lon":"-3.63241","n":"North West Dumfries","q":-300,"r":583 },
+		"S13002886":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"55.27915","lon":"-3.84541","n":"Mid and Upper Nithsdale","q":-300,"r":584 },
+		"S13002887":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"55.15089","lon":"-3.60309","n":"Lochar","q":-299,"r":584 },
+		"S13002888":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"54.99284","lon":"-3.52626","n":"Nith","q":-299,"r":582 },
+		"S13002889":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"55.02156","lon":"-3.35519","n":"Annandale South","q":-298,"r":582 },
+		"S13002890":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"55.23908","lon":"-3.37448","n":"Annandale North","q":-299,"r":583 },
+		"S13002891":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"55.15478","lon":"-3.08925","n":"Annandale East and Eskdale","q":-298,"r":583 }
+	},
+	"layout":"odd-r"
+}

@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05009733":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.59866","lon":"-1.09522","n":"Benson & Crowmarsh","q":-230,"r":345 },
+		"E05009734":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.66445","lon":"-1.1498","n":"Berinsfield","q":-230,"r":346 },
+		"E05009735":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.66673","lon":"-1.08381","n":"Chalgrove","q":-229,"r":346 },
+		"E05009736":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.70616","lon":"-0.92897","n":"Chinnor","q":-228,"r":347 },
+		"E05009740":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.61166","lon":"-1.25857","n":"Didcot West","q":-232,"r":346 },
+		"E05009742":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.71809","lon":"-1.15363","n":"Garsington & Horspath","q":-230,"r":347 },
+		"E05009743":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.5388","lon":"-1.12024","n":"Goring","q":-230,"r":344 },
+		"E05009749":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.73816","lon":"-0.97453","n":"Thame","q":-228,"r":348 },
+		"E05009751":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.62913","lon":"-0.99554","n":"Watlington","q":-229,"r":345 },
+		"E05011701":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.55919","lon":"-1.20275","n":"Cholsey","q":-231,"r":344 },
+		"E05011702":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.61932","lon":"-1.23464","n":"Didcot North East","q":-231,"r":346 },
+		"E05011703":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.60281","lon":"-1.24926","n":"Didcot South","q":-232,"r":345 },
+		"E05011704":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.76978","lon":"-1.14181","n":"Forest Hill & Holton","q":-230,"r":349 },
+		"E05011705":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.70461","lon":"-1.08036","n":"Haseley Brook","q":-229,"r":347 },
+		"E05011707":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.49888","lon":"-1.03535","n":"Kidmore End & Whitchurch","q":-230,"r":343 },
+		"E05011708":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.66214","lon":"-1.22345","n":"Sandford & the Wittenhams","q":-231,"r":347 },
+		"E05011710":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.59992","lon":"-1.13072","n":"Wallingford","q":-231,"r":345 },
+		"E05011711":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.74207","lon":"-1.13434","n":"Wheatley","q":-229,"r":348 },
+		"E05012854":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.49501","lon":"-0.93654","n":"Sonning Common","q":-229,"r":343 },
+		"E05015558":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.53434","lon":"-0.90954","n":"Henley-on-Thames","q":-228,"r":344 },
+		"E05015559":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.55754","lon":"-1.00132","n":"Woodcote & Rotherfield","q":-229,"r":344 }
+	},
+	"layout":"odd-r"
+}

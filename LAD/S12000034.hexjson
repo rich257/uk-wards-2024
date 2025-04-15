@@ -1,0 +1,24 @@
+{
+	"hexes":{
+		"S13002848":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.60324","lon":"-2.64438","n":"Banff and District","q":-288,"r":636 },
+		"S13002849":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.63121","lon":"-2.30322","n":"Troup","q":-287,"r":636 },
+		"S13002850":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.6432","lon":"-1.99486","n":"Fraserburgh and District","q":-286,"r":636 },
+		"S13002851":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.52327","lon":"-2.07186","n":"Central Buchan","q":-287,"r":635 },
+		"S13002852":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.5838","lon":"-1.8766","n":"Peterhead North and Rattray","q":-286,"r":635 },
+		"S13002853":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.43943","lon":"-1.87282","n":"Peterhead South and Cruden","q":-285,"r":634 },
+		"S13002854":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.47957","lon":"-2.41934","n":"Turriff and District","q":-288,"r":635 },
+		"S13002855":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.31271","lon":"-2.24773","n":"Mid Formartine","q":-287,"r":634 },
+		"S13002856":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.36437","lon":"-2.03154","n":"Ellon and District","q":-286,"r":634 },
+		"S13002857":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.31277","lon":"-2.55723","n":"West Garioch","q":-288,"r":634 },
+		"S13002858":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.2744","lon":"-2.36319","n":"Inverurie and District","q":-288,"r":633 },
+		"S13002859":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.23835","lon":"-2.27614","n":"East Garioch","q":-287,"r":633 },
+		"S13002860":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.15783","lon":"-2.42652","n":"Westhill and District","q":-289,"r":633 },
+		"S13002861":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.3395","lon":"-2.74191","n":"Huntly, Strathbogie and Howe of Alford","q":-289,"r":635 },
+		"S13002862":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.07965","lon":"-3.18007","n":"Aboyne, Upper Deeside and Donside","q":-290,"r":633 },
+		"S13002863":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.00715","lon":"-2.63992","n":"Banchory and Mid Deeside","q":-289,"r":632 },
+		"S13002864":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.05326","lon":"-2.19302","n":"North Kincardine","q":-288,"r":631 },
+		"S13002865":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"57.02835","lon":"-2.32122","n":"Stonehaven and Lower Deeside","q":-289,"r":631 },
+		"S13002866":{"LAD24CD":"S12000034","LAD24NM":"Aberdeenshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F26F5B","lat":"56.86619","lon":"-2.44752","n":"Mearns","q":-290,"r":631 }
+	},
+	"layout":"odd-r"
+}

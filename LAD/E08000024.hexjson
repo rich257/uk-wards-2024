@@ -1,0 +1,30 @@
+{
+	"hexes":{
+		"E05001153":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.89458","lon":"-1.4148","n":"Barnes","q":-258,"r":552 },
+		"E05001154":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.91857","lon":"-1.44347","n":"Castle","q":-260,"r":554 },
+		"E05001155":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.84874","lon":"-1.45421","n":"Copt Hill","q":-259,"r":550 },
+		"E05001156":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.86058","lon":"-1.40817","n":"Doxford","q":-258,"r":550 },
+		"E05001157":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.9308","lon":"-1.38409","n":"Fulwell","q":-257,"r":554 },
+		"E05001158":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.89941","lon":"-1.36733","n":"Hendon","q":-256,"r":552 },
+		"E05001159":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.81855","lon":"-1.45451","n":"Hetton","q":-260,"r":550 },
+		"E05001160":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.84812","lon":"-1.48881","n":"Houghton","q":-260,"r":551 },
+		"E05001161":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.9062","lon":"-1.39774","n":"Millfield","q":-258,"r":553 },
+		"E05001162":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.90617","lon":"-1.42379","n":"Pallion","q":-259,"r":553 },
+		"E05001163":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.92894","lon":"-1.43197","n":"Redhill","q":-259,"r":554 },
+		"E05001164":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.87151","lon":"-1.36983","n":"Ryhope","q":-257,"r":551 },
+		"E05001165":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.90108","lon":"-1.44329","n":"St Anne's","q":-260,"r":553 },
+		"E05001166":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.87436","lon":"-1.43417","n":"St Chad's","q":-259,"r":551 },
+		"E05001167":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.89432","lon":"-1.38554","n":"St Michael's","q":-257,"r":552 },
+		"E05001168":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.92497","lon":"-1.36819","n":"St Peter's","q":-257,"r":553 },
+		"E05001169":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.88488","lon":"-1.43951","n":"Sandhill","q":-259,"r":552 },
+		"E05001170":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.88038","lon":"-1.48044","n":"Shiney Row","q":-260,"r":552 },
+		"E05001171":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.879","lon":"-1.4005","n":"Silksworth","q":-258,"r":551 },
+		"E05001172":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.92592","lon":"-1.40542","n":"Southwick","q":-258,"r":554 },
+		"E05001173":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.89763","lon":"-1.52383","n":"Washington Central","q":-262,"r":553 },
+		"E05001174":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.89612","lon":"-1.50169","n":"Washington East","q":-261,"r":553 },
+		"E05001175":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.91926","lon":"-1.49566","n":"Washington North","q":-261,"r":554 },
+		"E05001176":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.88781","lon":"-1.54586","n":"Washington South","q":-261,"r":552 },
+		"E05001177":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.91605","lon":"-1.54615","n":"Washington West","q":-262,"r":554 }
+	},
+	"layout":"odd-r"
+}

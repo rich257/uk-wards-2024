@@ -1,0 +1,17 @@
+{
+	"hexes":{
+		"E05015581":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.8517","lon":"-1.00366","n":"Bedhampton","q":-220,"r":308 },
+		"E05015582":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.89554","lon":"-1.0141","n":"Cowplain","q":-221,"r":310 },
+		"E05015583":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.86411","lon":"-0.94515","n":"Emsworth","q":-218,"r":308 },
+		"E05015584":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.89856","lon":"-1.03346","n":"Hart Plain","q":-222,"r":311 },
+		"E05015585":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.85008","lon":"-0.9696","n":"Havant St Faith's","q":-219,"r":308 },
+		"E05015586":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.79809","lon":"-0.95893","n":"Hayling East","q":-218,"r":306 },
+		"E05015587":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.79765","lon":"-0.98856","n":"Hayling West","q":-219,"r":306 },
+		"E05015588":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.86819","lon":"-0.97582","n":"Leigh Park Central & West Leigh","q":-220,"r":309 },
+		"E05015589":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.87818","lon":"-0.99397","n":"Leigh Park Hermitage","q":-221,"r":309 },
+		"E05015590":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.86131","lon":"-1.03305","n":"Purbrook","q":-221,"r":308 },
+		"E05015591":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.87157","lon":"-1.0315","n":"Stakes","q":-222,"r":309 },
+		"E05015592":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.88389","lon":"-1.02856","n":"Waterloo","q":-222,"r":310 }
+	},
+	"layout":"odd-r"
+}

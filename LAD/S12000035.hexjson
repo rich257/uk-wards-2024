@@ -1,0 +1,16 @@
+{
+	"hexes":{
+		"S13002516":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"55.43071","lon":"-5.64834","n":"South Kintyre","q":-312,"r":609 },
+		"S13002517":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"55.75947","lon":"-6.17154","n":"Kintyre and the Islands","q":-311,"r":610 },
+		"S13002518":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"56.10348","lon":"-5.39327","n":"Mid Argyll","q":-311,"r":611 },
+		"S13002519":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"56.47085","lon":"-5.87131","n":"Oban South and the Isles","q":-311,"r":612 },
+		"S13002520":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"56.39643","lon":"-5.15265","n":"Oban North and Lorn","q":-310,"r":612 },
+		"S13002521":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"56.08303","lon":"-5.06425","n":"Cowal","q":-310,"r":611 },
+		"S13002522":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"55.90663","lon":"-5.00475","n":"Dunoon","q":-309,"r":610 },
+		"S13002523":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"55.83564","lon":"-5.11116","n":"Isle of Bute","q":-310,"r":610 },
+		"S13002524":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"56.11514","lon":"-4.73788","n":"Lomond North","q":-309,"r":611 },
+		"S13002525":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"56.01026","lon":"-4.74125","n":"Helensburgh Central","q":-308,"r":610 },
+		"S13002526":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"56.00155","lon":"-4.67029","n":"Helensburgh and Lomond South","q":-308,"r":609 }
+	},
+	"layout":"odd-r"
+}

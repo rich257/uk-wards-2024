@@ -1,0 +1,23 @@
+{
+	"hexes":{
+		"E05013792":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.53316","lon":"-0.1788","n":"Abbey Road","q":-194,"r":366 },
+		"E05013793":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.51483","lon":"-0.19108","n":"Bayswater","q":-194,"r":364 },
+		"E05013794":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.52341","lon":"-0.17046","n":"Church Street","q":-194,"r":365 },
+		"E05013795":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.52707","lon":"-0.19849","n":"Harrow Road","q":-196,"r":365 },
+		"E05013796":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.51313","lon":"-0.16838","n":"Hyde Park","q":-193,"r":364 },
+		"E05013797":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.49598","lon":"-0.15058","n":"Knightsbridge & Belgravia","q":-193,"r":363 },
+		"E05013798":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.50945","lon":"-0.1801","n":"Lancaster Gate","q":-194,"r":363 },
+		"E05013799":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.52427","lon":"-0.1826","n":"Little Venice","q":-195,"r":365 },
+		"E05013800":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.53012","lon":"-0.18926","n":"Maida Vale","q":-195,"r":366 },
+		"E05013801":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.51886","lon":"-0.15529","n":"Marylebone","q":-193,"r":365 },
+		"E05013802":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.49222","lon":"-0.14239","n":"Pimlico North","q":-192,"r":362 },
+		"E05013803":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.48751","lon":"-0.13875","n":"Pimlico South","q":-192,"r":361 },
+		"E05013804":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.52927","lon":"-0.20876","n":"Queen's Park","q":-196,"r":366 },
+		"E05013805":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.52939","lon":"-0.16074","n":"Regent's Park","q":-193,"r":366 },
+		"E05013806":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.5036","lon":"-0.13152","n":"St James's","q":-192,"r":363 },
+		"E05013807":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.49285","lon":"-0.13168","n":"Vincent Square","q":-191,"r":362 },
+		"E05013808":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.51382","lon":"-0.1454","n":"West End","q":-192,"r":364 },
+		"E05013809":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.5207","lon":"-0.19062","n":"Westbourne","q":-195,"r":364 }
+	},
+	"layout":"odd-r"
+}

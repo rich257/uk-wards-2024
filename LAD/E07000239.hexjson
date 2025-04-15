@@ -1,0 +1,17 @@
+{
+	"hexes":{
+		"E05010502":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.37356","lon":"-2.23511","n":"Aggborough & Spennells","q":-274,"r":425 },
+		"E05010503":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.33561","lon":"-2.29089","n":"Areley Kings & Riverside","q":-275,"r":423 },
+		"E05010504":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.35304","lon":"-2.36695","n":"Bewdley & Rock","q":-276,"r":425 },
+		"E05010505":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.38486","lon":"-2.26183","n":"Blakebrook & Habberley South","q":-274,"r":426 },
+		"E05010506":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.39661","lon":"-2.23726","n":"Broadwaters","q":-274,"r":427 },
+		"E05010507":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.36999","lon":"-2.26141","n":"Foley Park & Hoobrook","q":-275,"r":425 },
+		"E05010508":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.39608","lon":"-2.26629","n":"Franche & Habberley North","q":-275,"r":427 },
+		"E05010509":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.35429","lon":"-2.29311","n":"Lickhill","q":-275,"r":424 },
+		"E05010510":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.34698","lon":"-2.2711","n":"Mitton","q":-274,"r":424 },
+		"E05010511":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.38882","lon":"-2.22893","n":"Offmore & Comberton","q":-273,"r":426 },
+		"E05010512":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.40785","lon":"-2.31745","n":"Wribbenhall & Arley","q":-275,"r":426 },
+		"E05010513":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.39142","lon":"-2.20843","n":"Wyre Forest Rural","q":-273,"r":427 }
+	},
+	"layout":"odd-r"
+}

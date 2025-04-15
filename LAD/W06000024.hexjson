@@ -1,0 +1,16 @@
+{
+	"hexes":{
+		"W05001616":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.70792","lon":"-3.30214","n":"Bedlinog and Trelewis","q":-318,"r":405 },
+		"W05001617":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.74902","lon":"-3.41497","n":"Cyfarthfa","q":-320,"r":406 },
+		"W05001618":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.77115","lon":"-3.35727","n":"Dowlais and Pant","q":-318,"r":408 },
+		"W05001619":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.76171","lon":"-3.38434","n":"Gurnos","q":-320,"r":407 },
+		"W05001620":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.68697","lon":"-3.33991","n":"Merthyr Vale","q":-318,"r":404 },
+		"W05001621":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.75424","lon":"-3.38634","n":"Park","q":-319,"r":406 },
+		"W05001622":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.76017","lon":"-3.36937","n":"Penydarren","q":-319,"r":407 },
+		"W05001623":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.72158","lon":"-3.36167","n":"Plymouth","q":-319,"r":405 },
+		"W05001624":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.74263","lon":"-3.36509","n":"Town","q":-318,"r":406 },
+		"W05001625":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.66631","lon":"-3.31863","n":"Treharris","q":-317,"r":404 },
+		"W05001626":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.79519","lon":"-3.39818","n":"Vaynor","q":-319,"r":408 }
+	},
+	"layout":"odd-r"
+}

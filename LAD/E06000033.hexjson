@@ -1,0 +1,22 @@
+{
+	"hexes":{
+		"E05002212":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.55645","lon":"0.646845","n":"Belfairs","q":-163,"r":393 },
+		"E05002213":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.55505","lon":"0.668779","n":"Blenheim Park","q":-162,"r":393 },
+		"E05002214":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.5412","lon":"0.679637","n":"Chalkwell","q":-161,"r":392 },
+		"E05002215":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.56974","lon":"0.650547","n":"Eastwood Park","q":-163,"r":394 },
+		"E05002216":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.53766","lon":"0.726199","n":"Kursaal","q":-159,"r":392 },
+		"E05002217":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.5434","lon":"0.658188","n":"Leigh","q":-162,"r":392 },
+		"E05002218":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.53784","lon":"0.704015","n":"Milton","q":-160,"r":392 },
+		"E05002219":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.55359","lon":"0.69309","n":"Prittlewell","q":-161,"r":394 },
+		"E05002220":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.56442","lon":"0.683975","n":"St Laurence","q":-162,"r":394 },
+		"E05002221":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.55421","lon":"0.72299","n":"St. Luke's","q":-159,"r":393 },
+		"E05002222":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.53402","lon":"0.796009","n":"Shoeburyness","q":-157,"r":393 },
+		"E05002223":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.54839","lon":"0.753758","n":"Southchurch","q":-158,"r":393 },
+		"E05002224":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.53253","lon":"0.749513","n":"Thorpe","q":-158,"r":392 },
+		"E05002225":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.54531","lon":"0.710155","n":"Victoria","q":-160,"r":393 },
+		"E05002226":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.54764","lon":"0.687416","n":"Westborough","q":-161,"r":393 },
+		"E05002227":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.54767","lon":"0.636598","n":"West Leigh","q":-163,"r":392 },
+		"E05002228":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.53376","lon":"0.776842","n":"West Shoebury","q":-157,"r":392 }
+	},
+	"layout":"odd-r"
+}

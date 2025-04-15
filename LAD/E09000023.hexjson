@@ -1,0 +1,24 @@
+{
+	"hexes":{
+		"E05013714":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.43034","lon":"-0.02367","n":"Bellingham","q":-178,"r":352 },
+		"E05013715":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.46527","lon":"0.001086","n":"Blackheath","q":-176,"r":355 },
+		"E05013716":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.46772","lon":"-0.02888","n":"Brockley","q":-178,"r":355 },
+		"E05013717":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.43397","lon":"-0.01228","n":"Catford South","q":-177,"r":352 },
+		"E05013718":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.45078","lon":"-0.03846","n":"Crofton Park","q":-178,"r":354 },
+		"E05013719":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.47815","lon":"-0.03085","n":"Deptford","q":-177,"r":356 },
+		"E05013720":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.4251","lon":"0.000209","n":"Downham","q":-176,"r":352 },
+		"E05013721":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.48739","lon":"-0.03592","n":"Evelyn","q":-178,"r":357 },
+		"E05013722":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.44015","lon":"-0.05932","n":"Forest Hill","q":-180,"r":353 },
+		"E05013723":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.43486","lon":"0.022288","n":"Grove Park","q":-176,"r":353 },
+		"E05013724":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.44042","lon":"0.00164","n":"Hither Green","q":-177,"r":353 },
+		"E05013725":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.45884","lon":"-0.02245","n":"Ladywell","q":-177,"r":354 },
+		"E05013726":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.45203","lon":"0.006682","n":"Lee Green","q":-176,"r":354 },
+		"E05013727":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.46271","lon":"-0.01196","n":"Lewisham Central","q":-177,"r":355 },
+		"E05013728":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.48317","lon":"-0.04692","n":"New Cross Gate","q":-178,"r":356 },
+		"E05013729":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.43545","lon":"-0.04025","n":"Perry Vale","q":-179,"r":353 },
+		"E05013730":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.44426","lon":"-0.02131","n":"Rushey Green","q":-178,"r":353 },
+		"E05013731":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.42817","lon":"-0.05707","n":"Sydenham","q":-179,"r":352 },
+		"E05013732":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.46864","lon":"-0.0452","n":"Telegraph Hill","q":-179,"r":355 }
+	},
+	"layout":"odd-r"
+}

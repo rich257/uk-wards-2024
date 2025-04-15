@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"E05014796":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.83408","lon":"-3.43283","n":"Bradninch","q":-318,"r":348 },
+		"E05014797":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.83367","lon":"-3.53684","n":"Cadbury","q":-320,"r":349 },
+		"E05014798":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.96463","lon":"-3.37666","n":"Canonsleigh","q":-318,"r":351 },
+		"E05014799":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.97317","lon":"-3.53972","n":"Clare & Shuttern","q":-319,"r":352 },
+		"E05014800":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.78796","lon":"-3.65305","n":"Crediton Boniface","q":-321,"r":347 },
+		"E05014801":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.7921","lon":"-3.66407","n":"Crediton Lawrence","q":-322,"r":347 },
+		"E05014802":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.85632","lon":"-3.42433","n":"Cullompton Padbrook","q":-319,"r":349 },
+		"E05014803":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.86386","lon":"-3.39748","n":"Cullompton St Andrews","q":-318,"r":349 },
+		"E05014804":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.83366","lon":"-3.3835","n":"Cullompton Vale","q":-317,"r":349 },
+		"E05014805":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.89547","lon":"-3.41799","n":"Halberton","q":-318,"r":350 },
+		"E05014806":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.88318","lon":"-3.33447","n":"Lower Culm","q":-317,"r":350 },
+		"E05014807":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.8439","lon":"-3.67326","n":"Sandford & Creedy","q":-321,"r":348 },
+		"E05014808":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.81657","lon":"-3.46763","n":"Silverton","q":-319,"r":348 },
+		"E05014809":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.87466","lon":"-3.81418","n":"Taw Vale","q":-322,"r":349 },
+		"E05014810":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.90616","lon":"-3.48733","n":"Tiverton Castle","q":-320,"r":351 },
+		"E05014811":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.8957","lon":"-3.46792","n":"Tiverton Cranmore","q":-319,"r":350 },
+		"E05014812":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.92934","lon":"-3.45519","n":"Tiverton Lowman","q":-319,"r":351 },
+		"E05014813":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.89949","lon":"-3.52948","n":"Tiverton Westexe","q":-320,"r":350 },
+		"E05014814":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.91188","lon":"-3.24731","n":"Upper Culm","q":-317,"r":351 },
+		"E05014815":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.79878","lon":"-3.81107","n":"Upper Yeo & Taw","q":-322,"r":348 },
+		"E05014816":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.86951","lon":"-3.61525","n":"Way","q":-321,"r":349 },
+		"E05014817":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.75558","lon":"-3.74723","n":"Yeo","q":-323,"r":347 }
+	},
+	"layout":"odd-r"
+}

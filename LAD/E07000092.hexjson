@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"E05008989":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.23706","lon":"-0.74715","n":"Aldershot Park","q":-221,"r":323 },
+		"E05008990":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.31033","lon":"-0.75736","n":"Cherrywood","q":-222,"r":328 },
+		"E05008991":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.28919","lon":"-0.78274","n":"Cove and Southwood","q":-222,"r":326 },
+		"E05008992":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.29434","lon":"-0.75526","n":"Empress","q":-222,"r":327 },
+		"E05008993":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.3112","lon":"-0.7792","n":"Fernhill","q":-223,"r":328 },
+		"E05008994":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.28942","lon":"-0.74458","n":"Knellwood","q":-221,"r":326 },
+		"E05008995":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.24048","lon":"-0.75866","n":"Manor Park","q":-222,"r":323 },
+		"E05008996":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.24829","lon":"-0.74093","n":"North Town","q":-221,"r":324 },
+		"E05008997":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.24335","lon":"-0.77509","n":"Rowhill","q":-223,"r":323 },
+		"E05008998":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.2989","lon":"-0.78748","n":"St John's","q":-223,"r":326 },
+		"E05008999":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.27316","lon":"-0.76762","n":"St Mark's","q":-222,"r":325 },
+		"E05009000":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.25533","lon":"-0.77305","n":"Wellington","q":-222,"r":324 },
+		"E05009001":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.30074","lon":"-0.77148","n":"West Heath","q":-223,"r":327 }
+	},
+	"layout":"odd-r"
+}

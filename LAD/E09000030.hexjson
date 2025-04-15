@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05009317":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.52725","lon":"-0.04653","n":"Bethnal Green East","q":-181,"r":367 },
+		"E05009318":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.50257","lon":"-0.01167","n":"Blackwall & Cubitt Town","q":-178,"r":364 },
+		"E05009319":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.53622","lon":"-0.0271","n":"Bow East","q":-179,"r":368 },
+		"E05009320":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.5311","lon":"-0.03694","n":"Bow West","q":-180,"r":367 },
+		"E05009321":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.52648","lon":"-0.01759","n":"Bromley North","q":-179,"r":367 },
+		"E05009322":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.52101","lon":"-0.01901","n":"Bromley South","q":-178,"r":366 },
+		"E05009323":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.50099","lon":"-0.02056","n":"Canary Wharf","q":-179,"r":364 },
+		"E05009324":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.48989","lon":"-0.01424","n":"Island Gardens","q":-179,"r":363 },
+		"E05009325":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.51652","lon":"-0.01035","n":"Lansbury","q":-179,"r":365 },
+		"E05009326":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.50995","lon":"-0.03379","n":"Limehouse","q":-180,"r":365 },
+		"E05009327":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.51812","lon":"-0.0285","n":"Mile End","q":-179,"r":366 },
+		"E05009328":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.51099","lon":"-0.00637","n":"Poplar","q":-178,"r":365 },
+		"E05009329":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.51942","lon":"-0.04184","n":"St Dunstan's","q":-180,"r":366 },
+		"E05009330":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.50691","lon":"-0.06395","n":"St Katharine's & Wapping","q":-181,"r":364 },
+		"E05009331":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.52804","lon":"-0.05783","n":"Bethnal Green West","q":-182,"r":367 },
+		"E05009332":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.51191","lon":"-0.05025","n":"Shadwell","q":-181,"r":365 },
+		"E05009333":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.5191","lon":"-0.06989","n":"Spitalfields & Banglatown","q":-182,"r":366 },
+		"E05009334":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.51705","lon":"-0.04889","n":"Stepney Green","q":-181,"r":366 },
+		"E05009335":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.52694","lon":"-0.07055","n":"Weavers","q":-183,"r":367 },
+		"E05009336":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.51363","lon":"-0.06485","n":"Whitechapel","q":-182,"r":365 }
+	},
+	"layout":"odd-r"
+}

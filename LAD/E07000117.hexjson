@@ -1,0 +1,20 @@
+{
+	"hexes":{
+		"E05005150":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.79458","lon":"-2.23092","n":"Bank Hall","q":-272,"r":516 },
+		"E05005151":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.80877","lon":"-2.16693","n":"Briercliffe","q":-271,"r":517 },
+		"E05005152":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.78593","lon":"-2.21695","n":"Brunshaw","q":-271,"r":516 },
+		"E05005153":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.76487","lon":"-2.18362","n":"Cliviger with Worsthorne","q":-271,"r":515 },
+		"E05005154":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.76637","lon":"-2.26045","n":"Coal Clough with Deerplay","q":-273,"r":514 },
+		"E05005155":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.80063","lon":"-2.24915","n":"Daneshouse with Stoneyholme","q":-273,"r":517 },
+		"E05005156":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.79382","lon":"-2.27411","n":"Gannow","q":-273,"r":516 },
+		"E05005157":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.80225","lon":"-2.30745","n":"Gawthorpe","q":-274,"r":516 },
+		"E05005158":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.77094","lon":"-2.30525","n":"Hapton with Park","q":-274,"r":514 },
+		"E05005159":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.80294","lon":"-2.22518","n":"Lanehead","q":-272,"r":517 },
+		"E05005160":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.80797","lon":"-2.23699","n":"Queensgate","q":-272,"r":518 },
+		"E05005161":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.78598","lon":"-2.27965","n":"Rosegrove with Lowerhouse","q":-274,"r":515 },
+		"E05005162":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.77809","lon":"-2.23277","n":"Rosehill with Burnley Wood","q":-272,"r":515 },
+		"E05005163":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.78864","lon":"-2.25358","n":"Trinity","q":-273,"r":515 },
+		"E05005164":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.80556","lon":"-2.28263","n":"Whittlefield with Ightenhill","q":-274,"r":517 }
+	},
+	"layout":"odd-r"
+}

@@ -1,0 +1,11 @@
+{
+	"hexes":{
+		"S13002908":{"LAD24CD":"S12000010","LAD24NM":"East Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C4B390","lat":"55.93278","lon":"-3.0618","n":"Musselburgh","q":-282,"r":599 },
+		"S13002909":{"LAD24CD":"S12000010","LAD24NM":"East Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C4B390","lat":"55.96703","lon":"-2.90379","n":"Preston, Seton and Gosford","q":-281,"r":599 },
+		"S13002910":{"LAD24CD":"S12000010","LAD24NM":"East Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C4B390","lat":"55.93407","lon":"-2.95068","n":"Tranent, Wallyford and Macmerry","q":-281,"r":598 },
+		"S13002911":{"LAD24CD":"S12000010","LAD24NM":"East Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C4B390","lat":"56.02002","lon":"-2.73871","n":"North Berwick Coastal","q":-280,"r":600 },
+		"S13002912":{"LAD24CD":"S12000010","LAD24NM":"East Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C4B390","lat":"55.91269","lon":"-2.79637","n":"Haddington and Lammermuir","q":-280,"r":598 },
+		"S13002913":{"LAD24CD":"S12000010","LAD24NM":"East Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C4B390","lat":"55.95922","lon":"-2.54792","n":"Dunbar and East Linton","q":-280,"r":599 }
+	},
+	"layout":"odd-r"
+}

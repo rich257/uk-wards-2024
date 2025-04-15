@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"E05012901":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.63578","lon":"1.222061","n":"Bowthorpe","q":-168,"r":442 },
+		"E05012902":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.67766","lon":"1.294174","n":"Catton Grove","q":-166,"r":443 },
+		"E05012903":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.63999","lon":"1.324724","n":"Crome","q":-164,"r":442 },
+		"E05012904":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.60991","lon":"1.261676","n":"Eaton","q":-167,"r":440 },
+		"E05012905":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.61389","lon":"1.299385","n":"Lakenham","q":-165,"r":440 },
+		"E05012906":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.62763","lon":"1.292187","n":"Mancroft","q":-166,"r":441 },
+		"E05012907":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.64897","lon":"1.276666","n":"Mile Cross","q":-166,"r":442 },
+		"E05012908":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.62781","lon":"1.27195","n":"Nelson","q":-167,"r":441 },
+		"E05012909":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.64346","lon":"1.301522","n":"Sewell","q":-165,"r":442 },
+		"E05012910":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.62707","lon":"1.314773","n":"Thorpe Hamlet","q":-165,"r":441 },
+		"E05012911":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.62061","lon":"1.288024","n":"Town Close","q":-166,"r":440 },
+		"E05012912":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.62609","lon":"1.248396","n":"University","q":-168,"r":441 },
+		"E05012913":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.642","lon":"1.258402","n":"Wensum","q":-167,"r":442 }
+	},
+	"layout":"odd-r"
+}

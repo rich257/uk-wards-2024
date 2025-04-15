@@ -1,0 +1,31 @@
+{
+	"hexes":{
+		"E05012589":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.26917","lon":"1.008127","n":"Bacton","q":-168,"r":425 },
+		"E05012590":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.12628","lon":"0.999891","n":"Battisford & Ringshall","q":-168,"r":421 },
+		"E05012591":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.09642","lon":"1.045139","n":"Blakenham","q":-167,"r":421 },
+		"E05012592":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.08107","lon":"1.078383","n":"Bramford","q":-166,"r":421 },
+		"E05012593":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.1947","lon":"0.982723","n":"Chilton","q":-168,"r":424 },
+		"E05012594":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.12449","lon":"1.134769","n":"Claydon & Barham","q":-166,"r":422 },
+		"E05012595":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.17824","lon":"1.002248","n":"Combs Ford","q":-168,"r":422 },
+		"E05012596":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.24028","lon":"1.196283","n":"Debenham","q":-165,"r":424 },
+		"E05012597":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.22715","lon":"0.91223","n":"Elmswell & Woolpit","q":-169,"r":424 },
+		"E05012598":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.3097","lon":"1.156355","n":"Eye","q":-165,"r":425 },
+		"E05012599":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.36254","lon":"1.320005","n":"Fressingfield","q":-164,"r":425 },
+		"E05012600":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.32912","lon":"1.05058","n":"Gislingham","q":-167,"r":425 },
+		"E05012601":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.22074","lon":"0.992859","n":"Haughley, Stowupland & Wetherden","q":-167,"r":424 },
+		"E05012602":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.3069","lon":"1.227185","n":"Hoxne & Worlingworth","q":-164,"r":424 },
+		"E05012603":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.25251","lon":"1.11296","n":"Mendlesham","q":-166,"r":424 },
+		"E05012604":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.16155","lon":"1.053667","n":"Needham Market","q":-167,"r":422 },
+		"E05012605":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.17536","lon":"0.963319","n":"Onehouse","q":-170,"r":423 },
+		"E05012606":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.3528","lon":"1.135809","n":"Palgrave","q":-166,"r":425 },
+		"E05012607":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.19042","lon":"0.886986","n":"Rattlesden","q":-170,"r":424 },
+		"E05012608":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.33829","lon":"0.99514","n":"Rickinghall","q":-167,"r":426 },
+		"E05012609":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.18835","lon":"0.994179","n":"St Peter's","q":-169,"r":423 },
+		"E05012610":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.19152","lon":"1.152012","n":"Stonham","q":-167,"r":423 },
+		"E05012611":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.18473","lon":"1.016849","n":"Stow Thorney","q":-168,"r":423 },
+		"E05012612":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.29257","lon":"1.321706","n":"Stradbroke & Laxfield","q":-163,"r":424 },
+		"E05012613":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.26088","lon":"0.859054","n":"Thurston","q":-170,"r":425 },
+		"E05012614":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.29636","lon":"0.939784","n":"Walsham-le-Willows","q":-169,"r":425 }
+	},
+	"layout":"odd-r"
+}

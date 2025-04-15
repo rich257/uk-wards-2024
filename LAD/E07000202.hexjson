@@ -1,0 +1,21 @@
+{
+	"hexes":{
+		"E05007117":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.05684","lon":"1.165613","n":"Alexandra","q":-162,"r":420 },
+		"E05007118":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.06228","lon":"1.196202","n":"Bixley","q":-160,"r":420 },
+		"E05007119":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.04173","lon":"1.148661","n":"Bridge","q":-163,"r":419 },
+		"E05007120":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.07389","lon":"1.139774","n":"Castle Hill","q":-163,"r":422 },
+		"E05007121":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.03322","lon":"1.173771","n":"Gainsborough","q":-161,"r":418 },
+		"E05007122":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.05339","lon":"1.130282","n":"Gipping","q":-163,"r":420 },
+		"E05007123":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.04689","lon":"1.170773","n":"Holywells","q":-162,"r":419 },
+		"E05007124":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.03102","lon":"1.201101","n":"Priory Heath","q":-161,"r":419 },
+		"E05007125":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.07158","lon":"1.185381","n":"Rushmere","q":-161,"r":421 },
+		"E05007126":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.05487","lon":"1.185942","n":"St John's","q":-161,"r":420 },
+		"E05007127":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.06956","lon":"1.157114","n":"St Margaret's","q":-162,"r":421 },
+		"E05007128":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.04413","lon":"1.117645","n":"Sprites","q":-164,"r":420 },
+		"E05007129":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.03784","lon":"1.13233","n":"Stoke Park","q":-164,"r":419 },
+		"E05007130":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.06461","lon":"1.133563","n":"Westgate","q":-163,"r":421 },
+		"E05007131":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.07226","lon":"1.120554","n":"Whitehouse","q":-164,"r":421 },
+		"E05007132":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.08596","lon":"1.13906","n":"Whitton","q":-162,"r":422 }
+	},
+	"layout":"odd-r"
+}

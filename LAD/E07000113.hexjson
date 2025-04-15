@@ -1,0 +1,29 @@
+{
+	"hexes":{
+		"E05009544":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.31754","lon":"0.902479","n":"Abbey","q":-163,"r":331 },
+		"E05009545":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.37737","lon":"0.717825","n":"Bobbing, Iwade and Lower Halstow","q":-166,"r":335 },
+		"E05009546":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.3338","lon":"0.692305","n":"Borden and Grove Park","q":-167,"r":333 },
+		"E05009547":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.2996","lon":"0.943457","n":"Boughton and Courtenay","q":-162,"r":330 },
+		"E05009548":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.34332","lon":"0.731837","n":"Chalkwell","q":-166,"r":333 },
+		"E05009549":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.26478","lon":"0.828819","n":"East Downs","q":-164,"r":331 },
+		"E05009550":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.36613","lon":"0.647979","n":"Hartlip, Newington and Upchurch","q":-167,"r":335 },
+		"E05009551":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.33748","lon":"0.728346","n":"Homewood","q":-166,"r":332 },
+		"E05009552":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.36451","lon":"0.746704","n":"Kemsley","q":-165,"r":335 },
+		"E05009553":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.35267","lon":"0.739977","n":"Milton Regis","q":-165,"r":334 },
+		"E05009554":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.42873","lon":"0.79432","n":"Minster Cliffs","q":-163,"r":336 },
+		"E05009555":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.34839","lon":"0.759829","n":"Murston","q":-165,"r":333 },
+		"E05009556":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.32648","lon":"0.89189","n":"Priory","q":-163,"r":332 },
+		"E05009557":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.40733","lon":"0.754663","n":"Queenborough and Halfway","q":-164,"r":336 },
+		"E05009558":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.33339","lon":"0.749495","n":"Roman","q":-165,"r":332 },
+		"E05009559":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.31762","lon":"0.876406","n":"St Ann's","q":-164,"r":332 },
+		"E05009560":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.43247","lon":"0.754117","n":"Sheerness","q":-164,"r":337 },
+		"E05009561":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.39531","lon":"0.802377","n":"Sheppey Central","q":-164,"r":335 },
+		"E05009562":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.38926","lon":"0.881185","n":"Sheppey East","q":-163,"r":335 },
+		"E05009563":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.32336","lon":"0.818112","n":"Teynham and Lynsted","q":-164,"r":333 },
+		"E05009564":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.35169","lon":"0.719723","n":"The Meads","q":-166,"r":334 },
+		"E05009565":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.30647","lon":"0.892138","n":"Watling","q":-163,"r":330 },
+		"E05009566":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.31023","lon":"0.717358","n":"West Downs","q":-165,"r":331 },
+		"E05009567":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.32824","lon":"0.730697","n":"Woodstock","q":-166,"r":331 }
+	},
+	"layout":"odd-r"
+}

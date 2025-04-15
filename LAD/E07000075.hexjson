@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"E05010844":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.61035","lon":"0.583953","n":"Downhall and Rawreth","q":-161,"r":397 },
+		"E05010845":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.5891","lon":"0.879495","n":"Foulness and The Wakerings","q":-156,"r":396 },
+		"E05010846":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.60327","lon":"0.69158","n":"Hawkwell East","q":-158,"r":397 },
+		"E05010847":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.59494","lon":"0.670713","n":"Hawkwell West","q":-158,"r":396 },
+		"E05010848":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.60562","lon":"0.643435","n":"Hockley","q":-159,"r":397 },
+		"E05010849":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.6167","lon":"0.677263","n":"Hockley and Ashingdon","q":-158,"r":398 },
+		"E05010850":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.62401","lon":"0.635069","n":"Hullbridge","q":-160,"r":397 },
+		"E05010851":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.57934","lon":"0.633783","n":"Lodge","q":-159,"r":395 },
+		"E05010852":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.60741","lon":"0.758745","n":"Roche North and Rural","q":-157,"r":397 },
+		"E05010853":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.57347","lon":"0.755953","n":"Roche South","q":-157,"r":396 },
+		"E05010854":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.5927","lon":"0.592957","n":"Sweyne Park and Grange","q":-160,"r":396 },
+		"E05010855":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.59004","lon":"0.625464","n":"Trinity","q":-159,"r":396 },
+		"E05010856":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.58474","lon":"0.593615","n":"Wheatley","q":-160,"r":395 }
+	},
+	"layout":"odd-r"
+}

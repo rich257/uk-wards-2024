@@ -1,0 +1,30 @@
+{
+	"hexes":{
+		"E05012412":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.08057","lon":"-4.05833","n":"Barnstaple Central","q":-331,"r":356 },
+		"E05012413":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.09169","lon":"-4.06225","n":"Barnstaple with Pilton","q":-331,"r":357 },
+		"E05012414":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.07588","lon":"-4.0303","n":"Barnstaple with Westacott","q":-330,"r":356 },
+		"E05012415":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.06807","lon":"-4.0961","n":"Bickington","q":-333,"r":355 },
+		"E05012416":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.00169","lon":"-3.74626","n":"Bishop's Nympton","q":-328,"r":354 },
+		"E05012417":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.14001","lon":"-3.91197","n":"Bratton Fleming","q":-330,"r":357 },
+		"E05012418":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.12765","lon":"-4.13898","n":"Braunton East","q":-331,"r":358 },
+		"E05012419":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.11213","lon":"-4.20254","n":"Braunton West & Georgeham","q":-333,"r":357 },
+		"E05012420":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"50.9975","lon":"-3.92577","n":"Chittlehampton","q":-329,"r":354 },
+		"E05012421":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"50.93885","lon":"-3.88519","n":"Chulmleigh","q":-329,"r":353 },
+		"E05012422":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.20226","lon":"-4.00589","n":"Combe Martin","q":-329,"r":358 },
+		"E05012423":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.06238","lon":"-4.13434","n":"Fremington","q":-333,"r":354 },
+		"E05012424":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.099","lon":"-4.12495","n":"Heanton Punchardon","q":-332,"r":357 },
+		"E05012425":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.1966","lon":"-4.0947","n":"Ilfracombe East","q":-331,"r":359 },
+		"E05012426":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.19064","lon":"-4.13315","n":"Ilfracombe West","q":-332,"r":359 },
+		"E05012427":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.03597","lon":"-4.12061","n":"Instow","q":-332,"r":354 },
+		"E05012428":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.05107","lon":"-3.99506","n":"Landkey","q":-330,"r":355 },
+		"E05012429":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.20726","lon":"-3.84908","n":"Lynton & Lynmouth","q":-328,"r":358 },
+		"E05012430":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.15341","lon":"-4.04986","n":"Marwood","q":-330,"r":358 },
+		"E05012431":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.17007","lon":"-4.15354","n":"Mortehoe","q":-332,"r":358 },
+		"E05012432":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.06988","lon":"-4.04498","n":"Newport","q":-331,"r":355 },
+		"E05012433":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.07493","lon":"-3.80957","n":"North Molton","q":-329,"r":356 },
+		"E05012434":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.07077","lon":"-4.07054","n":"Roundswell","q":-332,"r":355 },
+		"E05012435":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.01802","lon":"-3.85526","n":"South Molton","q":-329,"r":355 },
+		"E05012436":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"50.92898","lon":"-3.69538","n":"Witheridge","q":-328,"r":353 }
+	},
+	"layout":"odd-r"
+}

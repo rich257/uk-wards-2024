@@ -1,0 +1,20 @@
+{
+	"hexes":{
+		"E05012872":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.32684","lon":"-0.19236","n":"Banstead Village","q":-198,"r":328 },
+		"E05012873":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.29645","lon":"-0.18754","n":"Chipstead, Kingswood & Woodmansterne","q":-198,"r":327 },
+		"E05012874":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.22274","lon":"-0.17327","n":"Earlswood & Whitebushes","q":-197,"r":324 },
+		"E05012875":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.2763","lon":"-0.14833","n":"Hooley, Merstham & Netherne","q":-197,"r":326 },
+		"E05012876":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.17014","lon":"-0.15062","n":"Horley Central & South","q":-198,"r":322 },
+		"E05012877":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.20036","lon":"-0.16576","n":"Horley East & Salfords","q":-198,"r":323 },
+		"E05012878":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.19084","lon":"-0.20408","n":"Horley West & Sidlow","q":-199,"r":323 },
+		"E05012879":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.27896","lon":"-0.22858","n":"Lower Kingswood, Tadworth & Walton","q":-198,"r":326 },
+		"E05012880":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.23171","lon":"-0.18812","n":"Meadvale & St John's","q":-198,"r":324 },
+		"E05012881":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.31915","lon":"-0.22274","n":"Nork","q":-199,"r":328 },
+		"E05012882":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.24118","lon":"-0.15594","n":"Redhill East","q":-197,"r":325 },
+		"E05012883":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.25285","lon":"-0.17652","n":"Redhill West & Wray Common","q":-198,"r":325 },
+		"E05012884":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.23781","lon":"-0.20845","n":"Reigate","q":-199,"r":325 },
+		"E05012885":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.2189","lon":"-0.20826","n":"South Park & Woodhatch","q":-199,"r":324 },
+		"E05012886":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.30688","lon":"-0.23485","n":"Tattenham Corner & Preston","q":-199,"r":327 }
+	},
+	"layout":"odd-r"
+}

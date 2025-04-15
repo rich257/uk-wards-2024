@@ -1,0 +1,23 @@
+{
+	"hexes":{
+		"E05001135":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.99992","lon":"-1.4256","n":"Beacon and Bents","q":-261,"r":559 },
+		"E05001136":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.97175","lon":"-1.46576","n":"Bede","q":-262,"r":558 },
+		"E05001137":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.96307","lon":"-1.4482","n":"Biddick and All Saints","q":-262,"r":557 },
+		"E05001138":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.95026","lon":"-1.45146","n":"Boldon Colliery","q":-262,"r":556 },
+		"E05001139":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.95198","lon":"-1.40866","n":"Cleadon and East Boldon","q":-259,"r":556 },
+		"E05001140":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.9692","lon":"-1.41084","n":"Cleadon Park","q":-260,"r":556 },
+		"E05001141":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.94418","lon":"-1.49248","n":"Fellgate and Hedworth","q":-263,"r":556 },
+		"E05001142":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.97626","lon":"-1.40521","n":"Harton","q":-260,"r":557 },
+		"E05001143":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.97476","lon":"-1.51999","n":"Hebburn North","q":-264,"r":558 },
+		"E05001144":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.96423","lon":"-1.51423","n":"Hebburn South","q":-264,"r":557 },
+		"E05001145":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.98652","lon":"-1.40087","n":"Horsley Hill","q":-259,"r":558 },
+		"E05001146":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.96763","lon":"-1.49974","n":"Monkton","q":-263,"r":557 },
+		"E05001147":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.9794","lon":"-1.49003","n":"Primrose","q":-263,"r":558 },
+		"E05001148":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.98025","lon":"-1.44629","n":"Simonside and Rekendyke","q":-261,"r":558 },
+		"E05001149":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.98743","lon":"-1.41967","n":"Westoe","q":-260,"r":558 },
+		"E05001150":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.98011","lon":"-1.4286","n":"West Park","q":-261,"r":557 },
+		"E05001151":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.95939","lon":"-1.37371","n":"Whitburn and Marsden","q":-259,"r":557 },
+		"E05001152":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.96416","lon":"-1.42664","n":"Whiteleas","q":-261,"r":556 }
+	},
+	"layout":"odd-r"
+}

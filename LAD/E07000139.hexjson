@@ -1,0 +1,29 @@
+{
+	"hexes":{
+		"E05014425":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.08465","lon":"-0.41204","n":"Ashby de la Launde, Digby & Scopwick","q":-212,"r":459 },
+		"E05014426":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.11793","lon":"-0.66022","n":"Bassingham Rural","q":-214,"r":459 },
+		"E05014427":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.09122","lon":"-0.28391","n":"Billinghay Rural","q":-211,"r":459 },
+		"E05014428":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.19642","lon":"-0.53645","n":"Bracebridge Heath","q":-212,"r":461 },
+		"E05014429":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.19563","lon":"-0.39679","n":"Branston","q":-211,"r":461 },
+		"E05014430":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.04043","lon":"-0.45266","n":"Cranwell, Leasingham & Wilsford","q":-212,"r":458 },
+		"E05014431":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"52.96877","lon":"-0.29839","n":"Heckington Rural","q":-210,"r":456 },
+		"E05014432":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.21164","lon":"-0.46922","n":"Heighington & Washingborough","q":-211,"r":462 },
+		"E05014433":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"52.93277","lon":"-0.36605","n":"Helpringham & Osbournby","q":-211,"r":455 },
+		"E05014434":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.18598","lon":"-0.58362","n":"Hykeham Central","q":-213,"r":461 },
+		"E05014435":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.17187","lon":"-0.60036","n":"Hykeham Fosse","q":-213,"r":460 },
+		"E05014436":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.19378","lon":"-0.60471","n":"Hykeham Memorial","q":-214,"r":461 },
+		"E05014437":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.01438","lon":"-0.2937","n":"Kirkby la Thorpe & South Kyme","q":-210,"r":458 },
+		"E05014438":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.15641","lon":"-0.37383","n":"Metheringham Rural","q":-211,"r":460 },
+		"E05014439":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.09007","lon":"-0.5461","n":"Navenby & Brant Broughton","q":-213,"r":459 },
+		"E05014440":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.04769","lon":"-0.3909","n":"Ruskington","q":-211,"r":458 },
+		"E05014441":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.21287","lon":"-0.66219","n":"Skellingthorpe & Eagle","q":-215,"r":461 },
+		"E05014442":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"52.99601","lon":"-0.42216","n":"Sleaford Castle","q":-212,"r":456 },
+		"E05014443":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.01131","lon":"-0.42183","n":"Sleaford Holdingham","q":-212,"r":457 },
+		"E05014444":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.00092","lon":"-0.39938","n":"Sleaford Navigation","q":-211,"r":457 },
+		"E05014445":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"52.98712","lon":"-0.42249","n":"Sleaford Quarrington & Mareham","q":-211,"r":456 },
+		"E05014446":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.0033","lon":"-0.44085","n":"Sleaford Westholme","q":-213,"r":457 },
+		"E05014447":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.15474","lon":"-0.54072","n":"Waddington Rural","q":-212,"r":460 },
+		"E05014448":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.16382","lon":"-0.66968","n":"Witham St Hughs & Swinderby","q":-214,"r":460 }
+	},
+	"layout":"odd-r"
+}

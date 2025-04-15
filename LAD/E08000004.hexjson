@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05014646":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.52908","lon":"-2.09122","n":"Alexandra","q":-270,"r":497 },
+		"E05014647":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.54221","lon":"-2.14304","n":"Chadderton Central","q":-271,"r":498 },
+		"E05014648":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.55462","lon":"-2.15582","n":"Chadderton North","q":-272,"r":499 },
+		"E05014649":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.53026","lon":"-2.16162","n":"Chadderton South","q":-272,"r":497 },
+		"E05014650":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.54747","lon":"-2.12049","n":"Coldhurst","q":-270,"r":498 },
+		"E05014651":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.585","lon":"-2.10974","n":"Crompton","q":-270,"r":500 },
+		"E05014652":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.50425","lon":"-2.13884","n":"Failsworth East","q":-272,"r":496 },
+		"E05014653":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.50606","lon":"-2.16332","n":"Failsworth West","q":-273,"r":496 },
+		"E05014654":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.51737","lon":"-2.12471","n":"Hollinwood","q":-271,"r":496 },
+		"E05014655":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.51711","lon":"-2.10822","n":"Medlock Vale","q":-270,"r":496 },
+		"E05014656":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.57008","lon":"-2.13827","n":"Royton North","q":-271,"r":499 },
+		"E05014657":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.56201","lon":"-2.11225","n":"Royton South","q":-270,"r":499 },
+		"E05014658":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.58096","lon":"-1.99935","n":"Saddleworth North","q":-267,"r":498 },
+		"E05014659":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.53007","lon":"-1.9765","n":"Saddleworth South","q":-268,"r":497 },
+		"E05014660":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.53572","lon":"-2.06363","n":"Saddleworth West & Lees","q":-269,"r":497 },
+		"E05014661":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.58169","lon":"-2.07551","n":"Shaw","q":-269,"r":500 },
+		"E05014662":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.5663","lon":"-2.07525","n":"St James'","q":-269,"r":499 },
+		"E05014663":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.54236","lon":"-2.10183","n":"St Mary's","q":-269,"r":498 },
+		"E05014664":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.54809","lon":"-2.08008","n":"Waterhead","q":-268,"r":498 },
+		"E05014665":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.53297","lon":"-2.13034","n":"Werneth","q":-271,"r":497 }
+	},
+	"layout":"odd-r"
+}

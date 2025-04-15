@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"E05010805":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.62656","lon":"-0.40359","n":"Barnack","q":-197,"r":437 },
+		"E05010806":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.59513","lon":"-0.2825","n":"Bretton","q":-194,"r":438 },
+		"E05010807":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.57588","lon":"-0.25062","n":"Central","q":-194,"r":436 },
+		"E05010808":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.59688","lon":"-0.22436","n":"Dogsthorpe","q":-192,"r":438 },
+		"E05010809":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.58172","lon":"-0.20502","n":"East","q":-193,"r":436 },
+		"E05010810":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.62218","lon":"-0.14452","n":"Eye, Thorney and Newborough","q":-192,"r":439 },
+		"E05010811":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.55972","lon":"-0.21809","n":"Fletton and Stanground","q":-194,"r":435 },
+		"E05010812":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.56373","lon":"-0.26366","n":"Fletton and Woodston","q":-195,"r":435 },
+		"E05010813":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.62223","lon":"-0.31758","n":"Glinton and Castor","q":-196,"r":436 },
+		"E05010814":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.6127","lon":"-0.2409","n":"Gunthorpe","q":-193,"r":439 },
+		"E05010815":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.52455","lon":"-0.2871","n":"Hampton Vale","q":-195,"r":434 },
+		"E05010816":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.54034","lon":"-0.25835","n":"Hargate and Hempsted","q":-194,"r":434 },
+		"E05010817":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.59828","lon":"-0.24952","n":"North","q":-194,"r":437 },
+		"E05010818":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.55498","lon":"-0.28209","n":"Orton Longueville","q":-196,"r":435 },
+		"E05010819":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.55134","lon":"-0.30962","n":"Orton Waterville","q":-196,"r":434 },
+		"E05010820":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.58745","lon":"-0.23744","n":"Park","q":-193,"r":437 },
+		"E05010821":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.60386","lon":"-0.25409","n":"Paston and Walton","q":-193,"r":438 },
+		"E05010822":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.58565","lon":"-0.26888","n":"Ravensthorpe","q":-195,"r":437 },
+		"E05010823":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.54855","lon":"-0.2178","n":"Stanground South","q":-193,"r":434 },
+		"E05010824":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.62089","lon":"-0.28012","n":"Werrington","q":-194,"r":439 },
+		"E05010825":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.57077","lon":"-0.28727","n":"West","q":-195,"r":436 },
+		"E05010826":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.5949","lon":"-0.44576","n":"Wittering","q":-197,"r":436 }
+	},
+	"layout":"odd-r"
+}

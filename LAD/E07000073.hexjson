@@ -1,0 +1,16 @@
+{
+	"hexes":{
+		"E05015680":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.76101","lon":"0.114388","n":"Bush Fair","q":-179,"r":405 },
+		"E05015681":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.77235","lon":"0.143618","n":"Church Langley North & Newhall","q":-177,"r":406 },
+		"E05015682":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.76034","lon":"0.137818","n":"Church Langley South & Potter Street","q":-178,"r":405 },
+		"E05015683":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.7606","lon":"0.072967","n":"Great Parndon","q":-181,"r":405 },
+		"E05015684":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.74998","lon":"0.10857","n":"Latton Bush & Stewards","q":-179,"r":404 },
+		"E05015685":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.77507","lon":"0.074935","n":"Little Parndon & Town Centre","q":-180,"r":406 },
+		"E05015686":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.77879","lon":"0.118495","n":"Mark Hall","q":-178,"r":406 },
+		"E05015687":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.77583","lon":"0.102701","n":"Netteswell","q":-179,"r":406 },
+		"E05015688":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.78507","lon":"0.143496","n":"Old Harlow","q":-178,"r":407 },
+		"E05015689":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.75969","lon":"0.092677","n":"Passmores","q":-180,"r":405 },
+		"E05015690":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.74504","lon":"0.082149","n":"Sumners & Kingsmoor","q":-180,"r":404 }
+	},
+	"layout":"odd-r"
+}

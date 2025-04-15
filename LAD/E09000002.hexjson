@@ -1,0 +1,24 @@
+{
+	"hexes":{
+		"E05014053":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.53632","lon":"0.079502","n":"Abbey","q":-171,"r":369 },
+		"E05014054":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.54642","lon":"0.162881","n":"Alibon","q":-166,"r":370 },
+		"E05014055":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.52294","lon":"0.126219","n":"Barking Riverside","q":-168,"r":368 },
+		"E05014056":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.52416","lon":"0.15469","n":"Beam","q":-167,"r":368 },
+		"E05014057":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.55436","lon":"0.118018","n":"Becontree","q":-169,"r":371 },
+		"E05014058":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.58342","lon":"0.138596","n":"Chadwell Heath","q":-167,"r":373 },
+		"E05014059":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.55634","lon":"0.172094","n":"Eastbrook & Rush Green","q":-166,"r":371 },
+		"E05014060":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.53477","lon":"0.108241","n":"Eastbury","q":-169,"r":369 },
+		"E05014061":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.53154","lon":"0.087704","n":"Gascoigne","q":-170,"r":369 },
+		"E05014062":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.53605","lon":"0.137659","n":"Goresbrook","q":-168,"r":369 },
+		"E05014063":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.55869","lon":"0.153912","n":"Heath","q":-167,"r":371 },
+		"E05014064":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.54442","lon":"0.093745","n":"Longbridge","q":-169,"r":370 },
+		"E05014065":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.54548","lon":"0.116149","n":"Mayesbrook","q":-168,"r":370 },
+		"E05014066":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.54094","lon":"0.078948","n":"Northbury","q":-170,"r":370 },
+		"E05014067":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.54857","lon":"0.13513","n":"Parsloes","q":-167,"r":370 },
+		"E05014068":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.52572","lon":"0.095079","n":"Thames View","q":-169,"r":368 },
+		"E05014069":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.55868","lon":"0.136815","n":"Valence","q":-168,"r":371 },
+		"E05014070":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.53842","lon":"0.161781","n":"Village","q":-167,"r":369 },
+		"E05014071":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.56717","lon":"0.141398","n":"Whalebone","q":-167,"r":372 }
+	},
+	"layout":"odd-r"
+}

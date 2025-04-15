@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"S13003042":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.99135","lon":"-4.0544","n":"Kilsyth","q":-295,"r":605 },
+		"S13003043":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.95243","lon":"-4.02157","n":"Cumbernauld North","q":-294,"r":604 },
+		"S13003044":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.93796","lon":"-4.00724","n":"Cumbernauld South","q":-294,"r":603 },
+		"S13003045":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.95294","lon":"-3.934","n":"Cumbernauld East","q":-293,"r":604 },
+		"S13003047":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.90234","lon":"-4.05326","n":"Gartcosh, Glenboig and Moodiesburn","q":-295,"r":603 },
+		"S13003048":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.86979","lon":"-4.0442","n":"Coatbridge North","q":-294,"r":602 },
+		"S13003049":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.89957","lon":"-3.91595","n":"Airdrie North","q":-293,"r":603 },
+		"S13003050":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.86641","lon":"-3.98582","n":"Airdrie Central","q":-293,"r":602 },
+		"S13003051":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.85301","lon":"-4.05669","n":"Coatbridge West","q":-295,"r":601 },
+		"S13003052":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.85064","lon":"-4.02144","n":"Coatbridge South","q":-294,"r":601 },
+		"S13003053":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.85209","lon":"-3.94821","n":"Airdrie South","q":-293,"r":601 },
+		"S13003054":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.81913","lon":"-3.81909","n":"Fortissat","q":-292,"r":600 },
+		"S13003055":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.83528","lon":"-4.07736","n":"Thorniewood","q":-295,"r":600 },
+		"S13003056":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.81925","lon":"-4.03066","n":"Bellshill","q":-294,"r":600 },
+		"S13003057":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.82212","lon":"-3.96565","n":"Mossend and Holytown","q":-293,"r":600 },
+		"S13003058":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.79433","lon":"-4.01885","n":"Motherwell West","q":-294,"r":599 },
+		"S13003059":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.80817","lon":"-3.95989","n":"Motherwell North","q":-293,"r":599 },
+		"S13003060":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.78304","lon":"-3.96306","n":"Motherwell South East and Ravenscraig","q":-293,"r":598 },
+		"S13003061":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.79659","lon":"-3.90321","n":"Murdostoun","q":-292,"r":598 },
+		"S13003062":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.75694","lon":"-3.9183","n":"Wishaw","q":-293,"r":597 },
+		"S13003134":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.90096","lon":"-4.13425","n":"Stepps, Chryston and Muirhead","q":-296,"r":603 }
+	},
+	"layout":"odd-r"
+}

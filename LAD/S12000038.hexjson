@@ -1,0 +1,17 @@
+{
+	"hexes":{
+		"S13003075":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.87727","lon":"-4.38718","n":"Renfrew North and Braehead","q":-303,"r":606 },
+		"S13003076":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.86157","lon":"-4.39063","n":"Renfrew South and Gallowhill","q":-303,"r":605 },
+		"S13003077":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.84725","lon":"-4.3943","n":"Paisley Northeast and Ralston","q":-302,"r":604 },
+		"S13003078":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.85406","lon":"-4.44374","n":"Paisley Northwest","q":-304,"r":605 },
+		"S13003079":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.83558","lon":"-4.399","n":"Paisley East and Central","q":-303,"r":604 },
+		"S13003080":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.82348","lon":"-4.41556","n":"Paisley Southeast","q":-303,"r":603 },
+		"S13003081":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.81776","lon":"-4.46383","n":"Paisley Southwest","q":-304,"r":603 },
+		"S13003082":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.81769","lon":"-4.50172","n":"Johnstone South and Elderslie","q":-304,"r":604 },
+		"S13003083":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.80813","lon":"-4.61446","n":"Johnstone North, Kilbarchan, Howwood and Lochwinnoch","q":-305,"r":604 },
+		"S13003084":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.86397","lon":"-4.51527","n":"Houston, Crosslee and Linwood","q":-305,"r":605 },
+		"S13003085":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.90625","lon":"-4.54988","n":"Bishopton, Bridge of Weir and Langbank","q":-305,"r":606 },
+		"S13003086":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.89558","lon":"-4.44723","n":"Erskine and Inchinnan","q":-304,"r":606 }
+	},
+	"layout":"odd-r"
+}

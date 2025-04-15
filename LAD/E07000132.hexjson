@@ -1,0 +1,21 @@
+{
+	"hexes":{
+		"E05005479":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.5743","lon":"-1.43273","n":"Ambien","q":-233,"r":431 },
+		"E05005480":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.65115","lon":"-1.37651","n":"Barlestone, Nailstone and Osbaston","q":-232,"r":433 },
+		"E05005481":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.57284","lon":"-1.35852","n":"Barwell","q":-232,"r":431 },
+		"E05005482":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.53789","lon":"-1.34685","n":"Burbage St Catherines and Lash Hill","q":-232,"r":429 },
+		"E05005483":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.51775","lon":"-1.3475","n":"Burbage Sketchley and Stretton","q":-232,"r":428 },
+		"E05005484":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.64341","lon":"-1.42285","n":"Cadeby, Carlton and Market Bosworth with Shackerstone","q":-232,"r":432 },
+		"E05005485":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.57652","lon":"-1.30835","n":"Earl Shilton","q":-231,"r":431 },
+		"E05005486":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.66762","lon":"-1.22893","n":"Groby","q":-230,"r":434 },
+		"E05005487":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.54071","lon":"-1.37343","n":"Hinckley Castle","q":-233,"r":429 },
+		"E05005488":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.53907","lon":"-1.3997","n":"Hinckley Clarendon","q":-234,"r":429 },
+		"E05005489":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.55351","lon":"-1.35819","n":"Hinckley De Montfort","q":-232,"r":430 },
+		"E05005490":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.55507","lon":"-1.39761","n":"Hinckley Trinity","q":-233,"r":430 },
+		"E05005491":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.69088","lon":"-1.31115","n":"Markfield, Stanton and Fieldhead","q":-231,"r":434 },
+		"E05005492":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.61423","lon":"-1.31498","n":"Newbold Verdon with Desford and Peckleton","q":-231,"r":432 },
+		"E05005493":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.66085","lon":"-1.31141","n":"Ratby, Bagworth and Thornton","q":-231,"r":433 },
+		"E05005494":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.62046","lon":"-1.51183","n":"Twycross and Witherley with Sheepy","q":-233,"r":432 }
+	},
+	"layout":"odd-r"
+}

@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05001444":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.63712","lon":"-1.31862","n":"Ackworth, North Elmsall and Upton","q":-237,"r":497 },
+		"E05001445":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.7257","lon":"-1.31205","n":"Airedale and Ferry Fryston","q":-236,"r":500 },
+		"E05001446":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.71378","lon":"-1.40367","n":"Altofts and Whitwood","q":-238,"r":500 },
+		"E05001447":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.7206","lon":"-1.34198","n":"Castleford Central and Glasshoughton","q":-237,"r":500 },
+		"E05001448":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.63789","lon":"-1.45311","n":"Crofton, Ryhill and Walton","q":-239,"r":497 },
+		"E05001449":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.67932","lon":"-1.3732","n":"Featherstone","q":-238,"r":499 },
+		"E05001450":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.62067","lon":"-1.36072","n":"Hemsworth","q":-238,"r":497 },
+		"E05001451":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.66575","lon":"-1.55594","n":"Horbury and South Ossett","q":-241,"r":498 },
+		"E05001452":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.71229","lon":"-1.27599","n":"Knottingley","q":-236,"r":499 },
+		"E05001453":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.68816","lon":"-1.43512","n":"Normanton","q":-238,"r":498 },
+		"E05001454":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.68042","lon":"-1.58465","n":"Ossett","q":-241,"r":499 },
+		"E05001455":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.69637","lon":"-1.31217","n":"Pontefract North","q":-237,"r":499 },
+		"E05001456":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.6689","lon":"-1.28808","n":"Pontefract South","q":-237,"r":498 },
+		"E05001457":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.59201","lon":"-1.30762","n":"South Elmsall and South Kirkby","q":-237,"r":496 },
+		"E05001458":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.71105","lon":"-1.47136","n":"Stanley and Outwood East","q":-239,"r":500 },
+		"E05001459":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.68437","lon":"-1.48152","n":"Wakefield East","q":-239,"r":499 },
+		"E05001460":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.68633","lon":"-1.51378","n":"Wakefield North","q":-240,"r":499 },
+		"E05001461":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.62872","lon":"-1.5533","n":"Wakefield Rural","q":-240,"r":497 },
+		"E05001462":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.64903","lon":"-1.49616","n":"Wakefield South","q":-239,"r":498 },
+		"E05001463":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.67008","lon":"-1.51929","n":"Wakefield West","q":-240,"r":498 },
+		"E05001464":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.7033","lon":"-1.52765","n":"Wrenthorpe and Outwood West","q":-240,"r":500 }
+	},
+	"layout":"odd-r"
+}

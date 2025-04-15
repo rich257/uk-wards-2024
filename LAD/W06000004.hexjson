@@ -1,0 +1,34 @@
+{
+	"hexes":{
+		"W05001332":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.07583","lon":"-3.18824","n":"Alyn Valley","q":-313,"r":461 },
+		"W05001333":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.2765","lon":"-3.49132","n":"Bodelwyddan","q":-317,"r":464 },
+		"W05001334":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.18672","lon":"-3.44136","n":"Denbigh Caledfryn Henllan","q":-315,"r":462 },
+		"W05001335":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.1937","lon":"-3.39318","n":"Denbigh Lower","q":-315,"r":463 },
+		"W05001336":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.30604","lon":"-3.41096","n":"Dyserth","q":-316,"r":465 },
+		"W05001337":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"52.93664","lon":"-3.40433","n":"Edeirnion","q":-314,"r":459 },
+		"W05001338":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.05482","lon":"-3.40262","n":"Efenechdyd","q":-314,"r":460 },
+		"W05001339":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.17407","lon":"-3.33585","n":"Llandyrnog","q":-314,"r":462 },
+		"W05001340":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.0367","lon":"-3.31902","n":"Llanfair Dyffryn Clwyd Gwyddelwern","q":-313,"r":460 },
+		"W05001341":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"52.98751","lon":"-3.17196","n":"Llangollen","q":-313,"r":459 },
+		"W05001342":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.12186","lon":"-3.47454","n":"Llanrhaeadr-yng-Nghinmeirch","q":-315,"r":461 },
+		"W05001343":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.14206","lon":"-3.2535","n":"Moel Famau","q":-313,"r":462 },
+		"W05001344":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.32851","lon":"-3.40464","n":"Prestatyn Central","q":-315,"r":468 },
+		"W05001345":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.33805","lon":"-3.38789","n":"Prestatyn East","q":-316,"r":469 },
+		"W05001346":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.31836","lon":"-3.4076","n":"Prestatyn Meliden","q":-316,"r":467 },
+		"W05001347":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.3357","lon":"-3.42388","n":"Prestatyn North","q":-317,"r":469 },
+		"W05001348":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.32243","lon":"-3.42998","n":"Prestatyn South West","q":-316,"r":468 },
+		"W05001349":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.29461","lon":"-3.45637","n":"Rhuddlan","q":-317,"r":465 },
+		"W05001350":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.32674","lon":"-3.47073","n":"Rhyl East","q":-317,"r":468 },
+		"W05001351":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.30501","lon":"-3.47564","n":"Rhyl South","q":-317,"r":466 },
+		"W05001352":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.31203","lon":"-3.48999","n":"Rhyl South West","q":-318,"r":467 },
+		"W05001353":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.31466","lon":"-3.45631","n":"Rhyl Trellewelyn","q":-316,"r":466 },
+		"W05001354":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.32241","lon":"-3.4596","n":"Rhyl TÃÂ· Newydd","q":-317,"r":467 },
+		"W05001355":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.31756","lon":"-3.49622","n":"Rhyl West","q":-318,"r":468 },
+		"W05001356":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.11127","lon":"-3.31498","n":"Ruthin","q":-314,"r":461 },
+		"W05001357":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.25253","lon":"-3.43765","n":"St Asaph East","q":-316,"r":464 },
+		"W05001358":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.2561","lon":"-3.45769","n":"St Asaph West","q":-317,"r":463 },
+		"W05001359":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.22878","lon":"-3.44063","n":"Trefnant","q":-316,"r":463 },
+		"W05001360":{"LAD24CD":"W06000004","LAD24NM":"Denbighshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#9B9AA8","lat":"53.26371","lon":"-3.38763","n":"Tremeirchion","q":-315,"r":464 }
+	},
+	"layout":"odd-r"
+}

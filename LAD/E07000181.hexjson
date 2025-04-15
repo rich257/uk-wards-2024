@@ -1,0 +1,32 @@
+{
+	"hexes":{
+		"E05006627":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.72939","lon":"-1.64668","n":"Alvescot and Filkins","q":-245,"r":351 },
+		"E05006628":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.86848","lon":"-1.57972","n":"Ascott and Shipton","q":-242,"r":354 },
+		"E05006629":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.72473","lon":"-1.56416","n":"Bampton and Clanfield","q":-243,"r":349 },
+		"E05006632":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.76705","lon":"-1.58948","n":"Carterton North East","q":-243,"r":351 },
+		"E05006634":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.75407","lon":"-1.59449","n":"Carterton South","q":-243,"r":350 },
+		"E05006637":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.93833","lon":"-1.54225","n":"Chipping Norton","q":-242,"r":356 },
+		"E05006638":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.76996","lon":"-1.50642","n":"Ducklington","q":-242,"r":350 },
+		"E05006639":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.7844","lon":"-1.40026","n":"Eynsham and Cassington","q":-240,"r":351 },
+		"E05006640":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.81471","lon":"-1.38698","n":"Freeland and Hanborough","q":-240,"r":352 },
+		"E05006642":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.94621","lon":"-1.45433","n":"Kingham, Rollright and Enstone","q":-241,"r":356 },
+		"E05006643":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.86696","lon":"-1.6446","n":"Milton-under-Wychwood","q":-243,"r":354 },
+		"E05006644":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.82131","lon":"-1.4426","n":"North Leigh","q":-241,"r":353 },
+		"E05006645":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.73393","lon":"-1.44506","n":"Standlake, Aston and Stanton Harcourt","q":-242,"r":349 },
+		"E05006646":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.87565","lon":"-1.34923","n":"Stonesfield and Tackley","q":-240,"r":354 },
+		"E05006647":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.93999","lon":"-1.36743","n":"The Bartons","q":-241,"r":355 },
+		"E05006648":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.78867","lon":"-1.49395","n":"Witney Central","q":-242,"r":351 },
+		"E05006649":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.78576","lon":"-1.46995","n":"Witney East","q":-241,"r":351 },
+		"E05006650":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.79438","lon":"-1.48116","n":"Witney North","q":-241,"r":352 },
+		"E05006651":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.78123","lon":"-1.49167","n":"Witney South","q":-241,"r":350 },
+		"E05006652":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.78517","lon":"-1.51529","n":"Witney West","q":-242,"r":352 },
+		"E05006653":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.84711","lon":"-1.36269","n":"Woodstock and Bladon","q":-240,"r":353 },
+		"E05009363":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.81213","lon":"-1.64694","n":"Burford","q":-243,"r":353 },
+		"E05009364":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.80507","lon":"-1.58888","n":"Brize Norton and Shilton","q":-243,"r":352 },
+		"E05009365":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.76649","lon":"-1.60133","n":"Carterton North West","q":-244,"r":351 },
+		"E05010781":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.88504","lon":"-1.52215","n":"Chadlington and Churchill","q":-242,"r":355 },
+		"E05010782":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.86368","lon":"-1.47509","n":"Charlbury and Finstock","q":-241,"r":354 },
+		"E05010783":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.81706","lon":"-1.49467","n":"Hailey, Minster Lovell and Leafield","q":-242,"r":353 }
+	},
+	"layout":"odd-r"
+}

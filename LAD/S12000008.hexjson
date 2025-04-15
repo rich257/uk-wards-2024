@@ -1,0 +1,14 @@
+{
+	"hexes":{
+		"S13002892":{"LAD24CD":"S12000008","LAD24NM":"East Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#69BBEC","lat":"55.68382","lon":"-4.46227","n":"Annick","q":-300,"r":594 },
+		"S13002893":{"LAD24CD":"S12000008","LAD24NM":"East Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#69BBEC","lat":"55.63212","lon":"-4.50011","n":"Kilmarnock North","q":-301,"r":593 },
+		"S13002894":{"LAD24CD":"S12000008","LAD24NM":"East Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#69BBEC","lat":"55.61269","lon":"-4.53759","n":"Kilmarnock West and Crosshouse","q":-301,"r":592 },
+		"S13002895":{"LAD24CD":"S12000008","LAD24NM":"East Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#69BBEC","lat":"55.60201","lon":"-4.46142","n":"Kilmarnock East and Hurlford","q":-300,"r":593 },
+		"S13002896":{"LAD24CD":"S12000008","LAD24NM":"East Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#69BBEC","lat":"55.58426","lon":"-4.51217","n":"Kilmarnock South","q":-300,"r":592 },
+		"S13002897":{"LAD24CD":"S12000008","LAD24NM":"East Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#69BBEC","lat":"55.62259","lon":"-4.28885","n":"Irvine Valley","q":-299,"r":593 },
+		"S13002898":{"LAD24CD":"S12000008","LAD24NM":"East Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#69BBEC","lat":"55.51265","lon":"-4.20223","n":"Ballochmyle","q":-299,"r":592 },
+		"S13002899":{"LAD24CD":"S12000008","LAD24NM":"East Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#69BBEC","lat":"55.39176","lon":"-4.24735","n":"Cumnock and New Cumnock","q":-299,"r":591 },
+		"S13002900":{"LAD24CD":"S12000008","LAD24NM":"East Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#69BBEC","lat":"55.19258","lon":"-4.44166","n":"Doon Valley","q":-300,"r":591 }
+	},
+	"layout":"odd-r"
+}

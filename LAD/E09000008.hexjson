@@ -1,0 +1,33 @@
+{
+	"hexes":{
+		"E05011462":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.37983","lon":"-0.06972","n":"Addiscombe East","q":-185,"r":345 },
+		"E05011463":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.38063","lon":"-0.08196","n":"Addiscombe West","q":-186,"r":345 },
+		"E05011464":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.39612","lon":"-0.10593","n":"Bensham Manor","q":-186,"r":346 },
+		"E05011465":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.38297","lon":"-0.11375","n":"Broad Green","q":-187,"r":345 },
+		"E05011466":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.31228","lon":"-0.14542","n":"Coulsdon Town","q":-188,"r":341 },
+		"E05011467":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.41386","lon":"-0.08835","n":"Crystal Palace & Upper Norwood","q":-185,"r":348 },
+		"E05011468":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.37397","lon":"-0.09968","n":"Fairfield","q":-186,"r":344 },
+		"E05011469":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.31695","lon":"-0.10191","n":"Kenley","q":-186,"r":341 },
+		"E05011470":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.35404","lon":"-0.01739","n":"New Addington North","q":-184,"r":343 },
+		"E05011471":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.34165","lon":"-0.01251","n":"New Addington South","q":-183,"r":342 },
+		"E05011472":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.40566","lon":"-0.12101","n":"Norbury & Pollards Hill","q":-187,"r":347 },
+		"E05011473":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.41453","lon":"-0.11047","n":"Norbury Park","q":-186,"r":348 },
+		"E05011474":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.30383","lon":"-0.11879","n":"Old Coulsdon","q":-187,"r":341 },
+		"E05011475":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.36937","lon":"-0.07993","n":"Park Hill & Whitgift","q":-185,"r":344 },
+		"E05011476":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.33424","lon":"-0.12554","n":"Purley & Woodcote","q":-187,"r":342 },
+		"E05011477":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.33867","lon":"-0.10629","n":"Purley Oaks & Riddlesdown","q":-186,"r":342 },
+		"E05011478":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.33388","lon":"-0.07774","n":"Sanderstead","q":-185,"r":342 },
+		"E05011479":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.38811","lon":"-0.09557","n":"Selhurst","q":-185,"r":346 },
+		"E05011480":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.35309","lon":"-0.05441","n":"Selsdon & Addington Village","q":-185,"r":343 },
+		"E05011481":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.33799","lon":"-0.05087","n":"Selsdon Vale & Forestdale","q":-184,"r":342 },
+		"E05011482":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.38299","lon":"-0.05046","n":"Shirley North","q":-184,"r":345 },
+		"E05011483":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.36903","lon":"-0.04469","n":"Shirley South","q":-184,"r":344 },
+		"E05011484":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.3571","lon":"-0.08488","n":"South Croydon","q":-186,"r":343 },
+		"E05011485":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.39878","lon":"-0.07808","n":"South Norwood","q":-185,"r":347 },
+		"E05011486":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.40266","lon":"-0.09478","n":"Thornton Heath","q":-186,"r":347 },
+		"E05011487":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.36266","lon":"-0.11295","n":"Waddon","q":-187,"r":343 },
+		"E05011488":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.39369","lon":"-0.11884","n":"West Thornton","q":-187,"r":346 },
+		"E05011489":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.39306","lon":"-0.06662","n":"Woodside","q":-184,"r":346 }
+	},
+	"layout":"odd-r"
+}

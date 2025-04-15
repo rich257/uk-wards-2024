@@ -1,0 +1,29 @@
+{
+	"hexes":{
+		"E05012437":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.5123","lon":"-1.03677","n":"Belmont","q":-245,"r":531 },
+		"E05012438":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.57212","lon":"-0.92859","n":"Brotton","q":-243,"r":533 },
+		"E05012439":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.62932","lon":"-1.1258","n":"Coatham","q":-247,"r":535 },
+		"E05012440":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.58931","lon":"-1.11013","n":"Dormanstown","q":-248,"r":534 },
+		"E05012441":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.56723","lon":"-1.11794","n":"Eston","q":-246,"r":532 },
+		"E05012442":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.57309","lon":"-1.14643","n":"Grangetown","q":-248,"r":533 },
+		"E05012443":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.55305","lon":"-1.08079","n":"Guisborough","q":-245,"r":532 },
+		"E05012444":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.5172","lon":"-1.11104","n":"Hutton","q":-246,"r":531 },
+		"E05012445":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.58915","lon":"-1.07275","n":"Kirkleatham","q":-247,"r":533 },
+		"E05012446":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.52137","lon":"-0.95718","n":"Lockwood","q":-244,"r":531 },
+		"E05012447":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.52975","lon":"-0.8546","n":"Loftus","q":-242,"r":532 },
+		"E05012448":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.58921","lon":"-1.03609","n":"Longbeck","q":-245,"r":534 },
+		"E05012449":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.60841","lon":"-1.075","n":"Newcomen","q":-247,"r":534 },
+		"E05012450":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.5479","lon":"-1.16192","n":"Normanby","q":-247,"r":531 },
+		"E05012451":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.54151","lon":"-1.17961","n":"Ormesby","q":-248,"r":531 },
+		"E05012452":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.59029","lon":"-1.00779","n":"St Germain's","q":-245,"r":533 },
+		"E05012453":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.57961","lon":"-0.99098","n":"Saltburn","q":-244,"r":533 },
+		"E05012454":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.56654","lon":"-0.96425","n":"Skelton East","q":-243,"r":532 },
+		"E05012455":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.55342","lon":"-0.9944","n":"Skelton West","q":-244,"r":532 },
+		"E05012456":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.59631","lon":"-1.14275","n":"South Bank","q":-248,"r":535 },
+		"E05012457":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.5623","lon":"-1.15204","n":"Teesville","q":-247,"r":532 },
+		"E05012458":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.606","lon":"-1.05526","n":"West Dyke","q":-246,"r":534 },
+		"E05012459":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.59574","lon":"-1.05223","n":"Wheatlands","q":-246,"r":533 },
+		"E05012460":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.60953","lon":"-1.04835","n":"Zetland","q":-246,"r":535 }
+	},
+	"layout":"odd-r"
+}

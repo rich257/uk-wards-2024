@@ -1,0 +1,21 @@
+{
+	"hexes":{
+		"E05012193":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.76577","lon":"-2.73643","n":"Ashton","q":-287,"r":517 },
+		"E05012194":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.77959","lon":"-2.66506","n":"Brookfield","q":-285,"r":518 },
+		"E05012195":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.78439","lon":"-2.72998","n":"Cadley","q":-288,"r":519 },
+		"E05012196":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.75698","lon":"-2.70762","n":"City Centre","q":-286,"r":517 },
+		"E05012197":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.7717","lon":"-2.68367","n":"Deepdale","q":-286,"r":518 },
+		"E05012198":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.75714","lon":"-2.6718","n":"Fishwick & Frenchwood","q":-285,"r":516 },
+		"E05012199":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.7877","lon":"-2.68206","n":"Garrison","q":-285,"r":519 },
+		"E05012200":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.7885","lon":"-2.71982","n":"Greyfriars","q":-287,"r":519 },
+		"E05012201":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.77742","lon":"-2.76419","n":"Ingol & Cottam","q":-288,"r":518 },
+		"E05012202":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.76442","lon":"-2.76993","n":"Lea & Larches","q":-288,"r":517 },
+		"E05012203":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.77034","lon":"-2.70745","n":"Plungington","q":-287,"r":518 },
+		"E05012204":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.81172","lon":"-2.67791","n":"Preston Rural East","q":-286,"r":520 },
+		"E05012205":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.84064","lon":"-2.6825","n":"Preston Rural North","q":-287,"r":520 },
+		"E05012206":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.77563","lon":"-2.64604","n":"Ribbleton","q":-284,"r":518 },
+		"E05012207":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.7661","lon":"-2.67985","n":"St Matthew's","q":-285,"r":517 },
+		"E05012208":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.78897","lon":"-2.69832","n":"Sharoe Green","q":-286,"r":519 }
+	},
+	"layout":"odd-r"
+}

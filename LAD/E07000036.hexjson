@@ -1,0 +1,24 @@
+{
+	"hexes":{
+		"E05010604":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.98363","lon":"-1.30542","n":"Awsworth Road","q":-234,"r":453 },
+		"E05010605":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.89284","lon":"-1.31851","n":"Breaston","q":-235,"r":449 },
+		"E05010606":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.99412","lon":"-1.31093","n":"Cotmanhay","q":-234,"r":454 },
+		"E05010607":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.90411","lon":"-1.27963","n":"Derby Road East","q":-233,"r":449 },
+		"E05010608":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.90204","lon":"-1.28827","n":"Derby Road West","q":-234,"r":449 },
+		"E05010609":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.92088","lon":"-1.33306","n":"Draycott & Risley","q":-234,"r":450 },
+		"E05010610":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.95506","lon":"-1.29761","n":"Hallam Fields","q":-233,"r":451 },
+		"E05010611":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.9418","lon":"-1.31025","n":"Kirk Hallam & Stanton-by-Dale","q":-234,"r":451 },
+		"E05010612":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.97065","lon":"-1.29836","n":"Larklands","q":-233,"r":452 },
+		"E05010613":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.9574","lon":"-1.41762","n":"Little Eaton & Stanley","q":-236,"r":451 },
+		"E05010614":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.97078","lon":"-1.31955","n":"Little Hallam","q":-234,"r":452 },
+		"E05010615":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.89047","lon":"-1.27177","n":"Long Eaton Central","q":-233,"r":448 },
+		"E05010616":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.89022","lon":"-1.2551","n":"Nottingham Road","q":-232,"r":448 },
+		"E05010617":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.92116","lon":"-1.36828","n":"Ockbrook & Borrowash","q":-235,"r":450 },
+		"E05010618":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.92476","lon":"-1.28924","n":"Sandiacre","q":-233,"r":450 },
+		"E05010619":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.88041","lon":"-1.29063","n":"Sawley","q":-234,"r":447 },
+		"E05010620":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.98388","lon":"-1.32234","n":"Shipley View","q":-235,"r":453 },
+		"E05010621":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.95417","lon":"-1.35186","n":"West Hallam & Dale Abbey","q":-235,"r":451 },
+		"E05010622":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.89056","lon":"-1.29127","n":"Wilsthorpe","q":-234,"r":448 }
+	},
+	"layout":"odd-r"
+}

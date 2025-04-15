@@ -1,0 +1,11 @@
+{
+	"hexes":{
+		"S13003122":{"LAD24CD":"S12000039","LAD24NM":"West Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AD4E1D","lat":"56.03449","lon":"-4.56661","n":"Lomond","q":-304,"r":610 },
+		"S13003123":{"LAD24CD":"S12000039","LAD24NM":"West Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AD4E1D","lat":"55.96821","lon":"-4.56996","n":"Leven","q":-305,"r":609 },
+		"S13003124":{"LAD24CD":"S12000039","LAD24NM":"West Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AD4E1D","lat":"55.96038","lon":"-4.50114","n":"Dumbarton","q":-304,"r":609 },
+		"S13003125":{"LAD24CD":"S12000039","LAD24NM":"West Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AD4E1D","lat":"55.95086","lon":"-4.42998","n":"Kilpatrick","q":-303,"r":609 },
+		"S13003126":{"LAD24CD":"S12000039","LAD24NM":"West Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AD4E1D","lat":"55.91205","lon":"-4.40968","n":"Clydebank Central","q":-302,"r":608 },
+		"S13003127":{"LAD24CD":"S12000039","LAD24NM":"West Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AD4E1D","lat":"55.91852","lon":"-4.44855","n":"Clydebank Waterfront","q":-303,"r":608 }
+	},
+	"layout":"odd-r"
+}

@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05009636":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.26458","lon":"-0.3306","n":"Bardney","q":-214,"r":470 },
+		"E05009637":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.54612","lon":"-0.28477","n":"Caistor and Yarborough","q":-215,"r":473 },
+		"E05009638":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.26653","lon":"-0.39872","n":"Cherry Willingham","q":-215,"r":469 },
+		"E05009639":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.33722","lon":"-0.42611","n":"Dunholme and Welton","q":-216,"r":471 },
+		"E05009640":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.39265","lon":"-0.75231","n":"Gainsborough East","q":-218,"r":472 },
+		"E05009641":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.40793","lon":"-0.76984","n":"Gainsborough North","q":-219,"r":473 },
+		"E05009642":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.39077","lon":"-0.77474","n":"Gainsborough South-West","q":-219,"r":472 },
+		"E05009643":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.41251","lon":"-0.64152","n":"Hemswell","q":-217,"r":472 },
+		"E05009644":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.49072","lon":"-0.40898","n":"Kelsey Wold","q":-215,"r":472 },
+		"E05009645":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.36425","lon":"-0.70879","n":"Lea","q":-219,"r":471 },
+		"E05009646":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.39417","lon":"-0.34184","n":"Market Rasen","q":-215,"r":471 },
+		"E05009647":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.27037","lon":"-0.50031","n":"Nettleham","q":-216,"r":470 },
+		"E05009648":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.27033","lon":"-0.62278","n":"Saxilby","q":-217,"r":470 },
+		"E05009649":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.33315","lon":"-0.59195","n":"Scampton","q":-217,"r":471 },
+		"E05009650":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.46948","lon":"-0.72257","n":"Scotter and Blyton","q":-218,"r":473 },
+		"E05009651":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.32962","lon":"-0.66405","n":"Stow","q":-218,"r":471 },
+		"E05009652":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.27925","lon":"-0.44424","n":"Sudbrooke","q":-215,"r":470 },
+		"E05009653":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.29456","lon":"-0.7339","n":"Torksey","q":-218,"r":470 },
+		"E05009654":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.41103","lon":"-0.49795","n":"Waddingham and Spital","q":-216,"r":472 },
+		"E05009655":{"LAD24CD":"E07000142","LAD24NM":"West Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#888BFF","lat":"53.46621","lon":"-0.27818","n":"Wold View","q":-214,"r":472 }
+	},
+	"layout":"odd-r"
+}

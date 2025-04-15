@@ -1,0 +1,19 @@
+{
+	"hexes":{
+		"E05013050":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.21127","lon":"0.158569","n":"Abbey","q":-187,"r":421 },
+		"E05013051":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.2223","lon":"0.117508","n":"Arbury","q":-189,"r":422 },
+		"E05013052":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.22048","lon":"0.09956","n":"Castle","q":-190,"r":421 },
+		"E05013053":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.18538","lon":"0.171724","n":"Cherry Hinton","q":-186,"r":420 },
+		"E05013054":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.19026","lon":"0.14905","n":"Coleridge","q":-188,"r":419 },
+		"E05013055":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.22642","lon":"0.151997","n":"East Chesterton","q":-187,"r":422 },
+		"E05013056":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.22807","lon":"0.13572","n":"King's Hedges","q":-188,"r":423 },
+		"E05013057":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.20389","lon":"0.126497","n":"Market","q":-189,"r":421 },
+		"E05013058":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.20255","lon":"0.1011","n":"Newnham","q":-189,"r":420 },
+		"E05013059":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.1966","lon":"0.133655","n":"Petersfield","q":-188,"r":421 },
+		"E05013060":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.17656","lon":"0.147746","n":"Queen Edith's","q":-187,"r":419 },
+		"E05013061":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.20169","lon":"0.151241","n":"Romsey","q":-187,"r":420 },
+		"E05013062":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.17864","lon":"0.115287","n":"Trumpington","q":-188,"r":420 },
+		"E05013063":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.21696","lon":"0.12677","n":"West Chesterton","q":-188,"r":422 }
+	},
+	"layout":"odd-r"
+}

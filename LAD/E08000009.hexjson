@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05015239":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.3906","lon":"-2.34673","n":"Altrincham","q":-282,"r":486 },
+		"E05015240":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.42746","lon":"-2.33267","n":"Ashton upon Mersey","q":-282,"r":489 },
+		"E05015241":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.38915","lon":"-2.39865","n":"Bowdon","q":-283,"r":485 },
+		"E05015242":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.40539","lon":"-2.35279","n":"Broadheath","q":-283,"r":487 },
+		"E05015243":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.41347","lon":"-2.32092","n":"Brooklands","q":-281,"r":488 },
+		"E05015244":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.42525","lon":"-2.39024","n":"Bucklow-St Martins","q":-283,"r":489 },
+		"E05015245":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.45858","lon":"-2.37695","n":"Davyhulme","q":-283,"r":491 },
+		"E05015246":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.44257","lon":"-2.38679","n":"Flixton","q":-283,"r":490 },
+		"E05015247":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.46556","lon":"-2.30744","n":"Gorse Hill & Cornbrook","q":-281,"r":491 },
+		"E05015248":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.37611","lon":"-2.33875","n":"Hale","q":-283,"r":485 },
+		"E05015249":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.37365","lon":"-2.3129","n":"Hale Barns & Timperley South","q":-282,"r":485 },
+		"E05015250":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.44519","lon":"-2.29454","n":"Longford","q":-280,"r":490 },
+		"E05015251":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.46194","lon":"-2.34118","n":"Lostock & Barton","q":-282,"r":491 },
+		"E05015252":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.41917","lon":"-2.34702","n":"Manor","q":-282,"r":488 },
+		"E05015253":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.45959","lon":"-2.26482","n":"Old Trafford","q":-280,"r":491 },
+		"E05015254":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.42976","lon":"-2.30897","n":"Sale Central","q":-281,"r":489 },
+		"E05015255":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.41951","lon":"-2.28998","n":"Sale Moor","q":-280,"r":489 },
+		"E05015256":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.44158","lon":"-2.32087","n":"Stretford & Humphrey Park","q":-281,"r":490 },
+		"E05015257":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.39349","lon":"-2.32197","n":"Timperley Central","q":-281,"r":486 },
+		"E05015258":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.40372","lon":"-2.32614","n":"Timperley North","q":-282,"r":487 },
+		"E05015259":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.44862","lon":"-2.34985","n":"Urmston","q":-282,"r":490 }
+	},
+	"layout":"odd-r"
+}

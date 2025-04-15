@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05002229":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.50642","lon":"0.250663","n":"Aveley and Uplands","q":-178,"r":392 },
+		"E05002230":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.50706","lon":"0.29289","n":"Belhus","q":-177,"r":392 },
+		"E05002231":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.48917","lon":"0.371569","n":"Chadwell St Mary","q":-174,"r":392 },
+		"E05002232":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.49476","lon":"0.303813","n":"Chafford and North Stifford","q":-177,"r":391 },
+		"E05002233":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.52426","lon":"0.485295","n":"Corringham and Fobbing","q":-172,"r":393 },
+		"E05002234":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.47898","lon":"0.40794","n":"East Tilbury","q":-173,"r":391 },
+		"E05002235":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.47927","lon":"0.315274","n":"Grays Riverside","q":-175,"r":390 },
+		"E05002236":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.48277","lon":"0.327738","n":"Grays Thurrock","q":-176,"r":391 },
+		"E05002237":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.49296","lon":"0.345646","n":"Little Thurrock Blackshots","q":-175,"r":392 },
+		"E05002238":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.4815","lon":"0.346211","n":"Little Thurrock Rectory","q":-175,"r":391 },
+		"E05002239":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.5242","lon":"0.299893","n":"Ockendon","q":-177,"r":393 },
+		"E05002240":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.52983","lon":"0.375541","n":"Orsett","q":-175,"r":393 },
+		"E05002241":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.48634","lon":"0.295927","n":"South Chafford","q":-178,"r":391 },
+		"E05002242":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.52425","lon":"0.445894","n":"Stanford East and Corringham Town","q":-172,"r":392 },
+		"E05002243":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.50993","lon":"0.436091","n":"Stanford-le-Hope West","q":-173,"r":392 },
+		"E05002244":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.50293","lon":"0.325955","n":"Stifford Clays","q":-176,"r":392 },
+		"E05002245":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.53126","lon":"0.441079","n":"The Homesteads","q":-173,"r":393 },
+		"E05002246":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.46353","lon":"0.346657","n":"Tilbury Riverside and Thurrock Park","q":-173,"r":390 },
+		"E05002247":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.46977","lon":"0.3716","n":"Tilbury St Chads","q":-174,"r":391 },
+		"E05002248":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.47982","lon":"0.261596","n":"West Thurrock and South Stifford","q":-179,"r":391 }
+	},
+	"layout":"odd-r"
+}

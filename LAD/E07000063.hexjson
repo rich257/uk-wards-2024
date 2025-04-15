@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05011583":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.93601","lon":"-0.00371","n":"Chailey, Barcombe & Hamsey","q":-180,"r":311 },
+		"E05011584":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.91493","lon":"-0.10617","n":"Ditchling & Westmeston","q":-182,"r":309 },
+		"E05011585":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.80402","lon":"-0.01714","n":"East Saltdean & Telscombe Cliffs","q":-182,"r":307 },
+		"E05011586":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.84281","lon":"-0.00536","n":"Kingston","q":-180,"r":308 },
+		"E05011587":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.8765","lon":"0.028257","n":"Lewes Bridge","q":-179,"r":310 },
+		"E05011588":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.87699","lon":"0.003118","n":"Lewes Castle","q":-180,"r":310 },
+		"E05011589":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.87116","lon":"-0.00846","n":"Lewes Priory","q":-180,"r":309 },
+		"E05011590":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.80209","lon":"0.0626","n":"Newhaven North","q":-180,"r":307 },
+		"E05011591":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.78852","lon":"0.044523","n":"Newhaven South","q":-179,"r":306 },
+		"E05011592":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.96626","lon":"0.025341","n":"Newick","q":-179,"r":311 },
+		"E05011593":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.8653","lon":"0.069027","n":"Ouse Valley & Ringmer","q":-179,"r":308 },
+		"E05011594":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.79296","lon":"0.017601","n":"Peacehaven East","q":-180,"r":306 },
+		"E05011595":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.80377","lon":"0.004953","n":"Peacehaven North","q":-181,"r":307 },
+		"E05011596":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.79533","lon":"-0.00261","n":"Peacehaven West","q":-181,"r":306 },
+		"E05011597":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.91971","lon":"-0.05331","n":"Plumpton, Streat, East Chiltington & St John","q":-181,"r":309 },
+		"E05011598":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.77449","lon":"0.100931","n":"Seaford Central","q":-178,"r":307 },
+		"E05011599":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.77159","lon":"0.132968","n":"Seaford East","q":-176,"r":307 },
+		"E05011600":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.78886","lon":"0.122446","n":"Seaford North","q":-178,"r":308 },
+		"E05011601":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.77058","lon":"0.113804","n":"Seaford South","q":-177,"r":307 },
+		"E05011602":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.78769","lon":"0.088342","n":"Seaford West","q":-179,"r":307 },
+		"E05011603":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.97032","lon":"-0.08878","n":"Wivelsfield","q":-181,"r":310 }
+	},
+	"layout":"odd-r"
+}

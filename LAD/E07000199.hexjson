@@ -1,0 +1,15 @@
+{
+	"hexes":{
+		"E05007066":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.6337","lon":"-1.65679","n":"Amington","q":-254,"r":443 },
+		"E05007067":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.61755","lon":"-1.67668","n":"Belgrave","q":-255,"r":442 },
+		"E05007068":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.63182","lon":"-1.67611","n":"Bolehall","q":-255,"r":443 },
+		"E05007069":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.62983","lon":"-1.70443","n":"Castle","q":-256,"r":443 },
+		"E05007070":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.62436","lon":"-1.66018","n":"Glascote","q":-254,"r":442 },
+		"E05007071":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.64311","lon":"-1.71421","n":"Mercian","q":-256,"r":444 },
+		"E05007072":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.64611","lon":"-1.65056","n":"Spital","q":-255,"r":444 },
+		"E05007073":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.61357","lon":"-1.64954","n":"Stonydelph","q":-254,"r":441 },
+		"E05007074":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.59659","lon":"-1.69145","n":"Trinity","q":-256,"r":441 },
+		"E05007075":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.60324","lon":"-1.66154","n":"Wilnecote","q":-255,"r":441 }
+	},
+	"layout":"odd-r"
+}

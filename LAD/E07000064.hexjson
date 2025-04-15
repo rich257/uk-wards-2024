@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05011604":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.8411","lon":"0.470473","n":"Bexhill Central","q":-170,"r":314 },
+		"E05011605":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.83773","lon":"0.448662","n":"Bexhill Collington","q":-171,"r":314 },
+		"E05011606":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.8451","lon":"0.452018","n":"Bexhill Kewhurst","q":-171,"r":315 },
+		"E05011607":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.85303","lon":"0.483152","n":"Bexhill Old Town & Worsham","q":-170,"r":315 },
+		"E05011608":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.85537","lon":"0.507006","n":"Bexhill Pebsham & St Michaels","q":-169,"r":315 },
+		"E05011609":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.84132","lon":"0.487574","n":"Bexhill Sackville","q":-169,"r":314 },
+		"E05011610":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.86345","lon":"0.470631","n":"Bexhill Sidley","q":-169,"r":316 },
+		"E05011611":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.8441","lon":"0.411947","n":"Bexhill St Marks","q":-172,"r":315 },
+		"E05011612":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.85258","lon":"0.458662","n":"Bexhill St Stephens","q":-170,"r":316 },
+		"E05011613":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.94429","lon":"0.637555","n":"Brede & Udimore","q":-167,"r":318 },
+		"E05011614":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.98594","lon":"0.41241","n":"Burwash & the Weald","q":-170,"r":319 },
+		"E05011615":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.91245","lon":"0.402547","n":"Catsfield & Crowhurst","q":-170,"r":317 },
+		"E05011616":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.96459","lon":"0.702828","n":"Eastern Rother","q":-167,"r":319 },
+		"E05011617":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"51.04067","lon":"0.411542","n":"Hurst Green & Ticehurst","q":-169,"r":320 },
+		"E05011618":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.93546","lon":"0.475215","n":"North Battle, Netherfield & Whatlington","q":-169,"r":318 },
+		"E05011619":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.98537","lon":"0.585878","n":"Northern Rother","q":-168,"r":319 },
+		"E05011620":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.9958","lon":"0.485708","n":"Robertsbridge","q":-169,"r":319 },
+		"E05011621":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.94832","lon":"0.719141","n":"Rye & Winchelsea","q":-166,"r":318 },
+		"E05011622":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.92467","lon":"0.572235","n":"Sedlescombe & Westfield","q":-168,"r":318 },
+		"E05011623":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.91462","lon":"0.503218","n":"South Battle & Telham","q":-169,"r":317 },
+		"E05011624":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.90126","lon":"0.663128","n":"Southern Rother","q":-168,"r":317 }
+	},
+	"layout":"odd-r"
+}

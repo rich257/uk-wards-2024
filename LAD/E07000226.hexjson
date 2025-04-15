@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"E05012914":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.10485","lon":"-0.22243","n":"Bewbush & North Broadfield","q":-196,"r":320 },
+		"E05012915":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.09303","lon":"-0.20678","n":"Broadfield","q":-196,"r":319 },
+		"E05012916":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.10273","lon":"-0.17181","n":"Furnace Green","q":-193,"r":320 },
+		"E05012917":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.10977","lon":"-0.20861","n":"Gossops Green & North East Broadfield","q":-195,"r":320 },
+		"E05012918":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.12178","lon":"-0.21769","n":"Ifield","q":-196,"r":321 },
+		"E05012919":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.14484","lon":"-0.2021","n":"Langley Green & Tushmore","q":-194,"r":322 },
+		"E05012920":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.10451","lon":"-0.15289","n":"Maidenbower","q":-192,"r":320 },
+		"E05012921":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.11966","lon":"-0.19146","n":"Northgate & West Green","q":-195,"r":321 },
+		"E05012922":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.14161","lon":"-0.14763","n":"Pound Hill North & Forge Wood","q":-193,"r":322 },
+		"E05012923":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.11437","lon":"-0.14841","n":"Pound Hill South & Worth","q":-193,"r":321 },
+		"E05012924":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.10793","lon":"-0.19371","n":"Southgate","q":-194,"r":320 },
+		"E05012925":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.11643","lon":"-0.17569","n":"Three Bridges","q":-194,"r":321 },
+		"E05012926":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.09635","lon":"-0.18482","n":"Tilgate","q":-195,"r":319 }
+	},
+	"layout":"odd-r"
+}

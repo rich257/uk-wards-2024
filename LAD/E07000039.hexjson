@@ -1,0 +1,20 @@
+{
+	"hexes":{
+		"E05008809":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.8703","lon":"-1.37398","n":"Aston","q":-238,"r":443 },
+		"E05008810":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.76078","lon":"-1.57083","n":"Church Gresley","q":-241,"r":440 },
+		"E05008811":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.8876","lon":"-1.59762","n":"Etwall","q":-240,"r":444 },
+		"E05008812":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.86883","lon":"-1.6832","n":"Hatton","q":-241,"r":443 },
+		"E05008813":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.88796","lon":"-1.6803","n":"Hilton","q":-241,"r":444 },
+		"E05008814":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.75618","lon":"-1.6145","n":"Linton","q":-242,"r":440 },
+		"E05008815":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.82675","lon":"-1.4329","n":"Melbourne","q":-238,"r":442 },
+		"E05008816":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.78611","lon":"-1.54976","n":"Midway","q":-240,"r":441 },
+		"E05008817":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.77956","lon":"-1.5906","n":"Newhall and Stanton","q":-241,"r":441 },
+		"E05008818":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.80646","lon":"-1.51769","n":"Repton","q":-239,"r":442 },
+		"E05008819":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.73502","lon":"-1.66059","n":"Seales","q":-242,"r":439 },
+		"E05008820":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.8662","lon":"-1.5107","n":"Stenson","q":-239,"r":443 },
+		"E05008821":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.77346","lon":"-1.55585","n":"Swadlincote","q":-240,"r":440 },
+		"E05008822":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.86344","lon":"-1.55024","n":"Willington and Findern","q":-240,"r":443 },
+		"E05008823":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.78393","lon":"-1.51948","n":"Woodville","q":-239,"r":441 }
+	},
+	"layout":"odd-r"
+}

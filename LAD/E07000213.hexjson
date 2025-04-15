@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"E05007362":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.42588","lon":"-0.43916","n":"Ashford Common","q":-207,"r":334 },
+		"E05007363":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.43098","lon":"-0.45616","n":"Ashford East","q":-208,"r":333 },
+		"E05007364":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.44583","lon":"-0.47004","n":"Ashford North and Stanwell South","q":-208,"r":335 },
+		"E05007365":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.43265","lon":"-0.47675","n":"Ashford Town","q":-208,"r":334 },
+		"E05007366":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.40731","lon":"-0.42889","n":"Halliford and Sunbury West","q":-207,"r":333 },
+		"E05007367":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.41009","lon":"-0.46575","n":"Laleham and Shepperton Green","q":-207,"r":332 },
+		"E05007368":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.42059","lon":"-0.49576","n":"Riverside and Laleham","q":-209,"r":332 },
+		"E05007369":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.39109","lon":"-0.45624","n":"Shepperton Town","q":-208,"r":332 },
+		"E05007370":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.44837","lon":"-0.51862","n":"Staines","q":-209,"r":334 },
+		"E05007371":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.42623","lon":"-0.48492","n":"Staines South","q":-209,"r":333 },
+		"E05007372":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.45304","lon":"-0.49169","n":"Stanwell North","q":-209,"r":335 },
+		"E05007373":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.42569","lon":"-0.41914","n":"Sunbury Common","q":-206,"r":334 },
+		"E05007374":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.4134","lon":"-0.40452","n":"Sunbury East","q":-206,"r":333 }
+	},
+	"layout":"odd-r"
+}

@@ -1,0 +1,12 @@
+{
+	"hexes":{
+		"S13003115":{"LAD24CD":"S12000030","LAD24NM":"Stirling","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#74AEA8","lat":"56.31855","lon":"-4.4107","n":"Trossachs and Teith","q":-302,"r":611 },
+		"S13003116":{"LAD24CD":"S12000030","LAD24NM":"Stirling","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#74AEA8","lat":"56.09125","lon":"-4.354","n":"Forth and Endrick","q":-301,"r":610 },
+		"S13003117":{"LAD24CD":"S12000030","LAD24NM":"Stirling","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#74AEA8","lat":"56.19181","lon":"-3.92336","n":"Dunblane and Bridge of Allan","q":-301,"r":611 },
+		"S13003118":{"LAD24CD":"S12000030","LAD24NM":"Stirling","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#74AEA8","lat":"56.1524","lon":"-3.89928","n":"Stirling North","q":-300,"r":611 },
+		"S13003119":{"LAD24CD":"S12000030","LAD24NM":"Stirling","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#74AEA8","lat":"56.08022","lon":"-4.02046","n":"Stirling West","q":-300,"r":610 },
+		"S13003120":{"LAD24CD":"S12000030","LAD24NM":"Stirling","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#74AEA8","lat":"56.10591","lon":"-3.91944","n":"Stirling East","q":-299,"r":610 },
+		"S13003121":{"LAD24CD":"S12000030","LAD24NM":"Stirling","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#74AEA8","lat":"56.07829","lon":"-3.86171","n":"Bannockburn","q":-300,"r":609 }
+	},
+	"layout":"odd-r"
+}

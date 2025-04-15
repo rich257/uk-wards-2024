@@ -1,0 +1,19 @@
+{
+	"hexes":{
+		"E05015093":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.36557","lon":"-0.2538","n":"Auriol","q":-201,"r":330 },
+		"E05015094":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.32637","lon":"-0.25239","n":"College","q":-202,"r":327 },
+		"E05015095":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.34602","lon":"-0.26835","n":"Court","q":-203,"r":329 },
+		"E05015096":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.37426","lon":"-0.25587","n":"Cuddington","q":-202,"r":331 },
+		"E05015097":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.3628","lon":"-0.26271","n":"Ewell Court","q":-202,"r":330 },
+		"E05015098":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.35104","lon":"-0.25191","n":"Ewell Village","q":-202,"r":329 },
+		"E05015099":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.34738","lon":"-0.28789","n":"Horton","q":-204,"r":329 },
+		"E05015100":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.34477","lon":"-0.23615","n":"Nonsuch","q":-201,"r":328 },
+		"E05015101":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.36487","lon":"-0.2776","n":"Ruxley","q":-204,"r":330 },
+		"E05015102":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.33165","lon":"-0.28982","n":"Stamford","q":-203,"r":328 },
+		"E05015103":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.36061","lon":"-0.24262","n":"Stoneleigh","q":-201,"r":329 },
+		"E05015104":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.33637","lon":"-0.26444","n":"Town","q":-202,"r":328 },
+		"E05015105":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.35574","lon":"-0.26376","n":"West Ewell","q":-203,"r":330 },
+		"E05015106":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.31294","lon":"-0.26426","n":"Woodcote & Langley Vale","q":-203,"r":327 }
+	},
+	"layout":"odd-r"
+}

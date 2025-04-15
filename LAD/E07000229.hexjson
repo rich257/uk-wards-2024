@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"E05007694":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.82706","lon":"-0.36519","n":"Broadwater","q":-200,"r":306 },
+		"E05007695":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.82311","lon":"-0.41566","n":"Castle","q":-203,"r":306 },
+		"E05007696":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.81405","lon":"-0.37245","n":"Central","q":-201,"r":305 },
+		"E05007697":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.83394","lon":"-0.41328","n":"Durrington","q":-203,"r":307 },
+		"E05007698":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.82405","lon":"-0.38028","n":"Gaisford","q":-201,"r":306 },
+		"E05007699":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.81028","lon":"-0.42284","n":"Goring","q":-204,"r":305 },
+		"E05007700":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.81256","lon":"-0.3864","n":"Heene","q":-202,"r":305 },
+		"E05007701":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.81191","lon":"-0.39922","n":"Marine","q":-203,"r":305 },
+		"E05007702":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.83115","lon":"-0.42922","n":"Northbrook","q":-204,"r":307 },
+		"E05007703":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.84592","lon":"-0.38208","n":"Offington","q":-201,"r":307 },
+		"E05007704":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.84415","lon":"-0.40799","n":"Salvington","q":-202,"r":307 },
+		"E05007705":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.81726","lon":"-0.34799","n":"Selden","q":-200,"r":305 },
+		"E05007706":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.82408","lon":"-0.39625","n":"Tarring","q":-202,"r":306 }
+	},
+	"layout":"odd-r"
+}

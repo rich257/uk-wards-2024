@@ -1,0 +1,33 @@
+{
+	"hexes":{
+		"W05001228":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.55068","lon":"-3.62467","n":"Aberkenfig","q":-327,"r":395 },
+		"W05001229":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.58629","lon":"-3.5174","n":"Blackmill","q":-325,"r":396 },
+		"W05001230":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.50002","lon":"-3.54821","n":"Brackla East and Coychurch Lower","q":-323,"r":392 },
+		"W05001231":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.50853","lon":"-3.55027","n":"Brackla East Central","q":-323,"r":393 },
+		"W05001232":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.50922","lon":"-3.56872","n":"Brackla West","q":-324,"r":392 },
+		"W05001233":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.50948","lon":"-3.56066","n":"Brackla West Central","q":-324,"r":393 },
+		"W05001234":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.51118","lon":"-3.58584","n":"Bridgend Central","q":-325,"r":393 },
+		"W05001235":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.50013","lon":"-3.63007","n":"Bryntirion, Laleston and Merthyr Mawr","q":-326,"r":393 },
+		"W05001236":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.62855","lon":"-3.64194","n":"Caerau","q":-327,"r":398 },
+		"W05001237":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.51645","lon":"-3.60022","n":"Cefn-glas","q":-325,"r":394 },
+		"W05001238":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.52346","lon":"-3.5548","n":"Coity Higher","q":-324,"r":394 },
+		"W05001239":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.5186","lon":"-3.70515","n":"Cornelly","q":-329,"r":393 },
+		"W05001240":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.59926","lon":"-3.58417","n":"Garw Valley","q":-326,"r":396 },
+		"W05001241":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.57996","lon":"-3.64719","n":"Llangynwyd","q":-327,"r":396 },
+		"W05001242":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.60463","lon":"-3.62701","n":"Maesteg East","q":-327,"r":397 },
+		"W05001243":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.60003","lon":"-3.66734","n":"Maesteg West","q":-328,"r":397 },
+		"W05001244":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.62723","lon":"-3.54169","n":"Nant-y-moel","q":-326,"r":398 },
+		"W05001245":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.48947","lon":"-3.6722","n":"Newton","q":-326,"r":392 },
+		"W05001246":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.49798","lon":"-3.70368","n":"Nottage","q":-328,"r":393 },
+		"W05001247":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.60282","lon":"-3.53134","n":"Ogmore Vale","q":-326,"r":397 },
+		"W05001248":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.49539","lon":"-3.57597","n":"Oldcastle","q":-325,"r":392 },
+		"W05001249":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.54165","lon":"-3.50135","n":"Pencoed and Penprysg","q":-325,"r":395 },
+		"W05001250":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.52566","lon":"-3.60357","n":"Pen-y-fai","q":-326,"r":394 },
+		"W05001251":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.4847","lon":"-3.69277","n":"Porthcawl East Central","q":-327,"r":393 },
+		"W05001252":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.48224","lon":"-3.70702","n":"Porthcawl West Central","q":-327,"r":392 },
+		"W05001253":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.53263","lon":"-3.65887","n":"Pyle, Kenfig Hill and Cefn Cribwr","q":-327,"r":394 },
+		"W05001254":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.49154","lon":"-3.72183","n":"Rest Bay","q":-328,"r":392 },
+		"W05001255":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.54772","lon":"-3.57016","n":"St Bride's Minor and Ynysawdre","q":-326,"r":395 }
+	},
+	"layout":"odd-r"
+}

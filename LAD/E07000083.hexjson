@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05012065":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.85433","lon":"-2.15614","n":"Brockworth East","q":-288,"r":396 },
+		"E05012066":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.84408","lon":"-2.16518","n":"Brockworth West","q":-289,"r":396 },
+		"E05012071":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.95216","lon":"-2.05695","n":"Cleeve St Michael's","q":-286,"r":399 },
+		"E05012072":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.94953","lon":"-2.08024","n":"Cleeve West","q":-287,"r":399 },
+		"E05012073":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.94568","lon":"-2.26406","n":"Highnam with Haw Bridge","q":-288,"r":400 },
+		"E05012076":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"52.00576","lon":"-2.11617","n":"Northway","q":-286,"r":402 },
+		"E05012077":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.94842","lon":"-2.16202","n":"Severn Vale North","q":-287,"r":400 },
+		"E05012078":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.9132","lon":"-2.21966","n":"Severn Vale South","q":-288,"r":399 },
+		"E05012079":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.86884","lon":"-2.10246","n":"Shurdington","q":-287,"r":396 },
+		"E05012081":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"52.02285","lon":"-2.15162","n":"Tewkesbury North & Twyning","q":-287,"r":402 },
+		"E05012082":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.97695","lon":"-2.16763","n":"Tewkesbury South","q":-288,"r":401 },
+		"E05012083":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.93574","lon":"-1.94602","n":"Winchcombe","q":-285,"r":400 },
+		"E05015480":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.8533","lon":"-2.13722","n":"Badgeworth","q":-288,"r":397 },
+		"E05015481":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.87091","lon":"-2.17393","n":"Churchdown Brookfield with Hucclecote","q":-289,"r":397 },
+		"E05015482":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.89011","lon":"-2.1746","n":"Churchdown St John's","q":-288,"r":398 },
+		"E05015483":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.93768","lon":"-2.07861","n":"Cleeve Grange","q":-286,"r":398 },
+		"E05015484":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.94252","lon":"-2.03627","n":"Cleeve Hill","q":-286,"r":400 },
+		"E05015485":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.89171","lon":"-2.21678","n":"Innsworth","q":-290,"r":397 },
+		"E05015486":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"52.00066","lon":"-1.89276","n":"Isbourne","q":-286,"r":401 },
+		"E05015487":{"LAD24CD":"E07000083","LAD24NM":"Tewkesbury","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#574013","lat":"51.98016","lon":"-2.13613","n":"Tewkesbury East","q":-287,"r":401 }
+	},
+	"layout":"odd-r"
+}

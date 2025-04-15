@@ -1,0 +1,22 @@
+{
+	"hexes":{
+		"E05013697":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.55633","lon":"-0.10713","n":"Arsenal","q":-188,"r":373 },
+		"E05013698":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.53799","lon":"-0.11146","n":"Barnsbury","q":-188,"r":371 },
+		"E05013699":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.52358","lon":"-0.0935","n":"Bunhill","q":-187,"r":369 },
+		"E05013700":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.53884","lon":"-0.12023","n":"Caledonian","q":-188,"r":370 },
+		"E05013701":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.54286","lon":"-0.09213","n":"Canonbury","q":-186,"r":372 },
+		"E05013702":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.52747","lon":"-0.11002","n":"Clerkenwell","q":-188,"r":369 },
+		"E05013703":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.56234","lon":"-0.10939","n":"Finsbury Park","q":-188,"r":374 },
+		"E05013704":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.55099","lon":"-0.1","n":"Highbury","q":-187,"r":373 },
+		"E05013705":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.57024","lon":"-0.12882","n":"Hillrise","q":-190,"r":375 },
+		"E05013706":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.55209","lon":"-0.12022","n":"Holloway","q":-188,"r":372 },
+		"E05013707":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.56252","lon":"-0.13425","n":"Junction","q":-189,"r":374 },
+		"E05013708":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.54648","lon":"-0.11136","n":"Laycock","q":-187,"r":372 },
+		"E05013709":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.55186","lon":"-0.0861","n":"Mildmay","q":-186,"r":373 },
+		"E05013710":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.53808","lon":"-0.098","n":"St Mary's & St James'","q":-187,"r":371 },
+		"E05013711":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.53073","lon":"-0.09884","n":"St Peter's & Canalside","q":-187,"r":370 },
+		"E05013712":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.56323","lon":"-0.11996","n":"Tollington","q":-189,"r":375 },
+		"E05013713":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.55557","lon":"-0.12974","n":"Tufnell Park","q":-189,"r":373 }
+	},
+	"layout":"odd-r"
+}

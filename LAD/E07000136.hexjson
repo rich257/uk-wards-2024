@@ -1,0 +1,20 @@
+{
+	"hexes":{
+		"E05009621":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.99093","lon":"0.089279","n":"Coastal","q":-204,"r":456 },
+		"E05009622":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.9858","lon":"-0.04788","n":"Fenside","q":-207,"r":457 },
+		"E05009623":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.9836","lon":"0.005797","n":"Fishtoft","q":-205,"r":455 },
+		"E05009624":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.9095","lon":"-0.10183","n":"Five Village","q":-209,"r":455 },
+		"E05009625":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.94036","lon":"-0.06652","n":"Kirton and Frampton","q":-208,"r":454 },
+		"E05009626":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"53.05072","lon":"0.106329","n":"Old Leake and Wrangle","q":-204,"r":457 },
+		"E05009627":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.96401","lon":"-0.02794","n":"St Thomas'","q":-206,"r":454 },
+		"E05009628":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.97465","lon":"-0.01266","n":"Skirbeck","q":-206,"r":455 },
+		"E05009629":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.97321","lon":"-0.03914","n":"Staniland","q":-207,"r":455 },
+		"E05009630":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.97785","lon":"-0.03276","n":"Station","q":-206,"r":456 },
+		"E05009631":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.99567","lon":"-0.12033","n":"Swineshead and Holland Fen","q":-208,"r":455 },
+		"E05009632":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.98457","lon":"-0.01364","n":"Trinity","q":-205,"r":456 },
+		"E05009633":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.97651","lon":"-0.05117","n":"West","q":-207,"r":456 },
+		"E05009634":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.98936","lon":"-0.03069","n":"Witham","q":-206,"r":457 },
+		"E05009635":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.95314","lon":"-0.02303","n":"Wyberton","q":-207,"r":454 }
+	},
+	"layout":"odd-r"
+}

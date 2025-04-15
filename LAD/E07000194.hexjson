@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"E05010651":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.72321","lon":"-1.7659","n":"Alrewas & Fradley","q":-254,"r":449 },
+		"E05010652":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.73559","lon":"-1.8434","n":"Armitage with Handsacre","q":-256,"r":450 },
+		"E05010653":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.67985","lon":"-1.8067","n":"Boley Park","q":-255,"r":447 },
+		"E05010654":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.68701","lon":"-1.92608","n":"Boney Hay & Central","q":-258,"r":449 },
+		"E05010655":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.62306","lon":"-1.76708","n":"Bourne Vale","q":-254,"r":446 },
+		"E05010656":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.69444","lon":"-1.83839","n":"Chadsmead","q":-256,"r":449 },
+		"E05010657":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.68903","lon":"-1.94405","n":"Chase Terrace","q":-259,"r":449 },
+		"E05010658":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.669","lon":"-1.94384","n":"Chasetown","q":-258,"r":448 },
+		"E05010659":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.77652","lon":"-1.88306","n":"Colton & the Ridwares","q":-257,"r":451 },
+		"E05010660":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.69568","lon":"-1.82518","n":"Curborough","q":-255,"r":449 },
+		"E05010661":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.62113","lon":"-1.73108","n":"Fazeley","q":-253,"r":446 },
+		"E05010662":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.66285","lon":"-1.8871","n":"Hammerwich with Wall","q":-257,"r":447 },
+		"E05010663":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.68481","lon":"-1.88515","n":"Highfield","q":-256,"r":448 },
+		"E05010664":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.68154","lon":"-1.84595","n":"Leomansley","q":-255,"r":448 },
+		"E05010665":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.60786","lon":"-1.87421","n":"Little Aston & Stonnall","q":-257,"r":446 },
+		"E05010666":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.71338","lon":"-1.87374","n":"Longdon","q":-257,"r":449 },
+		"E05010667":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.69172","lon":"-1.6465","n":"Mease Valley","q":-253,"r":448 },
+		"E05010668":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.67008","lon":"-1.82919","n":"St John's","q":-256,"r":447 },
+		"E05010669":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.63352","lon":"-1.85324","n":"Shenstone","q":-256,"r":446 },
+		"E05010670":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.68948","lon":"-1.81667","n":"Stowe","q":-254,"r":448 },
+		"E05010671":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.67699","lon":"-1.9153","n":"Summerfield & All Saints","q":-257,"r":448 },
+		"E05010672":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.66387","lon":"-1.7436","n":"Whittington & Streethay","q":-254,"r":447 }
+	},
+	"layout":"odd-r"
+}

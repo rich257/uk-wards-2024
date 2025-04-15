@@ -1,0 +1,29 @@
+{
+	"hexes":{
+		"E05009754":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.67609","lon":"-1.27696","n":"Abingdon Abbey Northcourt","q":-236,"r":344 },
+		"E05009755":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.66111","lon":"-1.29035","n":"Abingdon Caldecott","q":-237,"r":343 },
+		"E05009757":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.67175","lon":"-1.29641","n":"Abingdon Fitzharris","q":-237,"r":344 },
+		"E05009769":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.58022","lon":"-1.48751","n":"Ridgeway","q":-240,"r":341 },
+		"E05009770":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.63725","lon":"-1.52909","n":"Stanford","q":-240,"r":343 },
+		"E05009771":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.63187","lon":"-1.3841","n":"Steventon & the Hanneys","q":-239,"r":343 },
+		"E05011713":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.5772","lon":"-1.24498","n":"Blewbury & Harwell","q":-238,"r":341 },
+		"E05011714":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.7408","lon":"-1.32376","n":"Cumnor","q":-237,"r":346 },
+		"E05011715":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.63788","lon":"-1.31339","n":"Drayton","q":-238,"r":343 },
+		"E05011717":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.63704","lon":"-1.25598","n":"Sutton Courtenay","q":-237,"r":342 },
+		"E05011718":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.69971","lon":"-1.40638","n":"Thames","q":-239,"r":345 },
+		"E05011719":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.70919","lon":"-1.31491","n":"Wootton","q":-238,"r":345 },
+		"E05012970":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.68926","lon":"-1.27776","n":"Abingdon Dunmore","q":-237,"r":345 },
+		"E05012971":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.68605","lon":"-1.26543","n":"Abingdon Peachcroft","q":-236,"r":345 },
+		"E05012973":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.66767","lon":"-1.59327","n":"Faringdon","q":-240,"r":345 },
+		"E05012974":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.61279","lon":"-1.42013","n":"Grove North","q":-239,"r":342 },
+		"E05012975":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.58333","lon":"-1.35393","n":"Hendreds","q":-238,"r":342 },
+		"E05012977":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.67881","lon":"-1.3266","n":"Marcham","q":-238,"r":344 },
+		"E05012978":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.59896","lon":"-1.42832","n":"Wantage & Grove Brook","q":-239,"r":341 },
+		"E05012979":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.56848","lon":"-1.41852","n":"Wantage Charlton","q":-239,"r":340 },
+		"E05012980":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.61622","lon":"-1.62718","n":"Watchfield & Shrivenham","q":-240,"r":344 },
+		"E05012992":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.65301","lon":"-1.42563","n":"Kingston Bagpuize","q":-239,"r":344 },
+		"E05015562":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.7506","lon":"-1.29796","n":"Botley & Sunningwell","q":-236,"r":346 },
+		"E05015563":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.6973","lon":"-1.24958","n":"Kennington & Radley","q":-235,"r":346 }
+	},
+	"layout":"odd-r"
+}

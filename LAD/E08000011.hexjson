@@ -1,0 +1,20 @@
+{
+	"hexes":{
+		"E05010935":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.47285","lon":"-2.89901","n":"Cherryfield","q":-298,"r":494 },
+		"E05010936":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.38345","lon":"-2.81838","n":"Halewood North","q":-296,"r":490 },
+		"E05010937":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.3595","lon":"-2.81797","n":"Halewood South","q":-297,"r":489 },
+		"E05010938":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.47968","lon":"-2.85121","n":"Northwood","q":-297,"r":494 },
+		"E05010939":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.42165","lon":"-2.85765","n":"Page Moss","q":-299,"r":491 },
+		"E05010940":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.44213","lon":"-2.83087","n":"Prescot North","q":-298,"r":493 },
+		"E05010941":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.42196","lon":"-2.79449","n":"Prescot South","q":-297,"r":492 },
+		"E05010942":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.40543","lon":"-2.86021","n":"Roby","q":-298,"r":490 },
+		"E05010943":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.49661","lon":"-2.88438","n":"Shevington","q":-297,"r":495 },
+		"E05010944":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.40554","lon":"-2.82405","n":"St Gabriels","q":-297,"r":490 },
+		"E05010945":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.42056","lon":"-2.83145","n":"St Michaels","q":-298,"r":491 },
+		"E05010946":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.43253","lon":"-2.85977","n":"Stockbridge","q":-298,"r":492 },
+		"E05010947":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.412","lon":"-2.87357","n":"Swanside","q":-299,"r":490 },
+		"E05010948":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.39625","lon":"-2.77587","n":"Whiston and Cronton","q":-297,"r":491 },
+		"E05010949":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.4829","lon":"-2.89865","n":"Whitefield","q":-298,"r":495 }
+	},
+	"layout":"odd-r"
+}

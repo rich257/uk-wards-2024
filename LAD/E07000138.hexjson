@@ -1,0 +1,16 @@
+{
+	"hexes":{
+		"E05010784":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.23513","lon":"-0.51183","n":"Abbey","q":-214,"r":465 },
+		"E05010785":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.21657","lon":"-0.60627","n":"Birchwood","q":-216,"r":464 },
+		"E05010786":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.2211","lon":"-0.56606","n":"Boultham","q":-215,"r":464 },
+		"E05010787":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.24041","lon":"-0.56458","n":"Carholme","q":-215,"r":465 },
+		"E05010788":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.24741","lon":"-0.54628","n":"Castle","q":-215,"r":466 },
+		"E05010789":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.24599","lon":"-0.50964","n":"Glebe","q":-213,"r":466 },
+		"E05010790":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.21184","lon":"-0.58796","n":"Hartsholme","q":-217,"r":463 },
+		"E05010791":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.24863","lon":"-0.52659","n":"Minster","q":-214,"r":466 },
+		"E05010792":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.20386","lon":"-0.56885","n":"Moorland","q":-216,"r":463 },
+		"E05010793":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.21498","lon":"-0.53955","n":"Park","q":-214,"r":464 },
+		"E05010794":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.19434","lon":"-0.56295","n":"Witham","q":-215,"r":463 }
+	},
+	"layout":"odd-r"
+}

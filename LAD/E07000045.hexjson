@@ -1,0 +1,29 @@
+{
+	"hexes":{
+		"E05011892":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.50885","lon":"-3.65822","n":"Ambrook","q":-324,"r":336 },
+		"E05011893":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.51526","lon":"-3.77156","n":"Ashburton & Buckfastleigh","q":-325,"r":337 },
+		"E05011894":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.57195","lon":"-3.54614","n":"Bishopsteignton","q":-322,"r":340 },
+		"E05011895":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.6055","lon":"-3.69394","n":"Bovey","q":-324,"r":340 },
+		"E05011896":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.54009","lon":"-3.64069","n":"Bradley","q":-324,"r":338 },
+		"E05011897":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.525","lon":"-3.5869","n":"Buckland & Milber","q":-323,"r":337 },
+		"E05011898":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.53557","lon":"-3.61132","n":"Bushell","q":-323,"r":338 },
+		"E05011899":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.61485","lon":"-3.5974","n":"Chudleigh","q":-323,"r":340 },
+		"E05011900":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.52071","lon":"-3.60802","n":"College","q":-324,"r":337 },
+		"E05011901":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.59847","lon":"-3.46746","n":"Dawlish North East","q":-322,"r":341 },
+		"E05011902":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.58675","lon":"-3.50898","n":"Dawlish South West","q":-323,"r":341 },
+		"E05011903":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.56534","lon":"-3.71434","n":"Haytor","q":-325,"r":339 },
+		"E05011904":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.48568","lon":"-3.6333","n":"Ipplepen","q":-323,"r":336 },
+		"E05011905":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.67357","lon":"-3.56321","n":"Kenn Valley","q":-323,"r":342 },
+		"E05011906":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.62913","lon":"-3.49491","n":"Kenton & Starcross","q":-322,"r":342 },
+		"E05011907":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.50938","lon":"-3.57025","n":"Kerswell-with-Combe","q":-322,"r":336 },
+		"E05011908":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.57097","lon":"-3.5761","n":"Kingsteignton East","q":-323,"r":339 },
+		"E05011909":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.56325","lon":"-3.62436","n":"Kingsteignton West","q":-324,"r":339 },
+		"E05011910":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.642","lon":"-3.79182","n":"Moretonhampstead","q":-325,"r":341 },
+		"E05011911":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.5258","lon":"-3.52202","n":"Shaldon & Stokeinteignhead","q":-322,"r":337 },
+		"E05011912":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.67732","lon":"-3.65959","n":"Teign Valley","q":-324,"r":341 },
+		"E05011913":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.56285","lon":"-3.5083","n":"Teignmouth Central","q":-321,"r":339 },
+		"E05011914":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.55979","lon":"-3.49122","n":"Teignmouth East","q":-321,"r":340 },
+		"E05011915":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.55365","lon":"-3.51022","n":"Teignmouth West","q":-322,"r":339 }
+	},
+	"layout":"odd-r"
+}

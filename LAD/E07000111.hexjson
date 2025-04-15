@@ -1,0 +1,31 @@
+{
+	"hexes":{
+		"E05005010":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.16423","lon":"0.094375","n":"Cowden and Hever","q":-188,"r":325 },
+		"E05005011":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.37936","lon":"0.166333","n":"Crockenhill and Well Hill","q":-186,"r":330 },
+		"E05005012":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.29889","lon":"0.165886","n":"Dunton Green and Riverhead","q":-187,"r":327 },
+		"E05005013":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.20798","lon":"0.066422","n":"Edenbridge North and East","q":-188,"r":326 },
+		"E05005014":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.17744","lon":"0.064742","n":"Edenbridge South and West","q":-189,"r":325 },
+		"E05005016":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.37661","lon":"0.2412","n":"Farningham, Horton Kirby and South Darenth","q":-185,"r":330 },
+		"E05005017":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.34395","lon":"0.26281","n":"Fawkham and West Kingsdown","q":-185,"r":329 },
+		"E05005018":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.32307","lon":"0.129391","n":"Halstead, Knockholt and Badgers Mount","q":-187,"r":329 },
+		"E05005021":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.30884","lon":"0.235485","n":"Kemsing","q":-185,"r":328 },
+		"E05005026":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.28262","lon":"0.201687","n":"Sevenoaks Eastern","q":-185,"r":326 },
+		"E05005027":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.25962","lon":"0.185624","n":"Sevenoaks Kippington","q":-187,"r":326 },
+		"E05005028":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.28909","lon":"0.187095","n":"Sevenoaks Northern","q":-186,"r":327 },
+		"E05005029":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.26353","lon":"0.202552","n":"Sevenoaks Town and St John's","q":-186,"r":326 },
+		"E05005031":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.39781","lon":"0.162489","n":"Swanley St Mary's","q":-187,"r":330 },
+		"E05005032":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.40211","lon":"0.178219","n":"Swanley White Oak","q":-187,"r":331 },
+		"E05009956":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.36333","lon":"0.297239","n":"Ash and New Ash Green","q":-184,"r":330 },
+		"E05009958":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.35573","lon":"0.199202","n":"Eynsford","q":-186,"r":329 },
+		"E05009959":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.36392","lon":"0.319723","n":"Hartley and Hodsoll Street","q":-184,"r":329 },
+		"E05009960":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.41106","lon":"0.185893","n":"Hextable","q":-186,"r":332 },
+		"E05009961":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.20295","lon":"0.180792","n":"Leigh and Chiddingstone Causeway","q":-187,"r":325 },
+		"E05009962":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.32422","lon":"0.198153","n":"Otford and Shoreham","q":-186,"r":328 },
+		"E05009963":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.16178","lon":"0.166049","n":"Penshurst, Fordcombe and Chiddingstone","q":-187,"r":324 },
+		"E05009964":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.39742","lon":"0.192718","n":"Swanley Christchurch and Swanley Village","q":-186,"r":331 },
+		"E05009965":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.25605","lon":"0.069509","n":"Westerham and Crockham Hill","q":-189,"r":327 },
+		"E05011558":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.26934","lon":"0.125558","n":"Brasted, Chevening and Sundridge","q":-188,"r":327 },
+		"E05011559":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.28611","lon":"0.215378","n":"Seal and Weald","q":-186,"r":325 }
+	},
+	"layout":"odd-r"
+}

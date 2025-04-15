@@ -1,0 +1,24 @@
+{
+	"hexes":{
+		"E05012494":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.41045","lon":"-0.66811","n":"Ascot & Sunninghill","q":-220,"r":337 },
+		"E05012495":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.52654","lon":"-0.73666","n":"Belmont","q":-223,"r":341 },
+		"E05012496":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.5469","lon":"-0.75223","n":"Bisham & Cookham","q":-224,"r":343 },
+		"E05012497":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.51705","lon":"-0.74619","n":"Boyn Hill","q":-224,"r":341 },
+		"E05012498":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.48355","lon":"-0.70412","n":"Bray","q":-222,"r":339 },
+		"E05012499":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.47786","lon":"-0.64128","n":"Clewer & Dedworth East","q":-220,"r":339 },
+		"E05012500":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.47793","lon":"-0.65261","n":"Clewer & Dedworth West","q":-221,"r":339 },
+		"E05012501":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.47876","lon":"-0.62693","n":"Clewer East","q":-219,"r":339 },
+		"E05012502":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.49971","lon":"-0.75005","n":"Cox Green","q":-223,"r":340 },
+		"E05012503":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.4705","lon":"-0.55898","n":"Datchet, Horton & Wraysbury","q":-218,"r":338 },
+		"E05012504":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.48697","lon":"-0.61259","n":"Eton & Castle","q":-218,"r":339 },
+		"E05012505":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.53632","lon":"-0.72997","n":"Furze Platt","q":-223,"r":342 },
+		"E05012506":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.49849","lon":"-0.79824","n":"Hurley & Walthams","q":-224,"r":340 },
+		"E05012507":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.44318","lon":"-0.61264","n":"Old Windsor","q":-219,"r":338 },
+		"E05012508":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.51307","lon":"-0.72438","n":"Oldfield","q":-222,"r":340 },
+		"E05012509":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.53299","lon":"-0.75818","n":"Pinkneys Green","q":-224,"r":342 },
+		"E05012510":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.53583","lon":"-0.7102","n":"Riverside","q":-222,"r":342 },
+		"E05012511":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.52381","lon":"-0.71534","n":"St Mary's","q":-222,"r":341 },
+		"E05012512":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.40107","lon":"-0.63178","n":"Sunningdale & Cheapside","q":-219,"r":337 }
+	},
+	"layout":"odd-r"
+}

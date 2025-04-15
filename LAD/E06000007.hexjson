@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"E05011024":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.34583","lon":"-2.58551","n":"Appleton","q":-287,"r":486 },
+		"E05011025":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.39392","lon":"-2.60234","n":"Bewsey and Whitecross","q":-289,"r":489 },
+		"E05011026":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.42368","lon":"-2.52208","n":"Birchwood","q":-286,"r":490 },
+		"E05011027":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.43001","lon":"-2.61374","n":"Burtonwood and Winwick","q":-288,"r":492 },
+		"E05011028":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.40138","lon":"-2.63111","n":"Chapelford and Old Hall","q":-289,"r":490 },
+		"E05011029":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.45347","lon":"-2.52754","n":"Culcheth, Glazebury and Croft","q":-287,"r":491 },
+		"E05011030":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.39345","lon":"-2.57609","n":"Fairfield and Howley","q":-288,"r":489 },
+		"E05011031":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.35639","lon":"-2.53762","n":"Grappenhall","q":-287,"r":487 },
+		"E05011032":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.40091","lon":"-2.65975","n":"Great Sankey North and Whittle Hall","q":-290,"r":490 },
+		"E05011033":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.38782","lon":"-2.63059","n":"Great Sankey South","q":-290,"r":489 },
+		"E05011034":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.38579","lon":"-2.55611","n":"Latchford East","q":-287,"r":488 },
+		"E05011035":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.38025","lon":"-2.5847","n":"Latchford West","q":-288,"r":488 },
+		"E05011036":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.37951","lon":"-2.52596","n":"Lymm North and Thelwall","q":-286,"r":488 },
+		"E05011037":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.36944","lon":"-2.47577","n":"Lymm South","q":-286,"r":487 },
+		"E05011038":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.40575","lon":"-2.58543","n":"Orford","q":-288,"r":490 },
+		"E05011039":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.37586","lon":"-2.67043","n":"Penketh and Cuerdley","q":-289,"r":488 },
+		"E05011040":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.41364","lon":"-2.57705","n":"Poplars and Hulme","q":-288,"r":491 },
+		"E05011041":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.41264","lon":"-2.55052","n":"Poulton North","q":-287,"r":490 },
+		"E05011042":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.39869","lon":"-2.5595","n":"Poulton South","q":-287,"r":489 },
+		"E05011043":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.4107","lon":"-2.49507","n":"Rixton and Woolston","q":-286,"r":489 },
+		"E05011044":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.36925","lon":"-2.58628","n":"Stockton Heath","q":-288,"r":487 },
+		"E05011045":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.41085","lon":"-2.62728","n":"Westbrook","q":-289,"r":491 }
+	},
+	"layout":"odd-r"
+}

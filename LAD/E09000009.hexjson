@@ -1,0 +1,29 @@
+{
+	"hexes":{
+		"E05013518":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.53977","lon":"-0.34769","n":"Central Greenford","q":-207,"r":366 },
+		"E05013519":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.51805","lon":"-0.36175","n":"Dormers Wells","q":-209,"r":365 },
+		"E05013520":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.5169","lon":"-0.31102","n":"Ealing Broadway","q":-206,"r":365 },
+		"E05013521":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.50674","lon":"-0.294","n":"Ealing Common","q":-205,"r":364 },
+		"E05013522":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.51328","lon":"-0.25738","n":"East Acton","q":-204,"r":365 },
+		"E05013523":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.53166","lon":"-0.35896","n":"Greenford Broadway","q":-208,"r":366 },
+		"E05013524":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.52493","lon":"-0.2955","n":"Hanger Hill","q":-205,"r":366 },
+		"E05013525":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.50637","lon":"-0.33259","n":"Hanwell Broadway","q":-207,"r":364 },
+		"E05013526":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.52445","lon":"-0.3696","n":"Lady Margaret","q":-209,"r":366 },
+		"E05013527":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.52162","lon":"-0.26712","n":"North Acton","q":-205,"r":365 },
+		"E05013528":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.55049","lon":"-0.3273","n":"North Greenford","q":-207,"r":367 },
+		"E05013529":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.51978","lon":"-0.34049","n":"North Hanwell","q":-208,"r":365 },
+		"E05013530":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.49865","lon":"-0.31789","n":"Northfield","q":-206,"r":363 },
+		"E05013531":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.54869","lon":"-0.37531","n":"Northolt Mandeville","q":-208,"r":367 },
+		"E05013532":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.53884","lon":"-0.39652","n":"Northolt West End","q":-209,"r":367 },
+		"E05013533":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.50076","lon":"-0.35896","n":"Norwood Green","q":-208,"r":364 },
+		"E05013534":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.53593","lon":"-0.3219","n":"Perivale","q":-206,"r":366 },
+		"E05013535":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.52622","lon":"-0.32174","n":"Pitshanger","q":-207,"r":365 },
+		"E05013536":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.5038","lon":"-0.27346","n":"South Acton","q":-204,"r":364 },
+		"E05013537":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.51159","lon":"-0.38014","n":"Southall Broadway","q":-210,"r":365 },
+		"E05013538":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.50041","lon":"-0.39124","n":"Southall Green","q":-209,"r":364 },
+		"E05013539":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.50819","lon":"-0.39103","n":"Southall West","q":-210,"r":364 },
+		"E05013540":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.50056","lon":"-0.25994","n":"Southfield","q":-203,"r":364 },
+		"E05013541":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.50663","lon":"-0.31627","n":"Walpole","q":-206,"r":364 }
+	},
+	"layout":"odd-r"
+}

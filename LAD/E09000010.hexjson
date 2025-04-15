@@ -1,0 +1,30 @@
+{
+	"hexes":{
+		"E05013672":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.62095","lon":"-0.12701","n":"Arnos Grove","q":-188,"r":383 },
+		"E05013673":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.61223","lon":"-0.09717","n":"Bowes","q":-186,"r":382 },
+		"E05013674":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.65806","lon":"-0.02854","n":"Brimsdown","q":-183,"r":386 },
+		"E05013675":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.67579","lon":"-0.04424","n":"Bullsmoor","q":-184,"r":387 },
+		"E05013676":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.63528","lon":"-0.08016","n":"Bush Hill Park","q":-185,"r":384 },
+		"E05013677":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.65827","lon":"-0.05082","n":"Carterhatch","q":-184,"r":386 },
+		"E05013678":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.66122","lon":"-0.1508","n":"Cockfosters","q":-187,"r":386 },
+		"E05013679":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.61917","lon":"-0.05073","n":"Edmonton Green","q":-184,"r":382 },
+		"E05013680":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.6722","lon":"-0.02544","n":"Enfield Lock","q":-183,"r":387 },
+		"E05013681":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.64289","lon":"-0.09493","n":"Grange Park","q":-186,"r":385 },
+		"E05013682":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.62323","lon":"-0.07368","n":"Haselbury","q":-185,"r":383 },
+		"E05013683":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.6231","lon":"-0.09156","n":"Highfield","q":-186,"r":383 },
+		"E05013684":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.63476","lon":"-0.04058","n":"Jubilee","q":-184,"r":384 },
+		"E05013685":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.62576","lon":"-0.04252","n":"Lower Edmonton","q":-184,"r":383 },
+		"E05013686":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.61237","lon":"-0.12774","n":"New Southgate","q":-187,"r":382 },
+		"E05013687":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.64652","lon":"-0.12224","n":"Oakwood","q":-187,"r":385 },
+		"E05013688":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.61924","lon":"-0.11089","n":"Palmers Green","q":-187,"r":383 },
+		"E05013689":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.64385","lon":"-0.03288","n":"Ponders End","q":-184,"r":385 },
+		"E05013690":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.67745","lon":"-0.12668","n":"Ridgeway","q":-186,"r":386 },
+		"E05013691":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.64999","lon":"-0.06704","n":"Southbury","q":-185,"r":385 },
+		"E05013692":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.63252","lon":"-0.1225","n":"Southgate","q":-187,"r":384 },
+		"E05013693":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.65703","lon":"-0.08011","n":"Town","q":-185,"r":386 },
+		"E05013694":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.61091","lon":"-0.06021","n":"Upper Edmonton","q":-185,"r":382 },
+		"E05013695":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.67615","lon":"-0.08185","n":"Whitewebbs","q":-185,"r":387 },
+		"E05013696":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.63097","lon":"-0.10641","n":"Winchmore Hill","q":-186,"r":384 }
+	},
+	"layout":"odd-r"
+}

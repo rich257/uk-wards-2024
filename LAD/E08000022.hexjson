@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05015865":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.04176","lon":"-1.53958","n":"Backworth & Holystone","q":-263,"r":564 },
+		"E05015866":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.01204","lon":"-1.52166","n":"Battle Hill","q":-264,"r":562 },
+		"E05015867":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.04413","lon":"-1.57456","n":"Camperdown","q":-265,"r":564 },
+		"E05015868":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.00245","lon":"-1.47257","n":"Chirton & Percy Main","q":-263,"r":561 },
+		"E05015869":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.03409","lon":"-1.44469","n":"Cullercoats & Whitley Bay South","q":-262,"r":563 },
+		"E05015870":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.01967","lon":"-1.55601","n":"Forest Hall","q":-265,"r":563 },
+		"E05015871":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"54.99873","lon":"-1.49887","n":"Howdon","q":-264,"r":561 },
+		"E05015872":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.03813","lon":"-1.56267","n":"Killingworth","q":-264,"r":564 },
+		"E05015873":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.01508","lon":"-1.58554","n":"Longbenton & Benton","q":-266,"r":563 },
+		"E05015874":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.03597","lon":"-1.46724","n":"Monkseaton","q":-263,"r":563 },
+		"E05015875":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.02512","lon":"-1.48407","n":"New York & Murton","q":-263,"r":562 },
+		"E05015876":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.00846","lon":"-1.44632","n":"North Shields","q":-262,"r":561 },
+		"E05015877":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.01877","lon":"-1.46054","n":"Preston with Preston Grange","q":-262,"r":562 },
+		"E05015878":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.02956","lon":"-1.51023","n":"Shiremoor","q":-264,"r":563 },
+		"E05015879":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.05496","lon":"-1.47887","n":"St Mary's","q":-263,"r":565 },
+		"E05015880":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.02109","lon":"-1.43592","n":"Tynemouth","q":-261,"r":562 },
+		"E05015881":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"54.99496","lon":"-1.52515","n":"Wallsend Central","q":-265,"r":561 },
+		"E05015882":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.00439","lon":"-1.54622","n":"Wallsend North","q":-265,"r":562 },
+		"E05015883":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.05266","lon":"-1.61076","n":"Weetslade","q":-266,"r":565 },
+		"E05015884":{"LAD24CD":"E08000022","LAD24NM":"North Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#A85840","lat":"55.04671","lon":"-1.45908","n":"Whitley Bay North","q":-262,"r":564 }
+	},
+	"layout":"odd-r"
+}

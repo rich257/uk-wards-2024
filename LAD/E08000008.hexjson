@@ -1,0 +1,24 @@
+{
+	"hexes":{
+		"E05014519":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.51054","lon":"-2.07601","n":"Ashton Hurst","q":-270,"r":494 },
+		"E05014520":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.49121","lon":"-2.08018","n":"Ashton St Michael's","q":-270,"r":493 },
+		"E05014521":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.50151","lon":"-2.1016","n":"Ashton Waterloo","q":-271,"r":494 },
+		"E05014522":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.4729","lon":"-2.1346","n":"Audenshaw","q":-271,"r":492 },
+		"E05014523":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.45761","lon":"-2.11256","n":"Denton North East","q":-271,"r":491 },
+		"E05014524":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.44214","lon":"-2.10651","n":"Denton South","q":-271,"r":490 },
+		"E05014525":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.45135","lon":"-2.13658","n":"Denton West","q":-272,"r":491 },
+		"E05014526":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.48594","lon":"-2.13209","n":"Droylsden East","q":-272,"r":493 },
+		"E05014527":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.48692","lon":"-2.15663","n":"Droylsden West","q":-273,"r":493 },
+		"E05014528":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.47546","lon":"-2.09111","n":"Dukinfield","q":-270,"r":492 },
+		"E05014529":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.47513","lon":"-2.06049","n":"Dukinfield Stalybridge","q":-269,"r":492 },
+		"E05014530":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.45042","lon":"-2.06267","n":"Hyde Godley","q":-269,"r":490 },
+		"E05014531":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.46071","lon":"-2.07969","n":"Hyde Newton","q":-270,"r":491 },
+		"E05014532":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.44104","lon":"-2.08032","n":"Hyde Werneth","q":-270,"r":490 },
+		"E05014533":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.45354","lon":"-2.01882","n":"Longdendale","q":-268,"r":490 },
+		"E05014534":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.51518","lon":"-2.02509","n":"Mossley","q":-269,"r":494 },
+		"E05014535":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.48273","lon":"-2.10755","n":"St Peter's","q":-271,"r":493 },
+		"E05014536":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.49578","lon":"-2.05274","n":"Stalybridge North","q":-269,"r":493 },
+		"E05014537":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.48576","lon":"-2.00734","n":"Stalybridge South","q":-268,"r":492 }
+	},
+	"layout":"odd-r"
+}

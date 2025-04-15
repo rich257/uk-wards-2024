@@ -1,0 +1,22 @@
+{
+	"hexes":{
+		"E05012615":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.2475","lon":"-1.54272","n":"Bishop's Tachbrook","q":-248,"r":421 },
+		"E05012616":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.26494","lon":"-1.61812","n":"Budbrooke","q":-249,"r":421 },
+		"E05012617":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.33453","lon":"-1.51681","n":"Cubbington & Leek Wootton","q":-247,"r":425 },
+		"E05012618":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.33618","lon":"-1.69291","n":"Kenilworth Abbey & Arden","q":-248,"r":426 },
+		"E05012619":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.34583","lon":"-1.55803","n":"Kenilworth Park Hill","q":-247,"r":426 },
+		"E05012620":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.33476","lon":"-1.57609","n":"Kenilworth St John's","q":-248,"r":425 },
+		"E05012621":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.27836","lon":"-1.53321","n":"Leamington Brunswick","q":-246,"r":422 },
+		"E05012622":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.29074","lon":"-1.52203","n":"Leamington Clarendon","q":-247,"r":423 },
+		"E05012623":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.31018","lon":"-1.52042","n":"Leamington Lillington","q":-246,"r":424 },
+		"E05012624":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.3017","lon":"-1.5513","n":"Leamington Milverton","q":-247,"r":424 },
+		"E05012625":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.28218","lon":"-1.51942","n":"Leamington Willes","q":-246,"r":423 },
+		"E05012626":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.30134","lon":"-1.46026","n":"Radford Semele","q":-245,"r":422 },
+		"E05012627":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.29365","lon":"-1.58296","n":"Warwick All Saints & Woodloes","q":-248,"r":424 },
+		"E05012628":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.27092","lon":"-1.59192","n":"Warwick Aylesford","q":-248,"r":422 },
+		"E05012629":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.27735","lon":"-1.56369","n":"Warwick Myton & Heathcote","q":-247,"r":422 },
+		"E05012630":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.28542","lon":"-1.59085","n":"Warwick Saltisford","q":-248,"r":423 },
+		"E05012631":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.25634","lon":"-1.5153","n":"Whitnash","q":-247,"r":421 }
+	},
+	"layout":"odd-r"
+}

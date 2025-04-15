@@ -1,0 +1,19 @@
+{
+	"hexes":{
+		"E05015803":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.10927","lon":"0.547414","n":"Cranbrook, Sissinghurst & Frittenden","q":-169,"r":323 },
+		"E05015804":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.14395","lon":"0.246795","n":"Culverden","q":-172,"r":324 },
+		"E05015805":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.11759","lon":"0.417605","n":"Rural Tunbridge Wells","q":-169,"r":324 },
+		"E05015806":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.04888","lon":"0.534494","n":"Hawkhurst, Sandhurst & Benenden","q":-170,"r":323 },
+		"E05015807":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.15293","lon":"0.275674","n":"High Brooms","q":-171,"r":326 },
+		"E05015808":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.17751","lon":"0.408148","n":"Paddock Wood","q":-170,"r":325 },
+		"E05015809":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.1212","lon":"0.253351","n":"Pantiles","q":-171,"r":323 },
+		"E05015810":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.13056","lon":"0.292841","n":"Park","q":-170,"r":324 },
+		"E05015811":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.15858","lon":"0.330988","n":"Pembury & Capel","q":-170,"r":326 },
+		"E05015812":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.13766","lon":"0.216226","n":"Rusthall & Speldhurst","q":-173,"r":325 },
+		"E05015813":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.1501","lon":"0.29165","n":"Sherwood","q":-171,"r":325 },
+		"E05015814":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.16729","lon":"0.233267","n":"Southborough & Bidborough","q":-172,"r":326 },
+		"E05015815":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.14058","lon":"0.272636","n":"St James'","q":-171,"r":324 },
+		"E05015816":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.14666","lon":"0.268331","n":"St John's","q":-172,"r":325 }
+	},
+	"layout":"odd-r"
+}

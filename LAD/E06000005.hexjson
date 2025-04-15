@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05010412":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.51834","lon":"-1.53759","n":"Bank Top & Lascelles","q":-263,"r":525 },
+		"E05010413":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.55521","lon":"-1.61051","n":"Brinkburn & Faverdale","q":-265,"r":527 },
+		"E05010414":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.53748","lon":"-1.59003","n":"Cockerton","q":-266,"r":527 },
+		"E05010415":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.52658","lon":"-1.57078","n":"College","q":-265,"r":525 },
+		"E05010416":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.51375","lon":"-1.52658","n":"Eastbourne","q":-262,"r":524 },
+		"E05010417":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.55366","lon":"-1.55131","n":"Harrowgate Hill","q":-264,"r":528 },
+		"E05010418":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.5426","lon":"-1.5292","n":"Haughton & Springfield","q":-263,"r":527 },
+		"E05010419":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.56664","lon":"-1.6626","n":"Heighington & Coniscliffe","q":-266,"r":528 },
+		"E05010420":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.51957","lon":"-1.59144","n":"Hummersknott","q":-265,"r":524 },
+		"E05010421":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.49747","lon":"-1.52279","n":"Hurworth","q":-263,"r":524 },
+		"E05010422":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.5307","lon":"-1.58759","n":"Mowden","q":-266,"r":525 },
+		"E05010423":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.54084","lon":"-1.55137","n":"North Road","q":-264,"r":527 },
+		"E05010424":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.53201","lon":"-1.55338","n":"Northgate","q":-264,"r":526 },
+		"E05010425":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.51349","lon":"-1.55372","n":"Park East","q":-264,"r":525 },
+		"E05010426":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.51477","lon":"-1.56846","n":"Park West","q":-264,"r":524 },
+		"E05010427":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.53252","lon":"-1.56949","n":"Pierremont","q":-265,"r":526 },
+		"E05010428":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.52849","lon":"-1.51722","n":"Red Hall & Lingfield","q":-262,"r":526 },
+		"E05010429":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.55523","lon":"-1.47437","n":"Sadberge & Middleton St George","q":-262,"r":528 },
+		"E05010430":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.53064","lon":"-1.53413","n":"Stephenson","q":-263,"r":526 },
+		"E05010431":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.54737","lon":"-1.52341","n":"Whinfield","q":-263,"r":528 }
+	},
+	"layout":"odd-r"
+}

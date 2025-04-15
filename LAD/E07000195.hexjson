@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05011415":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.05407","lon":"-2.30323","n":"Audley","q":-279,"r":451 },
+		"E05011416":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.04911","lon":"-2.23365","n":"Bradwell","q":-277,"r":452 },
+		"E05011417":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"52.99556","lon":"-2.21855","n":"Clayton","q":-276,"r":448 },
+		"E05011418":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.05129","lon":"-2.25792","n":"Crackley & Red Street","q":-278,"r":452 },
+		"E05011419":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.02339","lon":"-2.23569","n":"Cross Heath","q":-277,"r":450 },
+		"E05011420":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.03501","lon":"-2.25652","n":"Holditch & Chesterton","q":-278,"r":451 },
+		"E05011421":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.00629","lon":"-2.28425","n":"Keele","q":-279,"r":449 },
+		"E05011422":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.08743","lon":"-2.23589","n":"Kidsgrove & Ravenscliffe","q":-278,"r":453 },
+		"E05011423":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.01961","lon":"-2.25035","n":"Knutton","q":-278,"r":450 },
+		"E05011424":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"52.92301","lon":"-2.39697","n":"Loggerheads","q":-279,"r":447 },
+		"E05011425":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.00251","lon":"-2.34386","n":"Madeley & Betley","q":-279,"r":448 },
+		"E05011426":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"52.95859","lon":"-2.3287","n":"Maer & Whitmore","q":-278,"r":448 },
+		"E05011427":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.02269","lon":"-2.2152","n":"May Bank","q":-276,"r":450 },
+		"E05011428":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.10065","lon":"-2.20954","n":"Newchapel & Mow Cop","q":-277,"r":454 },
+		"E05011429":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.01646","lon":"-2.26962","n":"Silverdale","q":-279,"r":450 },
+		"E05011430":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.07351","lon":"-2.26045","n":"Talke & Butt Lane","q":-279,"r":453 },
+		"E05011431":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.00439","lon":"-2.24768","n":"Thistleberry","q":-278,"r":449 },
+		"E05011432":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.00982","lon":"-2.22409","n":"Town","q":-277,"r":449 },
+		"E05011433":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"52.98304","lon":"-2.22486","n":"Westbury Park & Northwood","q":-277,"r":447 },
+		"E05011434":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"52.99638","lon":"-2.23394","n":"Westlands","q":-277,"r":448 },
+		"E05011435":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.03164","lon":"-2.22265","n":"Wolstanton","q":-277,"r":451 }
+	},
+	"layout":"odd-r"
+}

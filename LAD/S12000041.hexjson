@@ -1,0 +1,13 @@
+{
+	"hexes":{
+		"S13002867":{"LAD24CD":"S12000041","LAD24NM":"Angus","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#7C8BB3","lat":"56.74366","lon":"-3.11679","n":"Kirriemuir and Dean","q":-285,"r":627 },
+		"S13002868":{"LAD24CD":"S12000041","LAD24NM":"Angus","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#7C8BB3","lat":"56.83848","lon":"-2.84959","n":"Brechin and Edzell","q":-284,"r":627 },
+		"S13002869":{"LAD24CD":"S12000041","LAD24NM":"Angus","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#7C8BB3","lat":"56.65277","lon":"-2.85796","n":"Forfar and District","q":-285,"r":626 },
+		"S13002870":{"LAD24CD":"S12000041","LAD24NM":"Angus","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#7C8BB3","lat":"56.52284","lon":"-3.02316","n":"Monifieth and Sidlaw","q":-285,"r":625 },
+		"S13002871":{"LAD24CD":"S12000041","LAD24NM":"Angus","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#7C8BB3","lat":"56.51368","lon":"-2.74918","n":"Carnoustie and District","q":-284,"r":624 },
+		"S13002872":{"LAD24CD":"S12000041","LAD24NM":"Angus","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#7C8BB3","lat":"56.60929","lon":"-2.75154","n":"Arbroath West, Letham and Friockheim","q":-284,"r":626 },
+		"S13002873":{"LAD24CD":"S12000041","LAD24NM":"Angus","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#7C8BB3","lat":"56.61123","lon":"-2.55148","n":"Arbroath East and Lunan","q":-284,"r":625 },
+		"S13002874":{"LAD24CD":"S12000041","LAD24NM":"Angus","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#7C8BB3","lat":"56.74901","lon":"-2.52245","n":"Montrose and District","q":-283,"r":626 }
+	},
+	"layout":"odd-r"
+}

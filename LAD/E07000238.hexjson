@@ -1,0 +1,32 @@
+{
+	"hexes":{
+		"E05015439":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.0873","lon":"-1.89082","n":"Badsey & Aldington","q":-265,"r":415 },
+		"E05015440":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.09149","lon":"-1.92616","n":"Bengeworth","q":-266,"r":415 },
+		"E05015441":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.22045","lon":"-2.1062","n":"Bowbrook","q":-268,"r":418 },
+		"E05015442":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.03719","lon":"-2.10346","n":"Bredon","q":-269,"r":414 },
+		"E05015443":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.04363","lon":"-2.03187","n":"Bredon Hill","q":-268,"r":414 },
+		"E05015444":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.09916","lon":"-1.87642","n":"Bretforton & Offenham","q":-265,"r":416 },
+		"E05015445":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.04612","lon":"-1.91636","n":"Broadway, Sedgeberrow & Childswickham","q":-265,"r":414 },
+		"E05015446":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.31043","lon":"-2.1344","n":"Dodderhill","q":-269,"r":421 },
+		"E05015447":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.14598","lon":"-2.16996","n":"Drakes Broughton, Norton & Whittington","q":-269,"r":417 },
+		"E05015448":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.26584","lon":"-2.14281","n":"Droitwich East","q":-268,"r":420 },
+		"E05015449":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.25158","lon":"-2.14818","n":"Droitwich South East","q":-269,"r":419 },
+		"E05015450":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.26132","lon":"-2.15878","n":"Droitwich South West","q":-270,"r":419 },
+		"E05015451":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.27126","lon":"-2.16584","n":"Droitwich West","q":-269,"r":420 },
+		"E05015452":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.08763","lon":"-2.1175","n":"Eckington","q":-269,"r":415 },
+		"E05015453":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.09866","lon":"-1.94689","n":"Evesham North","q":-267,"r":415 },
+		"E05015454":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.07808","lon":"-1.93473","n":"Evesham South","q":-266,"r":414 },
+		"E05015455":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.10189","lon":"-2.02136","n":"Fladbury","q":-268,"r":415 },
+		"E05015456":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.10012","lon":"-1.95816","n":"Hampton","q":-267,"r":414 },
+		"E05015457":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.33526","lon":"-2.22287","n":"Hartlebury","q":-270,"r":421 },
+		"E05015458":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.13201","lon":"-1.94498","n":"Harvington & Norton","q":-266,"r":416 },
+		"E05015459":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.11456","lon":"-1.83348","n":"Honeybourne, Pebworth & The Littletons","q":-264,"r":416 },
+		"E05015460":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.23839","lon":"-2.02591","n":"Inkberrow","q":-267,"r":418 },
+		"E05015461":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.24373","lon":"-2.18835","n":"North Claines & Salwarpe","q":-269,"r":418 },
+		"E05015462":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.27505","lon":"-2.22308","n":"Ombersley","q":-270,"r":420 },
+		"E05015463":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.10942","lon":"-2.08409","n":"Pershore","q":-268,"r":416 },
+		"E05015464":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.13773","lon":"-2.03748","n":"Pinvin","q":-267,"r":416 },
+		"E05015465":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.18034","lon":"-2.09262","n":"Upton Snodsbury","q":-268,"r":417 }
+	},
+	"layout":"odd-r"
+}

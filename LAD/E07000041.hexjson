@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"E05011011":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.70295","lon":"-3.53017","n":"Alphington","q":-319,"r":342 },
+		"E05011012":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.7417","lon":"-3.53459","n":"Duryard and St James","q":-320,"r":344 },
+		"E05011013":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.73167","lon":"-3.55436","n":"Exwick","q":-321,"r":343 },
+		"E05011014":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.72454","lon":"-3.50204","n":"Heavitree","q":-318,"r":344 },
+		"E05011015":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.74208","lon":"-3.49693","n":"Mincinglake and Whipton","q":-318,"r":345 },
+		"E05011016":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.72222","lon":"-3.51891","n":"Newtown and St Leonard's","q":-319,"r":344 },
+		"E05011017":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.74661","lon":"-3.51763","n":"Pennsylvania","q":-319,"r":345 },
+		"E05011018":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.73484","lon":"-3.47693","n":"Pinhoe","q":-317,"r":344 },
+		"E05011019":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.70853","lon":"-3.50069","n":"Priory","q":-319,"r":343 },
+		"E05011020":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.71969","lon":"-3.52993","n":"St David's","q":-320,"r":343 },
+		"E05011021":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.71792","lon":"-3.47803","n":"St Loyes","q":-318,"r":343 },
+		"E05011022":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.71568","lon":"-3.55084","n":"St Thomas","q":-320,"r":342 },
+		"E05011023":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.69859","lon":"-3.47513","n":"Topsham","q":-318,"r":342 }
+	},
+	"layout":"odd-r"
+}

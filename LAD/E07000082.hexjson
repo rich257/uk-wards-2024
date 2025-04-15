@@ -1,0 +1,32 @@
+{
+	"hexes":{
+		"E05010969":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.69533","lon":"-2.44377","n":"Berkeley Vale","q":-295,"r":384 },
+		"E05010972":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.69548","lon":"-2.34478","n":"Cam East","q":-294,"r":383 },
+		"E05010973":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.70625","lon":"-2.37758","n":"Cam West","q":-294,"r":384 },
+		"E05010975":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.70433","lon":"-2.29547","n":"Coaley and Uley","q":-293,"r":383 },
+		"E05010976":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.68137","lon":"-2.35321","n":"Dursley","q":-293,"r":382 },
+		"E05010981":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.79785","lon":"-2.16585","n":"Painswick and Upton","q":-291,"r":388 },
+		"E05010982":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.7583","lon":"-2.24252","n":"Randwick, Whiteshill and Ruscombe","q":-293,"r":386 },
+		"E05010986":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.74663","lon":"-2.22616","n":"Stroud Central","q":-291,"r":386 },
+		"E05010987":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.75222","lon":"-2.23604","n":"Stroud Farmhill and Paganhill","q":-292,"r":386 },
+		"E05010988":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.74595","lon":"-2.19232","n":"Stroud Slade","q":-290,"r":386 },
+		"E05010990":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.75379","lon":"-2.21417","n":"Stroud Uplands","q":-292,"r":387 },
+		"E05010991":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.74879","lon":"-2.20229","n":"Stroud Valley","q":-291,"r":387 },
+		"E05010992":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.72543","lon":"-2.28788","n":"The Stanleys","q":-293,"r":384 },
+		"E05013187":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.71484","lon":"-2.24617","n":"Amberley and Woodchester","q":-292,"r":384 },
+		"E05013188":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.75155","lon":"-2.14815","n":"Bisley","q":-290,"r":385 },
+		"E05013189":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.72671","lon":"-2.15467","n":"Chalford","q":-290,"r":384 },
+		"E05013191":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.61356","lon":"-2.33435","n":"Kingswood","q":-294,"r":381 },
+		"E05013192":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.7042","lon":"-2.16688","n":"Minchinhampton","q":-291,"r":383 },
+		"E05013193":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.68345","lon":"-2.23014","n":"Nailsworth","q":-292,"r":383 },
+		"E05013194":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.73199","lon":"-2.22622","n":"Rodborough","q":-292,"r":385 },
+		"E05013197":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.73899","lon":"-2.20101","n":"Stroud Trinity","q":-291,"r":385 },
+		"E05013198":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.72853","lon":"-2.19371","n":"Thrupp","q":-291,"r":384 },
+		"E05013199":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.66101","lon":"-2.34612","n":"Wotton-under-Edge","q":-294,"r":382 },
+		"E05013212":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.74537","lon":"-2.25108","n":"Cainscross","q":-293,"r":385 },
+		"E05015846":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.802","lon":"-2.28245","n":"Hardwicke","q":-294,"r":386 },
+		"E05015847":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.76703","lon":"-2.3677","n":"Severn","q":-295,"r":385 },
+		"E05015848":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.74761","lon":"-2.28625","n":"Stonehouse","q":-294,"r":385 }
+	},
+	"layout":"odd-r"
+}

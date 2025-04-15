@@ -1,0 +1,23 @@
+{
+	"hexes":{
+		"E05015421":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.4764","lon":"0.078185","n":"Chatteris North & Manea","q":-187,"r":434 },
+		"E05015422":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.43806","lon":"0.046869","n":"Chatteris South","q":-188,"r":433 },
+		"E05015423":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.49001","lon":"0.036272","n":"Doddington & Wimblington","q":-188,"r":434 },
+		"E05015424":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.5851","lon":"0.137276","n":"Elm & Christchurch","q":-188,"r":437 },
+		"E05015425":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.71192","lon":"0.106974","n":"Leverington & Wisbech Rural","q":-188,"r":439 },
+		"E05015426":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.54816","lon":"0.120275","n":"March East","q":-187,"r":436 },
+		"E05015427":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.5675","lon":"0.105138","n":"March North","q":-188,"r":436 },
+		"E05015428":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.5293","lon":"0.092136","n":"March South","q":-188,"r":435 },
+		"E05015429":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.55486","lon":"0.018856","n":"March West & Benwick","q":-189,"r":435 },
+		"E05015430":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.64457","lon":"0.044225","n":"Parson Drove & Wisbech St Mary","q":-188,"r":438 },
+		"E05015431":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.56056","lon":"-0.06857","n":"Whittlesey East & Villages","q":-189,"r":436 },
+		"E05015432":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.55374","lon":"-0.10746","n":"Whittlesey Lattersey","q":-190,"r":435 },
+		"E05015433":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.56737","lon":"-0.15455","n":"Whittlesey North West","q":-190,"r":436 },
+		"E05015434":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.52448","lon":"-0.09207","n":"Whittlesey South","q":-191,"r":435 },
+		"E05015435":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.677","lon":"0.160264","n":"Wisbech North","q":-187,"r":440 },
+		"E05015436":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.66921","lon":"0.166506","n":"Wisbech Riverside","q":-187,"r":439 },
+		"E05015437":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.64778","lon":"0.151388","n":"Wisbech South","q":-187,"r":438 },
+		"E05015438":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.67375","lon":"0.17457","n":"Wisbech Walsoken & Waterlees","q":-186,"r":440 }
+	},
+	"layout":"odd-r"
+}

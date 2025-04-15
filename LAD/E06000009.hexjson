@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05015186":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.87039","lon":"-3.03455","n":"Anchorsholme","q":-299,"r":526 },
+		"E05015187":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.85194","lon":"-3.04786","n":"Bispham","q":-300,"r":524 },
+		"E05015188":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.80548","lon":"-3.04928","n":"Bloomfield","q":-301,"r":520 },
+		"E05015189":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.82126","lon":"-3.03696","n":"Brunswick","q":-301,"r":521 },
+		"E05015190":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.82555","lon":"-3.04814","n":"Claremont","q":-301,"r":522 },
+		"E05015191":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.79839","lon":"-3.00404","n":"Clifton","q":-299,"r":520 },
+		"E05015192":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.83977","lon":"-3.03258","n":"Greenlands","q":-300,"r":523 },
+		"E05015193":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.79771","lon":"-3.02862","n":"Hawes Side","q":-300,"r":519 },
+		"E05015194":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.78685","lon":"-3.03247","n":"Highfield","q":-300,"r":518 },
+		"E05015195":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.85351","lon":"-3.0286","n":"Ingthorpe","q":-299,"r":524 },
+		"E05015196":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.8264","lon":"-3.0287","n":"Layton","q":-300,"r":522 },
+		"E05015197":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.80787","lon":"-3.01057","n":"Marton","q":-300,"r":521 },
+		"E05015198":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.86301","lon":"-3.03668","n":"Norbreck","q":-300,"r":525 },
+		"E05015199":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.83357","lon":"-3.01213","n":"Park","q":-299,"r":522 },
+		"E05015200":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.78209","lon":"-3.04659","n":"Squires Gate","q":-301,"r":518 },
+		"E05015201":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.78398","lon":"-3.01473","n":"Stanley","q":-299,"r":518 },
+		"E05015202":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.81686","lon":"-3.0471","n":"Talbot","q":-302,"r":521 },
+		"E05015203":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.80814","lon":"-3.03595","n":"Tyldesley","q":-300,"r":520 },
+		"E05015204":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.7999","lon":"-3.03964","n":"Victoria","q":-301,"r":519 },
+		"E05015205":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.83831","lon":"-3.04887","n":"Warbreck","q":-301,"r":523 },
+		"E05015206":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.79242","lon":"-3.04848","n":"Waterloo","q":-302,"r":519 }
+	},
+	"layout":"odd-r"
+}

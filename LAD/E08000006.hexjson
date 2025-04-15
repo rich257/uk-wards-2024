@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05013018":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.4819","lon":"-2.35803","n":"Barton & Winton","q":-282,"r":493 },
+		"E05013019":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.4862","lon":"-2.25555","n":"Blackfriars & Trinity","q":-279,"r":495 },
+		"E05013020":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.495","lon":"-2.40401","n":"Boothstown & Ellenbrook","q":-283,"r":494 },
+		"E05013021":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.49849","lon":"-2.25844","n":"Broughton","q":-279,"r":496 },
+		"E05013022":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.44349","lon":"-2.44953","n":"Cadishead & Lower Irlam","q":-284,"r":493 },
+		"E05013023":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.49642","lon":"-2.31045","n":"Claremont","q":-280,"r":494 },
+		"E05013024":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.48989","lon":"-2.34196","n":"Eccles","q":-281,"r":494 },
+		"E05013025":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.46567","lon":"-2.40504","n":"Higher Irlam & Peel Green","q":-283,"r":493 },
+		"E05013026":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.50933","lon":"-2.28185","n":"Kersal & Broughton Park","q":-280,"r":496 },
+		"E05013027":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.53191","lon":"-2.43223","n":"Little Hulton","q":-283,"r":496 },
+		"E05013028":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.47675","lon":"-2.27285","n":"Ordsall","q":-279,"r":494 },
+		"E05013029":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.51932","lon":"-2.31779","n":"Pendlebury & Clifton","q":-281,"r":496 },
+		"E05013030":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.49027","lon":"-2.28323","n":"Pendleton & Charlestown","q":-280,"r":495 },
+		"E05013031":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.47304","lon":"-2.29325","n":"Quays","q":-280,"r":493 },
+		"E05013032":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.51483","lon":"-2.35355","n":"Swinton & Wardley","q":-282,"r":495 },
+		"E05013033":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.50483","lon":"-2.32445","n":"Swinton Park","q":-281,"r":495 },
+		"E05013034":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.52937","lon":"-2.3963","n":"Walkden North","q":-282,"r":496 },
+		"E05013035":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.51969","lon":"-2.39393","n":"Walkden South","q":-283,"r":495 },
+		"E05013036":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.48278","lon":"-2.31011","n":"Weaste & Seedley","q":-281,"r":493 },
+		"E05013037":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.5014","lon":"-2.36432","n":"Worsley & Westwood Park","q":-282,"r":494 }
+	},
+	"layout":"odd-r"
+}

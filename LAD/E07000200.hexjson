@@ -1,0 +1,29 @@
+{
+	"hexes":{
+		"E05012565":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.01687","lon":"0.788877","n":"Assington","q":-164,"r":415 },
+		"E05012566":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.06125","lon":"0.845903","n":"Box Vale","q":-163,"r":416 },
+		"E05012567":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"51.96362","lon":"1.072741","n":"Brantham","q":-162,"r":413 },
+		"E05012568":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.00213","lon":"0.961196","n":"Brett Vale","q":-163,"r":415 },
+		"E05012569":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"51.98339","lon":"0.90738","n":"Bures St Mary & Nayland","q":-163,"r":414 },
+		"E05012570":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"51.99906","lon":"1.041161","n":"Capel St Mary","q":-161,"r":414 },
+		"E05012571":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.13684","lon":"0.69624","n":"Chadacre","q":-167,"r":419 },
+		"E05012572":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.04227","lon":"1.056447","n":"Copdock & Washbrook","q":-161,"r":415 },
+		"E05012573":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"51.97321","lon":"1.032302","n":"East Bergholt","q":-162,"r":414 },
+		"E05012574":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"51.97206","lon":"1.242708","n":"Ganges","q":-160,"r":413 },
+		"E05012575":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.02898","lon":"0.760151","n":"Great Cornard","q":-165,"r":415 },
+		"E05012576":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.05205","lon":"0.950465","n":"Hadleigh North","q":-162,"r":416 },
+		"E05012577":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.04146","lon":"0.973364","n":"Hadleigh South","q":-162,"r":415 },
+		"E05012578":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.1109","lon":"0.793736","n":"Lavenham","q":-164,"r":416 },
+		"E05012579":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.09116","lon":"0.737591","n":"Long Melford","q":-166,"r":418 },
+		"E05012580":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.13303","lon":"0.874752","n":"North West Cosford","q":-164,"r":417 },
+		"E05012581":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.00332","lon":"1.156221","n":"Orwell","q":-160,"r":414 },
+		"E05012582":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.07364","lon":"0.945278","n":"South East Cosford","q":-163,"r":417 },
+		"E05012583":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.05262","lon":"1.106274","n":"Sproughton & Pinewood","q":-160,"r":415 },
+		"E05012584":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"51.97612","lon":"1.156288","n":"Stour","q":-161,"r":413 },
+		"E05012585":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.04706","lon":"0.741428","n":"Sudbury North East","q":-166,"r":417 },
+		"E05012586":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.04649","lon":"0.718159","n":"Sudbury North West","q":-166,"r":416 },
+		"E05012587":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.04142","lon":"0.743679","n":"Sudbury South East","q":-165,"r":416 },
+		"E05012588":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.0344","lon":"0.724585","n":"Sudbury South West","q":-166,"r":415 }
+	},
+	"layout":"odd-r"
+}

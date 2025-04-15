@@ -1,0 +1,22 @@
+{
+	"hexes":{
+		"E05001284":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.43544","lon":"-1.71931","n":"Bickenhill","q":-253,"r":429 },
+		"E05001285":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.38112","lon":"-1.82362","n":"Blythe","q":-255,"r":427 },
+		"E05001286":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.50702","lon":"-1.77687","n":"Castle Bromwich","q":-253,"r":434 },
+		"E05001287":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.48116","lon":"-1.73178","n":"Chelmsley Wood","q":-252,"r":432 },
+		"E05001288":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.37051","lon":"-1.76757","n":"Dorridge and Hockley Heath","q":-254,"r":427 },
+		"E05001289":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.43812","lon":"-1.7671","n":"Elmdon","q":-253,"r":431 },
+		"E05001290":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.48402","lon":"-1.74945","n":"Kingshurst and Fordbridge","q":-253,"r":433 },
+		"E05001291":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.38198","lon":"-1.72643","n":"Knowle","q":-253,"r":428 },
+		"E05001292":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.4456","lon":"-1.79466","n":"Lyndon","q":-254,"r":431 },
+		"E05001293":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.39922","lon":"-1.64822","n":"Meriden","q":-252,"r":428 },
+		"E05001294":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.43422","lon":"-1.80707","n":"Olton","q":-254,"r":430 },
+		"E05001295":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.40794","lon":"-1.78196","n":"St Alphege","q":-254,"r":429 },
+		"E05001296":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.41268","lon":"-1.81673","n":"Shirley East","q":-255,"r":429 },
+		"E05001297":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.39756","lon":"-1.81747","n":"Shirley South","q":-254,"r":428 },
+		"E05001298":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.40945","lon":"-1.83905","n":"Shirley West","q":-255,"r":428 },
+		"E05001299":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.42065","lon":"-1.77916","n":"Silhill","q":-253,"r":430 },
+		"E05001300":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.502","lon":"-1.74633","n":"Smith's Wood","q":-252,"r":434 }
+	},
+	"layout":"odd-r"
+}

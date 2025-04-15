@@ -1,0 +1,29 @@
+{
+	"hexes":{
+		"W05001379":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.39264","lon":"-3.29673","n":"Baruc","q":-320,"r":387 },
+		"W05001380":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.40527","lon":"-3.27748","n":"Buttrills","q":-319,"r":388 },
+		"W05001381":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.41834","lon":"-3.2539","n":"Cadoc","q":-318,"r":388 },
+		"W05001382":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.40115","lon":"-3.25675","n":"Castleland","q":-319,"r":387 },
+		"W05001383":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.4413","lon":"-3.19306","n":"Cornerswell","q":-316,"r":390 },
+		"W05001384":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.41376","lon":"-3.26154","n":"Court","q":-319,"r":389 },
+		"W05001385":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.46864","lon":"-3.44898","n":"Cowbridge","q":-322,"r":389 },
+		"W05001386":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.44217","lon":"-3.22914","n":"Dinas Powys","q":-318,"r":389 },
+		"W05001387":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.41697","lon":"-3.30004","n":"Dyfan","q":-321,"r":389 },
+		"W05001388":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.41979","lon":"-3.26887","n":"Gibbonsdown","q":-320,"r":389 },
+		"W05001389":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.40623","lon":"-3.29417","n":"Illtyd","q":-320,"r":388 },
+		"W05001390":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.45033","lon":"-3.19963","n":"Llandough","q":-317,"r":390 },
+		"W05001391":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.44941","lon":"-3.49655","n":"Llandow","q":-323,"r":389 },
+		"W05001392":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.40937","lon":"-3.47644","n":"Llantwit Major","q":-322,"r":388 },
+		"W05001393":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.48501","lon":"-3.36782","n":"Peterston-super-Ely","q":-322,"r":390 },
+		"W05001394":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.42479","lon":"-3.18498","n":"Plymouth","q":-316,"r":388 },
+		"W05001395":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.39838","lon":"-3.35107","n":"Rhoose","q":-321,"r":387 },
+		"W05001396":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.4086","lon":"-3.41752","n":"St Athan","q":-321,"r":388 },
+		"W05001397":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.45204","lon":"-3.57803","n":"St Bride's Major","q":-323,"r":388 },
+		"W05001398":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.45302","lon":"-3.34726","n":"St Nicholas and Llancarfan","q":-321,"r":390 },
+		"W05001399":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.44191","lon":"-3.17424","n":"St Augustine's","q":-316,"r":389 },
+		"W05001400":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.43287","lon":"-3.18924","n":"Stanwell","q":-317,"r":389 },
+		"W05001401":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.40868","lon":"-3.20259","n":"Sully","q":-317,"r":388 },
+		"W05001402":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.44512","lon":"-3.28261","n":"Wenvoe","q":-320,"r":390 }
+	},
+	"layout":"odd-r"
+}
