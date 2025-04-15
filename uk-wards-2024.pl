@@ -221,6 +221,35 @@ sub splitAreas {
 	}
 }
 
+sub combineLAD {
+	my ($tmp,$dh,$filename,$ojson,$json,$hex,$fh,$dir,$oldtxt,$newtxt);
+
+	$ojson = LoadJSON($config->{'final'});
+	$oldtxt = makeJSON($ojson);
+
+	msg("Combining local authorities:\n");
+	$dir = "./LAD/";
+	$json = {'layout'=>'odd-r','hexes'=>{}};
+	opendir($dh,$dir);
+	while(($filename = readdir($dh))){
+		if($filename =~ /[ENSW][0-9]{8}.hexjson$/){
+			$tmp = LoadJSON($dir.$filename);
+			foreach $hex (keys(%{$tmp->{'hexes'}})){
+				$json->{'hexes'}{$hex} = $tmp->{'hexes'}{$hex};
+			}
+		}
+	}
+	closedir($dh);
+
+	$newtxt = makeJSON($json);
+
+	if($oldtxt ne $newtxt){
+		$json->{'version'} = incrementVersion($ojson->{'version'}||"0.0");
+		msg("Updated to version <green>$json->{'version'}<none> in <cyan>$config->{'final'}<none>\n");
+		SaveJSON($json,$config->{'final'},2);
+	}
+}
+
 sub combineRegions {
 	my ($tmp,$dh,$filename,$json,$hex,$fh);
 	msg("Combining regions:\n");

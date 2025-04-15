@@ -8397,5 +8397,6 @@
 		"W05001799":{"LAD24CD":"W06000021","RGN24CD":"W92000004","colour":"#18C19F","n":"West End","q":-300,"r":398},
 		"W05001800":{"LAD24CD":"W06000021","RGN24CD":"W92000004","colour":"#18C19F","n":"Wyesham","q":-300,"r":405}
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.3"
 }
