@@ -14,5 +14,6 @@
 		"E05015635":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.90883","lon":"-0.222","n":"Symonds Green","q":-191,"r":408 },
 		"E05015636":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.92373","lon":"-0.20655","n":"Woodfield","q":-190,"r":411 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

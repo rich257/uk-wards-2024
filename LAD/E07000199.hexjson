@@ -11,5 +11,6 @@
 		"E05007074":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.59659","lon":"-1.69145","n":"Trinity","q":-256,"r":441 },
 		"E05007075":{"LAD24CD":"E07000199","LAD24NM":"Tamworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#094670","lat":"52.60324","lon":"-1.66154","n":"Wilnecote","q":-255,"r":441 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

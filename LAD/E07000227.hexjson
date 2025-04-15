@@ -23,5 +23,6 @@
 		"E05011832":{"LAD24CD":"E07000227","LAD24NM":"Horsham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#07BC86","lat":"51.07156","lon":"-0.33839","n":"Trafalgar","q":-209,"r":315 },
 		"E05011833":{"LAD24CD":"E07000227","LAD24NM":"Horsham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#07BC86","lat":"50.94658","lon":"-0.43478","n":"West Chiltington, Thakeham & Ashington","q":-210,"r":311 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -25,5 +25,6 @@
 		"E05012587":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.04142","lon":"0.743679","n":"Sudbury South East","q":-165,"r":416 },
 		"E05012588":{"LAD24CD":"E07000200","LAD24NM":"Babergh","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6802D2","lat":"52.0344","lon":"0.724585","n":"Sudbury South West","q":-166,"r":415 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

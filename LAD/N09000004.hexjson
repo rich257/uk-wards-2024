@@ -41,5 +41,6 @@
 		"N08000439":{"LAD24CD":"N09000004","LAD24NM":"Causeway Coast and Glens","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#54795C","lat":"55.1335","lon":"-6.68296","n":"Waterside","q":-376,"r":563 },
 		"N08000440":{"LAD24CD":"N09000004","LAD24NM":"Causeway Coast and Glens","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#54795C","lat":"55.11265","lon":"-6.64095","n":"Windy Hall","q":-373,"r":562 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

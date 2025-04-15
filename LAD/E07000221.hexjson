@@ -40,5 +40,6 @@
 		"E05015144":{"LAD24CD":"E07000221","LAD24NM":"Stratford-on-Avon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#DDC0C9","lat":"52.18944","lon":"-1.61613","n":"Wellesbourne South","q":-251,"r":416 },
 		"E05015145":{"LAD24CD":"E07000221","LAD24NM":"Stratford-on-Avon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#DDC0C9","lat":"52.27399","lon":"-1.81087","n":"Wootton Wawen","q":-254,"r":420 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

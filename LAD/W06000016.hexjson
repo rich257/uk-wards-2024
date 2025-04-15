@@ -47,5 +47,6 @@
 		"W05001115":{"LAD24CD":"W06000016","LAD24NM":"Rhondda Cynon Taf","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#3A8C82","lat":"51.64459","lon":"-3.38048","n":"Ynysybwl","q":-321,"r":400 },
 		"W05001116":{"LAD24CD":"W06000016","LAD24NM":"Rhondda Cynon Taf","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#3A8C82","lat":"51.64548","lon":"-3.46504","n":"Ystrad","q":-324,"r":401 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

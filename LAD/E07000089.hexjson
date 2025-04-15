@@ -12,5 +12,6 @@
 		"E05009361":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.3382","lon":"-0.8133","n":"Yateley East","q":-226,"r":328 },
 		"E05009362":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.33555","lon":"-0.84097","n":"Yateley West","q":-227,"r":327 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

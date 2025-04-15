@@ -29,5 +29,6 @@
 		"E05014517":{"LAD24CD":"E06000055","LAD24NM":"Bedford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D6CA21","lat":"52.1067","lon":"-0.54679","n":"Wootton & Kempston Rural","q":-203,"r":418 },
 		"E05014518":{"LAD24CD":"E06000055","LAD24NM":"Bedford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D6CA21","lat":"52.22846","lon":"-0.36408","n":"Wyboston","q":-200,"r":423 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

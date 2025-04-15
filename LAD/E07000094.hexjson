@@ -17,5 +17,6 @@
 		"E05011009":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"50.91721","lon":"-1.21889","n":"Whiteley and Shedfield","q":-229,"r":317 },
 		"E05011010":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.12848","lon":"-1.30442","n":"Wonston and Micheldever","q":-231,"r":323 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

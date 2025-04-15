@@ -17,5 +17,6 @@
 		"E05012207":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.7661","lon":"-2.67985","n":"St Matthew's","q":-285,"r":517 },
 		"E05012208":{"LAD24CD":"E07000123","LAD24NM":"Preston","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#05EC0F","lat":"53.78897","lon":"-2.69832","n":"Sharoe Green","q":-286,"r":519 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -61,5 +61,6 @@
 		"N08000359":{"LAD24CD":"N09000003","LAD24NM":"Belfast","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#D6348B","lat":"54.59043","lon":"-5.90865","n":"Woodstock","q":-364,"r":537 },
 		"N08000360":{"LAD24CD":"N09000003","LAD24NM":"Belfast","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#D6348B","lat":"54.60638","lon":"-5.95999","n":"Woodvale","q":-367,"r":539 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

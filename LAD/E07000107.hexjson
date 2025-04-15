@@ -21,5 +21,6 @@
 		"E05015466":{"LAD24CD":"E07000107","LAD24NM":"Dartford","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6A17CC","lat":"51.44079","lon":"0.291425","n":"Ebbsfleet","q":-182,"r":335 },
 		"E05015467":{"LAD24CD":"E07000107","LAD24NM":"Dartford","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6A17CC","lat":"51.44522","lon":"0.302571","n":"Swanscombe","q":-181,"r":335 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

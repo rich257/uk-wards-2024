@@ -17,5 +17,6 @@
 		"E05014487":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.89486","lon":"-1.86362","n":"Town","q":-261,"r":454 },
 		"E05014488":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.80773","lon":"-1.60616","n":"Winshill","q":-258,"r":453 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

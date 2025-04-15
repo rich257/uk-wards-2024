@@ -28,5 +28,6 @@
 		"E05015464":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.13773","lon":"-2.03748","n":"Pinvin","q":-267,"r":416 },
 		"E05015465":{"LAD24CD":"E07000238","LAD24NM":"Wychavon","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#C25395","lat":"52.18034","lon":"-2.09262","n":"Upton Snodsbury","q":-268,"r":417 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -28,5 +28,6 @@
 		"E05007064":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.12263","lon":"-1.88899","n":"Manifold","q":-264,"r":459 },
 		"E05007065":{"LAD24CD":"E07000198","LAD24NM":"Staffordshire Moorlands","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#ABD1C9","lat":"53.02919","lon":"-2.11132","n":"Werrington","q":-267,"r":456 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

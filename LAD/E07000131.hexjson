@@ -20,5 +20,6 @@
 		"E05011981":{"LAD24CD":"E07000131","LAD24NM":"Harborough","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#249DAD","lat":"52.64002","lon":"-0.99753","n":"Thurnby & Houghton","q":-222,"r":427 },
 		"E05011982":{"LAD24CD":"E07000131","LAD24NM":"Harborough","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#249DAD","lat":"52.48909","lon":"-1.24953","n":"Ullesthorpe","q":-224,"r":426 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

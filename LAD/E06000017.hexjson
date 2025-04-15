@@ -16,5 +16,6 @@
 		"E05012645":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.58357","lon":"-0.73193","n":"Uppingham","q":-213,"r":432 },
 		"E05012646":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.72387","lon":"-0.78071","n":"Whissendine","q":-215,"r":437 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

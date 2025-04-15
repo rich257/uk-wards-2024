@@ -8,5 +8,6 @@
 		"S13002906":{"LAD24CD":"S12000045","LAD24NM":"East Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0FDB06","lat":"55.9255","lon":"-4.1378","n":"Lenzie and Kirkintilloch South","q":-297,"r":605 },
 		"S13002907":{"LAD24CD":"S12000045","LAD24NM":"East Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0FDB06","lat":"55.94482","lon":"-4.11511","n":"Kirkintilloch East and North and Twechar","q":-297,"r":606 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -16,5 +16,6 @@
 		"E05001726":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.50928","lon":"-0.15021","n":"Wolds","q":-216,"r":492 },
 		"E05001727":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.55996","lon":"-0.12033","n":"Yarborough","q":-216,"r":493 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

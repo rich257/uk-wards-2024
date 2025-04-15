@@ -17,5 +17,6 @@
 		"E05011088":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.37538","lon":"-0.45269","n":"Weybridge Riverside","q":-209,"r":328 },
 		"E05011089":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.34701","lon":"-0.44504","n":"Weybridge St George's Hill","q":-209,"r":326 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

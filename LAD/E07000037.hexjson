@@ -29,5 +29,6 @@
 		"E05010649":{"LAD24CD":"E07000037","LAD24NM":"High Peak","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C71DEE","lat":"53.32501","lon":"-1.98715","n":"Whaley Bridge","q":-249,"r":472 },
 		"E05010650":{"LAD24CD":"E07000037","LAD24NM":"High Peak","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C71DEE","lat":"53.43565","lon":"-1.94178","n":"Whitfield","q":-248,"r":476 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

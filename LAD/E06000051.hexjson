@@ -64,5 +64,6 @@
 		"E05009286":{"LAD24CD":"E06000051","LAD24NM":"Shropshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5C58F","lat":"52.82544","lon":"-3.07167","n":"St Oswald","q":-288,"r":442 },
 		"E05009287":{"LAD24CD":"E06000051","LAD24NM":"Shropshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5C58F","lat":"52.869","lon":"-2.9731","n":"Whittington","q":-287,"r":442 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

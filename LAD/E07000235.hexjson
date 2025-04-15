@@ -19,5 +19,6 @@
 		"E05015396":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.05262","lon":"-2.22111","n":"Upton & Ripple","q":-277,"r":414 },
 		"E05015397":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.12107","lon":"-2.34023","n":"West","q":-280,"r":415 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

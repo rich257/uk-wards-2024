@@ -25,5 +25,6 @@
 		"E05012459":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.59574","lon":"-1.05223","n":"Wheatlands","q":-246,"r":533 },
 		"E05012460":{"LAD24CD":"E06000003","LAD24NM":"Redcar and Cleveland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#1F42D6","lat":"54.60953","lon":"-1.04835","n":"Zetland","q":-246,"r":535 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

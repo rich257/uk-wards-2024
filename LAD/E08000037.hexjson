@@ -23,5 +23,6 @@
 		"E05001088":{"LAD24CD":"E08000037","LAD24NM":"Gateshead","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#AE56EF","lat":"54.93977","lon":"-1.75187","n":"Winlaton and High Spen","q":-273,"r":556 },
 		"E05009313":{"LAD24CD":"E08000037","LAD24NM":"Gateshead","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#AE56EF","lat":"54.92257","lon":"-1.79178","n":"Chopwell and Rowlands Gill","q":-273,"r":555 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

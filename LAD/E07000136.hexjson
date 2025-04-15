@@ -16,5 +16,6 @@
 		"E05009634":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.98936","lon":"-0.03069","n":"Witham","q":-206,"r":457 },
 		"E05009635":{"LAD24CD":"E07000136","LAD24NM":"Boston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#E33D77","lat":"52.95314","lon":"-0.02303","n":"Wyberton","q":-207,"r":454 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -25,5 +25,6 @@
 		"E05015472":{"LAD24CD":"E07000070","LAD24NM":"Chelmsford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#707BEB","lat":"51.7155","lon":"0.485297","n":"Great Baddow West","q":-167,"r":403 },
 		"E05015473":{"LAD24CD":"E07000070","LAD24NM":"Chelmsford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#707BEB","lat":"51.73044","lon":"0.476384","n":"Moulsham and Central","q":-167,"r":404 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

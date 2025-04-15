@@ -10,5 +10,6 @@
 		"S13002827":{"LAD24CD":"S12000040","LAD24NM":"West Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#DC2CC1","lat":"55.90454","lon":"-3.62534","n":"Bathgate","q":-289,"r":603 },
 		"S13002828":{"LAD24CD":"S12000040","LAD24NM":"West Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#DC2CC1","lat":"55.91069","lon":"-3.72107","n":"Armadale and Blackridge","q":-290,"r":603 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

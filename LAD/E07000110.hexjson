@@ -23,5 +23,6 @@
 		"E05015613":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.16454","lon":"0.546253","n":"Staplehurst","q":-168,"r":326 },
 		"E05015614":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.25668","lon":"0.513833","n":"Tovil","q":-170,"r":329 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

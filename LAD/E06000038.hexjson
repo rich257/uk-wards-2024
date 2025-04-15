@@ -17,5 +17,6 @@
 		"E05013878":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.45675","lon":"-1.03484","n":"Tilehurst","q":-233,"r":338 },
 		"E05013879":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.42312","lon":"-0.976","n":"Whitley","q":-231,"r":336 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -88,5 +88,6 @@
 		"E05013860":{"LAD24CD":"E06000052","LAD24NM":"Cornwall","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#01E8AF","lat":"50.35114","lon":"-5.06842","n":"St Newlyn East, Cubert & Goonhavern","q":-348,"r":323 },
 		"E05013861":{"LAD24CD":"E06000052","LAD24NM":"Cornwall","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#01E8AF","lat":"50.26379","lon":"-5.14684","n":"Threemilestone & Chacewater","q":-349,"r":321 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

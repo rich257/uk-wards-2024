@@ -54,5 +54,6 @@
 		"E05012959":{"LAD24CD":"E06000019","LAD24NM":"Herefordshire, County of","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#98D2A1","lat":"52.05886","lon":"-2.82802","n":"Stoney Street","q":-288,"r":417 },
 		"E05012960":{"LAD24CD":"E06000019","LAD24NM":"Herefordshire, County of","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#98D2A1","lat":"52.12457","lon":"-2.69923","n":"Sutton Walls","q":-284,"r":418 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

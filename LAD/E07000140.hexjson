@@ -19,5 +19,6 @@
 		"E05005660":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.70477","lon":"0.027438","n":"The Saints","q":-199,"r":445 },
 		"E05005661":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.75095","lon":"-0.03825","n":"Whaplode and Holbeach St John's","q":-201,"r":445 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

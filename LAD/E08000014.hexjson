@@ -23,5 +23,6 @@
 		"E05000952":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.51234","lon":"-2.92725","n":"Sudell","q":-302,"r":503 },
 		"E05000953":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.48599","lon":"-3.02426","n":"Victoria","q":-303,"r":502 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

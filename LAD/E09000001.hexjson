@@ -26,5 +26,6 @@
 		"E05009311":{"LAD24CD":"E09000001","LAD24NM":"City of London","RGN24CD":"E12000007","RGN24NM":"London","colour":"#970ED6","lat":"51.51115","lon":"-0.09422","n":"Vintry","q":-188,"r":363 },
 		"E05009312":{"LAD24CD":"E09000001","LAD24NM":"City of London","RGN24CD":"E12000007","RGN24NM":"London","colour":"#970ED6","lat":"51.5132","lon":"-0.08863","n":"Walbrook","q":-187,"r":365 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

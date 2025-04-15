@@ -14,5 +14,6 @@
 		"E05010855":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.59004","lon":"0.625464","n":"Trinity","q":-159,"r":396 },
 		"E05010856":{"LAD24CD":"E07000075","LAD24NM":"Rochford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A780F8","lat":"51.58474","lon":"0.593615","n":"Wheatley","q":-160,"r":395 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

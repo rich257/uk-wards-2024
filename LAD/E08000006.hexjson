@@ -21,5 +21,6 @@
 		"E05013036":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.48278","lon":"-2.31011","n":"Weaste & Seedley","q":-281,"r":493 },
 		"E05013037":{"LAD24CD":"E08000006","LAD24NM":"Salford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#380C15","lat":"53.5014","lon":"-2.36432","n":"Worsley & Westwood Park","q":-282,"r":494 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

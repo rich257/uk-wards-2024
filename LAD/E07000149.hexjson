@@ -27,5 +27,6 @@
 		"E05012851":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.47043","lon":"1.384971","n":"Ditchingham & Earsham","q":-165,"r":433 },
 		"E05012852":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.418","lon":"1.307035","n":"Harleston","q":-166,"r":432 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

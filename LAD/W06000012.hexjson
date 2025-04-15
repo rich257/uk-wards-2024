@@ -35,5 +35,6 @@
 		"W05001711":{"LAD24CD":"W06000012","LAD24NM":"Neath Port Talbot","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDAC5F","lat":"51.60308","lon":"-3.82329","n":"Sandfields West","q":-331,"r":396 },
 		"W05001712":{"LAD24CD":"W06000012","LAD24NM":"Neath Port Talbot","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDAC5F","lat":"51.7113","lon":"-3.86763","n":"Trebanos","q":-332,"r":402 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

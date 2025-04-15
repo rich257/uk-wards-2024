@@ -40,5 +40,6 @@
 		"W05001799":{"LAD24CD":"W06000021","LAD24NM":"Monmouthshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#18C19F","lat":"51.58266","lon":"-2.75795","n":"West End","q":-300,"r":398 },
 		"W05001800":{"LAD24CD":"W06000021","LAD24NM":"Monmouthshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#18C19F","lat":"51.81454","lon":"-2.68066","n":"Wyesham","q":-300,"r":405 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

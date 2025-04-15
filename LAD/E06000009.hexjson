@@ -22,5 +22,6 @@
 		"E05015205":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.83831","lon":"-3.04887","n":"Warbreck","q":-301,"r":523 },
 		"E05015206":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.79242","lon":"-3.04848","n":"Waterloo","q":-302,"r":519 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

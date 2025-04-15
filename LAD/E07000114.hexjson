@@ -24,5 +24,6 @@
 		"E05005102":{"LAD24CD":"E07000114","LAD24NM":"Thanet","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#33E3E2","lat":"51.38387","lon":"1.355686","n":"Westbrook","q":-153,"r":334 },
 		"E05005103":{"LAD24CD":"E07000114","LAD24NM":"Thanet","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#33E3E2","lat":"51.37564","lon":"1.331901","n":"Westgate-on-Sea","q":-154,"r":333 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

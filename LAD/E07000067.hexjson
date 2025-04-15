@@ -27,5 +27,6 @@
 		"E05012966":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.79908","lon":"0.644339","n":"Witham Central","q":-168,"r":411 },
 		"E05012967":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.8185","lon":"0.631415","n":"Witham North","q":-168,"r":412 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

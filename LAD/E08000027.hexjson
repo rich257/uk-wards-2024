@@ -25,5 +25,6 @@
 		"E05015925":{"LAD24CD":"E08000027","LAD24NM":"Dudley","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#6DEC46","lat":"52.46009","lon":"-2.16132","n":"Wollaston & Stourbridge Town","q":-273,"r":431 },
 		"E05015926":{"LAD24CD":"E08000027","LAD24NM":"Dudley","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#6DEC46","lat":"52.48073","lon":"-2.16269","n":"Wordsley North","q":-273,"r":433 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -31,5 +31,6 @@
 		"E05011810":{"LAD24CD":"E07000040","LAD24NM":"East Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#336754","lat":"50.67214","lon":"-3.40389","n":"Woodbury & Lympstone","q":-315,"r":344 },
 		"E05011811":{"LAD24CD":"E07000040","LAD24NM":"East Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#336754","lat":"50.82519","lon":"-3.00504","n":"Yarty","q":-311,"r":349 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

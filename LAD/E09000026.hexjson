@@ -23,5 +23,6 @@
 		"E05011254":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.56557","lon":"0.036366","n":"Wanstead Park","q":-174,"r":374 },
 		"E05011255":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.57816","lon":"0.029928","n":"Wanstead Village","q":-175,"r":375 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

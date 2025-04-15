@@ -19,5 +19,6 @@
 		"E05013808":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.51382","lon":"-0.1454","n":"West End","q":-192,"r":364 },
 		"E05013809":{"LAD24CD":"E09000033","LAD24NM":"Westminster","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9B429B","lat":"51.5207","lon":"-0.19062","n":"Westbourne","q":-195,"r":364 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

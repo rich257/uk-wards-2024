@@ -14,5 +14,6 @@
 		"E05015702":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.57338","lon":"0.577972","n":"Thundersley North","q":-166,"r":393 },
 		"E05015703":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.55288","lon":"0.58518","n":"Thundersley South","q":-166,"r":392 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

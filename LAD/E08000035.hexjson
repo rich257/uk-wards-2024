@@ -34,5 +34,6 @@
 		"E05013830":{"LAD24CD":"E08000035","LAD24NM":"Leeds","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#80B50A","lat":"53.77046","lon":"-1.41366","n":"Garforth & Swillington","q":-240,"r":502 },
 		"E05013831":{"LAD24CD":"E08000035","LAD24NM":"Leeds","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#80B50A","lat":"53.78952","lon":"-1.46333","n":"Temple Newsam","q":-240,"r":503 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

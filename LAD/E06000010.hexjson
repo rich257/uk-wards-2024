@@ -22,5 +22,6 @@
 		"E05011544":{"LAD24CD":"E06000010","LAD24NM":"Kingston upon Hull, City of","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#8FEB08","lat":"53.77544","lon":"-0.37218","n":"University","q":-220,"r":501 },
 		"E05011545":{"LAD24CD":"E06000010","LAD24NM":"Kingston upon Hull, City of","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#8FEB08","lat":"53.78822","lon":"-0.33395","n":"West Carr","q":-219,"r":501 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

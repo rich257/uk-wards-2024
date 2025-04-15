@@ -46,5 +46,6 @@
 		"W05001614":{"LAD24CD":"W06000005","LAD24NM":"Flintshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A31355","lat":"53.10659","lon":"-3.12997","n":"Treuddyn","q":-310,"r":455 },
 		"W05001615":{"LAD24CD":"W06000005","LAD24NM":"Flintshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A31355","lat":"53.28872","lon":"-3.31067","n":"Whitford","q":-313,"r":466 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

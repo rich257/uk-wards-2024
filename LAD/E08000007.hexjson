@@ -22,5 +22,6 @@
 		"E05015033":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.44516","lon":"-2.15909","n":"Reddish North","q":-273,"r":490 },
 		"E05015034":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.42478","lon":"-2.15917","n":"Reddish South","q":-273,"r":489 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

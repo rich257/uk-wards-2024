@@ -15,5 +15,6 @@
 		"E05007574":{"LAD24CD":"E07000223","LAD24NM":"Adur","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#767D3C","lat":"50.8333","lon":"-0.24395","n":"Southwick Green","q":-194,"r":306 },
 		"E05007575":{"LAD24CD":"E07000223","LAD24NM":"Adur","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#767D3C","lat":"50.82645","lon":"-0.3068","n":"Widewater","q":-197,"r":306 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

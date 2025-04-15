@@ -34,5 +34,6 @@
 		"E05012680":{"LAD24CD":"E06000058","LAD24NM":"Bournemouth, Christchurch and Poole","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#E11C56","lat":"50.71662","lon":"-1.89496","n":"Westbourne & West Cliff","q":-296,"r":345 },
 		"E05012681":{"LAD24CD":"E06000058","LAD24NM":"Bournemouth, Christchurch and Poole","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#E11C56","lat":"50.74254","lon":"-1.87258","n":"Winton East","q":-294,"r":348 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

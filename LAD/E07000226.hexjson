@@ -14,5 +14,6 @@
 		"E05012925":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.11643","lon":"-0.17569","n":"Three Bridges","q":-194,"r":321 },
 		"E05012926":{"LAD24CD":"E07000226","LAD24NM":"Crawley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#58E972","lat":"51.09635","lon":"-0.18482","n":"Tilgate","q":-195,"r":319 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

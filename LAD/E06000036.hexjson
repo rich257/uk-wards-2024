@@ -16,5 +16,6 @@
 		"E05015575":{"LAD24CD":"E06000036","LAD24NM":"Bracknell Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E2B1C4","lat":"51.42514","lon":"-0.7281","n":"Whitegrove","q":-221,"r":335 },
 		"E05015576":{"LAD24CD":"E06000036","LAD24NM":"Bracknell Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E2B1C4","lat":"51.43932","lon":"-0.68035","n":"Winkfield & Warfield East","q":-220,"r":335 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

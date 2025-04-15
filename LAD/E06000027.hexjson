@@ -17,5 +17,6 @@
 		"E05012268":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.47123","lon":"-3.54369","n":"Tormohun","q":-324,"r":333 },
 		"E05012269":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.46541","lon":"-3.50609","n":"Wellswood","q":-322,"r":332 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

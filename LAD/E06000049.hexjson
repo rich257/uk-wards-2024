@@ -53,5 +53,6 @@
 		"E05008660":{"LAD24CD":"E06000049","LAD24NM":"Cheshire East","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#5AF65C","lat":"53.05191","lon":"-2.63821","n":"Wrenbury","q":-278,"r":469 },
 		"E05008661":{"LAD24CD":"E06000049","LAD24NM":"Cheshire East","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#5AF65C","lat":"53.02105","lon":"-2.43442","n":"Wybunbury","q":-275,"r":467 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

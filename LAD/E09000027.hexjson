@@ -19,5 +19,6 @@
 		"E05013790":{"LAD24CD":"E09000027","LAD24NM":"Richmond upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1615FD","lat":"51.44203","lon":"-0.35515","n":"West Twickenham","q":-204,"r":352 },
 		"E05013791":{"LAD24CD":"E09000027","LAD24NM":"Richmond upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1615FD","lat":"51.45328","lon":"-0.35889","n":"Whitton","q":-204,"r":353 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -25,5 +25,6 @@
 		"E05009566":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.31023","lon":"0.717358","n":"West Downs","q":-165,"r":331 },
 		"E05009567":{"LAD24CD":"E07000113","LAD24NM":"Swale","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9695E6","lat":"51.32824","lon":"0.730697","n":"Woodstock","q":-166,"r":331 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

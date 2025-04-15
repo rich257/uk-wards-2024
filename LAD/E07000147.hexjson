@@ -33,5 +33,6 @@
 		"E05011864":{"LAD24CD":"E07000147","LAD24NM":"North Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#4317C7","lat":"52.95141","lon":"0.824322","n":"Wells with Holkham","q":-169,"r":455 },
 		"E05011865":{"LAD24CD":"E07000147","LAD24NM":"North Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#4317C7","lat":"52.77583","lon":"1.374003","n":"Worstead","q":-165,"r":452 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

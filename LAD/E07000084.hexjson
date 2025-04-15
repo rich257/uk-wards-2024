@@ -19,5 +19,6 @@
 		"E05013094":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.23916","lon":"-1.29007","n":"Whitchurch, Overton & Laverstoke","q":-234,"r":326 },
 		"E05013095":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.27587","lon":"-1.14269","n":"Winklebury & Manydown","q":-234,"r":327 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

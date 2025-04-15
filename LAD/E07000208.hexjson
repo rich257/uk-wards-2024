@@ -15,5 +15,6 @@
 		"E05015105":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.35574","lon":"-0.26376","n":"West Ewell","q":-203,"r":330 },
 		"E05015106":{"LAD24CD":"E07000208","LAD24NM":"Epsom and Ewell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C206F","lat":"51.31294","lon":"-0.26426","n":"Woodcote & Langley Vale","q":-203,"r":327 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

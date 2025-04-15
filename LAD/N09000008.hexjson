@@ -41,5 +41,6 @@
 		"N08000839":{"LAD24CD":"N09000008","LAD24NM":"Mid and East Antrim","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#861822","lat":"54.75385","lon":"-5.7274","n":"Whitehead South","q":-359,"r":555 },
 		"N08000840":{"LAD24CD":"N09000008","LAD24NM":"Mid and East Antrim","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#861822","lat":"54.75566","lon":"-5.85414","n":"Woodburn","q":-362,"r":555 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

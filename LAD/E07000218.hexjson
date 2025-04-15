@@ -18,5 +18,6 @@
 		"E05007472":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.61889","lon":"-1.6265","n":"Polesworth West","q":-251,"r":442 },
 		"E05007473":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.51556","lon":"-1.73907","n":"Water Orton","q":-253,"r":439 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

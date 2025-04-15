@@ -13,5 +13,6 @@
 		"E05015546":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.91587","lon":"-2.20991","n":"Barnoldswick","q":-279,"r":527 },
 		"E05015547":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.90635","lon":"-2.15467","n":"Earby & Coates","q":-278,"r":527 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

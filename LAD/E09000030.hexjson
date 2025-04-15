@@ -21,5 +21,6 @@
 		"E05009335":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.52694","lon":"-0.07055","n":"Weavers","q":-183,"r":367 },
 		"E05009336":{"LAD24CD":"E09000030","LAD24NM":"Tower Hamlets","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9E564","lat":"51.51363","lon":"-0.06485","n":"Whitechapel","q":-182,"r":365 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -6,5 +6,6 @@
 		"S13002878":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.11351","lon":"-3.79895","n":"Clackmannanshire South","q":-296,"r":610 },
 		"S13002879":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.13923","lon":"-3.67944","n":"Clackmannanshire East","q":-295,"r":610 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

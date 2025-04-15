@@ -25,5 +25,6 @@
 		"E05015168":{"LAD24CD":"E07000216","LAD24NM":"Waverley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9D62B7","lat":"51.1508","lon":"-0.66625","n":"Milford & Witley","q":-216,"r":319 },
 		"E05015169":{"LAD24CD":"E07000216","LAD24NM":"Waverley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9D62B7","lat":"51.15703","lon":"-0.75843","n":"Western Commons","q":-217,"r":319 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

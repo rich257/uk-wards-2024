@@ -50,5 +50,6 @@
 		"W05001760":{"LAD24CD":"W06000006","LAD24NM":"Wrexham","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#E3282D","lat":"53.03707","lon":"-2.97237","n":"Whitegate","q":-302,"r":449 },
 		"W05001761":{"LAD24CD":"W06000006","LAD24NM":"Wrexham","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#E3282D","lat":"53.04869","lon":"-2.97858","n":"Wynnstay","q":-302,"r":451 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -18,5 +18,6 @@
 		"E05004205":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.77739","lon":"0.778527","n":"Tolleshunt D'Arcy","q":-160,"r":404 },
 		"E05004206":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.72968","lon":"0.638128","n":"Wickham Bishops and Woodham","q":-164,"r":403 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

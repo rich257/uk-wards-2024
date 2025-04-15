@@ -12,5 +12,6 @@
 		"E05010793":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.21498","lon":"-0.53955","n":"Park","q":-214,"r":464 },
 		"E05010794":{"LAD24CD":"E07000138","LAD24NM":"Lincoln","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#00D571","lat":"53.19434","lon":"-0.56295","n":"Witham","q":-215,"r":463 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

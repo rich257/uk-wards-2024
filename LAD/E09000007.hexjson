@@ -21,5 +21,6 @@
 		"E05013670":{"LAD24CD":"E09000007","LAD24NM":"Camden","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9C0AF","lat":"51.54342","lon":"-0.18386","n":"South Hampstead","q":-193,"r":369 },
 		"E05013671":{"LAD24CD":"E09000007","LAD24NM":"Camden","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9C0AF","lat":"51.54851","lon":"-0.18931","n":"West Hampstead","q":-193,"r":370 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

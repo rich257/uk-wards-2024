@@ -17,5 +17,6 @@
 		"E05007131":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.07226","lon":"1.120554","n":"Whitehouse","q":-164,"r":421 },
 		"E05007132":{"LAD24CD":"E07000202","LAD24NM":"Ipswich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3D1072","lat":"52.08596","lon":"1.13906","n":"Whitton","q":-162,"r":422 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -36,5 +36,6 @@
 		"E05012354":{"LAD24CD":"E07000146","LAD24NM":"King's Lynn and West Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D99065","lat":"52.71785","lon":"0.437816","n":"West Winch","q":-180,"r":444 },
 		"E05012355":{"LAD24CD":"E07000146","LAD24NM":"King's Lynn and West Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D99065","lat":"52.58125","lon":"0.509295","n":"Wissey","q":-181,"r":441 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

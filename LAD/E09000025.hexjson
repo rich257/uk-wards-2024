@@ -25,5 +25,6 @@
 		"E05013926":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.53675","lon":"0.06314","n":"Wall End","q":-173,"r":369 },
 		"E05013927":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.535","lon":"0.011556","n":"West Ham","q":-177,"r":369 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

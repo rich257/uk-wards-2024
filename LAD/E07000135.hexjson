@@ -11,5 +11,6 @@
 		"E05005539":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.57293","lon":"-1.08558","n":"Wigston Meadowcourt","q":-219,"r":429 },
 		"E05005540":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.5914","lon":"-1.10046","n":"Wigston St Wolstan's","q":-219,"r":430 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

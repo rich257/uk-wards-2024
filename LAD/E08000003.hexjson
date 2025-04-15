@@ -33,5 +33,6 @@
 		"E05011380":{"LAD24CD":"E08000003","LAD24NM":"Manchester","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#099B7E","lat":"53.43281","lon":"-2.219","n":"Withington","q":-276,"r":491 },
 		"E05011381":{"LAD24CD":"E08000003","LAD24NM":"Manchester","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#099B7E","lat":"53.36745","lon":"-2.27568","n":"Woodhouse Park","q":-277,"r":486 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -28,5 +28,6 @@
 		"E05010782":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.86368","lon":"-1.47509","n":"Charlbury and Finstock","q":-241,"r":354 },
 		"E05010783":{"LAD24CD":"E07000181","LAD24NM":"West Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88B42B","lat":"51.81706","lon":"-1.49467","n":"Hailey, Minster Lovell and Leafield","q":-242,"r":353 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

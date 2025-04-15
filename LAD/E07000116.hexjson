@@ -15,5 +15,6 @@
 		"E05015815":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.14058","lon":"0.272636","n":"St James'","q":-171,"r":324 },
 		"E05015816":{"LAD24CD":"E07000116","LAD24NM":"Tunbridge Wells","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6CFAFF","lat":"51.14666","lon":"0.268331","n":"St John's","q":-172,"r":325 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

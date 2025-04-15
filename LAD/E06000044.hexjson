@@ -15,5 +15,6 @@
 		"E05002453":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.78403","lon":"-1.08863","n":"St Jude","q":-229,"r":305 },
 		"E05002454":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.79131","lon":"-1.09394","n":"St Thomas","q":-229,"r":306 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

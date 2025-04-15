@@ -22,5 +22,6 @@
 		"E05014963":{"LAD24CD":"E07000209","LAD24NM":"Guildford","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#233CDF","lat":"51.2432","lon":"-0.6024","n":"Westborough","q":-216,"r":325 },
 		"E05014964":{"LAD24CD":"E07000209","LAD24NM":"Guildford","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#233CDF","lat":"51.26157","lon":"-0.62417","n":"Worplesdon","q":-216,"r":326 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

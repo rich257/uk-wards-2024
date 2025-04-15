@@ -20,5 +20,6 @@
 		"E05015052":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.18269","lon":"0.277785","n":"Vauxhall","q":-178,"r":325 },
 		"E05015053":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.33504","lon":"0.519582","n":"Walderslade","q":-173,"r":330 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

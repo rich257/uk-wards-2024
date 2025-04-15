@@ -18,5 +18,6 @@
 		"E05015275":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.57332","lon":"-1.17865","n":"North Whetstone","q":-228,"r":427 },
 		"E05015276":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.61618","lon":"-1.19679","n":"Thorpe Astley & St Mary's","q":-227,"r":429 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

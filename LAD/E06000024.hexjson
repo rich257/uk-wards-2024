@@ -36,5 +36,6 @@
 		"E05010309":{"LAD24CD":"E06000024","LAD24NM":"North Somerset","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#65350F","lat":"51.3716","lon":"-2.74244","n":"Wrington","q":-310,"r":369 },
 		"E05010310":{"LAD24CD":"E06000024","LAD24NM":"North Somerset","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#65350F","lat":"51.40257","lon":"-2.84118","n":"Yatton","q":-310,"r":370 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -19,5 +19,6 @@
 		"E05001234":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.4138","lon":"-1.5853","n":"Woodlands","q":-251,"r":429 },
 		"E05001235":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.41454","lon":"-1.45247","n":"Wyken","q":-246,"r":429 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

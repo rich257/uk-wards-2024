@@ -25,5 +25,6 @@
 		"E05014987":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.91107","lon":"-1.09298","n":"Tollerton","q":-226,"r":444 },
 		"E05014988":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.93585","lon":"-1.13121","n":"Trent Bridge","q":-227,"r":446 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

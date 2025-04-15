@@ -22,5 +22,6 @@
 		"S13003062":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.75694","lon":"-3.9183","n":"Wishaw","q":-293,"r":597 },
 		"S13003134":{"LAD24CD":"S12000050","LAD24NM":"North Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AECB69","lat":"55.90096","lon":"-4.13425","n":"Stepps, Chryston and Muirhead","q":-296,"r":603 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

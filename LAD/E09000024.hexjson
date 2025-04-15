@@ -21,5 +21,6 @@
 		"E05013828":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.43204","lon":"-0.20124","n":"Wimbledon Park","q":-195,"r":351 },
 		"E05013829":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.41837","lon":"-0.20349","n":"Wimbledon Town & Dundonald","q":-195,"r":349 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

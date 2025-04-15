@@ -10,5 +10,6 @@
 		"S13002943":{"LAD24CD":"S12000014","LAD24NM":"Falkirk","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6151B6","lat":"55.99255","lon":"-3.70915","n":"Lower Braes","q":-291,"r":605 },
 		"S13002944":{"LAD24CD":"S12000014","LAD24NM":"Falkirk","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6151B6","lat":"55.94164","lon":"-3.78764","n":"Upper Braes","q":-291,"r":604 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

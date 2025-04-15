@@ -18,5 +18,6 @@
 		"S13002934":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.90731","lon":"-3.14514","n":"Liberton/Gilmerton","q":-283,"r":601 },
 		"S13002935":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.93786","lon":"-3.1158","n":"Portobello/Craigmillar","q":-282,"r":602 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

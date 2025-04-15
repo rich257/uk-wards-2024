@@ -18,5 +18,6 @@
 		"E05014167":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.61044","lon":"-2.35161","n":"Tottington","q":-278,"r":504 },
 		"E05014168":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.5677","lon":"-2.27349","n":"Unsworth","q":-278,"r":501 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

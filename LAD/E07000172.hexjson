@@ -21,5 +21,6 @@
 		"E05015569":{"LAD24CD":"E07000172","LAD24NM":"Broxtowe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#642EDA","lat":"52.94096","lon":"-1.26967","n":"Stapleford North","q":-231,"r":451 },
 		"E05015570":{"LAD24CD":"E07000172","LAD24NM":"Broxtowe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#642EDA","lat":"52.92931","lon":"-1.26582","n":"Stapleford South East","q":-230,"r":450 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

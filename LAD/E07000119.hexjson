@@ -18,5 +18,6 @@
 		"E05014553":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74226","lon":"-2.90401","n":"Warton","q":-292,"r":517 },
 		"E05014554":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.76994","lon":"-2.93271","n":"Wrea Green with Westby","q":-292,"r":518 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

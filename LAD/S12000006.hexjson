@@ -13,5 +13,6 @@
 		"S13002890":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"55.23908","lon":"-3.37448","n":"Annandale North","q":-299,"r":583 },
 		"S13002891":{"LAD24CD":"S12000006","LAD24NM":"Dumfries and Galloway","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0C40C7","lat":"55.15478","lon":"-3.08925","n":"Annandale East and Eskdale","q":-298,"r":583 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

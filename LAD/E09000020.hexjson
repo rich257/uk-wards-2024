@@ -19,5 +19,6 @@
 		"E05009404":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.51886","lon":"-0.21829","n":"St. Helen's","q":-199,"r":366 },
 		"E05009405":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.48635","lon":"-0.17596","n":"Stanley","q":-195,"r":360 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

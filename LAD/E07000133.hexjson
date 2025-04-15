@@ -17,5 +17,6 @@
 		"E05005509":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.804","lon":"-0.84604","n":"Waltham-on-the-Wolds","q":-217,"r":444 },
 		"E05005510":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.7735","lon":"-0.75954","n":"Wymondham","q":-216,"r":443 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

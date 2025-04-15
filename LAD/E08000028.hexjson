@@ -25,5 +25,6 @@
 		"E05001282":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.54144","lon":"-2.0232","n":"Wednesbury South","q":-265,"r":437 },
 		"E05001283":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.52043","lon":"-1.98415","n":"West Bromwich Central","q":-263,"r":436 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -17,5 +17,6 @@
 		"E05010759":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.34172","lon":"-1.34748","n":"Dunsmore","q":-244,"r":428 },
 		"E05010760":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.37691","lon":"-1.37812","n":"Wolston and the Lawfords","q":-244,"r":430 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

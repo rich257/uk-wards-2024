@@ -27,5 +27,6 @@
 		"E05011280":{"LAD24CD":"E07000011","LAD24NM":"Huntingdonshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#BADA91","lat":"52.41095","lon":"-0.10412","n":"Warboys","q":-194,"r":430 },
 		"E05011281":{"LAD24CD":"E07000011","LAD24NM":"Huntingdonshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#BADA91","lat":"52.51902","lon":"-0.21208","n":"Yaxley","q":-196,"r":431 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

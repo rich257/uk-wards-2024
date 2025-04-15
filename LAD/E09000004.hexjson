@@ -18,5 +18,6 @@
 		"E05011232":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.50198","lon":"0.13618","n":"Thamesmead East","q":-168,"r":361 },
 		"E05011233":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.47604","lon":"0.129682","n":"West Heath","q":-168,"r":359 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -24,5 +24,6 @@
 		"E05009821":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.81206","lon":"-0.51198","n":"Rustington West","q":-208,"r":306 },
 		"E05009822":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.81369","lon":"-0.60247","n":"Yapton","q":-211,"r":307 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

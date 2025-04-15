@@ -18,5 +18,6 @@
 		"E05012870":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.20325","lon":"1.392421","n":"Walmer","q":-152,"r":324 },
 		"E05012871":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.15808","lon":"1.290532","n":"Whitfield","q":-154,"r":324 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

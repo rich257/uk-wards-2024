@@ -1,10 +1,12 @@
 #!/usr/bin/perl
+use strict;
+use warnings;
 use utf8;
 use JSON::XS;
 use Data::Dumper;
 
 # A JSON containing the property "final" which points to where the combined file is
-$config = LoadJSON("config.json");
+my $config = LoadJSON("config.json");
 
 if($ARGV[0] eq "split"){
 
@@ -92,7 +94,7 @@ sub LoadJSON {
 sub makeJSON {
 	my $json = shift;
 	
-	$txt = JSON::XS->new->utf8->canonical(1)->pretty->space_before(0)->encode($json);
+	my $txt = JSON::XS->new->utf8->canonical(1)->pretty->space_before(0)->encode($json);
 	
 	$txt =~ s/   /\t/g;
 
@@ -109,9 +111,38 @@ sub makeJSON {
 	return $txt;
 }
 
+# Version 1.1.1
+sub SaveJSON {
+	my $json = shift;
+	my $file = shift;
+	my $depth = shift;
+	my $oneline = shift;
+	if(!defined($depth)){ $depth = 0; }
+	my $d = $depth+1;
+	my ($txt,$fh);
+	
+
+	$txt = JSON::XS->new->canonical(1)->pretty->space_before(0)->encode($json);
+	$txt =~ s/   /\t/g;
+	$txt =~ s/\n\t{$d,}//g;
+	$txt =~ s/\n\t{$depth}([\}\]])(\,|\n)/$1$2/g;
+	$txt =~ s/": /":/g;
+
+	if($oneline){
+		$txt =~ s/\n[\t\s]*//g;
+	}
+
+	msg("Save JSON to <cyan>$file<none>\n");
+	open($fh,">:utf8",$file);
+	print $fh $txt;
+	close($fh);
+
+	return $txt;
+}
+
 sub simplify {
 	msg("Simplifying the content of <cyan>$config->{'final'}<none>\n");
-	my ($regions,$id,$region,$fh);
+	my ($regions,$id,$region,$fh,$d);
 	my $hexjson = LoadJSON($config->{'final'});
 	
 	foreach $id (keys(%{$hexjson->{'hexes'}})){
@@ -121,12 +152,7 @@ sub simplify {
 			}
 		}
 	}
-	my $simple = makeJSON($hexjson);
-	$simple =~ s/\t//gs;
-	$simple =~ s/ \}/\}/gs;
-	open($fh,">","uk-wards-2024.hexjson");
-	print $fh $simple;
-	close($fh);
+	SaveJSON($hexjson,"uk-wards-2024.hexjson",2);
 }
 
 sub createTickList {
@@ -145,8 +171,8 @@ sub createTickList {
 }
 
 sub splitAreas {
-	msg("Splitting regions in <cyan>$config->{'final'}<none>\n");
-	my ($regions,$id,$region,$fh,$lads,$lad);
+	msg("Splitting areas in <cyan>$config->{'final'}<none>\n");
+	my ($regions,$id,$region,$fh,$lads,$lad,$json,$file,$newtxt,$oldtxt);
 	my $hexjson = LoadJSON($config->{'final'});
 	
 	foreach $id (keys(%{$hexjson->{'hexes'}})){
@@ -163,19 +189,35 @@ sub splitAreas {
 	}
 	
 	# Make regions
+	msg("Updating regions\n");
 	foreach $region (sort(keys(%{$regions}))){
-		msg("\t<yellow>$region<none>\n");
-		open($fh,">",$region.".hexjson");
-		print $fh makeJSON($regions->{$region});
-		close($fh);
+		$file = $region.".hexjson";
+		$json = LoadJSON($file);
+		$oldtxt = makeJSON($json);
+		# Set a version
+		$regions->{$region}{'version'} = ($json->{'version'} || "0.1");
+		$newtxt = makeJSON($regions->{$region});
+		if($oldtxt ne $newtxt){
+			$regions->{$region}{'version'} = incrementVersion($regions->{$region}{'version'});
+			msg("\t<yellow>$region<none> updated to version <green>$regions->{$region}{'version'}<none> in <cyan>$file<none>\n");
+			SaveJSON($regions->{$region},$file,2);
+		}
 	}
 	
 	# Make LADs
+	msg("Updating local authorities\n");
 	foreach $lad (sort(keys(%{$lads}))){
-		msg("\t<yellow>$lad<none>\n");
-		open($fh,">","LAD/".$lad.".hexjson");
-		print $fh makeJSON($lads->{$lad});
-		close($fh);
+		$file = "LAD/".$lad.".hexjson";
+		$json = LoadJSON($file);
+		$oldtxt = makeJSON($json);
+		# Set a version
+		$lads->{$lad}{'version'} = ($json->{'version'} || "0.1");
+		$newtxt = makeJSON($lads->{$lad});
+		if($oldtxt ne $newtxt){
+			$lads->{$lad}{'version'} = incrementVersion($lads->{$lad}{'version'});
+			msg("\t<yellow>$lad<none> updated to version <green>$lads->{$lad}{'version'}<none> in <cyan>$file<none>\n");
+			SaveJSON($lads->{$lad},$file,2);
+		}
 	}
 }
 
@@ -197,7 +239,13 @@ sub combineRegions {
 	}
 	closedir($dh);
 
-	open($fh,">",$config->{'final'});
-	print $fh makeJSON($json);
-	close($fh);
+	SaveJSON($json,$config->{'final'},2);
+}
+
+sub incrementVersion {
+	my $v = shift;
+	my @vs = split(/\./,$v);
+	my $i = (@vs)-1;
+	$vs[$i] = int($vs[$i])+1;
+	return join(".",@vs);
 }

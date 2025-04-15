@@ -27,5 +27,6 @@
 		"E05014794":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.92689","lon":"-1.51484","n":"Totton North","q":-240,"r":313 },
 		"E05014795":{"LAD24CD":"E07000091","LAD24NM":"New Forest","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#EF1247","lat":"50.9102","lon":"-1.49789","n":"Totton South","q":-239,"r":312 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

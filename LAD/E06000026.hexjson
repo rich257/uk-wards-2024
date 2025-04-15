@@ -21,5 +21,6 @@
 		"E05002096":{"LAD24CD":"E06000026","LAD24NM":"Plymouth","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#A0D568","lat":"50.37943","lon":"-4.1599","n":"Stoke","q":-336,"r":324 },
 		"E05002097":{"LAD24CD":"E06000026","LAD24NM":"Plymouth","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#A0D568","lat":"50.37042","lon":"-4.12003","n":"Sutton and Mount Gould","q":-335,"r":323 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

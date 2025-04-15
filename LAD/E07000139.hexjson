@@ -25,5 +25,6 @@
 		"E05014447":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.15474","lon":"-0.54072","n":"Waddington Rural","q":-212,"r":460 },
 		"E05014448":{"LAD24CD":"E07000139","LAD24NM":"North Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F3CB","lat":"53.16382","lon":"-0.66968","n":"Witham St Hughs & Swinderby","q":-214,"r":460 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

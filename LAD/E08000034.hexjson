@@ -24,5 +24,6 @@
 		"E05008561":{"LAD24CD":"E08000034","LAD24NM":"Kirklees","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#204BB0","lat":"53.58982","lon":"-1.84703","n":"Holme Valley North","q":-248,"r":495 },
 		"E05008562":{"LAD24CD":"E08000034","LAD24NM":"Kirklees","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#204BB0","lat":"53.61598","lon":"-1.69376","n":"Kirkburton","q":-247,"r":495 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

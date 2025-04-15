@@ -14,5 +14,6 @@
 		"E05007373":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.42569","lon":"-0.41914","n":"Sunbury Common","q":-206,"r":334 },
 		"E05007374":{"LAD24CD":"E07000213","LAD24NM":"Spelthorne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#897823","lat":"51.4134","lon":"-0.40452","n":"Sunbury East","q":-206,"r":333 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

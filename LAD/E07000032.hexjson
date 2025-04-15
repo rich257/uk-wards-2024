@@ -19,5 +19,6 @@
 		"E05014706":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.08013","lon":"-1.35804","n":"Somercotes","q":-235,"r":459 },
 		"E05014707":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.07589","lon":"-1.39195","n":"Swanwick","q":-236,"r":459 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

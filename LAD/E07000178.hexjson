@@ -25,5 +25,6 @@
 		"E05013118":{"LAD24CD":"E07000178","LAD24NM":"Oxford","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#B4F617","lat":"51.76358","lon":"-1.26171","n":"Walton Manor","q":-235,"r":354 },
 		"E05013119":{"LAD24CD":"E07000178","LAD24NM":"Oxford","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#B4F617","lat":"51.78263","lon":"-1.29014","n":"Wolvercote","q":-236,"r":355 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

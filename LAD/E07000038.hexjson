@@ -25,5 +25,6 @@
 		"E05012062":{"LAD24CD":"E07000038","LAD24NM":"North East Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#3C0971","lat":"53.2944","lon":"-1.41567","n":"Unstone","q":-241,"r":467 },
 		"E05012063":{"LAD24CD":"E07000038","LAD24NM":"North East Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#3C0971","lat":"53.19998","lon":"-1.45826","n":"Wingerworth","q":-242,"r":463 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

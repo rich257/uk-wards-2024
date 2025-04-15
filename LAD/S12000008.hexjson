@@ -10,5 +10,6 @@
 		"S13002899":{"LAD24CD":"S12000008","LAD24NM":"East Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#69BBEC","lat":"55.39176","lon":"-4.24735","n":"Cumnock and New Cumnock","q":-299,"r":591 },
 		"S13002900":{"LAD24CD":"S12000008","LAD24NM":"East Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#69BBEC","lat":"55.19258","lon":"-4.44166","n":"Doon Valley","q":-300,"r":591 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

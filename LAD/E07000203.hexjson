@@ -27,5 +27,6 @@
 		"E05012613":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.26088","lon":"0.859054","n":"Thurston","q":-170,"r":425 },
 		"E05012614":{"LAD24CD":"E07000203","LAD24NM":"Mid Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3464AA","lat":"52.29636","lon":"0.939784","n":"Walsham-le-Willows","q":-169,"r":425 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

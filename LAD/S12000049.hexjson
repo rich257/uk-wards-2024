@@ -24,5 +24,6 @@
 		"S13002989":{"LAD24CD":"S12000049","LAD24NM":"Glasgow City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#562974","lat":"55.88043","lon":"-4.30537","n":"Partick East/Kelvindale","q":-300,"r":602 },
 		"S13003133":{"LAD24CD":"S12000049","LAD24NM":"Glasgow City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#562974","lat":"55.87292","lon":"-4.12988","n":"North East","q":-297,"r":602 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

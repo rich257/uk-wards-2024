@@ -40,5 +40,6 @@
 		"E05015478":{"LAD24CD":"E07000105","LAD24NM":"Ashford","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3B5497","lat":"51.20678","lon":"0.875247","n":"Downs West","q":-162,"r":328 },
 		"E05015479":{"LAD24CD":"E07000105","LAD24NM":"Ashford","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3B5497","lat":"51.1712","lon":"0.873046","n":"Goat Lees","q":-162,"r":327 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

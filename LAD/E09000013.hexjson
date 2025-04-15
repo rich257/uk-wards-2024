@@ -22,5 +22,6 @@
 		"E05013752":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.5105","lon":"-0.23149","n":"White City","q":-201,"r":365 },
 		"E05013753":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.5105","lon":"-0.24178","n":"Wormholt","q":-201,"r":364 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

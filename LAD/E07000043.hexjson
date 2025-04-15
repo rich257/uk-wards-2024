@@ -26,5 +26,6 @@
 		"E05012435":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"51.01802","lon":"-3.85526","n":"South Molton","q":-329,"r":355 },
 		"E05012436":{"LAD24CD":"E07000043","LAD24NM":"North Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#93559D","lat":"50.92898","lon":"-3.69538","n":"Witheridge","q":-328,"r":353 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

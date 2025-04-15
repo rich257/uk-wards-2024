@@ -50,5 +50,6 @@
 		"E05013167":{"LAD24CD":"E06000060","LAD24NM":"Buckinghamshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E63BCE","lat":"51.87574","lon":"-0.7885","n":"Wing","q":-226,"r":358 },
 		"E05013168":{"LAD24CD":"E06000060","LAD24NM":"Buckinghamshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E63BCE","lat":"51.97404","lon":"-0.89231","n":"Winslow","q":-229,"r":359 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

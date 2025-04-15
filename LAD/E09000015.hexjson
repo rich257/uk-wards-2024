@@ -23,5 +23,6 @@
 		"E05013562":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.59527","lon":"-0.32877","n":"Wealdstone South","q":-203,"r":377 },
 		"E05013563":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.57432","lon":"-0.35927","n":"West Harrow","q":-204,"r":376 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

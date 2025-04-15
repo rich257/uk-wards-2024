@@ -22,5 +22,6 @@
 		"E05011602":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.78769","lon":"0.088342","n":"Seaford West","q":-179,"r":307 },
 		"E05011603":{"LAD24CD":"E07000063","LAD24NM":"Lewes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#39A433","lat":"50.97032","lon":"-0.08878","n":"Wivelsfield","q":-181,"r":310 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

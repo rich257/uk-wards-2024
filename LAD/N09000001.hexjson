@@ -41,5 +41,6 @@
 		"N08000139":{"LAD24CD":"N09000001","LAD24NM":"Antrim and Newtownabbey","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#60DAA1","lat":"54.6561","lon":"-5.92191","n":"Valley","q":-364,"r":544 },
 		"N08000140":{"LAD24CD":"N09000001","LAD24NM":"Antrim and Newtownabbey","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#60DAA1","lat":"54.66428","lon":"-5.90671","n":"Whitehouse","q":-364,"r":545 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

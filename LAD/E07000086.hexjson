@@ -15,5 +15,6 @@
 		"E05011199":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.94125","lon":"-1.32522","n":"West End North","q":-235,"r":319 },
 		"E05011200":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.91926","lon":"-1.32624","n":"West End South","q":-235,"r":318 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

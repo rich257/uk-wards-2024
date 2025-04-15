@@ -22,5 +22,6 @@
 		"E05012990":{"LAD24CD":"E07000106","LAD24NM":"Canterbury","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#BF6D32","lat":"51.27369","lon":"1.101269","n":"Barton","q":-159,"r":329 },
 		"E05012991":{"LAD24CD":"E07000106","LAD24NM":"Canterbury","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#BF6D32","lat":"51.22095","lon":"1.036562","n":"Chartham & Stone Street","q":-159,"r":328 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

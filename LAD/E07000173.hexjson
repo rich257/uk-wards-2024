@@ -20,5 +20,6 @@
 		"E05009706":{"LAD24CD":"E07000173","LAD24NM":"Gedling","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8754D9","lat":"52.97558","lon":"-1.04109","n":"Trent Valley","q":-219,"r":450 },
 		"E05009707":{"LAD24CD":"E07000173","LAD24NM":"Gedling","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8754D9","lat":"52.98992","lon":"-1.12914","n":"Woodthorpe","q":-222,"r":453 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

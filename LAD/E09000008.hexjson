@@ -29,5 +29,6 @@
 		"E05011488":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.39369","lon":"-0.11884","n":"West Thornton","q":-187,"r":346 },
 		"E05011489":{"LAD24CD":"E09000008","LAD24NM":"Croydon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A3C519","lat":"51.39306","lon":"-0.06662","n":"Woodside","q":-184,"r":346 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

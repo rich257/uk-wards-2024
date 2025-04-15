@@ -21,5 +21,6 @@
 		"E05010756":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.59122","lon":"-1.80223","n":"Haydon Wick","q":-279,"r":381 },
 		"E05010757":{"LAD24CD":"E06000030","LAD24NM":"Swindon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#484CED","lat":"51.59161","lon":"-1.7713","n":"Penhill and Upper Stratton","q":-278,"r":381 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

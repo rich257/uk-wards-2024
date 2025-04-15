@@ -41,5 +41,6 @@
 		"N08000539":{"LAD24CD":"N09000005","LAD24NM":"Derry City and Strabane","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#0BD488","lat":"54.8222","lon":"-7.46903","n":"Strabane West","q":-386,"r":550 },
 		"N08000540":{"LAD24CD":"N09000005","LAD24NM":"Derry City and Strabane","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#0BD488","lat":"54.97825","lon":"-7.31826","n":"Victoria","q":-385,"r":554 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

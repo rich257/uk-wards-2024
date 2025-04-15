@@ -17,5 +17,6 @@
 		"E05012191":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.70104","lon":"-0.18588","n":"Potters Bar Parkfield","q":-193,"r":397 },
 		"E05012192":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.696","lon":"-0.25054","n":"Shenley","q":-194,"r":396 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

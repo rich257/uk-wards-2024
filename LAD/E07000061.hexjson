@@ -10,5 +10,6 @@
 		"E05011581":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.79041","lon":"0.322938","n":"Sovereign","q":-171,"r":307 },
 		"E05011582":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.77781","lon":"0.275374","n":"Upperton","q":-172,"r":306 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

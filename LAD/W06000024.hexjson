@@ -12,5 +12,6 @@
 		"W05001625":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.66631","lon":"-3.31863","n":"Treharris","q":-317,"r":404 },
 		"W05001626":{"LAD24CD":"W06000024","LAD24NM":"Merthyr Tydfil","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#EDD09B","lat":"51.79519","lon":"-3.39818","n":"Vaynor","q":-319,"r":408 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

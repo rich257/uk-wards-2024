@@ -7,5 +7,6 @@
 		"S13003022":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.87267","lon":"-2.9899","n":"Midlothian East","q":-284,"r":596 },
 		"S13003023":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.81151","lon":"-3.08345","n":"Midlothian South","q":-285,"r":595 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

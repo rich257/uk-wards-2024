@@ -25,5 +25,6 @@
 		"E05014471":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.37431","lon":"0.565738","n":"Watling","q":-170,"r":335 },
 		"E05014472":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.3547","lon":"0.526205","n":"Wayfield & Weeds Wood","q":-171,"r":334 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

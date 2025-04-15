@@ -21,5 +21,6 @@
 		"E05002247":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.46977","lon":"0.3716","n":"Tilbury St Chads","q":-174,"r":391 },
 		"E05002248":{"LAD24CD":"E06000034","LAD24NM":"Thurrock","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EC0EA7","lat":"51.47982","lon":"0.261596","n":"West Thurrock and South Stifford","q":-179,"r":391 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

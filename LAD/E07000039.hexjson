@@ -16,5 +16,6 @@
 		"E05008822":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.86344","lon":"-1.55024","n":"Willington and Findern","q":-240,"r":443 },
 		"E05008823":{"LAD24CD":"E07000039","LAD24NM":"South Derbyshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#19AA8D","lat":"52.78393","lon":"-1.51948","n":"Woodville","q":-239,"r":441 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

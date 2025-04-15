@@ -22,5 +22,6 @@
 		"E05013604":{"LAD24CD":"E09000014","LAD24NM":"Haringey","RGN24CD":"E12000007","RGN24NM":"London","colour":"#DC05A6","lat":"51.60332","lon":"-0.08888","n":"White Hart Lane","q":-185,"r":380 },
 		"E05013605":{"LAD24CD":"E09000014","LAD24NM":"Haringey","RGN24CD":"E12000007","RGN24NM":"London","colour":"#DC05A6","lat":"51.60247","lon":"-0.10731","n":"Woodside","q":-186,"r":380 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -23,5 +23,6 @@
 		"S13003130":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.1433","lon":"-3.26376","n":"Lochgelly, Cardenden and Benarty","q":-290,"r":612 },
 		"S13003131":{"LAD24CD":"S12000047","LAD24NM":"Fife","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#C68BA5","lat":"56.10195","lon":"-3.55527","n":"West Fife and Coastal Villages","q":-293,"r":611 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

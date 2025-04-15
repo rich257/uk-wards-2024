@@ -17,5 +17,6 @@
 		"E05005493":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.66085","lon":"-1.31141","n":"Ratby, Bagworth and Thornton","q":-231,"r":433 },
 		"E05005494":{"LAD24CD":"E07000132","LAD24NM":"Hinckley and Bosworth","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#6950C0","lat":"52.62046","lon":"-1.51183","n":"Twycross and Witherley with Sheepy","q":-233,"r":432 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

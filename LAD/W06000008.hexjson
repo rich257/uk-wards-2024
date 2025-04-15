@@ -35,5 +35,6 @@
 		"W05001330":{"LAD24CD":"W06000008","LAD24NM":"Ceredigion","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#AE3BCC","lat":"52.2259","lon":"-3.85771","n":"Tregaron and Ystrad Fflur","q":-330,"r":422 },
 		"W05001331":{"LAD24CD":"W06000008","LAD24NM":"Ceredigion","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#AE3BCC","lat":"52.35234","lon":"-3.98647","n":"Ystwyth","q":-330,"r":424 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

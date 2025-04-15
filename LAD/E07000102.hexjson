@@ -14,5 +14,6 @@
 		"E05009436":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.64048","lon":"-0.47065","n":"Rickmansworth Town","q":-205,"r":394 },
 		"E05009437":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.62051","lon":"-0.39971","n":"South Oxhey","q":-204,"r":392 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

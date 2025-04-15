@@ -22,5 +22,6 @@
 		"E05010330":{"LAD24CD":"E06000014","LAD24NM":"York","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#1849C2","lat":"53.94677","lon":"-1.13138","n":"Westfield","q":-230,"r":513 },
 		"E05010331":{"LAD24CD":"E06000014","LAD24NM":"York","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#1849C2","lat":"53.90412","lon":"-1.01548","n":"Wheldrake","q":-227,"r":511 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

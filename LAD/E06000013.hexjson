@@ -20,5 +20,6 @@
 		"E05015091":{"LAD24CD":"E06000013","LAD24NM":"North Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#5A426A","lat":"53.49862","lon":"-0.55355","n":"Ridge","q":-223,"r":490 },
 		"E05015092":{"LAD24CD":"E06000013","LAD24NM":"North Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#5A426A","lat":"53.59851","lon":"-0.62593","n":"Town","q":-224,"r":492 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

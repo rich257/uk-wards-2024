@@ -42,5 +42,6 @@
 		"E05011664":{"LAD24CD":"E07000065","LAD24NM":"Wealden","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54F2C7","lat":"50.80761","lon":"0.257063","n":"Upper Willingdon","q":-175,"r":309 },
 		"E05011665":{"LAD24CD":"E07000065","LAD24NM":"Wealden","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54F2C7","lat":"51.09751","lon":"0.185683","n":"Withyham","q":-177,"r":322 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

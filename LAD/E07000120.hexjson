@@ -17,5 +17,6 @@
 		"E05005220":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.73144","lon":"-2.41972","n":"St Oswald's","q":-279,"r":517 },
 		"E05005221":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.74446","lon":"-2.37529","n":"Spring Hill","q":-278,"r":517 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

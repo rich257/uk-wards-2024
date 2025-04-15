@@ -27,5 +27,6 @@
 		"E05012024":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.78646","lon":"-2.46439","n":"Wilpshire & Ramsgreave","q":-288,"r":523 },
 		"E05012025":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.84305","lon":"-2.38487","n":"Wiswell & Barrow","q":-285,"r":524 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

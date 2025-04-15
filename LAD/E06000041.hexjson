@@ -19,5 +19,6 @@
 		"E05015799":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.42632","lon":"-0.87712","n":"Winnersh","q":-227,"r":333 },
 		"E05015800":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.38802","lon":"-0.81265","n":"Wokingham Without","q":-226,"r":331 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

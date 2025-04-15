@@ -6,5 +6,6 @@
 		"E05011093":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.92332","lon":"-6.30217","n":"St Mary's","q":-368,"r":309 },
 		"E05011094":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.95321","lon":"-6.33499","n":"Tresco","q":-369,"r":310 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

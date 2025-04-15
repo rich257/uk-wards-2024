@@ -19,5 +19,6 @@
 		"E05010966":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.83311","lon":"-2.24575","n":"Tuffley","q":-291,"r":390 },
 		"E05010967":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85852","lon":"-2.27184","n":"Westgate","q":-291,"r":392 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

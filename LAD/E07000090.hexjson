@@ -13,5 +13,6 @@
 		"E05015591":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.87157","lon":"-1.0315","n":"Stakes","q":-222,"r":309 },
 		"E05015592":{"LAD24CD":"E07000090","LAD24NM":"Havant","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#5AF517","lat":"50.88389","lon":"-1.02856","n":"Waterloo","q":-222,"r":310 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

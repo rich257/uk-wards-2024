@@ -23,5 +23,6 @@
 		"E05014007":{"LAD24CD":"E09000006","LAD24NM":"Bromley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#56FDCC","lat":"51.40397","lon":"0.122966","n":"St Paul's Cray","q":-175,"r":348 },
 		"E05014008":{"LAD24CD":"E09000006","LAD24NM":"Bromley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#56FDCC","lat":"51.37399","lon":"-0.01157","n":"West Wickham","q":-180,"r":347 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

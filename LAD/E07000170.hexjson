@@ -24,5 +24,6 @@
 		"E05010694":{"LAD24CD":"E07000170","LAD24NM":"Ashfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#7F0692","lat":"53.13618","lon":"-1.26322","n":"The Dales","q":-228,"r":463 },
 		"E05010695":{"LAD24CD":"E07000170","LAD24NM":"Ashfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#7F0692","lat":"53.05834","lon":"-1.28852","n":"Underwood","q":-228,"r":457 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

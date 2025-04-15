@@ -23,5 +23,6 @@
 		"E05011044":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.36925","lon":"-2.58628","n":"Stockton Heath","q":-288,"r":487 },
 		"E05011045":{"LAD24CD":"E06000007","LAD24NM":"Warrington","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C7FB24","lat":"53.41085","lon":"-2.62728","n":"Westbrook","q":-289,"r":491 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

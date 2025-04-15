@@ -16,5 +16,6 @@
 		"E05010948":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.39625","lon":"-2.77587","n":"Whiston and Cronton","q":-297,"r":491 },
 		"E05010949":{"LAD24CD":"E08000011","LAD24NM":"Knowsley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#7F5461","lat":"53.4829","lon":"-2.89865","n":"Whitefield","q":-298,"r":495 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

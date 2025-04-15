@@ -21,5 +21,6 @@
 		"E05013985":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.58369","lon":"0.21201","n":"Squirrels Heath","q":-163,"r":374 },
 		"E05013986":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.54191","lon":"0.27621","n":"Upminster","q":-162,"r":371 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

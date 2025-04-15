@@ -8,5 +8,6 @@
 		"S13003016":{"LAD24CD":"S12000018","LAD24NM":"Inverclyde","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#75ED42","lat":"55.91476","lon":"-4.83509","n":"Inverclyde South West","q":-310,"r":605 },
 		"S13003017":{"LAD24CD":"S12000018","LAD24NM":"Inverclyde","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#75ED42","lat":"55.94352","lon":"-4.79123","n":"Inverclyde South","q":-309,"r":605 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

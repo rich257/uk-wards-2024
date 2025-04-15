@@ -38,5 +38,6 @@
 		"E05009908":{"LAD24CD":"E07000137","LAD24NM":"East Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2DB4CF","lat":"53.14636","lon":"-0.20659","n":"Woodhall Spa","q":-209,"r":461 },
 		"E05009909":{"LAD24CD":"E07000137","LAD24NM":"East Lindsey","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2DB4CF","lat":"53.29009","lon":"-0.2618","n":"Wragby","q":-209,"r":463 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

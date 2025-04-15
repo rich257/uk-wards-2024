@@ -20,5 +20,6 @@
 		"E05015844":{"LAD24CD":"E07000219","LAD24NM":"Nuneaton and Bedworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#1B60B8","lat":"52.53929","lon":"-1.46909","n":"Weddington","q":-248,"r":437 },
 		"E05015845":{"LAD24CD":"E07000219","LAD24NM":"Nuneaton and Bedworth","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#1B60B8","lat":"52.50294","lon":"-1.4248","n":"Whitestone","q":-247,"r":434 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

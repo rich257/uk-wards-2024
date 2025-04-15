@@ -9,5 +9,6 @@
 		"S13002873":{"LAD24CD":"S12000041","LAD24NM":"Angus","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#7C8BB3","lat":"56.61123","lon":"-2.55148","n":"Arbroath East and Lunan","q":-284,"r":625 },
 		"S13002874":{"LAD24CD":"S12000041","LAD24NM":"Angus","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#7C8BB3","lat":"56.74901","lon":"-2.52245","n":"Montrose and District","q":-283,"r":626 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

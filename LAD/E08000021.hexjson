@@ -27,5 +27,6 @@
 		"E05011460":{"LAD24CD":"E08000021","LAD24NM":"Newcastle upon Tyne","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#8430F4","lat":"54.98575","lon":"-1.67793","n":"West Fenham","q":-271,"r":560 },
 		"E05011461":{"LAD24CD":"E08000021","LAD24NM":"Newcastle upon Tyne","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#8430F4","lat":"54.98491","lon":"-1.63815","n":"Wingrove","q":-271,"r":561 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -26,5 +26,6 @@
 		"E05004714":{"LAD24CD":"E07000096","LAD24NM":"Dacorum","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#34E938","lat":"51.81323","lon":"-0.46895","n":"Watling","q":-204,"r":404 },
 		"E05004715":{"LAD24CD":"E07000096","LAD24NM":"Dacorum","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#34E938","lat":"51.77738","lon":"-0.43929","n":"Woodhall Farm","q":-203,"r":404 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

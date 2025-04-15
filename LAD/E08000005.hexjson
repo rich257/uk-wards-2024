@@ -21,5 +21,6 @@
 		"E05014051":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.58968","lon":"-2.24916","n":"West Heywood","q":-275,"r":501 },
 		"E05014052":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.56217","lon":"-2.2229","n":"West Middleton","q":-275,"r":499 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

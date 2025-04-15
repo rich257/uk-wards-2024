@@ -17,5 +17,6 @@
 		"E05015678":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.87151","lon":"-1.19918","n":"Uplands & Funtley","q":-228,"r":314 },
 		"E05015679":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.86463","lon":"-1.16081","n":"Wallington & Downend","q":-228,"r":313 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

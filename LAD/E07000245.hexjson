@@ -44,5 +44,6 @@
 		"E05015579":{"LAD24CD":"E07000245","LAD24NM":"West Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EDABE1","lat":"52.24458","lon":"0.745371","n":"Moreton Hall","q":-174,"r":423 },
 		"E05015580":{"LAD24CD":"E07000245","LAD24NM":"West Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#EDABE1","lat":"52.21269","lon":"0.778569","n":"Rougham","q":-173,"r":422 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

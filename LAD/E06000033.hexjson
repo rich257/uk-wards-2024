@@ -18,5 +18,6 @@
 		"E05002227":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.54767","lon":"0.636598","n":"West Leigh","q":-163,"r":392 },
 		"E05002228":{"LAD24CD":"E06000033","LAD24NM":"Southend-on-Sea","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E959F2","lat":"51.53376","lon":"0.776842","n":"West Shoebury","q":-157,"r":392 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

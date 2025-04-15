@@ -41,5 +41,6 @@
 		"N08000739":{"LAD24CD":"N09000007","LAD24NM":"Lisburn and Castlereagh","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#1DE610","lat":"54.51939","lon":"-6.04873","n":"Wallace Park","q":-367,"r":530 },
 		"N08000740":{"LAD24CD":"N09000007","LAD24NM":"Lisburn and Castlereagh","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#1DE610","lat":"54.545","lon":"-6.08137","n":"White Mountain","q":-369,"r":532 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

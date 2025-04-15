@@ -13,5 +13,6 @@
 		"E05010512":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.40785","lon":"-2.31745","n":"Wribbenhall & Arley","q":-275,"r":426 },
 		"E05010513":{"LAD24CD":"E07000239","LAD24NM":"Wyre Forest","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B74931","lat":"52.39142","lon":"-2.20843","n":"Wyre Forest Rural","q":-273,"r":427 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

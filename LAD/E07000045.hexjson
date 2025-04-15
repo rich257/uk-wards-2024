@@ -25,5 +25,6 @@
 		"E05011914":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.55979","lon":"-3.49122","n":"Teignmouth East","q":-321,"r":340 },
 		"E05011915":{"LAD24CD":"E07000045","LAD24NM":"Teignbridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1A5025","lat":"50.55365","lon":"-3.51022","n":"Teignmouth West","q":-322,"r":339 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

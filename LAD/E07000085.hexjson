@@ -32,5 +32,6 @@
 		"E05012319":{"LAD24CD":"E07000085","LAD24NM":"East Hampshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C39636","lat":"51.08826","lon":"-0.87806","n":"Whitehill Hogmoor & Greatham","q":-222,"r":318 },
 		"E05012320":{"LAD24CD":"E07000085","LAD24NM":"East Hampshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C39636","lat":"51.12751","lon":"-0.86756","n":"Whitehill Pinewood","q":-222,"r":320 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

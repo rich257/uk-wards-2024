@@ -14,5 +14,6 @@
 		"E05010026":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.07823","lon":"1.144393","n":"Sandgate & West Folkestone","q":-158,"r":318 },
 		"E05010027":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"50.98043","lon":"0.881686","n":"Walland & Denge Marsh","q":-162,"r":317 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

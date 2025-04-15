@@ -18,5 +18,6 @@
 		"E05015505":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.9096","lon":"-1.33799","n":"Thornhill","q":-236,"r":316 },
 		"E05015506":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.88903","lon":"-1.36619","n":"Woolston","q":-238,"r":315 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -24,5 +24,6 @@
 		"E05010500":{"LAD24CD":"E07000197","LAD24NM":"Stafford","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#9A09CA","lat":"52.89065","lon":"-2.14668","n":"Walton","q":-269,"r":450 },
 		"E05010501":{"LAD24CD":"E07000197","LAD24NM":"Stafford","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#9A09CA","lat":"52.78637","lon":"-2.08331","n":"Weeping Cross & Wildwood","q":-267,"r":446 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

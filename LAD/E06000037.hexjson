@@ -25,5 +25,6 @@
 		"E05012154":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.44971","lon":"-1.05053","n":"Tilehurst Birch Copse","q":-235,"r":333 },
 		"E05012155":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.44347","lon":"-1.03375","n":"Tilehurst South & Holybrook","q":-234,"r":332 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

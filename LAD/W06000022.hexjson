@@ -22,5 +22,6 @@
 		"W05001646":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.53632","lon":"-3.04405","n":"Tredegar Park and Marshfield","q":-308,"r":396 },
 		"W05001647":{"LAD24CD":"W06000022","LAD24NM":"Newport","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#5C8423","lat":"51.58855","lon":"-2.98332","n":"Victoria","q":-306,"r":398 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

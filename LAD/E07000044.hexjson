@@ -21,5 +21,6 @@
 		"E05010146":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.39816","lon":"-3.69506","n":"West Dart","q":-326,"r":325 },
 		"E05010147":{"LAD24CD":"E07000044","LAD24NM":"South Hams","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#F299A4","lat":"50.43254","lon":"-4.10219","n":"Woolwell","q":-331,"r":325 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

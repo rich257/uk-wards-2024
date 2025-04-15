@@ -53,5 +53,6 @@
 		"E05015781":{"LAD24CD":"E06000059","LAD24NM":"Dorset","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#86C7A1","lat":"50.78099","lon":"-2.671","n":"Eggardon","q":-305,"r":348 },
 		"E05015782":{"LAD24CD":"E06000059","LAD24NM":"Dorset","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#86C7A1","lat":"50.78811","lon":"-2.8573","n":"Marshwood Vale","q":-307,"r":347 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

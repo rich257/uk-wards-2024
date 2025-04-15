@@ -19,5 +19,6 @@
 		"E05010566":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.54335","lon":"-4.13328","n":"Tavistock South East","q":-334,"r":332 },
 		"E05010567":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.53869","lon":"-4.1528","n":"Tavistock South West","q":-335,"r":332 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -17,5 +17,6 @@
 		"E05012968":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"51.87854","lon":"-1.13726","n":"Bicester South and Ambrosden","q":-232,"r":359 },
 		"E05012969":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"51.9392","lon":"-1.14763","n":"Fringford and Heyfords","q":-232,"r":362 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

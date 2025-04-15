@@ -26,5 +26,6 @@
 		"E05015777":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"52.05474","lon":"-0.02162","n":"Royston Palace","q":-190,"r":415 },
 		"E05015778":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.9795","lon":"-0.11716","n":"Weston & Sandon","q":-192,"r":413 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

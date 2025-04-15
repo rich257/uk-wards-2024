@@ -22,5 +22,6 @@
 		"E05015258":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.40372","lon":"-2.32614","n":"Timperley North","q":-282,"r":487 },
 		"E05015259":{"LAD24CD":"E08000009","LAD24NM":"Trafford","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#018B93","lat":"53.44862","lon":"-2.34985","n":"Urmston","q":-282,"r":490 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -25,5 +25,6 @@
 		"E05015562":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.7506","lon":"-1.29796","n":"Botley & Sunningwell","q":-236,"r":346 },
 		"E05015563":{"LAD24CD":"E07000180","LAD24NM":"Vale of White Horse","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#135211","lat":"51.6973","lon":"-1.24958","n":"Kennington & Radley","q":-235,"r":346 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

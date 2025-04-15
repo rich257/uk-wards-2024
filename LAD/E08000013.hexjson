@@ -19,5 +19,6 @@
 		"E05014136":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.44755","lon":"-2.76081","n":"West Park","q":-295,"r":493 },
 		"E05014137":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.46778","lon":"-2.76086","n":"Windle","q":-294,"r":494 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

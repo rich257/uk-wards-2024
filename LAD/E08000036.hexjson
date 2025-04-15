@@ -22,5 +22,6 @@
 		"E05001463":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.67008","lon":"-1.51929","n":"Wakefield West","q":-240,"r":498 },
 		"E05001464":{"LAD24CD":"E08000036","LAD24NM":"Wakefield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#AC37CB","lat":"53.7033","lon":"-1.52765","n":"Wrenthorpe and Outwood West","q":-240,"r":500 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

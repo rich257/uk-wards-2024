@@ -15,5 +15,6 @@
 		"E05015649":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.61236","lon":"0.541917","n":"Wickford North","q":-168,"r":398 },
 		"E05015650":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.60227","lon":"0.529179","n":"Wickford Park","q":-169,"r":397 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

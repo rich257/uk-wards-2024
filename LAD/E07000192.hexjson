@@ -13,5 +13,6 @@
 		"E05015752":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.66604","lon":"-1.98866","n":"Norton Canes","q":-264,"r":444 },
 		"E05015753":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.75925","lon":"-1.92731","n":"Western Springs","q":-263,"r":449 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

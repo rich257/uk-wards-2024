@@ -22,5 +22,6 @@
 		"S13003009":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"57.07207","lon":"-4.0048","n":"Badenoch and Strathspey","q":-300,"r":640 },
 		"S13003010":{"LAD24CD":"S12000017","LAD24NM":"Highland","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F4A51D","lat":"56.77799","lon":"-5.67669","n":"Fort William and Ardnamurchan","q":-304,"r":639 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

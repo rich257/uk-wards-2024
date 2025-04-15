@@ -31,5 +31,6 @@
 		"E05001369":{"LAD24CD":"E08000032","LAD24NM":"Bradford","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#EEE0F5","lat":"53.83218","lon":"-1.98794","n":"Worth Valley","q":-251,"r":505 },
 		"E05001370":{"LAD24CD":"E08000032","LAD24NM":"Bradford","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#EEE0F5","lat":"53.74898","lon":"-1.7614","n":"Wyke","q":-247,"r":501 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

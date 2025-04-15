@@ -24,5 +24,6 @@
 		"E05014093":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.48307","lon":"0.063266","n":"Woolwich Common","q":-173,"r":359 },
 		"E05014094":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.48987","lon":"0.05382","n":"Woolwich Dockyard","q":-173,"r":360 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

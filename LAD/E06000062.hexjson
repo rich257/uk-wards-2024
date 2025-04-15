@@ -32,5 +32,6 @@
 		"E05013268":{"LAD24CD":"E06000062","LAD24NM":"West Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#57FF21","lat":"52.13878","lon":"-0.95007","n":"Towcester and Roade","q":-223,"r":417 },
 		"E05013269":{"LAD24CD":"E06000062","LAD24NM":"West Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#57FF21","lat":"52.20568","lon":"-1.15137","n":"Woodford and Weedon","q":-224,"r":418 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

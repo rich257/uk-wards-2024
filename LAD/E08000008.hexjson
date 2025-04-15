@@ -20,5 +20,6 @@
 		"E05014536":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.49578","lon":"-2.05274","n":"Stalybridge North","q":-269,"r":493 },
 		"E05014537":{"LAD24CD":"E08000008","LAD24NM":"Tameside","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C55D86","lat":"53.48576","lon":"-2.00734","n":"Stalybridge South","q":-268,"r":492 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

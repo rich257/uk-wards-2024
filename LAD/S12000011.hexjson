@@ -6,5 +6,6 @@
 		"S13002917":{"LAD24CD":"S12000011","LAD24NM":"East Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#A0AF92","lat":"55.78621","lon":"-4.27835","n":"Clarkston, Netherlee and Williamwood","q":-302,"r":597 },
 		"S13002918":{"LAD24CD":"S12000011","LAD24NM":"East Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#A0AF92","lat":"55.73699","lon":"-4.30378","n":"Newton Mearns South and Eaglesham","q":-302,"r":596 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

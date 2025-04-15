@@ -21,5 +21,6 @@
 		"E05015072":{"LAD24CD":"E07000196","LAD24NM":"South Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#4B4977","lat":"52.54331","lon":"-2.17079","n":"Wombourne North","q":-273,"r":440 },
 		"E05015073":{"LAD24CD":"E07000196","LAD24NM":"South Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#4B4977","lat":"52.52722","lon":"-2.19787","n":"Wombourne South","q":-274,"r":439 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

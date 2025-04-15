@@ -20,5 +20,6 @@
 		"E05012511":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.52381","lon":"-0.71534","n":"St Mary's","q":-222,"r":341 },
 		"E05012512":{"LAD24CD":"E06000040","LAD24NM":"Windsor and Maidenhead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#8D7B1C","lat":"51.40107","lon":"-0.63178","n":"Sunningdale & Cheapside","q":-219,"r":337 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

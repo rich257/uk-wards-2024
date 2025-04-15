@@ -22,5 +22,6 @@
 		"E05014608":{"LAD24CD":"E07000035","LAD24NM":"Derbyshire Dales","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#5557B5","lat":"53.08444","lon":"-1.59034","n":"Wirksworth","q":-245,"r":462 },
 		"E05014609":{"LAD24CD":"E07000035","LAD24NM":"Derbyshire Dales","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#5557B5","lat":"53.17286","lon":"-1.69426","n":"Youlgrave","q":-246,"r":464 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

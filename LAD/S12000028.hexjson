@@ -9,5 +9,6 @@
 		"S13003093":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.34649","lon":"-4.60191","n":"Maybole, North Carrick and Coylton","q":-308,"r":590 },
 		"S13003094":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.19854","lon":"-4.76859","n":"Girvan and South Carrick","q":-309,"r":589 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

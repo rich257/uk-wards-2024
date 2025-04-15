@@ -35,5 +35,6 @@
 		"E05014587":{"LAD24CD":"E06000021","LAD24NM":"Stoke-on-Trent","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#2ECC3C","lat":"52.98893","lon":"-2.19911","n":"Trent Vale & Oak Hill","q":-274,"r":455 },
 		"E05014588":{"LAD24CD":"E06000021","LAD24NM":"Stoke-on-Trent","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#2ECC3C","lat":"53.05932","lon":"-2.21549","n":"Tunstall","q":-274,"r":460 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -16,5 +16,6 @@
 		"E05005163":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.78864","lon":"-2.25358","n":"Trinity","q":-273,"r":515 },
 		"E05005164":{"LAD24CD":"E07000117","LAD24NM":"Burnley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#3E522D","lat":"53.80556","lon":"-2.28263","n":"Whittlefield with Ightenhill","q":-274,"r":517 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

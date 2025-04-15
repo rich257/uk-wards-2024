@@ -27,5 +27,6 @@
 		"E05013237":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.38317","lon":"-0.70511","n":"Wicksteed","q":-216,"r":425 },
 		"E05013238":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.40134","lon":"-0.70874","n":"Windmill","q":-216,"r":426 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

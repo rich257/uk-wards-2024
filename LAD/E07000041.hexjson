@@ -14,5 +14,6 @@
 		"E05011022":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.71568","lon":"-3.55084","n":"St Thomas","q":-320,"r":342 },
 		"E05011023":{"LAD24CD":"E07000041","LAD24NM":"Exeter","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#4FCEB1","lat":"50.69859","lon":"-3.47513","n":"Topsham","q":-318,"r":342 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

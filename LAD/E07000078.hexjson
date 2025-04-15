@@ -21,5 +21,6 @@
 		"E05015722":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.88537","lon":"-2.11817","n":"Up Hatherley","q":-286,"r":392 },
 		"E05015723":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.88559","lon":"-2.10131","n":"Warden Hill","q":-285,"r":392 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

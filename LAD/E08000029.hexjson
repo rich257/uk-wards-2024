@@ -18,5 +18,6 @@
 		"E05001299":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.42065","lon":"-1.77916","n":"Silhill","q":-253,"r":430 },
 		"E05001300":{"LAD24CD":"E08000029","LAD24NM":"Solihull","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0447F1","lat":"52.502","lon":"-1.74633","n":"Smith's Wood","q":-252,"r":434 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

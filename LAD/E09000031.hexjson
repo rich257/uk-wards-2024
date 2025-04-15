@@ -23,5 +23,6 @@
 		"E05013902":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.59025","lon":"-0.02658","n":"William Morris","q":-179,"r":376 },
 		"E05013903":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.58538","lon":"-0.00527","n":"Wood Street","q":-178,"r":375 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

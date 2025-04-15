@@ -21,5 +21,6 @@
 		"E05014856":{"LAD24CD":"E08000031","LAD24NM":"Wolverhampton","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#60445D","lat":"52.61354","lon":"-2.05821","n":"Wednesfield North","q":-265,"r":442 },
 		"E05014857":{"LAD24CD":"E08000031","LAD24NM":"Wolverhampton","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#60445D","lat":"52.59739","lon":"-2.0768","n":"Wednesfield South","q":-266,"r":441 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

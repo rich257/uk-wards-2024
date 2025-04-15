@@ -22,5 +22,6 @@
 		"E05010747":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.5222","lon":"-1.12526","n":"Town","q":-233,"r":488 },
 		"E05010748":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.53433","lon":"-1.09719","n":"Wheatley Hills & Intake","q":-233,"r":489 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

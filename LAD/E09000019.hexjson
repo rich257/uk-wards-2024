@@ -18,5 +18,6 @@
 		"E05013712":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.56323","lon":"-0.11996","n":"Tollington","q":-189,"r":375 },
 		"E05013713":{"LAD24CD":"E09000019","LAD24NM":"Islington","RGN24CD":"E12000007","RGN24NM":"London","colour":"#1CAC87","lat":"51.55557","lon":"-0.12974","n":"Tufnell Park","q":-189,"r":373 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

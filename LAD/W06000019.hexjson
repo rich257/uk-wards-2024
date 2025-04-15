@@ -15,5 +15,6 @@
 		"W05001268":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.80074","lon":"-3.26945","n":"Sirhowy","q":-315,"r":407 },
 		"W05001269":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.76124","lon":"-3.24308","n":"Tredegar","q":-315,"r":406 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

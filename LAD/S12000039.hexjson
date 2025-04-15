@@ -7,5 +7,6 @@
 		"S13003126":{"LAD24CD":"S12000039","LAD24NM":"West Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AD4E1D","lat":"55.91205","lon":"-4.40968","n":"Clydebank Central","q":-302,"r":608 },
 		"S13003127":{"LAD24CD":"S12000039","LAD24NM":"West Dunbartonshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#AD4E1D","lat":"55.91852","lon":"-4.44855","n":"Clydebank Waterfront","q":-303,"r":608 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -19,5 +19,6 @@
 		"E05013185":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.33405","lon":"-2.6695","n":"Norton North","q":-291,"r":482 },
 		"E05013186":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.31646","lon":"-2.65468","n":"Norton South & Preston Brook","q":-291,"r":481 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

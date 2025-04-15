@@ -12,5 +12,6 @@
 		"S13002770":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.40865","lon":"-2.67087","n":"Hawick and Denholm","q":-282,"r":591 },
 		"S13002771":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.272","lon":"-2.83801","n":"Hawick and Hermitage","q":-283,"r":591 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -25,5 +25,6 @@
 		"E05013540":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.50056","lon":"-0.25994","n":"Southfield","q":-203,"r":364 },
 		"E05013541":{"LAD24CD":"E09000009","LAD24NM":"Ealing","RGN24CD":"E12000007","RGN24NM":"London","colour":"#5A3766","lat":"51.50663","lon":"-0.31627","n":"Walpole","q":-206,"r":364 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -18,5 +18,6 @@
 		"E05005799":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.69068","lon":"1.598759","n":"West Flegg","q":-155,"r":446 },
 		"E05005800":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.6268","lon":"1.732986","n":"Yarmouth North","q":-153,"r":445 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

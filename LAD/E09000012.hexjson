@@ -22,5 +22,6 @@
 		"E05009386":{"LAD24CD":"E09000012","LAD24NM":"Hackney","RGN24CD":"E12000007","RGN24NM":"London","colour":"#D1B4C7","lat":"51.53874","lon":"-0.04849","n":"Victoria","q":-183,"r":371 },
 		"E05009387":{"LAD24CD":"E09000012","LAD24NM":"Hackney","RGN24CD":"E12000007","RGN24NM":"London","colour":"#D1B4C7","lat":"51.56984","lon":"-0.09118","n":"Woodberry Down","q":-184,"r":375 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

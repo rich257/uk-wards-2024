@@ -29,5 +29,6 @@
 		"E05010883":{"LAD24CD":"E08000019","LAD24NM":"Sheffield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#EF5C6C","lat":"53.46016","lon":"-1.49392","n":"West Ecclesfield","q":-244,"r":485 },
 		"E05010884":{"LAD24CD":"E08000019","LAD24NM":"Sheffield","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#EF5C6C","lat":"53.36323","lon":"-1.37213","n":"Woodhouse","q":-240,"r":482 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

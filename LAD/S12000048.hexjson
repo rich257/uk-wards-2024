@@ -13,5 +13,6 @@
 		"S13003074":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.4009","lon":"-3.43734","n":"Perth City Centre","q":-289,"r":618 },
 		"S13003132":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.22891","lon":"-3.44387","n":"Kinross-shire","q":-291,"r":616 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

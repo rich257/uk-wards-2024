@@ -26,5 +26,6 @@
 		"E05015012":{"LAD24CD":"E08000010","LAD24NM":"Wigan","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEEB70","lat":"53.51957","lon":"-2.67402","n":"Winstanley","q":-290,"r":495 },
 		"E05015013":{"LAD24CD":"E08000010","LAD24NM":"Wigan","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEEB70","lat":"53.5276","lon":"-2.63793","n":"Worsley Mesnes","q":-289,"r":496 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

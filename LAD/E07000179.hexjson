@@ -22,5 +22,6 @@
 		"E05015558":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.53434","lon":"-0.90954","n":"Henley-on-Thames","q":-228,"r":344 },
 		"E05015559":{"LAD24CD":"E07000179","LAD24NM":"South Oxfordshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#7CAF13","lat":"51.55754","lon":"-1.00132","n":"Woodcote & Rotherfield","q":-229,"r":344 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

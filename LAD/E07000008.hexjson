@@ -15,5 +15,6 @@
 		"E05013062":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.17864","lon":"0.115287","n":"Trumpington","q":-188,"r":420 },
 		"E05013063":{"LAD24CD":"E07000008","LAD24NM":"Cambridge","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#45C5BD","lat":"52.21696","lon":"0.12677","n":"West Chesterton","q":-188,"r":422 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

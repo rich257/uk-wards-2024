@@ -27,5 +27,6 @@
 		"E05015378":{"LAD24CD":"E07000242","LAD24NM":"East Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#FA7C50","lat":"51.81976","lon":"-0.0197","n":"Ware Trinity","q":-183,"r":412 },
 		"E05015379":{"LAD24CD":"E07000242","LAD24NM":"East Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#FA7C50","lat":"51.83879","lon":"-0.11987","n":"Watton-at-Stone","q":-184,"r":413 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

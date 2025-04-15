@@ -20,5 +20,6 @@
 		"E05013945":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.37919","lon":"-0.29134","n":"Tolworth","q":-199,"r":344 },
 		"E05013946":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.4258","lon":"-0.30109","n":"Tudor","q":-199,"r":350 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

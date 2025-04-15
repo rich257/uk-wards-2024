@@ -42,5 +42,6 @@
 		"N08000240":{"LAD24CD":"N09000002","LAD24NM":"Armagh City, Banbridge and Craigavon","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#DDDD70","lat":"54.3567","lon":"-6.63679","n":"The Mall","q":-383,"r":530 },
 		"N08000241":{"LAD24CD":"N09000002","LAD24NM":"Armagh City, Banbridge and Craigavon","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#DDDD70","lat":"54.43383","lon":"-6.31142","n":"Waringstown","q":-379,"r":532 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

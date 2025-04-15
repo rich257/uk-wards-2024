@@ -15,5 +15,6 @@
 		"E05015488":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.23189","lon":"0.289218","n":"Bottisham","q":-184,"r":424 },
 		"E05015489":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.2066","lon":"0.414715","n":"Woodditton","q":-184,"r":423 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

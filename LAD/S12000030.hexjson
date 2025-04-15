@@ -8,5 +8,6 @@
 		"S13003120":{"LAD24CD":"S12000030","LAD24NM":"Stirling","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#74AEA8","lat":"56.10591","lon":"-3.91944","n":"Stirling East","q":-299,"r":610 },
 		"S13003121":{"LAD24CD":"S12000030","LAD24NM":"Stirling","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#74AEA8","lat":"56.07829","lon":"-3.86171","n":"Bannockburn","q":-300,"r":609 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

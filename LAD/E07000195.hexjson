@@ -22,5 +22,6 @@
 		"E05011434":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"52.99638","lon":"-2.23394","n":"Westlands","q":-277,"r":448 },
 		"E05011435":{"LAD24CD":"E07000195","LAD24NM":"Newcastle-under-Lyme","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#0ACBAD","lat":"53.03164","lon":"-2.22265","n":"Wolstanton","q":-277,"r":451 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

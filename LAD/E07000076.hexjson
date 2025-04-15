@@ -33,5 +33,6 @@
 		"E05011962":{"LAD24CD":"E07000076","LAD24NM":"Tendring","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3056FD","lat":"51.87096","lon":"1.119392","n":"Weeley & Tendring","q":-157,"r":410 },
 		"E05011963":{"LAD24CD":"E07000076","LAD24NM":"Tendring","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3056FD","lat":"51.78628","lon":"1.110194","n":"West Clacton & Jaywick Sands","q":-158,"r":407 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

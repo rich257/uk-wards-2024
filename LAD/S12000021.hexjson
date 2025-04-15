@@ -10,5 +10,6 @@
 		"S13003148":{"LAD24CD":"S12000021","LAD24NM":"North Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6B215F","lat":"55.81924","lon":"-4.8226","n":"North Coast","q":-310,"r":602 },
 		"S13003149":{"LAD24CD":"S12000021","LAD24NM":"North Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6B215F","lat":"55.63884","lon":"-4.74603","n":"Saltcoats and Stevenston","q":-309,"r":600 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

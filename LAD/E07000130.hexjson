@@ -25,5 +25,6 @@
 		"E05014688":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.68035","lon":"-1.09824","n":"Thurmaston","q":-222,"r":437 },
 		"E05014689":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.72553","lon":"-1.03493","n":"Wreake Valley","q":-222,"r":438 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -21,5 +21,6 @@
 		"E05012288":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.98787","lon":"-1.14757","n":"Sherwood","q":-224,"r":452 },
 		"E05012289":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.94973","lon":"-1.22129","n":"Wollaton West","q":-227,"r":451 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

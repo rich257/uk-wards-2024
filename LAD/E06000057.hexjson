@@ -67,5 +67,6 @@
 		"E05013862":{"LAD24CD":"E06000057","LAD24NM":"Northumberland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#C8A781","lat":"55.18365","lon":"-1.60672","n":"Bothal","q":-268,"r":574 },
 		"E05013863":{"LAD24CD":"E06000057","LAD24NM":"Northumberland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#C8A781","lat":"55.2194","lon":"-1.67403","n":"Pegswood","q":-269,"r":573 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

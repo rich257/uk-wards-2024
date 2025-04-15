@@ -15,5 +15,6 @@
 		"E05013076":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.63832","lon":"-2.69682","n":"Eccleston, Heskin & Charnock Richard","q":-288,"r":503 },
 		"E05013077":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.66705","lon":"-2.68061","n":"Euxton","q":-288,"r":504 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

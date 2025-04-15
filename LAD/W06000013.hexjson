@@ -29,5 +29,6 @@
 		"W05001254":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.49154","lon":"-3.72183","n":"Rest Bay","q":-328,"r":392 },
 		"W05001255":{"LAD24CD":"W06000013","LAD24NM":"Bridgend","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#A7601E","lat":"51.54772","lon":"-3.57016","n":"St Bride's Minor and Ynysawdre","q":-326,"r":395 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

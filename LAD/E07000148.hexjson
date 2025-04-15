@@ -14,5 +14,6 @@
 		"E05012912":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.62609","lon":"1.248396","n":"University","q":-168,"r":441 },
 		"E05012913":{"LAD24CD":"E07000148","LAD24NM":"Norwich","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#49BC60","lat":"52.642","lon":"1.258402","n":"Wensum","q":-167,"r":442 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

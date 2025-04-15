@@ -19,5 +19,6 @@
 		"E05015437":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.64778","lon":"0.151388","n":"Wisbech South","q":-187,"r":438 },
 		"E05015438":{"LAD24CD":"E07000010","LAD24NM":"Fenland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#6E4DDB","lat":"52.67375","lon":"0.17457","n":"Wisbech Walsoken & Waterlees","q":-186,"r":440 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

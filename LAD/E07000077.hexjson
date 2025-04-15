@@ -23,5 +23,6 @@
 		"E05014489":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.89083","lon":"0.364711","n":"Great Dunmow North","q":-173,"r":412 },
 		"E05014490":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.9319","lon":"0.354186","n":"Thaxted & The Eastons","q":-174,"r":413 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

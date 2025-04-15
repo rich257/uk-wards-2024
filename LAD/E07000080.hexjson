@@ -22,5 +22,6 @@
 		"E05012175":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.68352","lon":"-2.62593","n":"Tidenham","q":-297,"r":386 },
 		"E05012176":{"LAD24CD":"E07000080","LAD24NM":"Forest of Dean","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#48DB8E","lat":"51.82888","lon":"-2.40332","n":"Westbury-on-Severn","q":-295,"r":390 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

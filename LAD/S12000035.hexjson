@@ -12,5 +12,6 @@
 		"S13002525":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"56.01026","lon":"-4.74125","n":"Helensburgh Central","q":-308,"r":610 },
 		"S13002526":{"LAD24CD":"S12000035","LAD24NM":"Argyll and Bute","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#30492D","lat":"56.00155","lon":"-4.67029","n":"Helensburgh and Lomond South","q":-308,"r":609 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

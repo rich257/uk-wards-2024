@@ -13,5 +13,6 @@
 		"E05013048":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.69608","lon":"-1.24322","n":"Throston","q":-252,"r":540 },
 		"E05013049":{"LAD24CD":"E06000001","LAD24NM":"Hartlepool","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#E6BD2B","lat":"54.68822","lon":"-1.22328","n":"Victoria","q":-252,"r":539 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.2"
 }

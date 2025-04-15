@@ -13,5 +13,6 @@
 		"S13003085":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.90625","lon":"-4.54988","n":"Bishopton, Bridge of Weir and Langbank","q":-305,"r":606 },
 		"S13003086":{"LAD24CD":"S12000038","LAD24NM":"Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#D0C110","lat":"55.89558","lon":"-4.44723","n":"Erskine and Inchinnan","q":-304,"r":606 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

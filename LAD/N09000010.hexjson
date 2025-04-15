@@ -42,5 +42,6 @@
 		"N08001040":{"LAD24CD":"N09000010","LAD24NM":"Newry, Mourne and Down","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#BFEDB5","lat":"54.1061","lon":"-6.25977","n":"Warrenpoint","q":-361,"r":524 },
 		"N08001041":{"LAD24CD":"N09000010","LAD24NM":"Newry, Mourne and Down","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#BFEDB5","lat":"54.22525","lon":"-6.42918","n":"Whitecross","q":-366,"r":525 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -11,5 +11,6 @@
 		"E05010803":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.32261","lon":"-0.51151","n":"Pyrford","q":-210,"r":330 },
 		"E05010804":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.31204","lon":"-0.5943","n":"St John's","q":-212,"r":330 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

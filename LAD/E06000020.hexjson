@@ -33,5 +33,6 @@
 		"E05015237":{"LAD24CD":"E06000020","LAD24NM":"Telford and Wrekin","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#83AB58","lat":"52.70961","lon":"-2.5788","n":"Wrockwardine","q":-282,"r":438 },
 		"E05015238":{"LAD24CD":"E06000020","LAD24NM":"Telford and Wrekin","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#83AB58","lat":"52.71222","lon":"-2.45756","n":"Wrockwardine Wood & Trench","q":-279,"r":439 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

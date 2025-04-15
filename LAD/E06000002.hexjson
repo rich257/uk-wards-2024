@@ -21,5 +21,6 @@
 		"E05015468":{"LAD24CD":"E06000002","LAD24NM":"Middlesbrough","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#6B428F","lat":"54.53731","lon":"-1.19885","n":"Marton East","q":-249,"r":525 },
 		"E05015469":{"LAD24CD":"E06000002","LAD24NM":"Middlesbrough","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#6B428F","lat":"54.51497","lon":"-1.16632","n":"Nunthorpe","q":-248,"r":524 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

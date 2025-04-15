@@ -40,5 +40,6 @@
 		"E05013396":{"LAD24CD":"E06000046","LAD24NM":"Isle of Wight","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#47263A","lat":"50.72825","lon":"-1.2342","n":"Wootton Bridge","q":-233,"r":301 },
 		"E05013397":{"LAD24CD":"E06000046","LAD24NM":"Isle of Wight","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#47263A","lat":"50.61279","lon":"-1.21353","n":"Wroxall, Lowtherville & Bonchurch","q":-234,"r":297 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

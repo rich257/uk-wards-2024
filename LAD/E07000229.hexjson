@@ -14,5 +14,6 @@
 		"E05007705":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.81726","lon":"-0.34799","n":"Selden","q":-200,"r":305 },
 		"E05007706":{"LAD24CD":"E07000229","LAD24NM":"Worthing","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F11A74","lat":"50.82408","lon":"-0.39625","n":"Tarring","q":-202,"r":306 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

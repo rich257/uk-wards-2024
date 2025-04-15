@@ -41,5 +41,6 @@
 		"N08000939":{"LAD24CD":"N09000009","LAD24NM":"Mid Ulster","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#555500","lat":"54.89112","lon":"-6.54404","n":"Valley","q":-376,"r":552 },
 		"N08000940":{"LAD24CD":"N09000009","LAD24NM":"Mid Ulster","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#555500","lat":"54.53749","lon":"-6.60505","n":"Washing Bay","q":-377,"r":546 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

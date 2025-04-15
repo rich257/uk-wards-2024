@@ -52,5 +52,6 @@
 		"W05001226":{"LAD24CD":"W06000010","LAD24NM":"Carmarthenshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#4AF3DC","lat":"51.67805","lon":"-4.16249","n":"Tyisha","q":-342,"r":398 },
 		"W05001227":{"LAD24CD":"W06000010","LAD24NM":"Carmarthenshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#4AF3DC","lat":"51.84911","lon":"-4.65028","n":"Whitland","q":-347,"r":403 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

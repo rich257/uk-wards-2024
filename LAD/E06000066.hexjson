@@ -56,5 +56,6 @@
 		"E05014392":{"LAD24CD":"E06000066","LAD24NM":"Somerset","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#006200","lat":"50.93578","lon":"-2.64845","n":"Yeovil South","q":-311,"r":358 },
 		"E05014393":{"LAD24CD":"E06000066","LAD24NM":"Somerset","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#006200","lat":"50.9583","lon":"-2.654","n":"Yeovil West","q":-312,"r":360 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -12,5 +12,6 @@
 		"E05015689":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.75969","lon":"0.092677","n":"Passmores","q":-180,"r":405 },
 		"E05015690":{"LAD24CD":"E07000073","LAD24NM":"Harlow","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B2DCD4","lat":"51.74504","lon":"0.082149","n":"Sumners & Kingsmoor","q":-180,"r":404 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

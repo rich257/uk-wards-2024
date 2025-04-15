@@ -33,5 +33,6 @@
 		"E05015556":{"LAD24CD":"E07000079","LAD24NM":"Cotswold","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1AF2E3","lat":"51.86618","lon":"-1.9266","n":"Sandywell","q":-281,"r":390 },
 		"E05015557":{"LAD24CD":"E07000079","LAD24NM":"Cotswold","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1AF2E3","lat":"51.73102","lon":"-1.98995","n":"Stratton","q":-282,"r":389 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

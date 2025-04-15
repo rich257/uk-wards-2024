@@ -22,5 +22,6 @@
 		"E05011554":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.08107","lon":"-0.82075","n":"Castle","q":-216,"r":455 },
 		"E05011555":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.01608","lon":"-0.84514","n":"Farndon & Fernwood","q":-216,"r":453 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

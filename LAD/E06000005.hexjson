@@ -21,5 +21,6 @@
 		"E05010430":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.53064","lon":"-1.53413","n":"Stephenson","q":-263,"r":526 },
 		"E05010431":{"LAD24CD":"E06000005","LAD24NM":"Darlington","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#B76CE8","lat":"54.54737","lon":"-1.52341","n":"Whinfield","q":-263,"r":528 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

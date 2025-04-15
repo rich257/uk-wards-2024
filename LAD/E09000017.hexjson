@@ -22,5 +22,6 @@
 		"E05013583":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.52577","lon":"-0.38866","n":"Yeading","q":-211,"r":367 },
 		"E05013584":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.51518","lon":"-0.47107","n":"Yiewsley","q":-213,"r":366 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

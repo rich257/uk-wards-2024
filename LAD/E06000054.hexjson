@@ -99,5 +99,6 @@
 		"E05013834":{"LAD24CD":"E06000054","LAD24NM":"Wiltshire","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#E1814E","lat":"51.34094","lon":"-1.74004","n":"Pewsey","q":-289,"r":362 },
 		"E05013835":{"LAD24CD":"E06000054","LAD24NM":"Wiltshire","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#E1814E","lat":"51.32979","lon":"-1.83267","n":"Pewsey Vale West","q":-290,"r":361 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

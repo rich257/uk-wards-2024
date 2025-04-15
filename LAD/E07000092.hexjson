@@ -14,5 +14,6 @@
 		"E05009000":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.25533","lon":"-0.77305","n":"Wellington","q":-222,"r":324 },
 		"E05009001":{"LAD24CD":"E07000092","LAD24NM":"Rushmoor","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A1DAFA","lat":"51.30074","lon":"-0.77148","n":"West Heath","q":-223,"r":327 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -22,5 +22,6 @@
 		"E05011623":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.91462","lon":"0.503218","n":"South Battle & Telham","q":-169,"r":317 },
 		"E05011624":{"LAD24CD":"E07000064","LAD24NM":"Rother","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E3EB58","lat":"50.90126","lon":"0.663128","n":"Southern Rother","q":-168,"r":317 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

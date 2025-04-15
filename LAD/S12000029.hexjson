@@ -21,5 +21,6 @@
 		"S13003113":{"LAD24CD":"S12000029","LAD24NM":"South Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2055E4","lat":"55.76127","lon":"-4.0527","n":"Hamilton South","q":-294,"r":594 },
 		"S13003114":{"LAD24CD":"S12000029","LAD24NM":"South Lanarkshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2055E4","lat":"55.72556","lon":"-3.98622","n":"Larkhall","q":-295,"r":593 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

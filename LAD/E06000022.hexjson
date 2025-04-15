@@ -34,5 +34,6 @@
 		"E05012492":{"LAD24CD":"E06000022","LAD24NM":"Bath and North East Somerset","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#42F6BE","lat":"51.40074","lon":"-2.38965","n":"Weston","q":-298,"r":371 },
 		"E05012493":{"LAD24CD":"E06000022","LAD24NM":"Bath and North East Somerset","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#42F6BE","lat":"51.37126","lon":"-2.34291","n":"Widcombe & Lyncombe","q":-296,"r":369 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

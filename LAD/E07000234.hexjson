@@ -31,5 +31,6 @@
 		"E05009851":{"LAD24CD":"E07000234","LAD24NM":"Bromsgrove","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B84F1F","lat":"52.38988","lon":"-1.8642","n":"Wythall East","q":-261,"r":426 },
 		"E05009852":{"LAD24CD":"E07000234","LAD24NM":"Bromsgrove","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#B84F1F","lat":"52.38148","lon":"-1.90069","n":"Wythall West","q":-263,"r":425 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

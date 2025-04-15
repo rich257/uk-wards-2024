@@ -26,5 +26,6 @@
 		"E05013695":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.67615","lon":"-0.08185","n":"Whitewebbs","q":-185,"r":387 },
 		"E05013696":{"LAD24CD":"E09000010","LAD24NM":"Enfield","RGN24CD":"E12000007","RGN24NM":"London","colour":"#348E0B","lat":"51.63097","lon":"-0.10641","n":"Winchmore Hill","q":-186,"r":384 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

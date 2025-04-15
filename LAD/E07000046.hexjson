@@ -17,5 +17,6 @@
 		"E05011930":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.03718","lon":"-4.23695","n":"Westward Ho!","q":-336,"r":346 },
 		"E05011931":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.87976","lon":"-3.95139","n":"Winkleigh","q":-334,"r":342 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

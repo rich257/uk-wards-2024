@@ -14,5 +14,6 @@
 		"E05015352":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.28817","lon":"-0.31307","n":"Leatherhead South","q":-205,"r":322 },
 		"E05015353":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.14736","lon":"-0.36809","n":"Mickleham, Westcott & Okewood","q":-206,"r":320 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

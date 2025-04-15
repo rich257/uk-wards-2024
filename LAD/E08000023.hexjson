@@ -19,5 +19,6 @@
 		"E05001151":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.95939","lon":"-1.37371","n":"Whitburn and Marsden","q":-259,"r":557 },
 		"E05001152":{"LAD24CD":"E08000023","LAD24NM":"South Tyneside","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#10FBA6","lat":"54.96416","lon":"-1.42664","n":"Whiteleas","q":-261,"r":556 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

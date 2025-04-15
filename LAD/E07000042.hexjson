@@ -23,5 +23,6 @@
 		"E05014816":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.86951","lon":"-3.61525","n":"Way","q":-321,"r":349 },
 		"E05014817":{"LAD24CD":"E07000042","LAD24NM":"Mid Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#3DFDDC","lat":"50.75558","lon":"-3.74723","n":"Yeo","q":-323,"r":347 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

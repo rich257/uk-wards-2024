@@ -14,5 +14,6 @@
 		"S13002846":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.13652","lon":"-2.07313","n":"Torry/Ferryhill","q":-281,"r":630 },
 		"S13002847":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.10742","lon":"-2.08715","n":"Kincorth/Nigg/Cove","q":-282,"r":629 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -21,5 +21,6 @@
 		"E05014753":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.87898","lon":"-0.39082","n":"Vauxhall","q":-198,"r":407 },
 		"E05014754":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.88136","lon":"-0.36931","n":"Wigmore","q":-197,"r":407 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

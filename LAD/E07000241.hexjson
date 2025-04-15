@@ -17,5 +17,6 @@
 		"E05011072":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.83054","lon":"-0.18863","n":"Welwyn East","q":-192,"r":405 },
 		"E05011073":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.8346","lon":"-0.24769","n":"Welwyn West","q":-193,"r":405 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

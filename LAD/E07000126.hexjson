@@ -24,5 +24,6 @@
 		"E05010235":{"LAD24CD":"E07000126","LAD24NM":"South Ribble","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#37889B","lat":"53.73868","lon":"-2.66126","n":"Walton-le-Dale East","q":-287,"r":513 },
 		"E05010236":{"LAD24CD":"E07000126","LAD24NM":"South Ribble","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#37889B","lat":"53.74145","lon":"-2.68483","n":"Walton-le-Dale West","q":-288,"r":513 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

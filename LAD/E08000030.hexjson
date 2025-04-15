@@ -21,5 +21,6 @@
 		"E05001319":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.612","lon":"-2.03765","n":"Willenhall North","q":-263,"r":443 },
 		"E05001320":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.5851","lon":"-2.05299","n":"Willenhall South","q":-263,"r":442 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -24,5 +24,6 @@
 		"E05015419":{"LAD24CD":"E06000043","LAD24NM":"Brighton and Hove","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#4824B7","lat":"50.83103","lon":"-0.19925","n":"Wish","q":-191,"r":307 },
 		"E05015420":{"LAD24CD":"E06000043","LAD24NM":"Brighton and Hove","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#4824B7","lat":"50.8342","lon":"-0.0657","n":"Woodingdean","q":-184,"r":309 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

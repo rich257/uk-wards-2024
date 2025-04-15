@@ -23,5 +23,6 @@
 		"E05013626":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.48559","lon":"-0.34213","n":"Osterley & Spring Grove","q":-207,"r":361 },
 		"E05013627":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.47924","lon":"-0.3167","n":"Syon & Brentford Lock","q":-206,"r":360 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

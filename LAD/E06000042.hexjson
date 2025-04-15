@@ -20,5 +20,6 @@
 		"E05009423":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.06246","lon":"-0.8199","n":"Wolverton","q":-229,"r":366 },
 		"E05009424":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.02516","lon":"-0.73946","n":"Woughton & Fishermead","q":-227,"r":364 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

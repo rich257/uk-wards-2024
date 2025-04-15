@@ -27,5 +27,6 @@
 		"E05011558":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.26934","lon":"0.125558","n":"Brasted, Chevening and Sundridge","q":-188,"r":327 },
 		"E05011559":{"LAD24CD":"E07000111","LAD24NM":"Sevenoaks","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#976C91","lat":"51.28611","lon":"0.215378","n":"Seal and Weald","q":-186,"r":325 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

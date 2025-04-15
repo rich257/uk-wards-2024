@@ -35,5 +35,6 @@
 		"E05010917":{"LAD24CD":"E06000023","LAD24NM":"Bristol, City of","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#A53EF5","lat":"51.4899","lon":"-2.61506","n":"Westbury-on-Trym and Henleaze","q":-304,"r":378 },
 		"E05010918":{"LAD24CD":"E06000023","LAD24NM":"Bristol, City of","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#A53EF5","lat":"51.44043","lon":"-2.58215","n":"Windmill Hill","q":-302,"r":374 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

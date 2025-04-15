@@ -21,5 +21,6 @@
 		"E05014836":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.55738","lon":"-2.52045","n":"Westhoughton North & Hunger Hill","q":-283,"r":498 },
 		"E05014837":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.53921","lon":"-2.53859","n":"Westhoughton South","q":-284,"r":498 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

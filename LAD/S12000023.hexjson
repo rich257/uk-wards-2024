@@ -7,5 +7,6 @@
 		"S13003151":{"LAD24CD":"S12000023","LAD24NM":"Orkney Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#94635B","lat":"58.9737","lon":"-2.92805","n":"Kirkwall East","q":-297,"r":651 },
 		"S13003152":{"LAD24CD":"S12000023","LAD24NM":"Orkney Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#94635B","lat":"58.9614","lon":"-3.06939","n":"Kirkwall West and Orphir","q":-298,"r":651 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

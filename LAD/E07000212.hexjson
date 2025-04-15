@@ -15,5 +15,6 @@
 		"E05012899":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.40588","lon":"-0.58054","n":"Virginia Water","q":-213,"r":336 },
 		"E05012900":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.35085","lon":"-0.51463","n":"Woodham & Rowtown","q":-213,"r":333 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

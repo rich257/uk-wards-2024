@@ -22,5 +22,6 @@
 		"E05000995":{"LAD24CD":"E08000016","LAD24NM":"Barnsley","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#D1F891","lat":"53.52053","lon":"-1.41351","n":"Wombwell","q":-240,"r":487 },
 		"E05000996":{"LAD24CD":"E08000016","LAD24NM":"Barnsley","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#D1F891","lat":"53.52467","lon":"-1.46068","n":"Worsbrough","q":-241,"r":487 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

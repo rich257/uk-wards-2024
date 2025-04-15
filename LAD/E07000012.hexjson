@@ -27,5 +27,6 @@
 		"E05014169":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.07585","lon":"0.167192","n":"Duxford","q":-191,"r":418 },
 		"E05014170":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.1269","lon":"0.162816","n":"Sawston","q":-192,"r":418 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

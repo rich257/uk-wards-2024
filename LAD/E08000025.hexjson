@@ -70,5 +70,6 @@
 		"E05011185":{"LAD24CD":"E08000025","LAD24NM":"Birmingham","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A1D215","lat":"52.47214","lon":"-1.79991","n":"Yardley East","q":-256,"r":433 },
 		"E05011186":{"LAD24CD":"E08000025","LAD24NM":"Birmingham","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A1D215","lat":"52.47655","lon":"-1.81701","n":"Yardley West & Stechford","q":-257,"r":433 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

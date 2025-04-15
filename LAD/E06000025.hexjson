@@ -29,5 +29,6 @@
 		"E05012130":{"LAD24CD":"E06000025","LAD24NM":"South Gloucestershire","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#29930B","lat":"51.53789","lon":"-2.42009","n":"Yate Central","q":-297,"r":380 },
 		"E05012131":{"LAD24CD":"E06000025","LAD24NM":"South Gloucestershire","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#29930B","lat":"51.55522","lon":"-2.40748","n":"Yate North","q":-297,"r":381 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -31,5 +31,6 @@
 		"E05010176":{"LAD24CD":"E07000141","LAD24NM":"South Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#5B1DC4","lat":"52.89151","lon":"-0.33527","n":"Toller","q":-209,"r":447 },
 		"E05010177":{"LAD24CD":"E07000141","LAD24NM":"South Kesteven","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#5B1DC4","lat":"53.00541","lon":"-0.73269","n":"Viking","q":-213,"r":451 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

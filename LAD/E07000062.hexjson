@@ -17,5 +17,6 @@
 		"E05011215":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.85893","lon":"0.522914","n":"West St Leonards","q":-166,"r":312 },
 		"E05011216":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.87037","lon":"0.544568","n":"Wishing Tree","q":-166,"r":314 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

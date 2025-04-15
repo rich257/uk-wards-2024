@@ -21,5 +21,6 @@
 		"E05014664":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.54809","lon":"-2.08008","n":"Waterhead","q":-268,"r":498 },
 		"E05014665":{"LAD24CD":"E08000004","LAD24NM":"Oldham","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FEB204","lat":"53.53297","lon":"-2.13034","n":"Werneth","q":-271,"r":497 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

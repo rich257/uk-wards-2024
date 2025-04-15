@@ -12,5 +12,6 @@
 		"S13003143":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"57.31709","lon":"-7.33197","n":"Uibhist a Deas, Èirisgeigh agus Beinn na Faoghla","q":-321,"r":637 },
 		"S13003144":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"57.6139","lon":"-7.36094","n":"Uibhist a Tuath","q":-320,"r":638 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

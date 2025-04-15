@@ -28,5 +28,6 @@
 		"E05015847":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.76703","lon":"-2.3677","n":"Severn","q":-295,"r":385 },
 		"E05015848":{"LAD24CD":"E07000082","LAD24NM":"Stroud","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#ff80ff","lat":"51.74761","lon":"-2.28625","n":"Stonehouse","q":-294,"r":385 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

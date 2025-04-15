@@ -18,5 +18,6 @@
 		"E05011523":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.74667","lon":"-2.5018","n":"Wensley Fold","q":-283,"r":515 },
 		"E05011524":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.65838","lon":"-2.44747","n":"West Pennine","q":-281,"r":512 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

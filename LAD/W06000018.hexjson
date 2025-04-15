@@ -32,5 +32,6 @@
 		"W05001677":{"LAD24CD":"W06000018","LAD24NM":"Caerphilly","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#275D63","lat":"51.62527","lon":"-3.17098","n":"Ynysddu","q":-313,"r":399 },
 		"W05001678":{"LAD24CD":"W06000018","LAD24NM":"Caerphilly","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#275D63","lat":"51.63987","lon":"-3.24811","n":"Ystrad Mynach","q":-315,"r":400 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

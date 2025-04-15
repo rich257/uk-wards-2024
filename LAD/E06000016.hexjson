@@ -22,5 +22,6 @@
 		"E05010477":{"LAD24CD":"E06000016","LAD24NM":"Leicester","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1A59A8","lat":"52.6396","lon":"-1.18581","n":"Western","q":-225,"r":434 },
 		"E05010478":{"LAD24CD":"E06000016","LAD24NM":"Leicester","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1A59A8","lat":"52.63663","lon":"-1.11873","n":"Wycliffe","q":-222,"r":433 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

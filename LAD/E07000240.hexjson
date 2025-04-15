@@ -21,5 +21,6 @@
 		"E05015801":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.76582","lon":"-0.28147","n":"Marshalswick East & Jersey Farm","q":-196,"r":401 },
 		"E05015802":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.76578","lon":"-0.31403","n":"Marshalswick West","q":-197,"r":401 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

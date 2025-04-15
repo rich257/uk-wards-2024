@@ -24,5 +24,6 @@
 		"E05011116":{"LAD24CD":"E09000028","LAD24NM":"Southwark","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9865A","lat":"51.49263","lon":"-0.06975","n":"South Bermondsey","q":-183,"r":358 },
 		"E05011117":{"LAD24CD":"E09000028","LAD24NM":"Southwark","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E9865A","lat":"51.49707","lon":"-0.04048","n":"Surrey Docks","q":-181,"r":360 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

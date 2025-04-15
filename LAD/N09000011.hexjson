@@ -41,5 +41,6 @@
 		"N08001139":{"LAD24CD":"N09000011","LAD24NM":"Ards and North Down","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#E3BD0A","lat":"54.65309","lon":"-5.58096","n":"Warren","q":-350,"r":539 },
 		"N08001140":{"LAD24CD":"N09000011","LAD24NM":"Ards and North Down","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#E3BD0A","lat":"54.57276","lon":"-5.70006","n":"West Winds","q":-354,"r":534 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

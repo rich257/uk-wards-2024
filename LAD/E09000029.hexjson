@@ -21,5 +21,6 @@
 		"E05013772":{"LAD24CD":"E09000029","LAD24NM":"Sutton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#AA1A02","lat":"51.38187","lon":"-0.23408","n":"Worcester Park North","q":-193,"r":345 },
 		"E05013773":{"LAD24CD":"E09000029","LAD24NM":"Sutton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#AA1A02","lat":"51.37132","lon":"-0.23836","n":"Worcester Park South","q":-193,"r":344 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

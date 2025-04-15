@@ -23,5 +23,6 @@
 		"E05010825":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.57077","lon":"-0.28727","n":"West","q":-195,"r":436 },
 		"E05010826":{"LAD24CD":"E06000031","LAD24NM":"Peterborough","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#317406","lat":"52.5949","lon":"-0.44576","n":"Wittering","q":-197,"r":436 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -46,5 +46,6 @@
 		"E05012252":{"LAD24CD":"E06000050","LAD24NM":"Cheshire West and Chester","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#092DFA","lat":"53.2008","lon":"-2.49907","n":"Winsford Wharton","q":-293,"r":471 },
 		"E05012253":{"LAD24CD":"E06000050","LAD24NM":"Cheshire West and Chester","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#092DFA","lat":"53.26922","lon":"-2.88724","n":"Wolverham","q":-297,"r":474 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

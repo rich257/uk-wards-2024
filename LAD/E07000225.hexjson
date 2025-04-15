@@ -22,5 +22,6 @@
 		"E05011685":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.77625","lon":"-0.86606","n":"The Witterings","q":-217,"r":309 },
 		"E05011686":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.89863","lon":"-0.89001","n":"Westbourne","q":-218,"r":313 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

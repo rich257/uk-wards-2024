@@ -32,5 +32,6 @@
 		"E05014423":{"LAD24CD":"E06000056","LAD24NM":"Central Bedfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#65687E","lat":"51.9436","lon":"-0.48836","n":"Toddington","q":-205,"r":410 },
 		"E05014424":{"LAD24CD":"E06000056","LAD24NM":"Central Bedfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#65687E","lat":"51.99272","lon":"-0.46323","n":"Westoning, Flitton & Greenfield","q":-206,"r":411 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

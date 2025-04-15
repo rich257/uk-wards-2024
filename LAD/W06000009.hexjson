@@ -60,5 +60,6 @@
 		"W05001490":{"LAD24CD":"W06000009","LAD24NM":"Pembrokeshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#D8AFE1","lat":"51.83707","lon":"-5.10695","n":"The Havens","q":-355,"r":402 },
 		"W05001491":{"LAD24CD":"W06000009","LAD24NM":"Pembrokeshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#D8AFE1","lat":"51.85918","lon":"-4.85496","n":"Wiston","q":-350,"r":403 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

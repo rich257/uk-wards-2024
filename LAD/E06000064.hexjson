@@ -34,5 +34,6 @@
 		"E05014248":{"LAD24CD":"E06000064","LAD24NM":"Westmorland and Furness","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#BDDF6B","lat":"54.06394","lon":"-3.22264","n":"Walney Island","q":-296,"r":540 },
 		"E05014249":{"LAD24CD":"E06000064","LAD24NM":"Westmorland and Furness","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#BDDF6B","lat":"54.42758","lon":"-2.95298","n":"Windermere and Ambleside","q":-293,"r":545 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

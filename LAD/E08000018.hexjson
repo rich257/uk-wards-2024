@@ -26,5 +26,6 @@
 		"E05013016":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.49909","lon":"-1.33856","n":"Wath","q":-238,"r":486 },
 		"E05013017":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.43053","lon":"-1.28824","n":"Wickersley North","q":-235,"r":484 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

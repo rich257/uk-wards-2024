@@ -25,5 +25,6 @@
 		"E05013650":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.62892","lon":"-0.16928","n":"Whetstone","q":-191,"r":381 },
 		"E05013651":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.61134","lon":"-0.16968","n":"Woodhouse","q":-191,"r":380 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

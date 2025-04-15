@@ -25,5 +25,6 @@
 		"W05001401":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.40868","lon":"-3.20259","n":"Sully","q":-317,"r":388 },
 		"W05001402":{"LAD24CD":"W06000014","LAD24NM":"Vale of Glamorgan","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#F4843A","lat":"51.44512","lon":"-3.28261","n":"Wenvoe","q":-320,"r":390 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

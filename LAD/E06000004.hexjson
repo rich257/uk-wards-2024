@@ -28,5 +28,6 @@
 		"E05014883":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.53966","lon":"-1.30288","n":"Village","q":-256,"r":526 },
 		"E05014884":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.49895","lon":"-1.35648","n":"Yarm","q":-258,"r":525 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

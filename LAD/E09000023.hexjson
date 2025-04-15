@@ -20,5 +20,6 @@
 		"E05013731":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.42817","lon":"-0.05707","n":"Sydenham","q":-179,"r":352 },
 		"E05013732":{"LAD24CD":"E09000023","LAD24NM":"Lewisham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#6E23DC","lat":"51.46864","lon":"-0.0452","n":"Telegraph Hill","q":-179,"r":355 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

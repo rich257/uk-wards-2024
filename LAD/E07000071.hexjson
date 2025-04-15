@@ -18,5 +18,6 @@
 		"E05010842":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.81174","lon":"0.747776","n":"Tiptree","q":-164,"r":406 },
 		"E05010843":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.87213","lon":"0.958586","n":"Wivenhoe","q":-161,"r":408 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

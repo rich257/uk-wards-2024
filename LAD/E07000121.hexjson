@@ -28,5 +28,6 @@
 		"E05014910":{"LAD24CD":"E07000121","LAD24NM":"Lancaster","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#14AECE","lat":"54.06561","lon":"-2.87212","n":"West End","q":-291,"r":536 },
 		"E05014911":{"LAD24CD":"E07000121","LAD24NM":"Lancaster","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#14AECE","lat":"54.0597","lon":"-2.85417","n":"Westgate","q":-291,"r":535 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

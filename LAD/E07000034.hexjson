@@ -17,5 +17,6 @@
 		"E05015184":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.27294","lon":"-1.42258","n":"Whittington","q":-236,"r":466 },
 		"E05015185":{"LAD24CD":"E07000034","LAD24NM":"Chesterfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8A8A29","lat":"53.25321","lon":"-1.42975","n":"Whittington Moor","q":-236,"r":465 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

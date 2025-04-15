@@ -28,5 +28,6 @@
 		"E05010262":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.73821","lon":"1.026228","n":"Upper Wensum","q":-171,"r":446 },
 		"E05010263":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.56908","lon":"0.827612","n":"Watton","q":-173,"r":443 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

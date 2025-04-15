@@ -31,5 +31,6 @@
 		"W05001431":{"LAD24CD":"W06000003","LAD24NM":"Conwy","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C6F314","lat":"53.03654","lon":"-3.59026","n":"Uwch Aled","q":-327,"r":463 },
 		"W05001432":{"LAD24CD":"W06000003","LAD24NM":"Conwy","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C6F314","lat":"53.03586","lon":"-3.78441","n":"Uwch Conwy","q":-328,"r":463 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

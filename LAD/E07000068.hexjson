@@ -14,5 +14,6 @@
 		"E05015662":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.63871","lon":"0.326248","n":"Shenfield","q":-175,"r":399 },
 		"E05015663":{"LAD24CD":"E07000068","LAD24NM":"Brentwood","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#273419","lat":"51.60215","lon":"0.291482","n":"Warley","q":-176,"r":397 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

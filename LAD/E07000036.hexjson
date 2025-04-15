@@ -20,5 +20,6 @@
 		"E05010621":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.95417","lon":"-1.35186","n":"West Hallam & Dale Abbey","q":-235,"r":451 },
 		"E05010622":{"LAD24CD":"E07000036","LAD24NM":"Erewash","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#0E37C8","lat":"52.89056","lon":"-1.29127","n":"Wilsthorpe","q":-234,"r":448 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

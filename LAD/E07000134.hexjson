@@ -39,5 +39,6 @@
 		"E05010126":{"LAD24CD":"E07000134","LAD24NM":"North West Leicestershire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F4FC","lat":"52.74511","lon":"-1.39448","n":"Valley","q":-234,"r":441 },
 		"E05010127":{"LAD24CD":"E07000134","LAD24NM":"North West Leicestershire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C6F4FC","lat":"52.79164","lon":"-1.3946","n":"Worthington & Breedon","q":-234,"r":443 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

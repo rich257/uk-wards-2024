@@ -18,5 +18,6 @@
 		"E05014927":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.42797","lon":"0.377821","n":"Whitehill & Windmill Hill","q":-177,"r":335 },
 		"E05014928":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.42387","lon":"0.366791","n":"Woodlands","q":-177,"r":334 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

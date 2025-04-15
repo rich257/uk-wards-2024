@@ -20,5 +20,6 @@
 		"E05014070":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.53842","lon":"0.161781","n":"Village","q":-167,"r":369 },
 		"E05014071":{"LAD24CD":"E09000002","LAD24NM":"Barking and Dagenham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#E2F091","lat":"51.56717","lon":"0.141398","n":"Whalebone","q":-167,"r":372 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

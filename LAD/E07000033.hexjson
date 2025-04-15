@@ -18,5 +18,6 @@
 		"E05011998":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.14246","lon":"-1.34282","n":"Tibshelf","q":-231,"r":464 },
 		"E05011999":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.29147","lon":"-1.21692","n":"Whitwell","q":-231,"r":469 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

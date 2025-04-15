@@ -23,5 +23,6 @@
 		"E05010671":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.67699","lon":"-1.9153","n":"Summerfield & All Saints","q":-257,"r":448 },
 		"E05010672":{"LAD24CD":"E07000194","LAD24NM":"Lichfield","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#BE3EC6","lat":"52.66387","lon":"-1.7436","n":"Whittington & Streethay","q":-254,"r":447 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

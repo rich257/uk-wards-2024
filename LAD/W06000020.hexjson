@@ -19,5 +19,6 @@
 		"W05001377":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.63334","lon":"-3.06695","n":"Two Locks","q":-309,"r":402 },
 		"W05001378":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.66468","lon":"-3.04937","n":"Upper Cwmbran","q":-309,"r":405 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

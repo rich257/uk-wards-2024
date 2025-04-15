@@ -11,5 +11,6 @@
 		"E05009010":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.68988","lon":"-0.02708","n":"Waltham Cross","q":-186,"r":399 },
 		"E05009011":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.72848","lon":"-0.02319","n":"Wormley and Turnford","q":-186,"r":402 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

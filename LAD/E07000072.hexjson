@@ -19,5 +19,6 @@
 		"E05015740":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.66624","lon":"0.034312","n":"Waltham Abbey South & Rural","q":-183,"r":399 },
 		"E05015741":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.68323","lon":"-0.00157","n":"Waltham Abbey West","q":-183,"r":400 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

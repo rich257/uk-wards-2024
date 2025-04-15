@@ -41,5 +41,6 @@
 		"N08000639":{"LAD24CD":"N09000006","LAD24NM":"Fermanagh and Omagh","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#A84A98","lat":"54.61816","lon":"-7.02885","n":"Termon","q":-387,"r":544 },
 		"N08000640":{"LAD24CD":"N09000006","LAD24NM":"Fermanagh and Omagh","RGN24CD":"N92000002","RGN24NM":"Northern Ireland","colour":"#A84A98","lat":"54.4574","lon":"-7.47495","n":"Trillick","q":-391,"r":541 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

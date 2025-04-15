@@ -21,5 +21,6 @@
 		"E05012938":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.004","lon":"-1.48126","n":"Romsey Cupernham","q":-240,"r":321 },
 		"E05012939":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"50.98488","lon":"-1.40243","n":"Valley Park","q":-238,"r":321 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

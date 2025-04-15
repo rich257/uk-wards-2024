@@ -16,5 +16,6 @@
 		"E05014942":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.67687","lon":"-2.8554","n":"Tarleton Village","q":-295,"r":510 },
 		"E05014943":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.53276","lon":"-2.74308","n":"Up Holland","q":-293,"r":507 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

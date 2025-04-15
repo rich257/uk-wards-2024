@@ -15,5 +15,6 @@
 		"E05014150":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.8248","lon":"-1.18101","n":"Peel Common","q":-225,"r":308 },
 		"E05014151":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.81576","lon":"-1.17197","n":"Rowner & Holbrook","q":-225,"r":307 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -64,5 +64,6 @@
 		"E05009091":{"LAD24CD":"E06000047","LAD24NM":"County Durham","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#38CEE6","lat":"54.6983","lon":"-1.37946","n":"Wingate","q":-256,"r":543 },
 		"E05009092":{"LAD24CD":"E06000047","LAD24NM":"County Durham","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#38CEE6","lat":"54.6466","lon":"-1.68702","n":"Woodhouse Close","q":-261,"r":540 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

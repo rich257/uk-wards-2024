@@ -22,5 +22,6 @@
 		"E05015544":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.5134","lon":"-0.57441","n":"Upton Lea","q":-221,"r":347 },
 		"E05015545":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.52524","lon":"-0.57729","n":"Wexham Court","q":-222,"r":347 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

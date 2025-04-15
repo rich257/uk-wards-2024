@@ -47,5 +47,6 @@
 		"E05014215":{"LAD24CD":"E06000063","LAD24NM":"Cumberland","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#0B029A","lat":"54.83348","lon":"-3.15561","n":"Wigton","q":-298,"r":551 },
 		"E05014216":{"LAD24CD":"E06000063","LAD24NM":"Cumberland","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#0B029A","lat":"54.88511","lon":"-2.97596","n":"Yewdale","q":-296,"r":550 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

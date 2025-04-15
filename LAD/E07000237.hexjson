@@ -17,5 +17,6 @@
 		"E05015863":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.21032","lon":"-2.21342","n":"St Stephen","q":-273,"r":417 },
 		"E05015864":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.20976","lon":"-2.19018","n":"Warndon & Elbury Park","q":-272,"r":417 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

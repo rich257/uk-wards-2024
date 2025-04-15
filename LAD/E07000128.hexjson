@@ -25,5 +25,6 @@
 		"E05009954":{"LAD24CD":"E07000128","LAD24NM":"Wyre","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#9182C2","lat":"53.92021","lon":"-3.04306","n":"Warren","q":-297,"r":530 },
 		"E05009955":{"LAD24CD":"E07000128","LAD24NM":"Wyre","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#9182C2","lat":"53.93609","lon":"-2.6669","n":"Wyresdale","q":-292,"r":532 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

@@ -26,5 +26,6 @@
 		"E05001176":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.88781","lon":"-1.54586","n":"Washington South","q":-261,"r":552 },
 		"E05001177":{"LAD24CD":"E08000024","LAD24NM":"Sunderland","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#657348","lat":"54.91605","lon":"-1.54615","n":"Washington West","q":-262,"r":554 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

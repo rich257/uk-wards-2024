@@ -65,5 +65,6 @@
 		"E05015339":{"LAD24CD":"E08000012","LAD24NM":"Liverpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#DE5DAE","lat":"53.37926","lon":"-2.87703","n":"Woolton Village","q":-302,"r":487 },
 		"E05015340":{"LAD24CD":"E08000012","LAD24NM":"Liverpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#DE5DAE","lat":"53.43173","lon":"-2.87753","n":"Yew Tree","q":-300,"r":492 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

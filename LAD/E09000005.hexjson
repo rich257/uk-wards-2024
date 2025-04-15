@@ -23,5 +23,6 @@
 		"E05013516":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.55863","lon":"-0.27581","n":"Wembley Park","q":-201,"r":371 },
 		"E05013517":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.55154","lon":"-0.23018","n":"Willesden Green","q":-199,"r":371 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

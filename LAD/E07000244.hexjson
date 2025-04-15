@@ -30,5 +30,6 @@
 		"E05015552":{"LAD24CD":"E07000244","LAD24NM":"East Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#847D54","lat":"52.21373","lon":"1.497967","n":"Saxmundham","q":-156,"r":429 },
 		"E05015553":{"LAD24CD":"E07000244","LAD24NM":"East Suffolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#847D54","lat":"52.09111","lon":"1.304767","n":"Woodbridge","q":-157,"r":426 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

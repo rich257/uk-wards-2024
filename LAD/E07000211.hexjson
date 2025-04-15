@@ -16,5 +16,6 @@
 		"E05012885":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.2189","lon":"-0.20826","n":"South Park & Woodhatch","q":-199,"r":324 },
 		"E05012886":{"LAD24CD":"E07000211","LAD24NM":"Reigate and Banstead","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A8B463","lat":"51.30688","lon":"-0.23485","n":"Tattenham Corner & Preston","q":-199,"r":327 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

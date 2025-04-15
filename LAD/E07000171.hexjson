@@ -26,5 +26,6 @@
 		"E05015476":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.3495","lon":"-1.12191","n":"Carlton","q":-227,"r":470 },
 		"E05015477":{"LAD24CD":"E07000171","LAD24NM":"Bassetlaw","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A9AC4B","lat":"53.32371","lon":"-1.11013","n":"Worksop North East","q":-228,"r":469 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

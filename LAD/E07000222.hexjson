@@ -18,5 +18,6 @@
 		"E05012630":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.28542","lon":"-1.59085","n":"Warwick Saltisford","q":-248,"r":423 },
 		"E05012631":{"LAD24CD":"E07000222","LAD24NM":"Warwick","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A9482A","lat":"52.25634","lon":"-1.5153","n":"Whitnash","q":-247,"r":421 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

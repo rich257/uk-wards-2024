@@ -29,5 +29,6 @@
 		"W05001296":{"LAD24CD":"W06000015","LAD24NM":"Cardiff","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#2E134F","lat":"51.51511","lon":"-3.09504","n":"Trowbridge","q":-309,"r":394 },
 		"W05001297":{"LAD24CD":"W06000015","LAD24NM":"Cardiff","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#2E134F","lat":"51.51643","lon":"-3.22991","n":"Whitchurch and Tongwynlais","q":-314,"r":393 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

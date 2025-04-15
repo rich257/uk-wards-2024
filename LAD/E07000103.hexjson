@@ -13,5 +13,6 @@
 		"E05011056":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.65225","lon":"-0.40464","n":"Vicarage","q":-202,"r":395 },
 		"E05011057":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.69238","lon":"-0.39888","n":"Woodside","q":-202,"r":399 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

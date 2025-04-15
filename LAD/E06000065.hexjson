@@ -90,5 +90,6 @@
 		"E05014337":{"LAD24CD":"E06000065","LAD24NM":"North Yorkshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#591FBE","lat":"54.48077","lon":"-0.638","n":"Whitby West","q":-236,"r":522 },
 		"E05014338":{"LAD24CD":"E06000065","LAD24NM":"North Yorkshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#591FBE","lat":"54.28252","lon":"-0.43245","n":"Woodlands","q":-234,"r":520 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

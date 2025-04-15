@@ -23,5 +23,6 @@
 		"E05000974":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.42703","lon":"-3.07047","n":"Wallasey","q":-310,"r":485 },
 		"E05000975":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.36418","lon":"-3.15534","n":"West Kirby and Thurstaston","q":-310,"r":481 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

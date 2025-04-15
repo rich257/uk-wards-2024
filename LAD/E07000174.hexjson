@@ -37,5 +37,6 @@
 		"E05014644":{"LAD24CD":"E07000174","LAD24NM":"Mansfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#D9CF15","lat":"53.15146","lon":"-1.20404","n":"West Bank","q":-222,"r":462 },
 		"E05014645":{"LAD24CD":"E07000174","LAD24NM":"Mansfield","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#D9CF15","lat":"53.16106","lon":"-1.19324","n":"Yeoman Hill","q":-222,"r":464 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

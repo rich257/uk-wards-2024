@@ -28,5 +28,6 @@
 		"E05014733":{"LAD24CD":"E07000228","LAD24NM":"Mid Sussex","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0AB9A3","lat":"51.01223","lon":"-0.08148","n":"Lindfield","q":-188,"r":317 },
 		"E05014734":{"LAD24CD":"E07000228","LAD24NM":"Mid Sussex","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0AB9A3","lat":"51.03497","lon":"-0.04721","n":"Lindfield Rural & High Weald","q":-188,"r":318 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }

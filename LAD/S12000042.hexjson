@@ -9,5 +9,6 @@
 		"S13002552":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.47971","lon":"-2.87336","n":"The Ferry","q":-285,"r":622 },
 		"S13002830":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.49235","lon":"-2.92944","n":"North East","q":-286,"r":623 }
 	},
-	"layout":"odd-r"
+	"layout":"odd-r",
+	"version":"0.1"
 }
