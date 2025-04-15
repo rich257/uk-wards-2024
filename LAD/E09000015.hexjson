@@ -1,0 +1,28 @@
+{
+	"hexes":{
+		"E05013542":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.60537","lon":"-0.31773","n":"Belmont","q":-24,"r":16},
+		"E05013543":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.61419","lon":"-0.29457","n":"Canons","q":-23,"r":16},
+		"E05013544":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.59991","lon":"-0.2979","n":"Centenary","q":-24,"r":15},
+		"E05013545":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.60339","lon":"-0.27948","n":"Edgware","q":-23,"r":15},
+		"E05013546":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.58286","lon":"-0.32589","n":"Greenhill","q":-25,"r":14},
+		"E05013547":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.56752","lon":"-0.33768","n":"Harrow on the Hill","q":-26,"r":13},
+		"E05013548":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.61405","lon":"-0.3472","n":"Harrow Weald","q":-26,"r":17},
+		"E05013549":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.61076","lon":"-0.37","n":"Hatch End","q":-27,"r":17},
+		"E05013550":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.59371","lon":"-0.35739","n":"Headstone","q":-26,"r":16},
+		"E05013551":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.5909","lon":"-0.29745","n":"Kenton East","q":-23,"r":14},
+		"E05013552":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.59231","lon":"-0.31915","n":"Kenton West","q":-24,"r":14},
+		"E05013553":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.58788","lon":"-0.33843","n":"Marlborough","q":-26,"r":15},
+		"E05013554":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.58272","lon":"-0.36302","n":"North Harrow","q":-27,"r":15},
+		"E05013555":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.60174","lon":"-0.38826","n":"Pinner","q":-27,"r":16},
+		"E05013556":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.58323","lon":"-0.38161","n":"Pinner South","q":-28,"r":15},
+		"E05013557":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.56973","lon":"-0.37551","n":"Rayners Lane","q":-27,"r":14},
+		"E05013558":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.5664","lon":"-0.36677","n":"Roxbourne","q":-27,"r":13},
+		"E05013559":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.56098","lon":"-0.36161","n":"Roxeth","q":-26,"r":12},
+		"E05013560":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.62502","lon":"-0.31791","n":"Stanmore","q":-25,"r":17},
+		"E05013561":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.59901","lon":"-0.33883","n":"Wealdstone North","q":-25,"r":16},
+		"E05013562":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.59527","lon":"-0.32877","n":"Wealdstone South","q":-25,"r":15},
+		"E05013563":{"LAD24CD":"E09000015","LAD24NM":"Harrow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#9EB8F0","lat":"51.57432","lon":"-0.35927","n":"West Harrow","q":-26,"r":14}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

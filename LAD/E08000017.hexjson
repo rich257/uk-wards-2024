@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"E05010728":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.56925","lon":"-1.18623","n":"Adwick le Street & Carcroft","q":-43,"r":100},
+		"E05010729":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.53454","lon":"-1.03561","n":"Armthorpe","q":-41,"r":99},
+		"E05010730":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.4989","lon":"-1.14182","n":"Balby South","q":-42,"r":97},
+		"E05010731":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.5556","lon":"-1.12843","n":"Bentley","q":-43,"r":99},
+		"E05010732":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.5076","lon":"-1.08638","n":"Bessacarr","q":-41,"r":98},
+		"E05010733":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.46889","lon":"-1.24602","n":"Conisbrough","q":-44,"r":98},
+		"E05010734":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.55595","lon":"-1.06368","n":"Edenthorpe & Kirk Sandall","q":-42,"r":100},
+		"E05010735":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.48302","lon":"-1.1829","n":"Edlington & Warmsworth","q":-44,"r":97},
+		"E05010736":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.50346","lon":"-1.00325","n":"Finningley","q":-41,"r":97},
+		"E05010737":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.56165","lon":"-0.96849","n":"Hatfield","q":-41,"r":100},
+		"E05010738":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.50943","lon":"-1.13813","n":"Hexthorpe & Balby North","q":-43,"r":97},
+		"E05010739":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.49926","lon":"-1.27606","n":"Mexborough","q":-45,"r":99},
+		"E05010740":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.61424","lon":"-1.11046","n":"Norton & Askern","q":-43,"r":101},
+		"E05010741":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.53635","lon":"-1.18072","n":"Roman Ridge","q":-43,"r":98},
+		"E05010742":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.45595","lon":"-1.04336","n":"Rossington & Bawtry","q":-42,"r":96},
+		"E05010743":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.55511","lon":"-1.24741","n":"Sprotbrough","q":-44,"r":99},
+		"E05010744":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.58665","lon":"-1.05755","n":"Stainforth & Barnby Dun","q":-42,"r":101},
+		"E05010745":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.62222","lon":"-0.92923","n":"Thorne & Moorends","q":-41,"r":101},
+		"E05010746":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.45191","lon":"-1.14397","n":"Tickhill & Wadsworth","q":-43,"r":96},
+		"E05010747":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.5222","lon":"-1.12526","n":"Town","q":-42,"r":98},
+		"E05010748":{"LAD24CD":"E08000017","LAD24NM":"Doncaster","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#29DE52","lat":"53.53433","lon":"-1.09719","n":"Wheatley Hills & Intake","q":-42,"r":99}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

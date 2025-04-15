@@ -1,0 +1,23 @@
+{
+	"hexes":{
+		"E05012855":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.12398","lon":"1.220369","n":"Alkham & Capel-le-Ferne","q":34,"r":-18},
+		"E05012856":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.20319","lon":"1.235887","n":"Aylesham, Eythorne & Shepherdswell","q":36,"r":-16},
+		"E05012857":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.14229","lon":"1.300877","n":"Buckland","q":36,"r":-18},
+		"E05012858":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.16166","lon":"1.220948","n":"Dover Downs & River","q":35,"r":-17},
+		"E05012859":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.22152","lon":"1.323848","n":"Eastry Rural","q":37,"r":-16},
+		"E05012860":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.17622","lon":"1.355633","n":"Guston, Kingsdown & St Margaret's-at-Cliffe","q":37,"r":-18},
+		"E05012861":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.27949","lon":"1.255633","n":"Little Stour & Ashstone","q":36,"r":-15},
+		"E05012862":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.11843","lon":"1.282825","n":"Maxton & Elms Vale","q":34,"r":-19},
+		"E05012863":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.22466","lon":"1.38838","n":"Middle Deal","q":38,"r":-16},
+		"E05012864":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.20994","lon":"1.37663","n":"Mill Hill","q":37,"r":-17},
+		"E05012865":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.2454","lon":"1.390019","n":"North Deal","q":38,"r":-15},
+		"E05012866":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.13215","lon":"1.290232","n":"St Radigunds","q":35,"r":-18},
+		"E05012867":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.27024","lon":"1.326833","n":"Sandwich","q":37,"r":-15},
+		"E05012868":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.12832","lon":"1.296893","n":"Tower Hamlets","q":35,"r":-19},
+		"E05012869":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.12008","lon":"1.30168","n":"Town & Castle","q":36,"r":-19},
+		"E05012870":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.20325","lon":"1.392421","n":"Walmer","q":38,"r":-17},
+		"E05012871":{"LAD24CD":"E07000108","LAD24NM":"Dover","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3C88DB","lat":"51.15808","lon":"1.290532","n":"Whitfield","q":36,"r":-17}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

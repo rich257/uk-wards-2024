@@ -1,0 +1,28 @@
+{
+	"hexes":{
+		"E05009910":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"52.04972","lon":"0.301553","n":"Ashdon","q":-1,"r":44},
+		"E05009911":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.84143","lon":"0.244194","n":"Broad Oak & the Hallingburys","q":-3,"r":39},
+		"E05009912":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.98312","lon":"0.14541","n":"Clavering","q":-4,"r":42},
+		"E05009913":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.98241","lon":"0.286157","n":"Debden & Wimbish","q":-2,"r":42},
+		"E05009914":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.91727","lon":"0.245095","n":"Elsenham & Henham","q":-3,"r":41},
+		"E05009915":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.86247","lon":"0.451359","n":"Felsted & Stebbing","q":0,"r":40},
+		"E05009916":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.87063","lon":"0.404807","n":"Flitch Green & Little Dunmow","q":-1,"r":39},
+		"E05009918":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.85412","lon":"0.37131","n":"Great Dunmow South & Barnston","q":-2,"r":39},
+		"E05009919":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.80657","lon":"0.238966","n":"Hatfield Heath","q":-2,"r":38},
+		"E05009920":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.80469","lon":"0.33696","n":"High Easter & the Rodings","q":-1,"r":38},
+		"E05009921":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"52.04235","lon":"0.158264","n":"Littlebury, Chesterford & Wenden Lofts","q":-4,"r":43},
+		"E05009922":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.97758","lon":"0.221097","n":"Newport","q":-3,"r":42},
+		"E05009923":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"52.01117","lon":"0.235016","n":"Saffron Walden Audley","q":-3,"r":43},
+		"E05009924":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"52.03494","lon":"0.249383","n":"Saffron Walden Castle","q":-2,"r":44},
+		"E05009925":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"52.01139","lon":"0.255793","n":"Saffron Walden Shire","q":-2,"r":43},
+		"E05009926":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.90976","lon":"0.196202","n":"Stansted North","q":-4,"r":41},
+		"E05009927":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.88755","lon":"0.210102","n":"Stansted South & Birchanger","q":-3,"r":40},
+		"E05009928":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.92431","lon":"0.169365","n":"Stort Valley","q":-5,"r":41},
+		"E05009929":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.90729","lon":"0.277775","n":"Takeley","q":-2,"r":40},
+		"E05009931":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"52.00045","lon":"0.37206","n":"The Sampfords","q":-1,"r":42},
+		"E05014489":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.89083","lon":"0.364711","n":"Great Dunmow North","q":-1,"r":40},
+		"E05014490":{"LAD24CD":"E07000077","LAD24NM":"Uttlesford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A0CCF8","lat":"51.9319","lon":"0.354186","n":"Thaxted & The Eastons","q":-2,"r":41}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

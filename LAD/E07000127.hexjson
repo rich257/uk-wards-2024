@@ -1,0 +1,21 @@
+{
+	"hexes":{
+		"E05014929":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.55599","lon":"-2.91506","n":"Aughton & Holborn","q":-88,"r":105},
+		"E05014930":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.61887","lon":"-2.84503","n":"Burscough Bridge & Rufford","q":-86,"r":107},
+		"E05014931":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.59365","lon":"-2.8527","n":"Burscough Town","q":-86,"r":106},
+		"E05014932":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.70017","lon":"-2.89302","n":"North Meols & Hesketh Bank","q":-88,"r":107},
+		"E05014933":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.54912","lon":"-2.79697","n":"Old Skelmersdale","q":-86,"r":105},
+		"E05014934":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.57164","lon":"-2.86823","n":"Ormskirk East","q":-87,"r":105},
+		"E05014935":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.57838","lon":"-2.88468","n":"Ormskirk West","q":-87,"r":106},
+		"E05014936":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.58792","lon":"-2.74678","n":"Rural North East","q":-85,"r":107},
+		"E05014937":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.53079","lon":"-2.85509","n":"Rural South","q":-86,"r":104},
+		"E05014938":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.59242","lon":"-2.95703","n":"Rural West","q":-88,"r":106},
+		"E05014939":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.56296","lon":"-2.77768","n":"Skelmersdale North","q":-85,"r":106},
+		"E05014940":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.54305","lon":"-2.77117","n":"Skelmersdale South","q":-85,"r":104},
+		"E05014941":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.55122","lon":"-2.7613","n":"Tanhouse & Skelmersdale Town Centre","q":-85,"r":105},
+		"E05014942":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.67687","lon":"-2.8554","n":"Tarleton Village","q":-87,"r":107},
+		"E05014943":{"LAD24CD":"E07000127","LAD24NM":"West Lancashire","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E91623","lat":"53.53276","lon":"-2.74308","n":"Up Holland","q":-84,"r":104}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

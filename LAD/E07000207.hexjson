@@ -1,0 +1,22 @@
+{
+	"hexes":{
+		"E05011074":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.36031","lon":"-0.33735","n":"Claygate","q":-34,"r":-7},
+		"E05011075":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.32767","lon":"-0.4169","n":"Cobham and Downside","q":-36,"r":-7},
+		"E05011076":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.36635","lon":"-0.37414","n":"Esher","q":-34,"r":-6},
+		"E05011077":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.36328","lon":"-0.40141","n":"Hersham Village","q":-35,"r":-6},
+		"E05011078":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.37271","lon":"-0.33825","n":"Hinchley Wood and Weston Green","q":-33,"r":-6},
+		"E05011079":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.38393","lon":"-0.32409","n":"Long Ditton","q":-32,"r":-6},
+		"E05011080":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.4023","lon":"-0.35613","n":"Molesey East","q":-34,"r":-5},
+		"E05011081":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.39778","lon":"-0.37333","n":"Molesey West","q":-34,"r":-4},
+		"E05011082":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.36923","lon":"-0.42899","n":"Oatlands and Burwood Park","q":-36,"r":-6},
+		"E05011083":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.33094","lon":"-0.35948","n":"Oxshott and Stoke D'Abernon","q":-35,"r":-7},
+		"E05011084":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.39246","lon":"-0.34251","n":"Thames Ditton","q":-33,"r":-5},
+		"E05011085":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.38624","lon":"-0.41871","n":"Walton Central","q":-36,"r":-5},
+		"E05011086":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.39397","lon":"-0.40169","n":"Walton North","q":-35,"r":-4},
+		"E05011087":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.38125","lon":"-0.39006","n":"Walton South","q":-35,"r":-5},
+		"E05011088":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.37538","lon":"-0.45269","n":"Weybridge Riverside","q":-37,"r":-5},
+		"E05011089":{"LAD24CD":"E07000207","LAD24NM":"Elmbridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#32F22B","lat":"51.34701","lon":"-0.44504","n":"Weybridge St George's Hill","q":-37,"r":-7}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

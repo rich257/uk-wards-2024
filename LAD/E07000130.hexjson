@@ -1,0 +1,30 @@
+{
+	"hexes":{
+		"E05014666":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.67126","lon":"-1.19265","n":"Anstey","q":-34,"r":54},
+		"E05014667":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.75145","lon":"-1.1339","n":"Barrow upon Soar","q":-32,"r":56},
+		"E05014668":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.6857","lon":"-1.1147","n":"Birstall East & Wanlip","q":-32,"r":54},
+		"E05014669":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.68022","lon":"-1.13226","n":"Birstall West","q":-33,"r":54},
+		"E05014670":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.78567","lon":"-1.25413","n":"Dishley, Hathern & Thorpe Acre","q":-36,"r":58},
+		"E05014671":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.7054","lon":"-1.23372","n":"Forest Bradgate","q":-35,"r":55},
+		"E05014672":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.76648","lon":"-1.23812","n":"Loughborough Ashby","q":-36,"r":57},
+		"E05014673":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.77678","lon":"-1.19689","n":"Loughborough East","q":-34,"r":58},
+		"E05014674":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.75528","lon":"-1.26159","n":"Loughborough Nanpantan","q":-36,"r":56},
+		"E05014675":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.74932","lon":"-1.2362","n":"Loughborough Outwoods & Shelthorpe","q":-35,"r":56},
+		"E05014676":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.76698","lon":"-1.21078","n":"Loughborough Southfields","q":-35,"r":57},
+		"E05014677":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.78098","lon":"-1.22186","n":"Loughborough Storer","q":-35,"r":58},
+		"E05014678":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.74717","lon":"-1.204","n":"Loughborough Woodthorpe","q":-34,"r":56},
+		"E05014679":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.72357","lon":"-1.1439","n":"Mountsorrel","q":-33,"r":56},
+		"E05014680":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.74383","lon":"-1.16572","n":"Quorn & Mountsorrel Castle","q":-34,"r":57},
+		"E05014681":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.70648","lon":"-1.161","n":"Rothley Brook","q":-34,"r":55},
+		"E05014682":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.75631","lon":"-1.28742","n":"Shepshed East","q":-37,"r":57},
+		"E05014683":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.76889","lon":"-1.30722","n":"Shepshed West","q":-38,"r":57},
+		"E05014684":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.74958","lon":"-1.09068","n":"Sileby & Seagrave","q":-31,"r":56},
+		"E05014685":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.67487","lon":"-1.03786","n":"South Charnwood","q":-30,"r":54},
+		"E05014686":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.69805","lon":"-1.09089","n":"Syston","q":-33,"r":55},
+		"E05014687":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.79351","lon":"-1.11781","n":"The Wolds","q":-32,"r":57},
+		"E05014688":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.68035","lon":"-1.09824","n":"Thurmaston","q":-31,"r":54},
+		"E05014689":{"LAD24CD":"E07000130","LAD24NM":"Charnwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#8178FA","lat":"52.72553","lon":"-1.03493","n":"Wreake Valley","q":-32,"r":55}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

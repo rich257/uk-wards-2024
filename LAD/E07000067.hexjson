@@ -1,0 +1,32 @@
+{
+	"hexes":{
+		"E05010365":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.8838","lon":"0.571869","n":"Bocking Blackwater","q":3,"r":42},
+		"E05010366":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.90526","lon":"0.562758","n":"Bocking North","q":2,"r":43},
+		"E05010367":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.88494","lon":"0.543916","n":"Bocking South","q":2,"r":42},
+		"E05010368":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.87366","lon":"0.574822","n":"Braintree Central & Beckers Green","q":3,"r":41},
+		"E05010369":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.86935","lon":"0.560237","n":"Braintree South","q":2,"r":41},
+		"E05010370":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.87131","lon":"0.546677","n":"Braintree West","q":1,"r":41},
+		"E05010371":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"52.04508","lon":"0.448495","n":"Bumpstead","q":1,"r":45},
+		"E05010372":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.88777","lon":"0.650141","n":"Coggeshall","q":4,"r":42},
+		"E05010374":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.85168","lon":"0.54448","n":"Great Notley & Black Notley","q":2,"r":40},
+		"E05010378":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.98464","lon":"0.569417","n":"Hedingham","q":2,"r":44},
+		"E05010379":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.84566","lon":"0.697483","n":"Kelvedon & Feering","q":5,"r":41},
+		"E05010380":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.89297","lon":"0.483295","n":"Rayne","q":1,"r":42},
+		"E05010382":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"52.05051","lon":"0.618224","n":"Stour Valley North","q":3,"r":45},
+		"E05010383":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"52.00165","lon":"0.686315","n":"Stour Valley South","q":4,"r":44},
+		"E05010384":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.94036","lon":"0.704489","n":"The Colnes","q":5,"r":42},
+		"E05010385":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.95723","lon":"0.484546","n":"Three Fields","q":1,"r":43},
+		"E05010388":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.78698","lon":"0.635989","n":"Witham South","q":5,"r":38},
+		"E05010389":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.80189","lon":"0.61584","n":"Witham West","q":3,"r":39},
+		"E05010390":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"52.00039","lon":"0.532438","n":"Yeldham","q":2,"r":45},
+		"E05012961":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.93591","lon":"0.609317","n":"Gosfield & Greenstead Green","q":3,"r":44},
+		"E05012962":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.94671","lon":"0.648262","n":"Halstead St Andrew's","q":4,"r":43},
+		"E05012963":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.94004","lon":"0.631412","n":"Halstead Trinity","q":3,"r":43},
+		"E05012964":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.79647","lon":"0.585721","n":"Hatfield Peverel & Terling","q":3,"r":40},
+		"E05012965":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.83971","lon":"0.633321","n":"Silver End & Cressing","q":4,"r":41},
+		"E05012966":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.79908","lon":"0.644339","n":"Witham Central","q":4,"r":39},
+		"E05012967":{"LAD24CD":"E07000067","LAD24NM":"Braintree","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E83DFF","lat":"51.8185","lon":"0.631415","n":"Witham North","q":4,"r":40}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

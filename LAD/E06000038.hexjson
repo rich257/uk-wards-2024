@@ -1,0 +1,22 @@
+{
+	"hexes":{
+		"E05013864":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.45511","lon":"-0.97425","n":"Abbey","q":-49,"r":9},
+		"E05013865":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.46085","lon":"-0.99584","n":"Battle","q":-49,"r":10},
+		"E05013866":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.47077","lon":"-0.96831","n":"Caversham","q":-48,"r":11},
+		"E05013867":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.47697","lon":"-0.9875","n":"Caversham Heights","q":-49,"r":11},
+		"E05013868":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.43214","lon":"-0.95608","n":"Church","q":-48,"r":7},
+		"E05013869":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.44321","lon":"-0.98692","n":"Coley","q":-49,"r":8},
+		"E05013870":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.48377","lon":"-0.95819","n":"Emmer Green","q":-48,"r":12},
+		"E05013871":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.4442","lon":"-0.96966","n":"Katesgrove","q":-48,"r":8},
+		"E05013872":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.46707","lon":"-1.03171","n":"Kentwood","q":-50,"r":10},
+		"E05013873":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.45578","lon":"-1.01563","n":"Norcot","q":-50,"r":9},
+		"E05013874":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.45033","lon":"-0.94028","n":"Park","q":-47,"r":9},
+		"E05013875":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.44502","lon":"-0.95379","n":"Redlands","q":-48,"r":9},
+		"E05013876":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.44323","lon":"-1.01157","n":"Southcote","q":-50,"r":8},
+		"E05013877":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.46078","lon":"-0.97047","n":"Thames","q":-48,"r":10},
+		"E05013878":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.45675","lon":"-1.03484","n":"Tilehurst","q":-51,"r":9},
+		"E05013879":{"LAD24CD":"E06000038","LAD24NM":"Reading","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A4C79E","lat":"51.42312","lon":"-0.976","n":"Whitley","q":-49,"r":7}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

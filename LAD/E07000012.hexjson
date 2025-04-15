@@ -1,0 +1,32 @@
+{
+	"hexes":{
+		"E05011282":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.13598","lon":"0.332507","n":"Balsham","q":-9,"r":43},
+		"E05011283":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.25244","lon":"0.023358","n":"Bar Hill","q":-12,"r":47},
+		"E05011284":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.14578","lon":"-0.0352","n":"Barrington","q":-13,"r":45},
+		"E05011285":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.07207","lon":"-0.05634","n":"Bassingbourn","q":-14,"r":44},
+		"E05011286":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.18423","lon":"-0.07647","n":"Caldecote","q":-13,"r":46},
+		"E05011289":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.29697","lon":"0.123281","n":"Cottenham","q":-11,"r":49},
+		"E05011291":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.18637","lon":"0.235075","n":"Fen Ditton & Fulbourn","q":-9,"r":44},
+		"E05011292":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.06117","lon":"0.071116","n":"Foxton","q":-12,"r":44},
+		"E05011293":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.15488","lon":"-0.18295","n":"Gamlingay","q":-14,"r":46},
+		"E05011294":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.22907","lon":"0.046458","n":"Girton","q":-11,"r":46},
+		"E05011295":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.19767","lon":"-0.00143","n":"Hardwick","q":-12,"r":46},
+		"E05011296":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.17636","lon":"0.054174","n":"Harston & Comberton","q":-12,"r":45},
+		"E05011297":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.25011","lon":"0.111888","n":"Histon & Impington","q":-10,"r":48},
+		"E05011298":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.09151","lon":"0.242448","n":"Linton","q":-9,"r":42},
+		"E05011300":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.08187","lon":"0.003202","n":"Melbourn","q":-13,"r":44},
+		"E05011301":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.27956","lon":"0.189799","n":"Milton & Waterbeach","q":-10,"r":49},
+		"E05011304":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.14639","lon":"0.147493","n":"Shelford","q":-11,"r":44},
+		"E05011305":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.28264","lon":"-0.0025","n":"Swavesey","q":-12,"r":48},
+		"E05011306":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.09518","lon":"-0.10241","n":"The Mordens","q":-14,"r":45},
+		"E05011307":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.10173","lon":"0.113675","n":"Whittlesford","q":-12,"r":43},
+		"E05013880":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.26732","lon":"0.054682","n":"Longstanton","q":-11,"r":48},
+		"E05013881":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.3207","lon":"0.057725","n":"Over & Willingham","q":-12,"r":49},
+		"E05014031":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.21747","lon":"-0.07215","n":"Cambourne","q":-13,"r":47},
+		"E05014032":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.23884","lon":"-0.07962","n":"Caxton & Papworth","q":-14,"r":47},
+		"E05014169":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.07585","lon":"0.167192","n":"Duxford","q":-10,"r":43},
+		"E05014170":{"LAD24CD":"E07000012","LAD24NM":"South Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3917BA","lat":"52.1269","lon":"0.162816","n":"Sawston","q":-11,"r":43}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

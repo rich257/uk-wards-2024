@@ -1,0 +1,28 @@
+{
+	"hexes":{
+		"E05013606":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.44964","lon":"-0.4354","n":"Bedfont","q":-31,"r":-3},
+		"E05013607":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.49062","lon":"-0.29558","n":"Brentford East","q":-25,"r":-1},
+		"E05013608":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.4897","lon":"-0.31183","n":"Brentford West","q":-26,"r":-1},
+		"E05013609":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.49517","lon":"-0.28474","n":"Chiswick Gunnersbury","q":-24,"r":-1},
+		"E05013610":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.47949","lon":"-0.26004","n":"Chiswick Homefields","q":-23,"r":-2},
+		"E05013611":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.48666","lon":"-0.27231","n":"Chiswick Riverside","q":-24,"r":-2},
+		"E05013612":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.47378","lon":"-0.40477","n":"Cranford","q":-30,"r":-2},
+		"E05013613":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.4575","lon":"-0.4087","n":"Feltham North","q":-30,"r":-3},
+		"E05013614":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.44009","lon":"-0.43057","n":"Feltham West","q":-30,"r":-4},
+		"E05013615":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.4398","lon":"-0.40671","n":"Hanworth Park","q":-29,"r":-4},
+		"E05013616":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.42979","lon":"-0.39295","n":"Hanworth Village","q":-28,"r":-4},
+		"E05013617":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.47755","lon":"-0.38236","n":"Heston Central","q":-29,"r":-1},
+		"E05013618":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.47669","lon":"-0.36743","n":"Heston East","q":-28,"r":-1},
+		"E05013619":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.48565","lon":"-0.39369","n":"Heston West","q":-30,"r":-1},
+		"E05013620":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.46968","lon":"-0.36111","n":"Hounslow Central","q":-28,"r":-2},
+		"E05013621":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.47166","lon":"-0.35145","n":"Hounslow East","q":-27,"r":-2},
+		"E05013622":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.45866","lon":"-0.38467","n":"Hounslow Heath","q":-29,"r":-3},
+		"E05013623":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.46199","lon":"-0.35204","n":"Hounslow South","q":-28,"r":-3},
+		"E05013624":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.46791","lon":"-0.3808","n":"Hounslow West","q":-29,"r":-2},
+		"E05013625":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.46604","lon":"-0.33006","n":"Isleworth","q":-27,"r":-3},
+		"E05013626":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.48559","lon":"-0.34213","n":"Osterley & Spring Grove","q":-27,"r":-1},
+		"E05013627":{"LAD24CD":"E09000018","LAD24NM":"Hounslow","RGN24CD":"E12000007","RGN24NM":"London","colour":"#923EC6","lat":"51.47924","lon":"-0.3167","n":"Syon & Brentford Lock","q":-26,"r":-2}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

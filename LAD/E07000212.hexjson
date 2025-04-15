@@ -1,0 +1,20 @@
+{
+	"hexes":{
+		"E05012887":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.37422","lon":"-0.49411","n":"Addlestone North","q":-40,"r":-4},
+		"E05012888":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.37117","lon":"-0.47793","n":"Addlestone South","q":-39,"r":-4},
+		"E05012889":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.38347","lon":"-0.49517","n":"Chertsey Riverside","q":-40,"r":-3},
+		"E05012890":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.39255","lon":"-0.50933","n":"Chertsey St Ann's","q":-40,"r":-2},
+		"E05012891":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.42934","lon":"-0.52351","n":"Egham Hythe","q":-40,"r":0},
+		"E05012892":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.42883","lon":"-0.54683","n":"Egham Town","q":-41,"r":0},
+		"E05012893":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.42454","lon":"-0.56597","n":"Englefield Green East","q":-42,"r":-1},
+		"E05012894":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.43213","lon":"-0.57898","n":"Englefield Green West","q":-42,"r":-2},
+		"E05012895":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.38064","lon":"-0.55446","n":"Longcross, Lyne & Chertsey South","q":-41,"r":-3},
+		"E05012896":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.35689","lon":"-0.48645","n":"New Haw","q":-40,"r":-5},
+		"E05012897":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.36125","lon":"-0.53347","n":"Ottershaw","q":-41,"r":-4},
+		"E05012898":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.41218","lon":"-0.52582","n":"Thorpe","q":-41,"r":-1},
+		"E05012899":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.40588","lon":"-0.58054","n":"Virginia Water","q":-41,"r":-2},
+		"E05012900":{"LAD24CD":"E07000212","LAD24NM":"Runnymede","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#1D9B15","lat":"51.35085","lon":"-0.51463","n":"Woodham & Rowtown","q":-41,"r":-5}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

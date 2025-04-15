@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05009406":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"51.98197","lon":"-0.72903","n":"Bletchley East","q":-29,"r":29},
+		"E05009407":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"51.99755","lon":"-0.73859","n":"Bletchley Park","q":-29,"r":30},
+		"E05009408":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.00527","lon":"-0.75759","n":"Bletchley West","q":-30,"r":30},
+		"E05009409":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.04605","lon":"-0.80603","n":"Bradwell","q":-31,"r":32},
+		"E05009410":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.05207","lon":"-0.70757","n":"Broughton","q":-30,"r":33},
+		"E05009411":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.04106","lon":"-0.73104","n":"Campbell Park & Old Woughton","q":-29,"r":32},
+		"E05009412":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.039","lon":"-0.76507","n":"Central Milton Keynes","q":-30,"r":32},
+		"E05009413":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.00971","lon":"-0.6759","n":"Danesborough & Walton","q":-28,"r":30},
+		"E05009414":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.02838","lon":"-0.78752","n":"Loughton & Shenley","q":-31,"r":31},
+		"E05009415":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.02535","lon":"-0.69876","n":"Monkston","q":-29,"r":31},
+		"E05009416":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.11571","lon":"-0.80333","n":"Newport Pagnell North & Hanslope","q":-31,"r":34},
+		"E05009417":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.07727","lon":"-0.73038","n":"Newport Pagnell South","q":-30,"r":34},
+		"E05009418":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.12604","lon":"-0.69205","n":"Olney","q":-29,"r":34},
+		"E05009419":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.01124","lon":"-0.77847","n":"Shenley Brook End","q":-31,"r":30},
+		"E05009420":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.06234","lon":"-0.76816","n":"Stantonbury","q":-31,"r":33},
+		"E05009421":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.03563","lon":"-0.83303","n":"Stony Stratford","q":-32,"r":31},
+		"E05009422":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"51.99895","lon":"-0.79077","n":"Tattenhoe","q":-31,"r":29},
+		"E05009423":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.06246","lon":"-0.8199","n":"Wolverton","q":-32,"r":33},
+		"E05009424":{"LAD24CD":"E06000042","LAD24NM":"Milton Keynes","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#02DBD6","lat":"52.02516","lon":"-0.73946","n":"Woughton & Fishermead","q":-30,"r":31}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

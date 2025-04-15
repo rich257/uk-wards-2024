@@ -1,0 +1,11 @@
+{
+	"hexes":{
+		"S13002914":{"LAD24CD":"S12000011","LAD24NM":"East Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#A0AF92","lat":"55.78337","lon":"-4.48077","n":"Barrhead, Liboside and Uplawmoor","q":-99,"r":172},
+		"S13002915":{"LAD24CD":"S12000011","LAD24NM":"East Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#A0AF92","lat":"55.75273","lon":"-4.39048","n":"Newton Mearns North and Neilston","q":-99,"r":171},
+		"S13002916":{"LAD24CD":"S12000011","LAD24NM":"East Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#A0AF92","lat":"55.8021","lon":"-4.30075","n":"Giffnock and Thornliebank","q":-98,"r":172},
+		"S13002917":{"LAD24CD":"S12000011","LAD24NM":"East Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#A0AF92","lat":"55.78621","lon":"-4.27835","n":"Clarkston, Netherlee and Williamwood","q":-98,"r":171},
+		"S13002918":{"LAD24CD":"S12000011","LAD24NM":"East Renfrewshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#A0AF92","lat":"55.73699","lon":"-4.30378","n":"Newton Mearns South and Eaglesham","q":-98,"r":170}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

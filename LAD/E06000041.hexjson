@@ -1,0 +1,24 @@
+{
+	"hexes":{
+		"E05015783":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.38942","lon":"-0.90153","n":"Barkham & Arborfield","q":-47,"r":-1},
+		"E05015784":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.45991","lon":"-0.90282","n":"Bulmershe & Coronation","q":-46,"r":2},
+		"E05015785":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.41892","lon":"-0.85397","n":"Emmbrook","q":-45,"r":0},
+		"E05015786":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.40367","lon":"-0.85746","n":"Evendons","q":-46,"r":-1},
+		"E05015787":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.37225","lon":"-0.85526","n":"Finchampstead","q":-46,"r":-2},
+		"E05015788":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.42883","lon":"-0.90666","n":"Hawkedon","q":-47,"r":0},
+		"E05015789":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.43212","lon":"-0.92477","n":"Hillside","q":-48,"r":0},
+		"E05015790":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.45415","lon":"-0.88231","n":"Loddon","q":-46,"r":1},
+		"E05015791":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.43933","lon":"-0.92435","n":"Maiden Erlegh & Whitegates","q":-48,"r":1},
+		"E05015792":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.41883","lon":"-0.82507","n":"Norreys","q":-44,"r":0},
+		"E05015793":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.412","lon":"-0.94144","n":"Shinfield","q":-48,"r":-1},
+		"E05015794":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.44651","lon":"-0.91179","n":"South Lake","q":-47,"r":1},
+		"E05015795":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.39289","lon":"-0.97544","n":"Spencers Wood & Swallowfield","q":-48,"r":-2},
+		"E05015796":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.53314","lon":"-0.87206","n":"Thames","q":-46,"r":3},
+		"E05015797":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.4594","lon":"-0.84253","n":"Twyford, Ruscombe & Hurst","q":-45,"r":1},
+		"E05015798":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.4083","lon":"-0.81972","n":"Wescott","q":-45,"r":-1},
+		"E05015799":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.42632","lon":"-0.87712","n":"Winnersh","q":-46,"r":0},
+		"E05015800":{"LAD24CD":"E06000041","LAD24NM":"Wokingham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#265191","lat":"51.38802","lon":"-0.81265","n":"Wokingham Without","q":-45,"r":-2}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

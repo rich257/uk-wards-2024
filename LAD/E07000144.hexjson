@@ -1,0 +1,33 @@
+{
+	"hexes":{
+		"E05005757":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.63235","lon":"1.547473","n":"Acle","q":16,"r":62},
+		"E05005758":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.79286","lon":"1.252018","n":"Aylsham","q":12,"r":68},
+		"E05005759":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.66466","lon":"1.489039","n":"Blofield with South Walsham","q":15,"r":63},
+		"E05005760":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.59874","lon":"1.499289","n":"Brundall","q":15,"r":62},
+		"E05005761":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.62658","lon":"1.49152","n":"Burlingham","q":14,"r":62},
+		"E05005762":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.7605","lon":"1.311782","n":"Buxton","q":12,"r":67},
+		"E05005764":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.68395","lon":"1.224455","n":"Drayton North","q":10,"r":65},
+		"E05005765":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.67318","lon":"1.23177","n":"Drayton South","q":10,"r":64},
+		"E05005766":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.79099","lon":"1.101052","n":"Eynesford","q":11,"r":68},
+		"E05005767":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.71111","lon":"1.147904","n":"Great Witchingham","q":11,"r":66},
+		"E05005768":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.65924","lon":"1.251773","n":"Hellesdon North West","q":11,"r":65},
+		"E05005769":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.66028","lon":"1.270605","n":"Hellesdon South East","q":11,"r":64},
+		"E05005770":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.73032","lon":"1.276307","n":"Hevingham","q":11,"r":67},
+		"E05005771":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.70076","lon":"1.25073","n":"Horsford and Felthorpe","q":12,"r":66},
+		"E05005772":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.59369","lon":"1.588759","n":"Marshes","q":17,"r":62},
+		"E05005773":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.66547","lon":"1.307873","n":"Old Catton and Sprowston West","q":12,"r":64},
+		"E05005774":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.64785","lon":"1.391833","n":"Plumstead","q":14,"r":63},
+		"E05005775":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.76418","lon":"1.088353","n":"Reepham","q":10,"r":67},
+		"E05005777":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.66529","lon":"1.326734","n":"Sprowston Central","q":12,"r":63},
+		"E05005778":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.65807","lon":"1.343343","n":"Sprowston East","q":13,"r":64},
+		"E05005779":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.69062","lon":"1.199475","n":"Taverham North","q":10,"r":66},
+		"E05005780":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.67652","lon":"1.17548","n":"Taverham South","q":9,"r":65},
+		"E05005781":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.64004","lon":"1.347067","n":"Thorpe St Andrew North West","q":13,"r":63},
+		"E05005782":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.63457","lon":"1.36223","n":"Thorpe St Andrew South East","q":13,"r":62},
+		"E05005783":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.69646","lon":"1.394493","n":"Wroxham","q":13,"r":65},
+		"E05015560":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.71844","lon":"1.357824","n":"Coltishall","q":13,"r":66},
+		"E05015561":{"LAD24CD":"E07000144","LAD24NM":"Broadland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F1DEE5","lat":"52.69265","lon":"1.301298","n":"Spixworth with St Faiths","q":12,"r":65}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

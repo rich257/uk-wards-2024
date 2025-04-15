@@ -1,0 +1,15 @@
+{
+	"hexes":{
+		"S13002820":{"LAD24CD":"S12000040","LAD24NM":"West Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#DC2CC1","lat":"55.96362","lon":"-3.57407","n":"Linlithgow","q":-86,"r":178},
+		"S13002821":{"LAD24CD":"S12000040","LAD24NM":"West Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#DC2CC1","lat":"55.94642","lon":"-3.50048","n":"Broxburn, Uphall and Winchburgh","q":-86,"r":177},
+		"S13002822":{"LAD24CD":"S12000040","LAD24NM":"West Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#DC2CC1","lat":"55.9005","lon":"-3.55232","n":"Livingston North","q":-86,"r":176},
+		"S13002823":{"LAD24CD":"S12000040","LAD24NM":"West Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#DC2CC1","lat":"55.87698","lon":"-3.51626","n":"Livingston South","q":-86,"r":175},
+		"S13002824":{"LAD24CD":"S12000040","LAD24NM":"West Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#DC2CC1","lat":"55.81775","lon":"-3.48398","n":"East Livingston and East Calder","q":-85,"r":176},
+		"S13002825":{"LAD24CD":"S12000040","LAD24NM":"West Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#DC2CC1","lat":"55.82662","lon":"-3.64099","n":"Fauldhouse and the Breich Valley","q":-87,"r":175},
+		"S13002826":{"LAD24CD":"S12000040","LAD24NM":"West Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#DC2CC1","lat":"55.8691","lon":"-3.65159","n":"Whitburn and Blackburn","q":-87,"r":176},
+		"S13002827":{"LAD24CD":"S12000040","LAD24NM":"West Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#DC2CC1","lat":"55.90454","lon":"-3.62534","n":"Bathgate","q":-87,"r":177},
+		"S13002828":{"LAD24CD":"S12000040","LAD24NM":"West Lothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#DC2CC1","lat":"55.91069","lon":"-3.72107","n":"Armadale and Blackridge","q":-88,"r":177}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

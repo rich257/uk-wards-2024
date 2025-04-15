@@ -1,0 +1,28 @@
+{
+	"hexes":{
+		"E05015593":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.28876","lon":"0.504339","n":"Allington & Bridge","q":19,"r":-11},
+		"E05015594":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.26334","lon":"0.457644","n":"Barming Heath & Teston","q":18,"r":-13},
+		"E05015595":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.26698","lon":"0.571941","n":"Bearsted & Downswood","q":22,"r":-13},
+		"E05015596":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.21131","lon":"0.553816","n":"Boughton Monchelsea & Chart Sutton","q":22,"r":-15},
+		"E05015597":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.29929","lon":"0.558767","n":"Boxley Downs","q":22,"r":-11},
+		"E05015598":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.24269","lon":"0.478079","n":"Coxheath & Farleigh","q":19,"r":-13},
+		"E05015599":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.26578","lon":"0.494417","n":"Fant & Oakwood","q":20,"r":-12},
+		"E05015600":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.27994","lon":"0.55293","n":"Grove Green & Vinters Park","q":22,"r":-12},
+		"E05015601":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.26134","lon":"0.674907","n":"Harrietsham, Lenham & North Downs","q":23,"r":-13},
+		"E05015602":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.1933","lon":"0.644541","n":"Headcorn & Sutton Valence","q":23,"r":-15},
+		"E05015603":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.26976","lon":"0.525185","n":"High Street","q":21,"r":-12},
+		"E05015604":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.24205","lon":"0.607775","n":"Leeds & Langley","q":23,"r":-14},
+		"E05015605":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.22515","lon":"0.511426","n":"Loose & Linton","q":21,"r":-14},
+		"E05015606":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.19688","lon":"0.462622","n":"Marden & Yalding","q":18,"r":-11},
+		"E05015607":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.28101","lon":"0.494109","n":"Palace Wood","q":19,"r":-12},
+		"E05015608":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.24021","lon":"0.550545","n":"Park Wood & Mangravet","q":21,"r":-15},
+		"E05015609":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.28512","lon":"0.528564","n":"Penenden Heath","q":21,"r":-11},
+		"E05015610":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.28879","lon":"0.513677","n":"Ringlestone","q":20,"r":-11},
+		"E05015611":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.24387","lon":"0.564647","n":"Senacre","q":22,"r":-14},
+		"E05015612":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.26005","lon":"0.543803","n":"Shepway","q":21,"r":-13},
+		"E05015613":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.16454","lon":"0.546253","n":"Staplehurst","q":22,"r":-16},
+		"E05015614":{"LAD24CD":"E07000110","LAD24NM":"Maidstone","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#D2B5E3","lat":"51.25668","lon":"0.513833","n":"Tovil","q":20,"r":-13}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

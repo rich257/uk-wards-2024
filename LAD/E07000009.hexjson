@@ -1,0 +1,20 @@
+{
+	"hexes":{
+		"E05011561":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.28785","lon":"0.311808","n":"Burwell","q":-5,"r":54},
+		"E05011562":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.44582","lon":"0.216677","n":"Downham Villages","q":-6,"r":57},
+		"E05011563":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.38722","lon":"0.300431","n":"Ely East","q":-4,"r":56},
+		"E05011564":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.41875","lon":"0.323","n":"Ely North","q":-5,"r":57},
+		"E05011565":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.38931","lon":"0.242811","n":"Ely West","q":-5,"r":56},
+		"E05011566":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.31439","lon":"0.412258","n":"Fordham & Isleham","q":-4,"r":54},
+		"E05011567":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.35185","lon":"0.1045","n":"Haddenham","q":-7,"r":56},
+		"E05011568":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.47153","lon":"0.326706","n":"Littleport","q":-4,"r":58},
+		"E05011569":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.35151","lon":"0.316859","n":"Soham North","q":-5,"r":55},
+		"E05011570":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.32672","lon":"0.343126","n":"Soham South","q":-6,"r":55},
+		"E05011571":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.36588","lon":"0.205681","n":"Stretham","q":-6,"r":56},
+		"E05011572":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.3922","lon":"0.145176","n":"Sutton","q":-7,"r":57},
+		"E05015488":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.23189","lon":"0.289218","n":"Bottisham","q":-6,"r":53},
+		"E05015489":{"LAD24CD":"E07000009","LAD24NM":"East Cambridgeshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#B92107","lat":"52.2066","lon":"0.414715","n":"Woodditton","q":-5,"r":52}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

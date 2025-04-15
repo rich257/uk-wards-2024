@@ -1,0 +1,33 @@
+{
+	"hexes":{
+		"E05010237":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.5028","lon":"0.879619","n":"All Saints & Wayland","q":4,"r":61},
+		"E05010238":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.58172","lon":"0.73827","n":"Ashill","q":4,"r":62},
+		"E05010239":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.55546","lon":"0.623518","n":"Bedingfeld","q":3,"r":62},
+		"E05010240":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.505","lon":"1.022452","n":"Attleborough Burgh & Haverscroft","q":5,"r":60},
+		"E05010241":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.5178","lon":"1.061513","n":"Attleborough Queens & Besthorpe","q":5,"r":61},
+		"E05010242":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.67997","lon":"0.966401","n":"Dereham Neatherd","q":7,"r":64},
+		"E05010243":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.66442","lon":"0.939596","n":"Dereham Toftwood","q":6,"r":63},
+		"E05010244":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.68838","lon":"0.928568","n":"Dereham Withburga","q":6,"r":64},
+		"E05010245":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.46779","lon":"0.680408","n":"Forest","q":3,"r":61},
+		"E05010246":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.40665","lon":"0.992946","n":"Guiltcross","q":4,"r":59},
+		"E05010247":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.43475","lon":"0.889056","n":"Harling & Heathlands","q":4,"r":60},
+		"E05010248":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.76491","lon":"0.79458","n":"Hermitage","q":4,"r":65},
+		"E05010249":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.71049","lon":"0.777286","n":"Launditch","q":4,"r":64},
+		"E05010250":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.70571","lon":"0.966326","n":"Lincoln","q":5,"r":64},
+		"E05010251":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.63104","lon":"1.019148","n":"Mattishall","q":7,"r":62},
+		"E05010252":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.6878","lon":"0.659102","n":"Nar Valley","q":2,"r":63},
+		"E05010253":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.64453","lon":"0.790727","n":"Necton","q":4,"r":63},
+		"E05010254":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.59298","lon":"0.858389","n":"Saham Toney","q":5,"r":63},
+		"E05010255":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.63505","lon":"0.9139","n":"Shipdham-with-Scarning","q":6,"r":62},
+		"E05010256":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.64702","lon":"0.67703","n":"Swaffham","q":3,"r":63},
+		"E05010257":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.46838","lon":"1.043915","n":"The Buckenhams & Banham","q":5,"r":59},
+		"E05010258":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.42443","lon":"0.760005","n":"Thetford Boudica","q":3,"r":60},
+		"E05010259":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.40362","lon":"0.736725","n":"Thetford Burrell","q":2,"r":59},
+		"E05010260":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.41564","lon":"0.758367","n":"Thetford Castle","q":3,"r":59},
+		"E05010261":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.42268","lon":"0.714209","n":"Thetford Priory","q":2,"r":61},
+		"E05010262":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.73821","lon":"1.026228","n":"Upper Wensum","q":6,"r":65},
+		"E05010263":{"LAD24CD":"E07000143","LAD24NM":"Breckland","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#a89c09","lat":"52.56908","lon":"0.827612","n":"Watton","q":5,"r":62}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

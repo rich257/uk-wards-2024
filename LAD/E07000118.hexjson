@@ -1,0 +1,20 @@
+{
+	"hexes":{
+		"E05013064":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.63028","lon":"-2.57197","n":"Adlington & Anderton","q":-80,"r":102},
+		"E05013065":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.68063","lon":"-2.65001","n":"Buckshaw & Whittle","q":-83,"r":103},
+		"E05013066":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.65024","lon":"-2.61094","n":"Chorley East","q":-81,"r":102},
+		"E05013067":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.68782","lon":"-2.5642","n":"Chorley North East","q":-81,"r":103},
+		"E05013068":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.65452","lon":"-2.64385","n":"Chorley North West","q":-82,"r":102},
+		"E05013069":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.66565","lon":"-2.62756","n":"Chorley North & Astley","q":-82,"r":103},
+		"E05013070":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.63514","lon":"-2.6048","n":"Chorley South East & Heath Charnock","q":-81,"r":101},
+		"E05013071":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.63923","lon":"-2.643","n":"Chorley South West","q":-82,"r":101},
+		"E05013072":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.72058","lon":"-2.59881","n":"Clayton East, Brindle & Hoghton","q":-81,"r":104},
+		"E05013073":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.70385","lon":"-2.65812","n":"Clayton West & Cuerden","q":-82,"r":104},
+		"E05013074":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.61814","lon":"-2.66084","n":"Coppull","q":-82,"r":100},
+		"E05013075":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.65362","lon":"-2.78324","n":"Croston, Mawdesley & Euxton South","q":-84,"r":101},
+		"E05013076":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.63832","lon":"-2.69682","n":"Eccleston, Heskin & Charnock Richard","q":-83,"r":101},
+		"E05013077":{"LAD24CD":"E07000118","LAD24NM":"Chorley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#A1EA05","lat":"53.66705","lon":"-2.68061","n":"Euxton","q":-83,"r":102}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

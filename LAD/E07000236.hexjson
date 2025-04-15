@@ -1,0 +1,15 @@
+{
+	"hexes":{
+		"E05015615":{"LAD24CD":"E07000236","LAD24NM":"Redditch","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5E46CB","lat":"52.26115","lon":"-1.97652","n":"Astwood Bank & Feckenham","q":-65,"r":32},
+		"E05015616":{"LAD24CD":"E07000236","LAD24NM":"Redditch","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5E46CB","lat":"52.31014","lon":"-1.95946","n":"Batchley & Brockhill","q":-65,"r":34},
+		"E05015617":{"LAD24CD":"E07000236","LAD24NM":"Redditch","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5E46CB","lat":"52.30554","lon":"-1.9427","n":"Central","q":-64,"r":34},
+		"E05015618":{"LAD24CD":"E07000236","LAD24NM":"Redditch","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5E46CB","lat":"52.30076","lon":"-1.92658","n":"Greenlands & Lakeside","q":-64,"r":33},
+		"E05015619":{"LAD24CD":"E07000236","LAD24NM":"Redditch","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5E46CB","lat":"52.28095","lon":"-1.93269","n":"Headless Cross & Oakenshaw","q":-65,"r":33},
+		"E05015620":{"LAD24CD":"E07000236","LAD24NM":"Redditch","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5E46CB","lat":"52.28904","lon":"-1.90491","n":"Matchborough & Woodrow","q":-63,"r":32},
+		"E05015621":{"LAD24CD":"E07000236","LAD24NM":"Redditch","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5E46CB","lat":"52.31676","lon":"-1.91239","n":"North","q":-63,"r":34},
+		"E05015622":{"LAD24CD":"E07000236","LAD24NM":"Redditch","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5E46CB","lat":"52.29145","lon":"-1.96722","n":"Webheath & Callow Hill","q":-66,"r":33},
+		"E05015623":{"LAD24CD":"E07000236","LAD24NM":"Redditch","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5E46CB","lat":"52.30271","lon":"-1.89561","n":"Winyates","q":-63,"r":33}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

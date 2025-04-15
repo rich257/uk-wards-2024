@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"S13003063":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.43832","lon":"-3.21702","n":"Carse of Gowrie","q":-86,"r":198},
+		"S13003064":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.50907","lon":"-3.27867","n":"Strathmore","q":-87,"r":198},
+		"S13003065":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.7465","lon":"-3.46261","n":"Blairgowrie and Glens","q":-88,"r":199},
+		"S13003066":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.70574","lon":"-4.09378","n":"Highland","q":-89,"r":199},
+		"S13003067":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.54208","lon":"-3.6399","n":"Strathtay","q":-88,"r":198},
+		"S13003068":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.37621","lon":"-3.9958","n":"Strathearn","q":-89,"r":197},
+		"S13003069":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.26869","lon":"-3.7681","n":"Strathallan","q":-89,"r":196},
+		"S13003071":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.35743","lon":"-3.58193","n":"Almond and Earn","q":-88,"r":196},
+		"S13003072":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.38512","lon":"-3.45512","n":"Perth City South","q":-87,"r":196},
+		"S13003073":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.41188","lon":"-3.46744","n":"Perth City North","q":-88,"r":197},
+		"S13003074":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.4009","lon":"-3.43734","n":"Perth City Centre","q":-87,"r":197},
+		"S13003132":{"LAD24CD":"S12000048","LAD24NM":"Perth and Kinross","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#39377F","lat":"56.22891","lon":"-3.44387","n":"Kinross-shire","q":-89,"r":195}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

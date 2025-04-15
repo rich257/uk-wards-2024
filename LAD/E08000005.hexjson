@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05014033":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.59494","lon":"-2.14928","n":"Balderstone & Kirkholt","q":-65,"r":101},
+		"E05014034":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.61097","lon":"-2.1993","n":"Bamford","q":-66,"r":102},
+		"E05014035":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.58633","lon":"-2.17727","n":"Castleton","q":-65,"r":100},
+		"E05014036":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.62048","lon":"-2.14866","n":"Central Rochdale","q":-65,"r":103},
+		"E05014037":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.54049","lon":"-2.18473","n":"East Middleton","q":-65,"r":98},
+		"E05014038":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.63365","lon":"-2.16207","n":"Healey","q":-65,"r":104},
+		"E05014039":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.57359","lon":"-2.22986","n":"Hopwood Hall","q":-66,"r":100},
+		"E05014040":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.60438","lon":"-2.13115","n":"Kingsway","q":-64,"r":102},
+		"E05014041":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.65046","lon":"-2.0774","n":"Littleborough Lakeside","q":-63,"r":104},
+		"E05014042":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.60746","lon":"-2.15686","n":"Milkstone & Deeplish","q":-65,"r":102},
+		"E05014043":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.61081","lon":"-2.07518","n":"Milnrow & Newhey","q":-63,"r":102},
+		"E05014044":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.63751","lon":"-2.22618","n":"Norden","q":-67,"r":103},
+		"E05014045":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.59562","lon":"-2.21089","n":"North Heywood","q":-66,"r":101},
+		"E05014046":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.55949","lon":"-2.17995","n":"North Middleton","q":-66,"r":99},
+		"E05014047":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.62821","lon":"-2.13108","n":"Smallbridge & Firgrove","q":-64,"r":103},
+		"E05014048":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.5459","lon":"-2.21729","n":"South Middleton","q":-66,"r":98},
+		"E05014049":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.62467","lon":"-2.18003","n":"Spotland & Falinge","q":-66,"r":103},
+		"E05014050":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.66123","lon":"-2.13225","n":"Wardle, Shore & West Littleborough","q":-64,"r":104},
+		"E05014051":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.58968","lon":"-2.24916","n":"West Heywood","q":-67,"r":101},
+		"E05014052":{"LAD24CD":"E08000005","LAD24NM":"Rochdale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#87F3C1","lat":"53.56217","lon":"-2.2229","n":"West Middleton","q":-67,"r":99}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

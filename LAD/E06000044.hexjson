@@ -1,0 +1,20 @@
+{
+	"hexes":{
+		"E05002441":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.80719","lon":"-1.0535","n":"Baffins","q":-47,"r":-31},
+		"E05002442":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.79103","lon":"-1.07292","n":"Central Southsea","q":-48,"r":-32},
+		"E05002443":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.80282","lon":"-1.09427","n":"Charles Dickens","q":-49,"r":-31},
+		"E05002444":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.82238","lon":"-1.05675","n":"Copnor","q":-47,"r":-30},
+		"E05002445":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.84661","lon":"-1.07655","n":"Cosham","q":-47,"r":-28},
+		"E05002446":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.84147","lon":"-1.03948","n":"Drayton and Farlington","q":-47,"r":-29},
+		"E05002447":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.78734","lon":"-1.04346","n":"Eastney and Craneswater","q":-48,"r":-33},
+		"E05002448":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.80443","lon":"-1.07179","n":"Fratton","q":-48,"r":-31},
+		"E05002449":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.82696","lon":"-1.07147","n":"Hilsea","q":-48,"r":-29},
+		"E05002450":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.79412","lon":"-1.0518","n":"Milton","q":-47,"r":-32},
+		"E05002451":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.81714","lon":"-1.08739","n":"Nelson","q":-48,"r":-30},
+		"E05002452":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.853","lon":"-1.09498","n":"Paulsgrove","q":-48,"r":-28},
+		"E05002453":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.78403","lon":"-1.08863","n":"St Jude","q":-49,"r":-33},
+		"E05002454":{"LAD24CD":"E06000044","LAD24NM":"Portsmouth","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#C44B99","lat":"50.79131","lon":"-1.09394","n":"St Thomas","q":-49,"r":-32}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

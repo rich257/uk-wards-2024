@@ -1,0 +1,28 @@
+{
+	"hexes":{
+		"E05000932":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.60084","lon":"-3.05155","n":"Ainsdale","q":-92,"r":106},
+		"E05000933":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.62305","lon":"-3.01375","n":"Birkdale","q":-91,"r":106},
+		"E05000934":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.4915","lon":"-3.04438","n":"Blundellsands","q":-93,"r":103},
+		"E05000935":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.66642","lon":"-2.98908","n":"Cambridge","q":-91,"r":108},
+		"E05000936":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.47105","lon":"-3.02539","n":"Church","q":-92,"r":102},
+		"E05000937":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.45218","lon":"-2.98197","n":"Derby","q":-91,"r":101},
+		"E05000938":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.63497","lon":"-3.02655","n":"Duke's","q":-92,"r":107},
+		"E05000939":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.47775","lon":"-2.99741","n":"Ford","q":-91,"r":103},
+		"E05000940":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.57202","lon":"-3.06293","n":"Harington","q":-93,"r":105},
+		"E05000941":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.63321","lon":"-2.98735","n":"Kew","q":-91,"r":107},
+		"E05000942":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.45318","lon":"-3.01085","n":"Linacre","q":-92,"r":101},
+		"E05000943":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.4652","lon":"-2.99235","n":"Litherland","q":-91,"r":102},
+		"E05000944":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.50832","lon":"-3.01917","n":"Manor","q":-92,"r":104},
+		"E05000945":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.66998","lon":"-2.95991","n":"Meols","q":-90,"r":108},
+		"E05000946":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.49595","lon":"-2.9221","n":"Molyneux","q":-90,"r":103},
+		"E05000947":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.47573","lon":"-2.96991","n":"Netherton and Orrell","q":-90,"r":102},
+		"E05000948":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.6426","lon":"-2.97235","n":"Norwood","q":-90,"r":107},
+		"E05000949":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.51969","lon":"-2.95741","n":"Park","q":-91,"r":105},
+		"E05000950":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.56038","lon":"-3.04355","n":"Ravenmeols","q":-92,"r":105},
+		"E05000951":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.49052","lon":"-2.9716","n":"St Oswald","q":-91,"r":104},
+		"E05000952":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.51234","lon":"-2.92725","n":"Sudell","q":-90,"r":104},
+		"E05000953":{"LAD24CD":"E08000014","LAD24NM":"Sefton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#4DE922","lat":"53.48599","lon":"-3.02426","n":"Victoria","q":-92,"r":103}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

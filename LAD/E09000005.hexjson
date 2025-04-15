@@ -1,0 +1,28 @@
+{
+	"hexes":{
+		"E05013496":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.54034","lon":"-0.28821","n":"Alperton","q":-24,"r":7},
+		"E05013497":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.56932","lon":"-0.27587","n":"Barnhill","q":-23,"r":10},
+		"E05013498":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.54233","lon":"-0.22048","n":"Brondesbury Park","q":-20,"r":8},
+		"E05013499":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.55434","lon":"-0.2205","n":"Cricklewood & Mapesbury","q":-20,"r":9},
+		"E05013500":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.56173","lon":"-0.23732","n":"Dollis Hill","q":-22,"r":9},
+		"E05013501":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.53759","lon":"-0.24444","n":"Harlesden & Kensal Green","q":-22,"r":7},
+		"E05013502":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.57819","lon":"-0.30042","n":"Kenton","q":-24,"r":11},
+		"E05013503":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.53927","lon":"-0.19956","n":"Kilburn","q":-20,"r":7},
+		"E05013504":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.5889","lon":"-0.26091","n":"Kingsbury","q":-22,"r":11},
+		"E05013505":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.56968","lon":"-0.3174","n":"Northwick Park","q":-25,"r":10},
+		"E05013506":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.56964","lon":"-0.29851","n":"Preston","q":-24,"r":10},
+		"E05013507":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.53527","lon":"-0.21285","n":"Queens Park","q":-21,"r":7},
+		"E05013508":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.58868","lon":"-0.2766","n":"Queensbury","q":-23,"r":11},
+		"E05013509":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.54506","lon":"-0.24372","n":"Roundwood","q":-21,"r":8},
+		"E05013510":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.53906","lon":"-0.26991","n":"Stonebridge","q":-22,"r":8},
+		"E05013511":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.55615","lon":"-0.31904","n":"Sudbury","q":-25,"r":9},
+		"E05013512":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.54839","lon":"-0.27836","n":"Tokyngton","q":-23,"r":8},
+		"E05013513":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.57348","lon":"-0.26147","n":"Welsh Harp","q":-22,"r":10},
+		"E05013514":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.5491","lon":"-0.30072","n":"Wembley Central","q":-24,"r":8},
+		"E05013515":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.55563","lon":"-0.29253","n":"Wembley Hill","q":-24,"r":9},
+		"E05013516":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.55863","lon":"-0.27581","n":"Wembley Park","q":-23,"r":9},
+		"E05013517":{"LAD24CD":"E09000005","LAD24NM":"Brent","RGN24CD":"E12000007","RGN24NM":"London","colour":"#041FA0","lat":"51.55154","lon":"-0.23018","n":"Willesden Green","q":-21,"r":9}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

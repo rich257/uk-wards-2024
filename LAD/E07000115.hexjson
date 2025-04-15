@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05015035":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.32739","lon":"0.487596","n":"Aylesford North & North Downs","q":15,"r":-12},
+		"E05015036":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.29188","lon":"0.470657","n":"Aylesford South & Ditton","q":14,"r":-13},
+		"E05015037":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.31904","lon":"0.40489","n":"Birling, Leybourne & Ryarsh","q":13,"r":-12},
+		"E05015038":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.28185","lon":"0.322209","n":"Borough Green & Platt","q":12,"r":-13},
+		"E05015039":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.23973","lon":"0.276761","n":"Bourne","q":12,"r":-14},
+		"E05015040":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.20157","lon":"0.286446","n":"Cage Green & Angel","q":12,"r":-16},
+		"E05015041":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.23861","lon":"0.368785","n":"East and West Peckham, Mereworth & Wateringbury","q":13,"r":-14},
+		"E05015042":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.2851","lon":"0.396634","n":"East Malling, West Malling & Offham","q":13,"r":-13},
+		"E05015043":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.21151","lon":"0.302975","n":"Higham","q":12,"r":-15},
+		"E05015044":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.21796","lon":"0.240402","n":"Hildenborough","q":10,"r":-15},
+		"E05015045":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.19139","lon":"0.249875","n":"Judd","q":11,"r":-16},
+		"E05015046":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.27371","lon":"0.405877","n":"Kings Hill","q":14,"r":-14},
+		"E05015047":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.30837","lon":"0.443247","n":"Larkfield","q":14,"r":-12},
+		"E05015048":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.3021","lon":"0.300535","n":"Pilgrims with Ightham","q":12,"r":-12},
+		"E05015049":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.32912","lon":"0.444666","n":"Snodland East & Ham Hill","q":14,"r":-11},
+		"E05015050":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.33802","lon":"0.417815","n":"Snodland West & Holborough Lakes","q":13,"r":-11},
+		"E05015051":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.21677","lon":"0.279409","n":"Trench","q":11,"r":-15},
+		"E05015052":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.18269","lon":"0.277785","n":"Vauxhall","q":11,"r":-17},
+		"E05015053":{"LAD24CD":"E07000115","LAD24NM":"Tonbridge and Malling","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#217B6F","lat":"51.33504","lon":"0.519582","n":"Walderslade","q":16,"r":-12}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

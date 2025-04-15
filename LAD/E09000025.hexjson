@@ -1,0 +1,30 @@
+{
+	"hexes":{
+		"E05013904":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.51748","lon":"0.068424","n":"Beckton","q":2,"r":8},
+		"E05013905":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.53105","lon":"0.042048","n":"Boleyn","q":2,"r":10},
+		"E05013906":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.52165","lon":"0.004582","n":"Canning Town North","q":-1,"r":9},
+		"E05013907":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.51285","lon":"0.0145","n":"Canning Town South","q":0,"r":8},
+		"E05013908":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.51459","lon":"0.030359","n":"Custom House","q":1,"r":8},
+		"E05013909":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.53278","lon":"0.051758","n":"East Ham","q":3,"r":10},
+		"E05013910":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.5252","lon":"0.057775","n":"East Ham South","q":2,"r":9},
+		"E05013911":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.55217","lon":"0.026247","n":"Forest Gate North","q":1,"r":12},
+		"E05013912":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.54556","lon":"0.018295","n":"Forest Gate South","q":0,"r":11},
+		"E05013913":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.54189","lon":"0.037688","n":"Green Street East","q":2,"r":11},
+		"E05013914":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.54021","lon":"0.028384","n":"Green Street West","q":1,"r":11},
+		"E05013915":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.5552","lon":"0.055449","n":"Little Ilford","q":3,"r":12},
+		"E05013916":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.54958","lon":"0.046311","n":"Manor Park","q":2,"r":12},
+		"E05013917":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.54945","lon":"0.006063","n":"Maryland","q":-1,"r":11},
+		"E05013918":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.53159","lon":"0.027323","n":"Plaistow North","q":1,"r":10},
+		"E05013919":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.52243","lon":"0.032034","n":"Plaistow South","q":1,"r":9},
+		"E05013920":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.52403","lon":"0.020298","n":"Plaistow West & Canning Town East","q":0,"r":9},
+		"E05013921":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.54279","lon":"0.050693","n":"Plashet","q":3,"r":11},
+		"E05013922":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.50379","lon":"0.058077","n":"Royal Albert","q":1,"r":7},
+		"E05013923":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.50432","lon":"0.026357","n":"Royal Victoria","q":0,"r":7},
+		"E05013924":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.53516","lon":"-0.0038","n":"Stratford","q":-1,"r":10},
+		"E05013925":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.54433","lon":"-0.01015","n":"Stratford Olympic Park","q":-2,"r":11},
+		"E05013926":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.53675","lon":"0.06314","n":"Wall End","q":4,"r":10},
+		"E05013927":{"LAD24CD":"E09000025","LAD24NM":"Newham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#4B2F0B","lat":"51.535","lon":"0.011556","n":"West Ham","q":0,"r":10}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

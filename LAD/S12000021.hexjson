@@ -1,0 +1,15 @@
+{
+	"hexes":{
+		"S13003032":{"LAD24CD":"S12000021","LAD24NM":"North Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6B215F","lat":"55.63188","lon":"-4.68","n":"Irvine West","q":-102,"r":171},
+		"S13003033":{"LAD24CD":"S12000021","LAD24NM":"North Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6B215F","lat":"55.63987","lon":"-4.60277","n":"Irvine East","q":-101,"r":170},
+		"S13003034":{"LAD24CD":"S12000021","LAD24NM":"North Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6B215F","lat":"55.67458","lon":"-4.69587","n":"Kilwinning","q":-102,"r":172},
+		"S13003041":{"LAD24CD":"S12000021","LAD24NM":"North Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6B215F","lat":"55.59659","lon":"-4.6373","n":"Irvine South","q":-102,"r":170},
+		"S13003145":{"LAD24CD":"S12000021","LAD24NM":"North Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6B215F","lat":"55.6733","lon":"-4.79906","n":"Ardrossan","q":-103,"r":172},
+		"S13003146":{"LAD24CD":"S12000021","LAD24NM":"North Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6B215F","lat":"55.57807","lon":"-5.23906","n":"Arran","q":-105,"r":171},
+		"S13003147":{"LAD24CD":"S12000021","LAD24NM":"North Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6B215F","lat":"55.74976","lon":"-4.68257","n":"Garnock Valley","q":-103,"r":173},
+		"S13003148":{"LAD24CD":"S12000021","LAD24NM":"North Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6B215F","lat":"55.81924","lon":"-4.8226","n":"North Coast","q":-104,"r":173},
+		"S13003149":{"LAD24CD":"S12000021","LAD24NM":"North Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6B215F","lat":"55.63884","lon":"-4.74603","n":"Saltcoats and Stevenston","q":-103,"r":171}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

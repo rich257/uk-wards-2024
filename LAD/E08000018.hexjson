@@ -1,0 +1,31 @@
+{
+	"hexes":{
+		"E05012993":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.33933","lon":"-1.19348","n":"Anston & Woodsetts","q":-43,"r":92},
+		"E05012994":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.36291","lon":"-1.2825","n":"Aston & Todwick","q":-44,"r":92},
+		"E05012995":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.3722","lon":"-1.3267","n":"Aughton & Swallownest","q":-45,"r":92},
+		"E05012996":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.42185","lon":"-1.35651","n":"Boston Castle","q":-47,"r":93},
+		"E05012997":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.456","lon":"-1.26726","n":"Bramley & Ravenfield","q":-45,"r":95},
+		"E05012998":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.40444","lon":"-1.36695","n":"Brinsworth","q":-47,"r":92},
+		"E05012999":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.44509","lon":"-1.30132","n":"Dalton & Thrybergh","q":-45,"r":94},
+		"E05013000":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.3867","lon":"-1.18642","n":"Dinnington","q":-44,"r":93},
+		"E05013001":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.45132","lon":"-1.37454","n":"Greasbrough","q":-47,"r":94},
+		"E05013002":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.4226","lon":"-1.22454","n":"Hellaby & Maltby West","q":-43,"r":94},
+		"E05013003":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.48278","lon":"-1.40146","n":"Hoober","q":-48,"r":95},
+		"E05013004":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.4494","lon":"-1.4144","n":"Keppel","q":-48,"r":94},
+		"E05013005":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.47773","lon":"-1.30816","n":"Kilnhurst & Swinton East","q":-45,"r":96},
+		"E05013006":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.41431","lon":"-1.17193","n":"Maltby East","q":-43,"r":93},
+		"E05013007":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.45971","lon":"-1.3247","n":"Rawmarsh East","q":-46,"r":95},
+		"E05013008":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.46583","lon":"-1.35396","n":"Rawmarsh West","q":-47,"r":95},
+		"E05013009":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.38505","lon":"-1.35643","n":"Rother Vale","q":-46,"r":92},
+		"E05013010":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.43856","lon":"-1.33694","n":"Rotherham East","q":-46,"r":94},
+		"E05013011":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.43148","lon":"-1.39306","n":"Rotherham West","q":-48,"r":93},
+		"E05013012":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.40454","lon":"-1.30576","n":"Sitwell","q":-46,"r":93},
+		"E05013013":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.48504","lon":"-1.32685","n":"Swinton Rockingham","q":-46,"r":96},
+		"E05013014":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.39659","lon":"-1.2502","n":"Thurcroft & Wickersley South","q":-45,"r":93},
+		"E05013015":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.32969","lon":"-1.28252","n":"Wales","q":-44,"r":91},
+		"E05013016":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.49909","lon":"-1.33856","n":"Wath","q":-47,"r":96},
+		"E05013017":{"LAD24CD":"E08000018","LAD24NM":"Rotherham","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#2F64C5","lat":"53.43053","lon":"-1.28824","n":"Wickersley North","q":-44,"r":94}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

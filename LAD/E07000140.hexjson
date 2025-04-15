@@ -1,0 +1,24 @@
+{
+	"hexes":{
+		"E05005644":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.70499","lon":"-0.17972","n":"Crowland and Deeping St Nicholas","q":-18,"r":63},
+		"E05005645":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.88169","lon":"-0.19695","n":"Donington, Quadring and Gosberton","q":-18,"r":67},
+		"E05005646":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.76438","lon":"0.020599","n":"Fleet","q":-13,"r":64},
+		"E05005647":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.82755","lon":"0.115739","n":"Gedney","q":-13,"r":65},
+		"E05005648":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.85529","lon":"0.070448","n":"Holbeach Hurn","q":-13,"r":66},
+		"E05005649":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.80217","lon":"0.007841","n":"Holbeach Town","q":-14,"r":65},
+		"E05005650":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.78174","lon":"0.13751","n":"Long Sutton","q":-12,"r":65},
+		"E05005651":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.78198","lon":"-0.08376","n":"Moulton, Weston and Cowbit","q":-15,"r":65},
+		"E05005652":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.81649","lon":"-0.19878","n":"Pinchbeck and Surfleet","q":-17,"r":66},
+		"E05005653":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.79993","lon":"-0.13855","n":"Spalding Castle","q":-17,"r":65},
+		"E05005654":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.77186","lon":"-0.18553","n":"Spalding Monks House","q":-18,"r":64},
+		"E05005655":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.7824","lon":"-0.15976","n":"Spalding St John's","q":-17,"r":64},
+		"E05005656":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.76882","lon":"-0.14731","n":"Spalding St Mary's","q":-16,"r":64},
+		"E05005657":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.79706","lon":"-0.12509","n":"Spalding St Paul's","q":-16,"r":65},
+		"E05005658":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.7939","lon":"-0.16469","n":"Spalding Wygate","q":-18,"r":65},
+		"E05005659":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.78602","lon":"0.223691","n":"Sutton Bridge","q":-11,"r":65},
+		"E05005660":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.70477","lon":"0.027438","n":"The Saints","q":-12,"r":64},
+		"E05005661":{"LAD24CD":"E07000140","LAD24NM":"South Holland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#BEDE1D","lat":"52.75095","lon":"-0.03825","n":"Whaplode and Holbeach St John's","q":-14,"r":64}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

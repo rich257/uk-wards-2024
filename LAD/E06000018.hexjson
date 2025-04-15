@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05012270":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.97925","lon":"-1.20914","n":"Aspley","q":-39,"r":70},
+		"E05012271":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.9842","lon":"-1.182","n":"Basford","q":-38,"r":70},
+		"E05012272":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.97623","lon":"-1.16643","n":"Berridge","q":-38,"r":69},
+		"E05012273":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"53.00108","lon":"-1.16134","n":"Bestwood","q":-37,"r":70},
+		"E05012274":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.96764","lon":"-1.21972","n":"Bilborough","q":-40,"r":69},
+		"E05012275":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"53.00311","lon":"-1.20409","n":"Bulwell","q":-39,"r":71},
+		"E05012276":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"53.00482","lon":"-1.18082","n":"Bulwell Forest","q":-38,"r":71},
+		"E05012277":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.94983","lon":"-1.15073","n":"Castle","q":-37,"r":67},
+		"E05012278":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.90193","lon":"-1.17526","n":"Clifton East","q":-38,"r":65},
+		"E05012279":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.91712","lon":"-1.17031","n":"Clifton West","q":-38,"r":66},
+		"E05012280":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.95363","lon":"-1.10993","n":"Dales","q":-36,"r":67},
+		"E05012281":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.96326","lon":"-1.16816","n":"Hyson Green & Arboretum","q":-37,"r":68},
+		"E05012282":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.96703","lon":"-1.19477","n":"Leen Valley","q":-39,"r":69},
+		"E05012283":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.94114","lon":"-1.18918","n":"Lenton & Wollaton East","q":-39,"r":67},
+		"E05012284":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.97386","lon":"-1.13587","n":"Mapperley","q":-36,"r":69},
+		"E05012285":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.93811","lon":"-1.15311","n":"Meadows","q":-38,"r":67},
+		"E05012286":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.9557","lon":"-1.17336","n":"Radford","q":-38,"r":68},
+		"E05012287":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.95992","lon":"-1.13557","n":"St. Ann's","q":-36,"r":68},
+		"E05012288":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.98787","lon":"-1.14757","n":"Sherwood","q":-37,"r":69},
+		"E05012289":{"LAD24CD":"E06000018","LAD24NM":"Nottingham","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#4119A0","lat":"52.94973","lon":"-1.22129","n":"Wollaton West","q":-39,"r":68}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

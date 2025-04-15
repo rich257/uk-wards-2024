@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05014818":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.61187","lon":"-2.44479","n":"Astley Bridge","q":-75,"r":101},
+		"E05014819":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.61336","lon":"-2.39376","n":"Bradshaw","q":-73,"r":102},
+		"E05014820":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.58353","lon":"-2.38759","n":"Breightmet","q":-72,"r":100},
+		"E05014821":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.62349","lon":"-2.42319","n":"Bromley Cross","q":-74,"r":102},
+		"E05014822":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.55553","lon":"-2.40555","n":"Farnworth North","q":-74,"r":99},
+		"E05014823":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.54333","lon":"-2.41398","n":"Farnworth South","q":-73,"r":98},
+		"E05014824":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.56173","lon":"-2.42689","n":"Great Lever","q":-75,"r":99},
+		"E05014825":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.58897","lon":"-2.43768","n":"Halliwell","q":-74,"r":101},
+		"E05014826":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.5733","lon":"-2.49149","n":"Heaton, Lostock & Chew Moor","q":-76,"r":99},
+		"E05014827":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.60462","lon":"-2.51866","n":"Horwich North","q":-76,"r":100},
+		"E05014828":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.59011","lon":"-2.5734","n":"Horwich South & Blackrod","q":-77,"r":99},
+		"E05014829":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.54878","lon":"-2.46302","n":"Hulton","q":-74,"r":98},
+		"E05014830":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.54007","lon":"-2.3654","n":"Kearsley","q":-72,"r":98},
+		"E05014831":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.56271","lon":"-2.37466","n":"Little Lever & Darcy Lever","q":-73,"r":99},
+		"E05014832":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.57725","lon":"-2.43802","n":"Queens Park & Central","q":-73,"r":100},
+		"E05014833":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.568","lon":"-2.45044","n":"Rumworth","q":-74,"r":100},
+		"E05014834":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.60322","lon":"-2.46646","n":"Smithills","q":-75,"r":100},
+		"E05014835":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.58317","lon":"-2.41089","n":"Tonge with the Haulgh","q":-73,"r":101},
+		"E05014836":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.55738","lon":"-2.52045","n":"Westhoughton North & Hunger Hill","q":-75,"r":98},
+		"E05014837":{"LAD24CD":"E08000001","LAD24NM":"Bolton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F08054","lat":"53.53921","lon":"-2.53859","n":"Westhoughton South","q":-76,"r":98}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

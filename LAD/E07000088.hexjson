@@ -1,0 +1,20 @@
+{
+	"hexes":{
+		"E05014138":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.78632","lon":"-1.16234","n":"Alverstoke","q":-51,"r":-37},
+		"E05014139":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.78286","lon":"-1.13653","n":"Anglesey","q":-50,"r":-37},
+		"E05014140":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.82991","lon":"-1.16591","n":"Bridgemary","q":-52,"r":-33},
+		"E05014141":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.80348","lon":"-1.15819","n":"Brockhurst & Privett","q":-51,"r":-35},
+		"E05014142":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.81632","lon":"-1.1514","n":"Elson","q":-51,"r":-34},
+		"E05014143":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.80179","lon":"-1.13637","n":"Forton","q":-50,"r":-35},
+		"E05014144":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.80348","lon":"-1.17241","n":"Grange & Alver Valley","q":-51,"r":-36},
+		"E05014145":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.79441","lon":"-1.12427","n":"Harbourside & Town","q":-49,"r":-36},
+		"E05014146":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.81024","lon":"-1.13804","n":"Hardway","q":-50,"r":-34},
+		"E05014147":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.80271","lon":"-1.18433","n":"Lee East","q":-52,"r":-37},
+		"E05014148":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.79453","lon":"-1.19333","n":"Lee West","q":-52,"r":-36},
+		"E05014149":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.79659","lon":"-1.13886","n":"Leesland & Newtown","q":-50,"r":-36},
+		"E05014150":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.8248","lon":"-1.18101","n":"Peel Common","q":-52,"r":-34},
+		"E05014151":{"LAD24CD":"E07000088","LAD24NM":"Gosport","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#54AD87","lat":"50.81576","lon":"-1.17197","n":"Rowner & Holbrook","q":-52,"r":-35}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

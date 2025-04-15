@@ -1,0 +1,17 @@
+{
+	"hexes":{
+		"S13002608":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"58.37035","lon":"-6.38033","n":"An Taobh Siar agus Nis","q":-111,"r":219},
+		"S13003135":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"56.98002","lon":"-7.47719","n":"Barraigh agus Bhatarsaigh","q":-115,"r":210},
+		"S13003136":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"58.27677","lon":"-6.37571","n":"Loch a Tuath","q":-110,"r":218},
+		"S13003137":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"57.8414","lon":"-6.89623","n":"Na Hearadh","q":-112,"r":215},
+		"S13003138":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"58.09481","lon":"-6.84812","n":"Sgìr Ùige agus Càrlabhagh","q":-111,"r":218},
+		"S13003139":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"58.22166","lon":"-6.20646","n":"Sgìre an Rubha","q":-109,"r":217},
+		"S13003140":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"57.98397","lon":"-6.58497","n":"Sgìre nan Loch","q":-111,"r":216},
+		"S13003141":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"58.20763","lon":"-6.34146","n":"Steòrnabhagh a Deas","q":-110,"r":217},
+		"S13003142":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"58.21649","lon":"-6.39927","n":"Steòrnabhagh a Tuath","q":-111,"r":217},
+		"S13003143":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"57.31709","lon":"-7.33197","n":"Uibhist a Deas, Èirisgeigh agus Beinn na Faoghla","q":-114,"r":212},
+		"S13003144":{"LAD24CD":"S12000013","LAD24NM":"Na h-Eileanan Siar","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#741E92","lat":"57.6139","lon":"-7.36094","n":"Uibhist a Tuath","q":-114,"r":213}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

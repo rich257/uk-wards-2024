@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05013947":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.76346","lon":"-0.34706","n":"Batchwood","q":-16,"r":27},
+		"E05013948":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.76557","lon":"-0.33002","n":"Bernards Heath","q":-15,"r":27},
+		"E05013949":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.75293","lon":"-0.31663","n":"Clarence","q":-14,"r":26},
+		"E05013950":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.75087","lon":"-0.27224","n":"Colney Heath","q":-13,"r":25},
+		"E05013951":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.73933","lon":"-0.31358","n":"Cunningham","q":-14,"r":25},
+		"E05013952":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.8241","lon":"-0.34114","n":"Harpenden East","q":-15,"r":29},
+		"E05013953":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.812","lon":"-0.3815","n":"Harpenden North & Rural","q":-17,"r":29},
+		"E05013954":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.80003","lon":"-0.35103","n":"Harpenden South","q":-15,"r":28},
+		"E05013955":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.81385","lon":"-0.35982","n":"Harpenden West","q":-16,"r":29},
+		"E05013956":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.75093","lon":"-0.2902","n":"Hill End","q":-13,"r":26},
+		"E05013957":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.72119","lon":"-0.2947","n":"London Colney","q":-13,"r":24},
+		"E05013960":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.71302","lon":"-0.33102","n":"Park Street","q":-14,"r":24},
+		"E05013961":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.78341","lon":"-0.38705","n":"Redbourn","q":-16,"r":28},
+		"E05013962":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.80415","lon":"-0.30461","n":"Sandridge & Wheathampstead","q":-14,"r":28},
+		"E05013963":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.73878","lon":"-0.33397","n":"Sopwell","q":-15,"r":25},
+		"E05013964":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.75224","lon":"-0.33315","n":"St Peters","q":-15,"r":26},
+		"E05013965":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.71468","lon":"-0.37648","n":"St Stephen","q":-15,"r":24},
+		"E05013966":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.74891","lon":"-0.38172","n":"Verulam","q":-16,"r":25},
+		"E05015801":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.76582","lon":"-0.28147","n":"Marshalswick East & Jersey Farm","q":-13,"r":27},
+		"E05015802":{"LAD24CD":"E07000240","LAD24NM":"St Albans","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#DA5739","lat":"51.76578","lon":"-0.31403","n":"Marshalswick West","q":-14,"r":27}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

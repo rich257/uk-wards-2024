@@ -1,0 +1,19 @@
+{
+	"hexes":{
+		"E05015341":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.31986","lon":"-0.30921","n":"Ashtead Lanes & Common","q":-30,"r":-15},
+		"E05015342":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.30627","lon":"-0.29537","n":"Ashtead Park","q":-29,"r":-16},
+		"E05015343":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.27588","lon":"-0.36426","n":"Bookham East & Eastwick Park","q":-31,"r":-18},
+		"E05015344":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.26837","lon":"-0.37745","n":"Bookham West","q":-32,"r":-18},
+		"E05015345":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.25171","lon":"-0.27385","n":"Brockham, Betchworth, Buckland, Box Hill & Headley","q":-29,"r":-18},
+		"E05015346":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.17712","lon":"-0.25888","n":"Capel, Leigh, Newdigate & Charlwood","q":-29,"r":-20},
+		"E05015347":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.23588","lon":"-0.3371","n":"Dorking North","q":-30,"r":-18},
+		"E05015348":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.22569","lon":"-0.32031","n":"Dorking South","q":-30,"r":-19},
+		"E05015349":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.30036","lon":"-0.36517","n":"Fetcham","q":-31,"r":-17},
+		"E05015350":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.19326","lon":"-0.33034","n":"Holmwoods & Beare Green","q":-30,"r":-20},
+		"E05015351":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.31049","lon":"-0.33968","n":"Leatherhead North","q":-30,"r":-16},
+		"E05015352":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.28817","lon":"-0.31307","n":"Leatherhead South","q":-30,"r":-17},
+		"E05015353":{"LAD24CD":"E07000210","LAD24NM":"Mole Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#95A9EE","lat":"51.14736","lon":"-0.36809","n":"Mickleham, Westcott & Okewood","q":-31,"r":-19}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

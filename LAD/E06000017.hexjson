@@ -1,0 +1,21 @@
+{
+	"hexes":{
+		"E05012632":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.67862","lon":"-0.7511","n":"Barleythorpe","q":-26,"r":53},
+		"E05012633":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.62209","lon":"-0.72229","n":"Braunston & Martinsthorpe","q":-25,"r":51},
+		"E05012634":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.72744","lon":"-0.67063","n":"Cottesmore","q":-25,"r":54},
+		"E05012635":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.67235","lon":"-0.66529","n":"Exton","q":-24,"r":53},
+		"E05012636":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.72763","lon":"-0.59158","n":"Greetham","q":-24,"r":54},
+		"E05012637":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.61743","lon":"-0.57092","n":"Ketton","q":-23,"r":51},
+		"E05012638":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.69156","lon":"-0.75372","n":"Langham","q":-26,"r":54},
+		"E05012639":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.56596","lon":"-0.70132","n":"Lyddington","q":-24,"r":51},
+		"E05012640":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.63881","lon":"-0.61407","n":"Normanton","q":-23,"r":52},
+		"E05012641":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.67575","lon":"-0.72592","n":"Oakham North East","q":-25,"r":53},
+		"E05012642":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.67001","lon":"-0.74553","n":"Oakham North West","q":-25,"r":52},
+		"E05012643":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.66449","lon":"-0.73385","n":"Oakham South","q":-24,"r":52},
+		"E05012644":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.68628","lon":"-0.50006","n":"Ryhall & Casterton","q":-22,"r":52},
+		"E05012645":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.58357","lon":"-0.73193","n":"Uppingham","q":-24,"r":50},
+		"E05012646":{"LAD24CD":"E06000017","LAD24NM":"Rutland","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#C0C603","lat":"52.72387","lon":"-0.78071","n":"Whissendine","q":-26,"r":55}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

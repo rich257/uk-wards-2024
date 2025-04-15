@@ -1,0 +1,22 @@
+{
+	"hexes":{
+		"E05015849":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.20152","lon":"-2.21878","n":"Arboretum","q":-72,"r":25},
+		"E05015850":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.17773","lon":"-2.20474","n":"Battenhall","q":-72,"r":23},
+		"E05015851":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.19669","lon":"-2.22707","n":"Cathedral","q":-72,"r":24},
+		"E05015852":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.21859","lon":"-2.22137","n":"Claines","q":-72,"r":26},
+		"E05015853":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.18994","lon":"-2.2531","n":"Dines Green & Grove Farm","q":-74,"r":23},
+		"E05015854":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.19082","lon":"-2.20982","n":"Fort Royal","q":-71,"r":24},
+		"E05015855":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.19677","lon":"-2.18048","n":"Leopard Hill","q":-70,"r":25},
+		"E05015856":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.17526","lon":"-2.23496","n":"Lower Wick & Pitmaston","q":-73,"r":22},
+		"E05015857":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.18813","lon":"-2.19113","n":"Nunnery","q":-70,"r":24},
+		"E05015858":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.20313","lon":"-2.20205","n":"Rainbow Hill","q":-71,"r":25},
+		"E05015859":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.20242","lon":"-2.24034","n":"St Clement","q":-73,"r":24},
+		"E05015860":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.18965","lon":"-2.23574","n":"St John's","q":-73,"r":23},
+		"E05015861":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.2102","lon":"-2.17622","n":"St Nicholas","q":-69,"r":26},
+		"E05015862":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.17043","lon":"-2.20225","n":"St Peter's Parish","q":-72,"r":22},
+		"E05015863":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.21032","lon":"-2.21342","n":"St Stephen","q":-71,"r":26},
+		"E05015864":{"LAD24CD":"E07000237","LAD24NM":"Worcester","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#406B57","lat":"52.20976","lon":"-2.19018","n":"Warndon & Elbury Park","q":-70,"r":26}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

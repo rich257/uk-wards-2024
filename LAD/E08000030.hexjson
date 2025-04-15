@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05001301":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.59939","lon":"-1.91897","n":"Aldridge Central and South","q":-59,"r":54},
+		"E05001302":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.63048","lon":"-1.93064","n":"Aldridge North and Walsall Wood","q":-58,"r":56},
+		"E05001303":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.57995","lon":"-2.02679","n":"Bentley and Darlaston North","q":-62,"r":54},
+		"E05001304":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.60075","lon":"-2.00392","n":"Birchills Leamore","q":-61,"r":55},
+		"E05001305":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.6011","lon":"-1.98379","n":"Blakenall","q":-60,"r":55},
+		"E05001306":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.62577","lon":"-1.99492","n":"Bloxwich East","q":-60,"r":56},
+		"E05001307":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.62198","lon":"-2.01946","n":"Bloxwich West","q":-61,"r":56},
+		"E05001308":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.64992","lon":"-1.93962","n":"Brownhills","q":-59,"r":57},
+		"E05001309":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.56524","lon":"-2.04361","n":"Darlaston South","q":-63,"r":54},
+		"E05001310":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.57234","lon":"-1.9522","n":"Paddock","q":-60,"r":53},
+		"E05001311":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.56734","lon":"-1.97788","n":"Palfrey","q":-61,"r":53},
+		"E05001312":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.6285","lon":"-1.96944","n":"Pelsall","q":-59,"r":56},
+		"E05001313":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.56494","lon":"-1.92086","n":"Pheasey Park Farm","q":-59,"r":53},
+		"E05001314":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.57903","lon":"-2.00488","n":"Pleck","q":-61,"r":54},
+		"E05001315":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.61181","lon":"-1.94833","n":"Rushall-Shelfield","q":-59,"r":55},
+		"E05001316":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.58406","lon":"-1.98235","n":"St Matthew's","q":-60,"r":54},
+		"E05001317":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.60016","lon":"-2.03609","n":"Short Heath","q":-62,"r":55},
+		"E05001318":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.57341","lon":"-1.8929","n":"Streetly","q":-58,"r":54},
+		"E05001319":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.612","lon":"-2.03765","n":"Willenhall North","q":-62,"r":56},
+		"E05001320":{"LAD24CD":"E08000030","LAD24NM":"Walsall","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#3707C9","lat":"52.5851","lon":"-2.05299","n":"Willenhall South","q":-63,"r":55}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

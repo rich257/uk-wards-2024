@@ -1,0 +1,30 @@
+{
+	"hexes":{
+		"E05014449":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.45841","lon":"0.649042","n":"All Saints","q":24,"r":-1},
+		"E05014450":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.38507","lon":"0.53206","n":"Chatham Central & Brompton","q":22,"r":-3},
+		"E05014451":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.36607","lon":"0.44659","n":"Cuxton, Halling & Riverside","q":20,"r":-2},
+		"E05014452":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.35028","lon":"0.509402","n":"Fort Horsted","q":21,"r":-5},
+		"E05014453":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.37169","lon":"0.517958","n":"Fort Pitt","q":22,"r":-4},
+		"E05014454":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.39103","lon":"0.560751","n":"Gillingham North","q":23,"r":-3},
+		"E05014455":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.38265","lon":"0.5466","n":"Gillingham South","q":23,"r":-4},
+		"E05014456":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.34987","lon":"0.570433","n":"Hempstead & Wigmore","q":24,"r":-5},
+		"E05014457":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.43926","lon":"0.570758","n":"Hoo St Werburgh & High Halstow","q":23,"r":-1},
+		"E05014458":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.34622","lon":"0.552737","n":"Lordswood & Walderslade","q":24,"r":-6},
+		"E05014459":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.36965","lon":"0.542114","n":"Luton","q":23,"r":-5},
+		"E05014460":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.35329","lon":"0.537014","n":"Princes Park","q":23,"r":-6},
+		"E05014461":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.37504","lon":"0.610829","n":"Rainham North","q":25,"r":-3},
+		"E05014462":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.3473","lon":"0.604713","n":"Rainham South East","q":25,"r":-5},
+		"E05014463":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.36054","lon":"0.594403","n":"Rainham South West","q":25,"r":-4},
+		"E05014464":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.37173","lon":"0.504253","n":"Rochester East & Warren Wood","q":21,"r":-3},
+		"E05014465":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.36766","lon":"0.485209","n":"Rochester West & Borstal","q":20,"r":-3},
+		"E05014466":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.40351","lon":"0.541303","n":"St Mary's Island","q":23,"r":-2},
+		"E05014467":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.4003","lon":"0.488761","n":"Strood North & Frindsbury","q":22,"r":-2},
+		"E05014468":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.44477","lon":"0.505541","n":"Strood Rural","q":22,"r":-1},
+		"E05014469":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.39127","lon":"0.473508","n":"Strood West","q":21,"r":-2},
+		"E05014470":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.37535","lon":"0.582911","n":"Twydall","q":24,"r":-3},
+		"E05014471":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.37431","lon":"0.565738","n":"Watling","q":24,"r":-4},
+		"E05014472":{"LAD24CD":"E06000035","LAD24NM":"Medway","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A2379B","lat":"51.3547","lon":"0.526205","n":"Wayfield & Weeds Wood","q":22,"r":-5}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

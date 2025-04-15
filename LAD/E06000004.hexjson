@@ -1,0 +1,33 @@
+{
+	"hexes":{
+		"E05014858":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.60912","lon":"-1.29064","n":"Billingham Central","q":-57,"r":136},
+		"E05014859":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.6159","lon":"-1.27247","n":"Billingham East","q":-56,"r":136},
+		"E05014860":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.62163","lon":"-1.29069","n":"Billingham North","q":-57,"r":137},
+		"E05014861":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.60102","lon":"-1.23727","n":"Billingham South","q":-57,"r":135},
+		"E05014862":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.61536","lon":"-1.30786","n":"Billingham West & Wolviston","q":-58,"r":135},
+		"E05014863":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.57917","lon":"-1.36697","n":"Bishopsgarth & Elm Tree","q":-61,"r":133},
+		"E05014864":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.53865","lon":"-1.33624","n":"Eaglescliffe East","q":-59,"r":131},
+		"E05014865":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.53023","lon":"-1.39948","n":"Eaglescliffe West","q":-60,"r":131},
+		"E05014866":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.5676","lon":"-1.35608","n":"Fairfield","q":-60,"r":132},
+		"E05014867":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.5712","lon":"-1.33161","n":"Grangefield","q":-60,"r":133},
+		"E05014868":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.58518","lon":"-1.35365","n":"Hardwick & Salters Lane","q":-60,"r":134},
+		"E05014869":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.55925","lon":"-1.35746","n":"Hartburn","q":-59,"r":132},
+		"E05014870":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.52565","lon":"-1.31896","n":"Ingleby Barwick North","q":-58,"r":130},
+		"E05014871":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.51286","lon":"-1.32133","n":"Ingleby Barwick South","q":-59,"r":129},
+		"E05014872":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.55545","lon":"-1.29059","n":"Mandale & Victoria","q":-57,"r":131},
+		"E05014873":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.57127","lon":"-1.32258","n":"Newtown","q":-59,"r":133},
+		"E05014874":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.60507","lon":"-1.38272","n":"Northern Parishes","q":-60,"r":135},
+		"E05014875":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.58871","lon":"-1.31376","n":"Norton Central","q":-58,"r":134},
+		"E05014876":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.5943","lon":"-1.32778","n":"Norton North","q":-59,"r":135},
+		"E05014877":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.57997","lon":"-1.30206","n":"Norton South","q":-57,"r":134},
+		"E05014878":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.55601","lon":"-1.32662","n":"Ropner","q":-58,"r":132},
+		"E05014879":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.5866","lon":"-1.33633","n":"Roseworth","q":-59,"r":134},
+		"E05014880":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.49237","lon":"-1.29884","n":"Southern Villages","q":-58,"r":129},
+		"E05014881":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.52727","lon":"-1.28962","n":"Stainsby Hill","q":-57,"r":130},
+		"E05014882":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.56556","lon":"-1.29341","n":"Stockton Town Centre","q":-58,"r":133},
+		"E05014883":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.53966","lon":"-1.30288","n":"Village","q":-58,"r":131},
+		"E05014884":{"LAD24CD":"E06000004","LAD24NM":"Stockton-on-Tees","RGN24CD":"E12000001","RGN24NM":"North East","colour":"#465935","lat":"54.49895","lon":"-1.35648","n":"Yarm","q":-59,"r":130}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

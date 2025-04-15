@@ -1,0 +1,23 @@
+{
+	"hexes":{
+		"E05010827":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.86157","lon":"0.901619","n":"Berechurch","q":8,"r":37},
+		"E05010828":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.89383","lon":"0.902099","n":"Castle","q":8,"r":39},
+		"E05010829":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.88726","lon":"0.93474","n":"Greenstead","q":10,"r":38},
+		"E05010830":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.91308","lon":"0.920953","n":"Highwoods","q":9,"r":40},
+		"E05010831":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.90739","lon":"0.840174","n":"Lexden and Braiswick","q":7,"r":39},
+		"E05010832":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.83592","lon":"0.800451","n":"Marks Tey and Layer","q":8,"r":36},
+		"E05010833":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.81401","lon":"0.921938","n":"Mersea and Pyefleet","q":9,"r":36},
+		"E05010834":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.91401","lon":"0.894866","n":"Mile End","q":8,"r":40},
+		"E05010835":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.88276","lon":"0.897883","n":"New Town and Christ Church","q":9,"r":38},
+		"E05010836":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.86136","lon":"0.931427","n":"Old Heath and The Hythe","q":9,"r":37},
+		"E05010837":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.881","lon":"0.860727","n":"Prettygate","q":8,"r":38},
+		"E05010838":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.92406","lon":"0.777705","n":"Rural North","q":8,"r":41},
+		"E05010839":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.90389","lon":"0.940537","n":"St Anne's and St John's","q":9,"r":39},
+		"E05010840":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.8641","lon":"0.877406","n":"Shrub End","q":7,"r":37},
+		"E05010841":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.87663","lon":"0.841792","n":"Stanway","q":7,"r":38},
+		"E05010842":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.81174","lon":"0.747776","n":"Tiptree","q":7,"r":35},
+		"E05010843":{"LAD24CD":"E07000071","LAD24NM":"Colchester","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#969003","lat":"51.87213","lon":"0.958586","n":"Wivenhoe","q":10,"r":37}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

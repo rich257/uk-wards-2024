@@ -1,0 +1,30 @@
+{
+	"hexes":{
+		"E05001260":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.47471","lon":"-1.97981","n":"Abbey","q":-65,"r":47},
+		"E05001261":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.47837","lon":"-2.04122","n":"Blackheath","q":-67,"r":47},
+		"E05001262":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.48266","lon":"-1.99644","n":"Bristnall","q":-65,"r":48},
+		"E05001263":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.54252","lon":"-1.97146","n":"Charlemont with Grove Vale","q":-63,"r":52},
+		"E05001264":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.47021","lon":"-2.07567","n":"Cradley Heath and Old Hill","q":-68,"r":47},
+		"E05001265":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.55597","lon":"-1.99133","n":"Friar Park","q":-64,"r":52},
+		"E05001266":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.55401","lon":"-1.953","n":"Great Barr with Yew Tree","q":-62,"r":52},
+		"E05001267":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.53166","lon":"-2.04053","n":"Great Bridge","q":-65,"r":50},
+		"E05001268":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.51876","lon":"-2.01047","n":"Greets Green and Lyng","q":-64,"r":50},
+		"E05001269":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.53587","lon":"-1.99552","n":"Hateley Heath","q":-64,"r":51},
+		"E05001270":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.487","lon":"-2.02258","n":"Langley","q":-66,"r":48},
+		"E05001271":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.53774","lon":"-1.94833","n":"Newton","q":-63,"r":51},
+		"E05001272":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.47011","lon":"-2.00103","n":"Old Warley","q":-66,"r":47},
+		"E05001273":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.50781","lon":"-2.02457","n":"Oldbury","q":-66,"r":49},
+		"E05001274":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.54258","lon":"-2.05623","n":"Princes End","q":-66,"r":51},
+		"E05001275":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.49107","lon":"-2.05444","n":"Rowley","q":-67,"r":48},
+		"E05001276":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.50083","lon":"-1.97816","n":"St Pauls","q":-65,"r":49},
+		"E05001277":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.48975","lon":"-1.98114","n":"Smethwick","q":-64,"r":48},
+		"E05001278":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.49254","lon":"-1.95563","n":"Soho and Victoria","q":-64,"r":49},
+		"E05001279":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.52442","lon":"-2.06334","n":"Tipton Green","q":-66,"r":50},
+		"E05001280":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.50316","lon":"-2.04719","n":"Tividale","q":-67,"r":49},
+		"E05001281":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.55927","lon":"-2.01867","n":"Wednesbury North","q":-65,"r":52},
+		"E05001282":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.54144","lon":"-2.0232","n":"Wednesbury South","q":-65,"r":51},
+		"E05001283":{"LAD24CD":"E08000028","LAD24NM":"Sandwell","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#A11F72","lat":"52.52043","lon":"-1.98415","n":"West Bromwich Central","q":-63,"r":50}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

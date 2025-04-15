@@ -1,0 +1,23 @@
+{
+	"hexes":{
+		"E05007457":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.52316","lon":"-1.60172","n":"Arley and Whitacre","q":-49,"r":52},
+		"E05007458":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.57279","lon":"-1.54706","n":"Atherstone Central","q":-48,"r":53},
+		"E05007459":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.5824","lon":"-1.54339","n":"Atherstone North","q":-48,"r":54},
+		"E05007460":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.56001","lon":"-1.53582","n":"Atherstone South and Mancetter","q":-48,"r":52},
+		"E05007461":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.57021","lon":"-1.58985","n":"Baddesley and Grendon","q":-49,"r":53},
+		"E05007462":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.50625","lon":"-1.71701","n":"Coleshill North","q":-51,"r":51},
+		"E05007463":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.48527","lon":"-1.70316","n":"Coleshill South","q":-50,"r":50},
+		"E05007464":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.55364","lon":"-1.70907","n":"Curdworth","q":-50,"r":52},
+		"E05007465":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.59647","lon":"-1.62021","n":"Dordon","q":-49,"r":54},
+		"E05007466":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.47874","lon":"-1.59406","n":"Fillongley","q":-50,"r":51},
+		"E05007467":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.55022","lon":"-1.49995","n":"Hartshill","q":-47,"r":52},
+		"E05007468":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.56429","lon":"-1.64609","n":"Hurley and Wood End","q":-50,"r":53},
+		"E05007469":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.57845","lon":"-1.68993","n":"Kingsbury","q":-51,"r":53},
+		"E05007470":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.65374","lon":"-1.59372","n":"Newton Regis and Warton","q":-49,"r":56},
+		"E05007471":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.61873","lon":"-1.60515","n":"Polesworth East","q":-49,"r":55},
+		"E05007472":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.61889","lon":"-1.6265","n":"Polesworth West","q":-50,"r":55},
+		"E05007473":{"LAD24CD":"E07000218","LAD24NM":"North Warwickshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D573D6","lat":"52.51556","lon":"-1.73907","n":"Water Orton","q":-51,"r":52}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

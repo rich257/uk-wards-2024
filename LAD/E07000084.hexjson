@@ -1,0 +1,24 @@
+{
+	"hexes":{
+		"E05013078":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.24118","lon":"-1.0432","n":"Basing & Upton Grey","q":-50,"r":-14},
+		"E05013079":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.3375","lon":"-1.03631","n":"Bramley","q":-50,"r":-10},
+		"E05013080":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.2423","lon":"-1.11256","n":"Brighton Hill","q":-51,"r":-14},
+		"E05013081":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.26178","lon":"-1.09523","n":"Brookvale & Kings Furlong","q":-51,"r":-13},
+		"E05013082":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.29087","lon":"-1.05641","n":"Chineham","q":-51,"r":-11},
+		"E05013083":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.25867","lon":"-1.07699","n":"Eastrop & Grove","q":-50,"r":-13},
+		"E05013084":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.32081","lon":"-1.36227","n":"Evingar","q":-54,"r":-13},
+		"E05013085":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.23283","lon":"-1.13183","n":"Hatch Warren & Beggarwood","q":-52,"r":-15},
+		"E05013086":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.2507","lon":"-1.13528","n":"Kempshott & Buckskin","q":-52,"r":-14},
+		"E05013087":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.27636","lon":"-1.08483","n":"Norden","q":-51,"r":-12},
+		"E05013088":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.19899","lon":"-1.15627","n":"Oakley & The Candovers","q":-53,"r":-15},
+		"E05013089":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.28402","lon":"-1.0817","n":"Popley","q":-50,"r":-12},
+		"E05013090":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.30058","lon":"-1.12453","n":"Sherborne St John & Rooksdown","q":-52,"r":-12},
+		"E05013091":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.25772","lon":"-1.1169","n":"South Ham","q":-52,"r":-13},
+		"E05013092":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.34007","lon":"-1.13015","n":"Tadley & Pamber","q":-52,"r":-11},
+		"E05013093":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.31735","lon":"-1.21828","n":"Tadley North, Kingsclere & Baughurst","q":-53,"r":-12},
+		"E05013094":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.23916","lon":"-1.29007","n":"Whitchurch, Overton & Laverstoke","q":-53,"r":-14},
+		"E05013095":{"LAD24CD":"E07000084","LAD24NM":"Basingstoke and Deane","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F33897","lat":"51.27587","lon":"-1.14269","n":"Winklebury & Manydown","q":-53,"r":-13}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

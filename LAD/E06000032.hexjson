@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05014735":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.90678","lon":"-0.42186","n":"Barnfield","q":-15,"r":34},
+		"E05014736":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.88997","lon":"-0.44449","n":"Beech Hill","q":-17,"r":33},
+		"E05014737":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.89099","lon":"-0.42815","n":"Biscot","q":-16,"r":33},
+		"E05014738":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.91753","lon":"-0.43717","n":"Bramingham","q":-16,"r":35},
+		"E05014739":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.88041","lon":"-0.41371","n":"Central","q":-15,"r":32},
+		"E05014740":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.89556","lon":"-0.45906","n":"Challney","q":-17,"r":34},
+		"E05014741":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.88306","lon":"-0.44307","n":"Dallow","q":-16,"r":32},
+		"E05014742":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.87214","lon":"-0.43411","n":"Farley","q":-16,"r":31},
+		"E05014743":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.88841","lon":"-0.41141","n":"High Town","q":-15,"r":33},
+		"E05014744":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.90857","lon":"-0.47269","n":"Leagrave","q":-18,"r":35},
+		"E05014745":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.90242","lon":"-0.48836","n":"Lewsey","q":-19,"r":35},
+		"E05014746":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.91254","lon":"-0.45027","n":"Northwell","q":-17,"r":35},
+		"E05014747":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.89478","lon":"-0.48156","n":"Poets","q":-18,"r":34},
+		"E05014748":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.88789","lon":"-0.4012","n":"Round Green","q":-14,"r":33},
+		"E05014749":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.90078","lon":"-0.4396","n":"Saints","q":-16,"r":34},
+		"E05014750":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.8668","lon":"-0.41822","n":"South","q":-15,"r":31},
+		"E05014751":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.90317","lon":"-0.39425","n":"Stopsley","q":-14,"r":34},
+		"E05014752":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.91845","lon":"-0.47038","n":"Sundon Park","q":-17,"r":36},
+		"E05014753":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.87898","lon":"-0.39082","n":"Vauxhall","q":-14,"r":32},
+		"E05014754":{"LAD24CD":"E06000032","LAD24NM":"Luton","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#429F80","lat":"51.88136","lon":"-0.36931","n":"Wigmore","q":-13,"r":32}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

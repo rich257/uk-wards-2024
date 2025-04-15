@@ -1,0 +1,29 @@
+{
+	"hexes":{
+		"E05014072":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.48794","lon":"0.113009","n":"Abbey Wood","q":5,"r":-1},
+		"E05014073":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.46412","lon":"0.014857","n":"Blackheath Westcombe","q":2,"r":-2},
+		"E05014074":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.47889","lon":"0.035367","n":"Charlton Hornfair","q":2,"r":-1},
+		"E05014075":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.48739","lon":"0.039131","n":"Charlton Village & Riverside","q":2,"r":0},
+		"E05014076":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.48756","lon":"0.008774","n":"East Greenwich","q":1,"r":-1},
+		"E05014077":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.45861","lon":"0.041174","n":"Eltham Page","q":2,"r":-3},
+		"E05014078":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.46301","lon":"0.063843","n":"Eltham Park & Progress","q":3,"r":-3},
+		"E05014079":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.44832","lon":"0.067469","n":"Eltham Town & Avery Hill","q":3,"r":-4},
+		"E05014080":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.48065","lon":"-0.01408","n":"Greenwich Creekside","q":-1,"r":-1},
+		"E05014081":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.47627","lon":"-0.00571","n":"Greenwich Park","q":0,"r":-1},
+		"E05014082":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.49467","lon":"0.011263","n":"Greenwich Peninsula","q":1,"r":0},
+		"E05014083":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.46872","lon":"0.041034","n":"Kidbrooke Park","q":3,"r":-2},
+		"E05014084":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.46008","lon":"0.027807","n":"Kidbrooke Village & Sutcliffe","q":1,"r":-3},
+		"E05014085":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.4479","lon":"0.034464","n":"Middle Park & Horn Park","q":2,"r":-4},
+		"E05014086":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.43332","lon":"0.061986","n":"Mottingham, Coldharbour & New Eltham","q":2,"r":-5},
+		"E05014087":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.48817","lon":"0.090159","n":"Plumstead & Glyndon","q":4,"r":-1},
+		"E05014088":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.47782","lon":"0.094121","n":"Plumstead Common","q":5,"r":-2},
+		"E05014089":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.47303","lon":"0.068903","n":"Shooters Hill","q":4,"r":-2},
+		"E05014090":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.50492","lon":"0.105062","n":"Thamesmead Moorings","q":5,"r":1},
+		"E05014091":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.49749","lon":"0.094807","n":"West Thamesmead","q":5,"r":0},
+		"E05014092":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.49138","lon":"0.069734","n":"Woolwich Arsenal","q":4,"r":0},
+		"E05014093":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.48307","lon":"0.063266","n":"Woolwich Common","q":3,"r":-1},
+		"E05014094":{"LAD24CD":"E09000011","LAD24NM":"Greenwich","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FF229E","lat":"51.48987","lon":"0.05382","n":"Woolwich Dockyard","q":3,"r":0}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

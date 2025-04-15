@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"E05013733":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.50083","lon":"-0.22146","n":"Addison","q":-22,"r":3},
+		"E05013734":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.49333","lon":"-0.20975","n":"Avonmore","q":-21,"r":1},
+		"E05013735":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.49754","lon":"-0.21608","n":"Brook Green","q":-21,"r":2},
+		"E05013736":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.52331","lon":"-0.23622","n":"College Park & Old Oak","q":-24,"r":5},
+		"E05013737":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.5032","lon":"-0.23673","n":"Coningham","q":-23,"r":3},
+		"E05013738":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.48654","lon":"-0.21561","n":"Fulham Reach","q":-21,"r":0},
+		"E05013739":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.47493","lon":"-0.20581","n":"Fulham Town","q":-20,"r":-2},
+		"E05013740":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.49816","lon":"-0.22967","n":"Grove","q":-22,"r":2},
+		"E05013741":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.49022","lon":"-0.22395","n":"Hammersmith Broadway","q":-22,"r":1},
+		"E05013742":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.4843","lon":"-0.19853","n":"Lillie","q":-20,"r":-1},
+		"E05013743":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.47779","lon":"-0.2116","n":"Munster","q":-21,"r":-1},
+		"E05013744":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.4738","lon":"-0.21746","n":"Palace & Hurlingham","q":-21,"r":-3},
+		"E05013745":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.47589","lon":"-0.19232","n":"Parsons Green & Sandford","q":-20,"r":-3},
+		"E05013746":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.49489","lon":"-0.23994","n":"Ravenscourt","q":-23,"r":2},
+		"E05013747":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.47119","lon":"-0.18582","n":"Sands End","q":-19,"r":-3},
+		"E05013748":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.50697","lon":"-0.22295","n":"Shepherd's Bush Green","q":-22,"r":4},
+		"E05013749":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.47942","lon":"-0.19994","n":"Walham Green","q":-19,"r":-2},
+		"E05013750":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.50186","lon":"-0.24743","n":"Wendell Park","q":-24,"r":3},
+		"E05013751":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.48807","lon":"-0.20522","n":"West Kensington","q":-20,"r":0},
+		"E05013752":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.5105","lon":"-0.23149","n":"White City","q":-23,"r":5},
+		"E05013753":{"LAD24CD":"E09000013","LAD24NM":"Hammersmith and Fulham","RGN24CD":"E12000007","RGN24NM":"London","colour":"#794181","lat":"51.5105","lon":"-0.24178","n":"Wormholt","q":-23,"r":4}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"E05011666":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.83379","lon":"-0.78648","n":"Chichester Central","q":-39,"r":-31},
+		"E05011667":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.8427","lon":"-0.76473","n":"Chichester East","q":-38,"r":-31},
+		"E05011668":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.84978","lon":"-0.77631","n":"Chichester North","q":-38,"r":-30},
+		"E05011669":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.83189","lon":"-0.76506","n":"Chichester South","q":-38,"r":-32},
+		"E05011670":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.84377","lon":"-0.79534","n":"Chichester West","q":-37,"r":-31},
+		"E05011671":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.99209","lon":"-0.70406","n":"Easebourne","q":-38,"r":-28},
+		"E05011672":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"51.04827","lon":"-0.74442","n":"Fernhurst","q":-38,"r":-27},
+		"E05011673":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.949","lon":"-0.63329","n":"Fittleworth","q":-38,"r":-29},
+		"E05011674":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.89671","lon":"-0.74236","n":"Goodwood","q":-39,"r":-29},
+		"E05011675":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.82951","lon":"-0.83525","n":"Harbour Villages","q":-39,"r":-32},
+		"E05011676":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.99229","lon":"-0.86692","n":"Harting","q":-40,"r":-28},
+		"E05011677":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.86812","lon":"-0.8221","n":"Lavant","q":-39,"r":-30},
+		"E05011678":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"51.03745","lon":"-0.56113","n":"Loxwood","q":-37,"r":-27},
+		"E05011679":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.98184","lon":"-0.76289","n":"Midhurst","q":-39,"r":-28},
+		"E05011680":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.81898","lon":"-0.74024","n":"North Mundham & Tangmere","q":-37,"r":-32},
+		"E05011681":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.98992","lon":"-0.62049","n":"Petworth","q":-37,"r":-28},
+		"E05011682":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.73634","lon":"-0.79922","n":"Selsey South","q":-38,"r":-34},
+		"E05011683":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.76883","lon":"-0.78954","n":"Sidlesham with Selsey North","q":-38,"r":-33},
+		"E05011684":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.81583","lon":"-0.91343","n":"Southbourne","q":-40,"r":-31},
+		"E05011685":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.77625","lon":"-0.86606","n":"The Witterings","q":-39,"r":-33},
+		"E05011686":{"LAD24CD":"E07000225","LAD24NM":"Chichester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#733850","lat":"50.89863","lon":"-0.89001","n":"Westbourne","q":-40,"r":-29}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

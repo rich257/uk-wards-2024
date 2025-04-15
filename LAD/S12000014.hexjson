@@ -1,0 +1,15 @@
+{
+	"hexes":{
+		"S13002936":{"LAD24CD":"S12000014","LAD24NM":"Falkirk","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6151B6","lat":"56.00267","lon":"-3.60311","n":"Bo'ness and Blackness","q":-86,"r":180},
+		"S13002937":{"LAD24CD":"S12000014","LAD24NM":"Falkirk","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6151B6","lat":"56.01716","lon":"-3.69615","n":"Grangemouth","q":-87,"r":181},
+		"S13002938":{"LAD24CD":"S12000014","LAD24NM":"Falkirk","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6151B6","lat":"56.01721","lon":"-3.95261","n":"Denny and Banknock","q":-90,"r":181},
+		"S13002939":{"LAD24CD":"S12000014","LAD24NM":"Falkirk","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6151B6","lat":"56.05421","lon":"-3.77732","n":"Carse, Kinnaird and Tryst","q":-88,"r":182},
+		"S13002940":{"LAD24CD":"S12000014","LAD24NM":"Falkirk","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6151B6","lat":"56.01798","lon":"-3.86383","n":"Bonnybridge and Larbert","q":-89,"r":181},
+		"S13002941":{"LAD24CD":"S12000014","LAD24NM":"Falkirk","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6151B6","lat":"56.01148","lon":"-3.77739","n":"Falkirk North","q":-88,"r":181},
+		"S13002942":{"LAD24CD":"S12000014","LAD24NM":"Falkirk","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6151B6","lat":"55.9819","lon":"-3.81324","n":"Falkirk South","q":-88,"r":180},
+		"S13002943":{"LAD24CD":"S12000014","LAD24NM":"Falkirk","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6151B6","lat":"55.99255","lon":"-3.70915","n":"Lower Braes","q":-87,"r":180},
+		"S13002944":{"LAD24CD":"S12000014","LAD24NM":"Falkirk","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#6151B6","lat":"55.94164","lon":"-3.78764","n":"Upper Braes","q":-88,"r":179}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

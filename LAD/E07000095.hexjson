@@ -1,0 +1,16 @@
+{
+	"hexes":{
+		"E05009002":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.74844","lon":"-0.02413","n":"Broxbourne and Hoddesdon South","q":-5,"r":30},
+		"E05009003":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.71107","lon":"-0.0282","n":"Cheshunt North","q":-5,"r":28},
+		"E05009004":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.69914","lon":"-0.03133","n":"Cheshunt South and Theobalds","q":-6,"r":27},
+		"E05009005":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.72219","lon":"-0.05613","n":"Flamstead End","q":-6,"r":28},
+		"E05009006":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.70575","lon":"-0.07961","n":"Goffs Oak","q":-7,"r":28},
+		"E05009007":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.77083","lon":"-0.02844","n":"Hoddesdon North","q":-6,"r":31},
+		"E05009008":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.76692","lon":"0.000168","n":"Hoddesdon Town and Rye Park","q":-5,"r":31},
+		"E05009009":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.70317","lon":"-0.05275","n":"Rosedale and Bury Green","q":-7,"r":27},
+		"E05009010":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.68988","lon":"-0.02708","n":"Waltham Cross","q":-5,"r":26},
+		"E05009011":{"LAD24CD":"E07000095","LAD24NM":"Broxbourne","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C358A6","lat":"51.72848","lon":"-0.02319","n":"Wormley and Turnford","q":-6,"r":29}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

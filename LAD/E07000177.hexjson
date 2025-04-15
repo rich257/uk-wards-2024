@@ -1,0 +1,22 @@
+{
+	"hexes":{
+		"E05010921":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"52.06695","lon":"-1.34202","n":"Banbury Cross and Neithrop","q":-41,"r":30},
+		"E05010922":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"52.06508","lon":"-1.31827","n":"Banbury Grimsbury and Hightown","q":-41,"r":29},
+		"E05010923":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"52.07963","lon":"-1.35132","n":"Banbury Hardwick","q":-42,"r":30},
+		"E05010924":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"52.06291","lon":"-1.36113","n":"Banbury Ruscote","q":-43,"r":29},
+		"E05010925":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"51.90565","lon":"-1.14245","n":"Bicester East","q":-39,"r":25},
+		"E05010926":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"51.91879","lon":"-1.16134","n":"Bicester North and Caversfield","q":-39,"r":26},
+		"E05010928":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"51.90385","lon":"-1.16567","n":"Bicester West","q":-40,"r":25},
+		"E05010929":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"52.09137","lon":"-1.41461","n":"Cropredy, Sibfords and Wroxton","q":-43,"r":30},
+		"E05010930":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"51.97206","lon":"-1.29324","n":"Deddington","q":-41,"r":27},
+		"E05010932":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"51.80331","lon":"-1.26841","n":"Kidlington East","q":-40,"r":22},
+		"E05010933":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"51.81352","lon":"-1.30444","n":"Kidlington West","q":-41,"r":23},
+		"E05010934":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"51.86001","lon":"-1.22309","n":"Launton and Otmoor","q":-40,"r":23},
+		"E05011348":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"52.0201","lon":"-1.33906","n":"Adderbury, Bloxham and Bodicote","q":-41,"r":28},
+		"E05011349":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"52.04414","lon":"-1.31949","n":"Banbury Calthorpe and Easington","q":-42,"r":29},
+		"E05012968":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"51.87854","lon":"-1.13726","n":"Bicester South and Ambrosden","q":-39,"r":24},
+		"E05012969":{"LAD24CD":"E07000177","LAD24NM":"Cherwell","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#70E9C4","lat":"51.9392","lon":"-1.14763","n":"Fringford and Heyfords","q":-40,"r":27}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

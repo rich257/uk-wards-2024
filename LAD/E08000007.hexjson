@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"E05015014":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.37233","lon":"-2.16249","n":"Bramhall North","q":-65,"r":85},
+		"E05015015":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.34674","lon":"-2.16836","n":"Bramhall South & Woodford","q":-65,"r":84},
+		"E05015016":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.4265","lon":"-2.10453","n":"Bredbury & Woodley","q":-63,"r":88},
+		"E05015017":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.41294","lon":"-2.09269","n":"Bredbury Green & Romiley","q":-63,"r":87},
+		"E05015018":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.41741","lon":"-2.14638","n":"Brinnington & Stockport Central","q":-64,"r":88},
+		"E05015019":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.39341","lon":"-2.19486","n":"Cheadle East & Cheadle Hulme North","q":-65,"r":86},
+		"E05015020":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.36758","lon":"-2.19484","n":"Cheadle Hulme South","q":-66,"r":85},
+		"E05015021":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.39131","lon":"-2.22418","n":"Cheadle West & Gatley","q":-66,"r":86},
+		"E05015022":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.39253","lon":"-2.16267","n":"Davenport & Cale Green","q":-64,"r":86},
+		"E05015023":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.40247","lon":"-2.17596","n":"Edgeley","q":-65,"r":87},
+		"E05015024":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.3814","lon":"-2.11313","n":"Hazel Grove","q":-63,"r":85},
+		"E05015025":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.37086","lon":"-2.22116","n":"Heald Green","q":-67,"r":85},
+		"E05015026":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.42618","lon":"-2.18811","n":"Heatons North","q":-66,"r":89},
+		"E05015027":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.41338","lon":"-2.19183","n":"Heatons South","q":-65,"r":88},
+		"E05015028":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.40437","lon":"-2.13835","n":"Manor","q":-64,"r":87},
+		"E05015029":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.40482","lon":"-2.04541","n":"Marple North","q":-62,"r":86},
+		"E05015030":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.37666","lon":"-2.06422","n":"Marple South & High Lane","q":-62,"r":85},
+		"E05015031":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.37536","lon":"-2.13453","n":"Norbury & Woodsmoor","q":-64,"r":85},
+		"E05015032":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.39416","lon":"-2.13092","n":"Offerton","q":-63,"r":86},
+		"E05015033":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.44516","lon":"-2.15909","n":"Reddish North","q":-65,"r":90},
+		"E05015034":{"LAD24CD":"E08000007","LAD24NM":"Stockport","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#90DEC5","lat":"53.42478","lon":"-2.15917","n":"Reddish South","q":-65,"r":89}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

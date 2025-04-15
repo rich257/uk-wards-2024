@@ -1,0 +1,22 @@
+{
+	"hexes":{
+		"E05011201":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.88253","lon":"0.529676","n":"Ashdown","q":16,"r":-30},
+		"E05011202":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.8756","lon":"0.592944","n":"Baird","q":18,"r":-31},
+		"E05011203":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.86386","lon":"0.5743","n":"Braybrooke","q":18,"r":-32},
+		"E05011204":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.85925","lon":"0.584961","n":"Castle","q":17,"r":-33},
+		"E05011205":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.85382","lon":"0.562878","n":"Central St Leonards","q":16,"r":-33},
+		"E05011206":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.88128","lon":"0.569034","n":"Conquest","q":17,"r":-30},
+		"E05011207":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.86022","lon":"0.559207","n":"Gensing","q":17,"r":-32},
+		"E05011208":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.87694","lon":"0.539041","n":"Hollington","q":15,"r":-30},
+		"E05011209":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.85844","lon":"0.545141","n":"Maze Hill","q":16,"r":-32},
+		"E05011210":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.86208","lon":"0.602469","n":"Old Hastings","q":18,"r":-33},
+		"E05011211":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.8723","lon":"0.626507","n":"Ore","q":19,"r":-33},
+		"E05011212":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.87318","lon":"0.576477","n":"St Helens","q":17,"r":-31},
+		"E05011213":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.87055","lon":"0.560625","n":"Silverhill","q":16,"r":-31},
+		"E05011214":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.86716","lon":"0.598076","n":"Tressell","q":19,"r":-32},
+		"E05011215":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.85893","lon":"0.522914","n":"West St Leonards","q":15,"r":-33},
+		"E05011216":{"LAD24CD":"E07000062","LAD24NM":"Hastings","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#E5C050","lat":"50.87037","lon":"0.544568","n":"Wishing Tree","q":15,"r":-31}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

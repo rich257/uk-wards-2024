@@ -1,0 +1,32 @@
+{
+	"hexes":{
+		"E05012000":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.81023","lon":"-2.58566","n":"Alston & Hothersall","q":-75,"r":119},
+		"E05012001":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.80458","lon":"-2.4386","n":"Billington & Langho","q":-72,"r":118},
+		"E05012002":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.9986","lon":"-2.39796","n":"Bowland","q":-72,"r":122},
+		"E05012003":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.81755","lon":"-2.45584","n":"Brockhall & Dinckley","q":-73,"r":119},
+		"E05012004":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.87891","lon":"-2.31084","n":"Chatburn","q":-70,"r":122},
+		"E05012005":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.96054","lon":"-2.53244","n":"Chipping","q":-73,"r":122},
+		"E05012006":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.80384","lon":"-2.50478","n":"Clayton-le-Dale & Salesbury","q":-74,"r":119},
+		"E05012007":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.85547","lon":"-2.5617","n":"Derby & Thornley","q":-74,"r":121},
+		"E05012008":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.83796","lon":"-2.57138","n":"Dilworth","q":-74,"r":120},
+		"E05012009":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.8103","lon":"-2.3603","n":"East Whalley, Read & Simonstone","q":-70,"r":118},
+		"E05012010":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.86871","lon":"-2.41138","n":"Edisford & Low Moor","q":-71,"r":120},
+		"E05012011":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.9657","lon":"-2.26241","n":"Gisburn & Rimington","q":-72,"r":123},
+		"E05012012":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.8515","lon":"-2.49082","n":"Hurst Green & Whitewell","q":-73,"r":121},
+		"E05012013":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.86418","lon":"-2.38701","n":"Littlemoor","q":-69,"r":120},
+		"E05012014":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.78249","lon":"-2.54639","n":"Mellor","q":-74,"r":118},
+		"E05012015":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.86343","lon":"-2.40458","n":"Primrose","q":-70,"r":120},
+		"E05012016":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.82777","lon":"-2.54565","n":"Ribchester","q":-73,"r":120},
+		"E05012017":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.83715","lon":"-2.33652","n":"Sabden","q":-70,"r":119},
+		"E05012018":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.88193","lon":"-2.39029","n":"St Mary's","q":-72,"r":121},
+		"E05012019":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.8743","lon":"-2.3758","n":"Salthill","q":-71,"r":121},
+		"E05012020":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.87985","lon":"-2.4485","n":"Waddington, Bashall Eaves & Mitton","q":-72,"r":120},
+		"E05012021":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.93143","lon":"-2.3832","n":"West Bradford & Grindleton","q":-71,"r":122},
+		"E05012022":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.8213","lon":"-2.40736","n":"Whalley & Painter Wood","q":-71,"r":118},
+		"E05012023":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.82897","lon":"-2.42254","n":"Whalley Nethertown","q":-72,"r":119},
+		"E05012024":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.78646","lon":"-2.46439","n":"Wilpshire & Ramsgreave","q":-73,"r":118},
+		"E05012025":{"LAD24CD":"E07000124","LAD24NM":"Ribble Valley","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#F2AC91","lat":"53.84305","lon":"-2.38487","n":"Wiswell & Barrow","q":-71,"r":119}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

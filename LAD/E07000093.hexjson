@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05012085":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.21365","lon":"-1.44161","n":"Andover Downlands","q":-58,"r":-12},
+		"E05012088":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.22758","lon":"-1.44415","n":"Andover Romans","q":-59,"r":-12},
+		"E05012093":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.00027","lon":"-1.56426","n":"Blackwater","q":-61,"r":-17},
+		"E05012097":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.1752","lon":"-1.42052","n":"Harewood","q":-60,"r":-15},
+		"E05012098":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.088","lon":"-1.52417","n":"Mid Test","q":-60,"r":-16},
+		"E05012100":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"50.98459","lon":"-1.49998","n":"Romsey Abbey","q":-61,"r":-18},
+		"E05012102":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"50.98186","lon":"-1.47165","n":"Romsey Tadburn","q":-60,"r":-19},
+		"E05012927":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.02408","lon":"-1.46917","n":"Ampfield & Braishfield","q":-60,"r":-17},
+		"E05012928":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.21898","lon":"-1.4845","n":"Andover Harroway","q":-60,"r":-13},
+		"E05012929":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.20582","lon":"-1.5111","n":"Andover Millway","q":-60,"r":-14},
+		"E05012930":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.21015","lon":"-1.46945","n":"Andover St Mary's","q":-59,"r":-13},
+		"E05012931":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.20047","lon":"-1.47385","n":"Andover Winton","q":-59,"r":-14},
+		"E05012932":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.18473","lon":"-1.55431","n":"Anna","q":-61,"r":-15},
+		"E05012933":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.22012","lon":"-1.59983","n":"Bellinger","q":-61,"r":-14},
+		"E05012934":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.28057","lon":"-1.47978","n":"Bourne Valley","q":-60,"r":-12},
+		"E05012935":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.22956","lon":"-1.52845","n":"Charlton & the Pentons","q":-61,"r":-13},
+		"E05012936":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"50.95253","lon":"-1.4706","n":"Chilworth, Nursling & Rownhams","q":-61,"r":-19},
+		"E05012937":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"50.98381","lon":"-1.43305","n":"North Baddesley","q":-59,"r":-18},
+		"E05012938":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"51.004","lon":"-1.48126","n":"Romsey Cupernham","q":-60,"r":-18},
+		"E05012939":{"LAD24CD":"E07000093","LAD24NM":"Test Valley","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#14BE58","lat":"50.98488","lon":"-1.40243","n":"Valley Park","q":-58,"r":-18}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

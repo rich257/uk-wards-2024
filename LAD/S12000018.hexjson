@@ -1,0 +1,13 @@
+{
+	"hexes":{
+		"S13003011":{"LAD24CD":"S12000018","LAD24NM":"Inverclyde","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#75ED42","lat":"55.8851","lon":"-4.6937","n":"Inverclyde East","q":-105,"r":177},
+		"S13003012":{"LAD24CD":"S12000018","LAD24NM":"Inverclyde","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#75ED42","lat":"55.93178","lon":"-4.68757","n":"Inverclyde East Central","q":-104,"r":178},
+		"S13003013":{"LAD24CD":"S12000018","LAD24NM":"Inverclyde","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#75ED42","lat":"55.92821","lon":"-4.752","n":"Inverclyde Central","q":-105,"r":178},
+		"S13003014":{"LAD24CD":"S12000018","LAD24NM":"Inverclyde","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#75ED42","lat":"55.95341","lon":"-4.77601","n":"Inverclyde North","q":-106,"r":179},
+		"S13003015":{"LAD24CD":"S12000018","LAD24NM":"Inverclyde","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#75ED42","lat":"55.94546","lon":"-4.8542","n":"Inverclyde West","q":-107,"r":179},
+		"S13003016":{"LAD24CD":"S12000018","LAD24NM":"Inverclyde","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#75ED42","lat":"55.91476","lon":"-4.83509","n":"Inverclyde South West","q":-107,"r":178},
+		"S13003017":{"LAD24CD":"S12000018","LAD24NM":"Inverclyde","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#75ED42","lat":"55.94352","lon":"-4.79123","n":"Inverclyde South","q":-106,"r":178}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

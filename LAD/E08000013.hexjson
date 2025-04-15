@@ -1,0 +1,24 @@
+{
+	"hexes":{
+		"E05014120":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.49419","lon":"-2.69757","n":"Billinge & Seneley Green","q":-88,"r":101},
+		"E05014121":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.46472","lon":"-2.69963","n":"Blackbrook","q":-88,"r":99},
+		"E05014122":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.41319","lon":"-2.70571","n":"Bold & Lea Green","q":-88,"r":96},
+		"E05014123":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.44922","lon":"-2.78581","n":"Eccleston","q":-91,"r":99},
+		"E05014124":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.47278","lon":"-2.65201","n":"Haydock","q":-87,"r":99},
+		"E05014125":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.47646","lon":"-2.72856","n":"Moss Bank","q":-88,"r":100},
+		"E05014126":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.45098","lon":"-2.60936","n":"Newton-le-Willows East","q":-85,"r":98},
+		"E05014127":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.45552","lon":"-2.64998","n":"Newton-le-Willows West","q":-86,"r":98},
+		"E05014128":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.44759","lon":"-2.69761","n":"Parr","q":-87,"r":98},
+		"E05014129":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.44694","lon":"-2.72482","n":"Peasley Cross & Fingerpost","q":-88,"r":98},
+		"E05014130":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.50041","lon":"-2.77902","n":"Rainford","q":-89,"r":101},
+		"E05014131":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.41341","lon":"-2.76401","n":"Rainhill","q":-89,"r":96},
+		"E05014132":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.45196","lon":"-2.74174","n":"St Helens Town Centre","q":-89,"r":99},
+		"E05014133":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.4343","lon":"-2.71348","n":"Sutton North West","q":-89,"r":97},
+		"E05014134":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.42408","lon":"-2.70875","n":"Sutton South East","q":-88,"r":97},
+		"E05014135":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.43516","lon":"-2.74604","n":"Thatto Heath","q":-89,"r":98},
+		"E05014136":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.44755","lon":"-2.76081","n":"West Park","q":-90,"r":99},
+		"E05014137":{"LAD24CD":"E08000013","LAD24NM":"St. Helens","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#88D2AC","lat":"53.46778","lon":"-2.76086","n":"Windle","q":-89,"r":100}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

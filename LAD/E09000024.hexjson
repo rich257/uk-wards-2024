@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05013810":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.41472","lon":"-0.19221","n":"Abbey","q":-17,"r":-13},
+		"E05013811":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.40159","lon":"-0.21449","n":"Cannon Hill","q":-18,"r":-14},
+		"E05013812":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.41802","lon":"-0.17155","n":"Colliers Wood","q":-16,"r":-13},
+		"E05013813":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.39605","lon":"-0.16068","n":"Cricket Green","q":-16,"r":-15},
+		"E05013814":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.41002","lon":"-0.16043","n":"Figge's Marsh","q":-15,"r":-14},
+		"E05013815":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.41595","lon":"-0.15277","n":"Graveney","q":-15,"r":-13},
+		"E05013816":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.42008","lon":"-0.21539","n":"Hillside","q":-18,"r":-12},
+		"E05013817":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.41073","lon":"-0.17562","n":"Lavender Fields","q":-16,"r":-14},
+		"E05013818":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.40847","lon":"-0.14141","n":"Longthornton","q":-14,"r":-14},
+		"E05013819":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.38839","lon":"-0.22194","n":"Lower Morden","q":-19,"r":-15},
+		"E05013820":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.40563","lon":"-0.20057","n":"Merton Park","q":-17,"r":-14},
+		"E05013821":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.39806","lon":"-0.14162","n":"Pollards Hill","q":-15,"r":-15},
+		"E05013822":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.39553","lon":"-0.17801","n":"Ravensbury","q":-17,"r":-15},
+		"E05013823":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.40918","lon":"-0.23106","n":"Raynes Park","q":-19,"r":-13},
+		"E05013824":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.39463","lon":"-0.19472","n":"St Helier","q":-18,"r":-15},
+		"E05013825":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.42555","lon":"-0.23188","n":"Village","q":-19,"r":-12},
+		"E05013826":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.42139","lon":"-0.18443","n":"Wandle","q":-17,"r":-12},
+		"E05013827":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.39819","lon":"-0.23515","n":"West Barnes","q":-19,"r":-14},
+		"E05013828":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.43204","lon":"-0.20124","n":"Wimbledon Park","q":-18,"r":-11},
+		"E05013829":{"LAD24CD":"E09000024","LAD24NM":"Merton","RGN24CD":"E12000007","RGN24NM":"London","colour":"#0BC3CC","lat":"51.41837","lon":"-0.20349","n":"Wimbledon Town & Dundonald","q":-18,"r":-13}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

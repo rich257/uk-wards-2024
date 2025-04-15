@@ -1,0 +1,22 @@
+{
+	"hexes":{
+		"E05012177":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.67871","lon":"-0.30914","n":"Aldenham East","q":-13,"r":22},
+		"E05012178":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.67347","lon":"-0.34023","n":"Aldenham West","q":-14,"r":21},
+		"E05012179":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.67903","lon":"-0.19065","n":"Bentley Heath & The Royds","q":-11,"r":22},
+		"E05012180":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.6642","lon":"-0.28521","n":"Borehamwood Brookmeadow","q":-13,"r":21},
+		"E05012181":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.66922","lon":"-0.27866","n":"Borehamwood Cowley Hill","q":-12,"r":21},
+		"E05012182":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.65015","lon":"-0.26963","n":"Borehamwood Hillside","q":-12,"r":20},
+		"E05012183":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.65885","lon":"-0.25572","n":"Borehamwood Kenilworth","q":-11,"r":20},
+		"E05012184":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.63482","lon":"-0.3422","n":"Bushey Heath","q":-14,"r":19},
+		"E05012185":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.66392","lon":"-0.37481","n":"Bushey North","q":-15,"r":22},
+		"E05012186":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.64139","lon":"-0.34763","n":"Bushey Park","q":-14,"r":20},
+		"E05012187":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.65372","lon":"-0.3612","n":"Bushey St James","q":-15,"r":21},
+		"E05012188":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.64932","lon":"-0.29501","n":"Elstree","q":-13,"r":20},
+		"E05012189":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.7006","lon":"-0.20708","n":"Potters Bar Furzefield","q":-12,"r":23},
+		"E05012190":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.69491","lon":"-0.17173","n":"Potters Bar Oakmere","q":-10,"r":22},
+		"E05012191":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.70104","lon":"-0.18588","n":"Potters Bar Parkfield","q":-11,"r":23},
+		"E05012192":{"LAD24CD":"E07000098","LAD24NM":"Hertsmere","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#C22939","lat":"51.696","lon":"-0.25054","n":"Shenley","q":-12,"r":22}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

@@ -1,0 +1,23 @@
+{
+	"hexes":{
+		"E05014912":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.43366","lon":"0.412331","n":"Chalk","q":19,"r":-4},
+		"E05014913":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.43241","lon":"0.351004","n":"Coldharbour & Perry Street","q":15,"r":-5},
+		"E05014914":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.43784","lon":"0.394407","n":"Denton","q":18,"r":-4},
+		"E05014915":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.42434","lon":"0.439762","n":"Higham & Shorne","q":19,"r":-5},
+		"E05014916":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.38387","lon":"0.39245","n":"Istead Rise, Cobham & Luddesdown","q":16,"r":-7},
+		"E05014917":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.37788","lon":"0.358151","n":"Meopham North","q":16,"r":-8},
+		"E05014918":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.34929","lon":"0.366477","n":"Meopham South & Vigo","q":17,"r":-8},
+		"E05014919":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.43884","lon":"0.329073","n":"Northfleet & Springhead","q":15,"r":-4},
+		"E05014920":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.42473","lon":"0.34369","n":"Painters Ash","q":16,"r":-6},
+		"E05014921":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.43798","lon":"0.3627","n":"Pelham","q":16,"r":-5},
+		"E05014922":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.4201","lon":"0.399276","n":"Riverview Park","q":19,"r":-6},
+		"E05014923":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.44175","lon":"0.349512","n":"Rosherville","q":16,"r":-4},
+		"E05014924":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.4157","lon":"0.380435","n":"Singlewell","q":18,"r":-6},
+		"E05014925":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.4398","lon":"0.376148","n":"Town","q":17,"r":-4},
+		"E05014926":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.42643","lon":"0.392271","n":"Westcourt","q":18,"r":-5},
+		"E05014927":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.42797","lon":"0.377821","n":"Whitehill & Windmill Hill","q":17,"r":-5},
+		"E05014928":{"LAD24CD":"E07000109","LAD24NM":"Gravesham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A902AC","lat":"51.42387","lon":"0.366791","n":"Woodlands","q":17,"r":-6}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

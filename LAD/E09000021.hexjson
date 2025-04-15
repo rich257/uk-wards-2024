@@ -1,0 +1,25 @@
+{
+	"hexes":{
+		"E05013928":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.38788","lon":"-0.27809","n":"Alexandra","q":-23,"r":-10},
+		"E05013929":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.39261","lon":"-0.28629","n":"Berrylands","q":-24,"r":-9},
+		"E05013930":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.41758","lon":"-0.30084","n":"Canbury Gardens","q":-24,"r":-6},
+		"E05013931":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.34848","lon":"-0.3081","n":"Chessington South & Malden Rushett","q":-24,"r":-13},
+		"E05013932":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.4233","lon":"-0.26729","n":"Coombe Hill","q":-22,"r":-6},
+		"E05013933":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.40956","lon":"-0.26913","n":"Coombe Vale","q":-23,"r":-7},
+		"E05013934":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.39549","lon":"-0.26607","n":"Green Lane & St James","q":-23,"r":-9},
+		"E05013935":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.3691","lon":"-0.30639","n":"Hook & Chessington North","q":-23,"r":-12},
+		"E05013936":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.37064","lon":"-0.28386","n":"King George's & Sunray","q":-23,"r":-11},
+		"E05013937":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.41787","lon":"-0.28985","n":"Kingston Gate","q":-23,"r":-6},
+		"E05013938":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.40659","lon":"-0.29937","n":"Kingston Town","q":-24,"r":-7},
+		"E05013939":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.38891","lon":"-0.24853","n":"Motspur Park & Old Malden East","q":-22,"r":-9},
+		"E05013940":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.40324","lon":"-0.2564","n":"New Malden Village","q":-22,"r":-8},
+		"E05013941":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.40698","lon":"-0.2846","n":"Norbiton","q":-23,"r":-8},
+		"E05013942":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.38223","lon":"-0.25729","n":"Old Malden","q":-22,"r":-10},
+		"E05013943":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.39568","lon":"-0.30547","n":"St Mark's & Seething Wells","q":-24,"r":-8},
+		"E05013944":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.38588","lon":"-0.30229","n":"Surbiton Hill","q":-24,"r":-10},
+		"E05013945":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.37919","lon":"-0.29134","n":"Tolworth","q":-24,"r":-11},
+		"E05013946":{"LAD24CD":"E09000021","LAD24NM":"Kingston upon Thames","RGN24CD":"E12000007","RGN24NM":"London","colour":"#A33582","lat":"51.4258","lon":"-0.30109","n":"Tudor","q":-24,"r":-5}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

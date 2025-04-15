@@ -1,0 +1,28 @@
+{
+	"hexes":{
+		"E05011234":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.59096","lon":"0.110292","n":"Aldborough","q":4,"r":18},
+		"E05011235":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.58206","lon":"0.070388","n":"Barkingside","q":3,"r":18},
+		"E05011236":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.60797","lon":"0.048213","n":"Bridge","q":3,"r":20},
+		"E05011237":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.57456","lon":"0.1233","n":"Chadwell","q":6,"r":17},
+		"E05011238":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.60125","lon":"0.028633","n":"Churchfields","q":2,"r":20},
+		"E05011239":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.58383","lon":"0.053421","n":"Clayhall","q":2,"r":18},
+		"E05011240":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.55478","lon":"0.079434","n":"Clementswood","q":3,"r":15},
+		"E05011241":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.56982","lon":"0.05657","n":"Cranbrook","q":2,"r":17},
+		"E05011242":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.59877","lon":"0.089168","n":"Fairlop","q":3,"r":19},
+		"E05011243":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.59376","lon":"0.06116","n":"Fullwell","q":2,"r":19},
+		"E05011244":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.55967","lon":"0.110315","n":"Goodmayes","q":5,"r":16},
+		"E05011245":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.61041","lon":"0.121435","n":"Hainault","q":4,"r":19},
+		"E05011246":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.56141","lon":"0.080949","n":"Ilford Town","q":4,"r":16},
+		"E05011247":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.54723","lon":"0.077028","n":"Loxford","q":3,"r":16},
+		"E05011248":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.55393","lon":"0.09724","n":"Mayfield","q":4,"r":15},
+		"E05011249":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.61723","lon":"0.024737","n":"Monkhams","q":2,"r":21},
+		"E05011250":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.5729","lon":"0.088501","n":"Newbury","q":4,"r":17},
+		"E05011251":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.57005","lon":"0.106683","n":"Seven Kings","q":5,"r":17},
+		"E05011252":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.58997","lon":"0.025618","n":"South Woodford","q":1,"r":19},
+		"E05011253":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.56872","lon":"0.069349","n":"Valentines","q":3,"r":17},
+		"E05011254":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.56557","lon":"0.036366","n":"Wanstead Park","q":1,"r":17},
+		"E05011255":{"LAD24CD":"E09000026","LAD24NM":"Redbridge","RGN24CD":"E12000007","RGN24NM":"London","colour":"#FD7213","lat":"51.57816","lon":"0.029928","n":"Wanstead Village","q":1,"r":18}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

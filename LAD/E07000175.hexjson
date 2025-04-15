@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"E05010064":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.05088","lon":"-0.78931","n":"Balderton South","q":-27,"r":71},
+		"E05010066":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.13509","lon":"-1.03309","n":"Bilsthorpe","q":-29,"r":74},
+		"E05010067":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.21837","lon":"-0.97683","n":"Boughton","q":-29,"r":76},
+		"E05010068":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.08708","lon":"-0.79265","n":"Bridge","q":-27,"r":73},
+		"E05010070":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.13471","lon":"-0.73872","n":"Collingham","q":-26,"r":74},
+		"E05010071":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.06569","lon":"-0.8149","n":"Devon","q":-27,"r":72},
+		"E05010072":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.03822","lon":"-1.00684","n":"Dover Beck","q":-29,"r":72},
+		"E05010073":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.18409","lon":"-1.08839","n":"Edwinstowe & Clipstone","q":-31,"r":75},
+		"E05010075":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.10071","lon":"-1.05211","n":"Farnsfield","q":-30,"r":73},
+		"E05010076":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.0078","lon":"-1.02145","n":"Lowdham","q":-30,"r":71},
+		"E05010077":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.12798","lon":"-0.86247","n":"Muskham","q":-28,"r":74},
+		"E05010078":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.22242","lon":"-1.05045","n":"Ollerton","q":-30,"r":75},
+		"E05010079":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.15774","lon":"-1.0212","n":"Rainworth North & Rufford","q":-30,"r":74},
+		"E05010080":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.1037","lon":"-1.13052","n":"Rainworth South & Blidworth","q":-31,"r":73},
+		"E05010081":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.09255","lon":"-0.97851","n":"Southwell","q":-29,"r":73},
+		"E05010082":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.17523","lon":"-0.88339","n":"Sutton-on-Trent","q":-29,"r":75},
+		"E05010083":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.08176","lon":"-0.89092","n":"Trent","q":-28,"r":72},
+		"E05011552":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.0716","lon":"-0.73305","n":"Balderton North & Coddington","q":-26,"r":73},
+		"E05011553":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.0706","lon":"-0.7905","n":"Beacon","q":-26,"r":72},
+		"E05011554":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.08107","lon":"-0.82075","n":"Castle","q":-28,"r":73},
+		"E05011555":{"LAD24CD":"E07000175","LAD24NM":"Newark and Sherwood","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#34ACCA","lat":"53.01608","lon":"-0.84514","n":"Farndon & Fernwood","q":-28,"r":71}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

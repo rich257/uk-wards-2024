@@ -1,0 +1,16 @@
+{
+	"hexes":{
+		"E05015817":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.71609","lon":"-2.19341","n":"Bacup","q":-66,"r":109},
+		"E05015818":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.68828","lon":"-2.20351","n":"Britannia & Lee Mill","q":-66,"r":108},
+		"E05015819":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.72589","lon":"-2.28449","n":"Goodshaw & Cribden","q":-68,"r":109},
+		"E05015820":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.65461","lon":"-2.28412","n":"Greenfield & Eden","q":-68,"r":107},
+		"E05015821":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.6926","lon":"-2.26107","n":"Hareholme & Waterfoot","q":-67,"r":108},
+		"E05015822":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.72194","lon":"-2.32788","n":"Haslingden","q":-69,"r":109},
+		"E05015823":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.68411","lon":"-2.36467","n":"Helmshore","q":-69,"r":108},
+		"E05015824":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.69571","lon":"-2.29398","n":"Longholme","q":-68,"r":108},
+		"E05015825":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.72108","lon":"-2.24147","n":"Whitewell & Stacksteads","q":-67,"r":109},
+		"E05015826":{"LAD24CD":"E07000125","LAD24NM":"Rossendale","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#8cc6ff","lat":"53.66759","lon":"-2.18139","n":"Whitworth","q":-66,"r":107}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

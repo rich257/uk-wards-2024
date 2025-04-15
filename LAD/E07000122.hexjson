@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"E05013201":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.86525","lon":"-2.25627","n":"Barrowford & Pendleside","q":-66,"r":121},
+		"E05013202":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.8495","lon":"-2.12216","n":"Boulsworth & Foulridge","q":-63,"r":120},
+		"E05013203":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.84294","lon":"-2.20477","n":"Bradley","q":-65,"r":120},
+		"E05013204":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.82239","lon":"-2.20992","n":"Brierfield East & Clover Hill","q":-65,"r":118},
+		"E05013205":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.8221","lon":"-2.25085","n":"Brierfield West & Reedley","q":-66,"r":118},
+		"E05013207":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.82646","lon":"-2.29184","n":"Fence & Higham","q":-67,"r":119},
+		"E05013208":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.83275","lon":"-2.17647","n":"Marsden & Southfield","q":-64,"r":119},
+		"E05013209":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.86417","lon":"-2.18302","n":"Vivary Bridge","q":-64,"r":120},
+		"E05013210":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.85206","lon":"-2.17657","n":"Waterside & Horsfield","q":-65,"r":119},
+		"E05013211":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.83257","lon":"-2.21724","n":"Whitefield & Walverden","q":-66,"r":119},
+		"E05015546":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.91587","lon":"-2.20991","n":"Barnoldswick","q":-65,"r":121},
+		"E05015547":{"LAD24CD":"E07000122","LAD24NM":"Pendle","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#D2EFD6","lat":"53.90635","lon":"-2.15467","n":"Earby & Coates","q":-64,"r":121}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

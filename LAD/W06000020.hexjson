@@ -1,0 +1,24 @@
+{
+	"hexes":{
+		"W05001361":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.73766","lon":"-3.06831","n":"Abersychan","q":-95,"r":18},
+		"W05001362":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.77662","lon":"-3.09091","n":"Blaenavon","q":-96,"r":19},
+		"W05001363":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.63973","lon":"-3.04673","n":"Coed Eva","q":-95,"r":13},
+		"W05001364":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.66183","lon":"-3.00218","n":"Croesyceiliog","q":-93,"r":14},
+		"W05001365":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.64688","lon":"-3.05598","n":"Fairwater","q":-95,"r":14},
+		"W05001366":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.65918","lon":"-3.06532","n":"Greenmeadow","q":-96,"r":15},
+		"W05001367":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.64248","lon":"-2.98097","n":"Llanfrechfa and Ponthir","q":-93,"r":12},
+		"W05001368":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.63069","lon":"-3.00648","n":"Llantarnam","q":-94,"r":12},
+		"W05001369":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.64618","lon":"-3.00586","n":"Llanyrafon","q":-94,"r":13},
+		"W05001370":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.70819","lon":"-2.99869","n":"New Inn","q":-94,"r":17},
+		"W05001371":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.68382","lon":"-3.02774","n":"Panteg","q":-94,"r":16},
+		"W05001372":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.66516","lon":"-3.02496","n":"Pontnewydd","q":-94,"r":15},
+		"W05001373":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.71199","lon":"-3.09306","n":"Pontnewynydd and Snatchwood","q":-96,"r":17},
+		"W05001374":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.69227","lon":"-3.07189","n":"Pontypool Fawr","q":-95,"r":16},
+		"W05001375":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.65086","lon":"-3.03432","n":"St. Dials","q":-94,"r":14},
+		"W05001376":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.71768","lon":"-3.04001","n":"Trevethin and Penygarn","q":-95,"r":17},
+		"W05001377":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.63334","lon":"-3.06695","n":"Two Locks","q":-95,"r":12},
+		"W05001378":{"LAD24CD":"W06000020","LAD24NM":"Torfaen","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#FDE356","lat":"51.66468","lon":"-3.04937","n":"Upper Cwmbran","q":-95,"r":15}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

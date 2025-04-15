@@ -1,0 +1,16 @@
+{
+	"hexes":{
+		"E05010795":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.33847","lon":"-0.49007","n":"Byfleet and West Byfleet","q":-35,"r":-10},
+		"E05010796":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.32801","lon":"-0.5376","n":"Canalside","q":-37,"r":-10},
+		"E05010797":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.32075","lon":"-0.5921","n":"Goldsworth Park","q":-39,"r":-9},
+		"E05010798":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.28994","lon":"-0.58658","n":"Heathlands","q":-38,"r":-11},
+		"E05010799":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.30226","lon":"-0.54651","n":"Hoe Valley","q":-37,"r":-12},
+		"E05010800":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.33287","lon":"-0.57207","n":"Horsell","q":-38,"r":-9},
+		"E05010801":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.32448","lon":"-0.61258","n":"Knaphill","q":-39,"r":-10},
+		"E05010802":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.31582","lon":"-0.54112","n":"Mount Hermon","q":-37,"r":-11},
+		"E05010803":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.32261","lon":"-0.51151","n":"Pyrford","q":-36,"r":-10},
+		"E05010804":{"LAD24CD":"E07000217","LAD24NM":"Woking","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#F8A26C","lat":"51.31204","lon":"-0.5943","n":"St John's","q":-38,"r":-10}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

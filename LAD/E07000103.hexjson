@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"E05011046":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.67151","lon":"-0.39812","n":"Callowland","q":-19,"r":20},
+		"E05011047":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.65445","lon":"-0.39367","n":"Central","q":-19,"r":19},
+		"E05011048":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.64657","lon":"-0.41581","n":"Holywell","q":-20,"r":18},
+		"E05011049":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.6782","lon":"-0.40511","n":"Leggatts","q":-20,"r":21},
+		"E05011050":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.68649","lon":"-0.38063","n":"Meriden","q":-19,"r":21},
+		"E05011051":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.67456","lon":"-0.4144","n":"Nascot","q":-20,"r":20},
+		"E05011052":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.64306","lon":"-0.38749","n":"Oxhey","q":-19,"r":18},
+		"E05011053":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.66402","lon":"-0.42085","n":"Park","q":-21,"r":19},
+		"E05011054":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.68775","lon":"-0.39819","n":"Stanborough","q":-19,"r":22},
+		"E05011055":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.67199","lon":"-0.38582","n":"Tudor","q":-18,"r":20},
+		"E05011056":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.65225","lon":"-0.40464","n":"Vicarage","q":-20,"r":19},
+		"E05011057":{"LAD24CD":"E07000103","LAD24NM":"Watford","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D523F4","lat":"51.69238","lon":"-0.39888","n":"Woodside","q":-20,"r":23}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

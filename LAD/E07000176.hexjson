@@ -1,0 +1,30 @@
+{
+	"hexes":{
+		"E05014965":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.92481","lon":"-1.11931","n":"Abbey","q":-35,"r":63},
+		"E05014966":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.97268","lon":"-0.93006","n":"Bingham North","q":-31,"r":64},
+		"E05014967":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.94115","lon":"-0.95082","n":"Bingham South","q":-32,"r":63},
+		"E05014968":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.846","lon":"-1.11711","n":"Bunny","q":-36,"r":61},
+		"E05014969":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.92493","lon":"-1.1473","n":"Compton Acres","q":-36,"r":64},
+		"E05014970":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.90703","lon":"-1.04306","n":"Cotgrave","q":-33,"r":62},
+		"E05014971":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.93908","lon":"-0.87306","n":"Cranmer","q":-31,"r":63},
+		"E05014972":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.90664","lon":"-0.9953","n":"Cropwell","q":-32,"r":62},
+		"E05014973":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"53.00069","lon":"-0.86487","n":"East Bridgford","q":-30,"r":64},
+		"E05014974":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.91095","lon":"-1.12048","n":"Edwalton","q":-35,"r":62},
+		"E05014975":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.93515","lon":"-1.08503","n":"Gamston","q":-34,"r":63},
+		"E05014976":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.86949","lon":"-1.21993","n":"Gotham","q":-37,"r":61},
+		"E05014977":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.86581","lon":"-1.06827","n":"Keyworth & Wolds","q":-35,"r":61},
+		"E05014978":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.93694","lon":"-1.12123","n":"Lady Bay","q":-34,"r":64},
+		"E05014979":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.83714","lon":"-1.19721","n":"Leake","q":-36,"r":60},
+		"E05014980":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.91413","lon":"-1.14174","n":"Lutterell","q":-37,"r":63},
+		"E05014981":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.92047","lon":"-1.1322","n":"Musters","q":-36,"r":63},
+		"E05014982":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.87636","lon":"-0.95572","n":"Nevile & Langar","q":-32,"r":61},
+		"E05014983":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.96404","lon":"-0.99876","n":"Newton","q":-32,"r":64},
+		"E05014984":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.94511","lon":"-1.03371","n":"Radcliffe on Trent","q":-33,"r":63},
+		"E05014985":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.8887","lon":"-1.14655","n":"Ruddington","q":-36,"r":62},
+		"E05014986":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.8148","lon":"-1.22275","n":"Soar Valley","q":-37,"r":60},
+		"E05014987":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.91107","lon":"-1.09298","n":"Tollerton","q":-34,"r":62},
+		"E05014988":{"LAD24CD":"E07000176","LAD24NM":"Rushcliffe","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2255E7","lat":"52.93585","lon":"-1.13121","n":"Trent Bridge","q":-35,"r":64}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

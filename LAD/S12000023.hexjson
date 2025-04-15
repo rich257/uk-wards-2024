@@ -1,0 +1,12 @@
+{
+	"hexes":{
+		"S13002734":{"LAD24CD":"S12000023","LAD24NM":"Orkney Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#94635B","lat":"58.84216","lon":"-3.28305","n":"Stromness and South Isles","q":-92,"r":229},
+		"S13002735":{"LAD24CD":"S12000023","LAD24NM":"Orkney Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#94635B","lat":"59.04467","lon":"-3.18391","n":"West Mainland","q":-91,"r":230},
+		"S13002737":{"LAD24CD":"S12000023","LAD24NM":"Orkney Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#94635B","lat":"59.24844","lon":"-2.58319","n":"North Isles","q":-90,"r":231},
+		"S13003150":{"LAD24CD":"S12000023","LAD24NM":"Orkney Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#94635B","lat":"58.93246","lon":"-2.87151","n":"East Mainland, South Ronaldsay and Burray","q":-89,"r":228},
+		"S13003151":{"LAD24CD":"S12000023","LAD24NM":"Orkney Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#94635B","lat":"58.9737","lon":"-2.92805","n":"Kirkwall East","q":-90,"r":229},
+		"S13003152":{"LAD24CD":"S12000023","LAD24NM":"Orkney Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#94635B","lat":"58.9614","lon":"-3.06939","n":"Kirkwall West and Orphir","q":-91,"r":229}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

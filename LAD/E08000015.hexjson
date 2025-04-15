@@ -1,0 +1,28 @@
+{
+	"hexes":{
+		"E05000954":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.35205","lon":"-3.02587","n":"Bebington","q":-96,"r":79},
+		"E05000955":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.4012","lon":"-3.05609","n":"Bidston and St James","q":-96,"r":82},
+		"E05000956":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.38681","lon":"-3.02213","n":"Birkenhead and Tranmere","q":-95,"r":81},
+		"E05000957":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.34409","lon":"-2.98203","n":"Bromborough","q":-94,"r":79},
+		"E05000958":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.32885","lon":"-3.03154","n":"Clatterbridge","q":-95,"r":78},
+		"E05000959":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.38667","lon":"-3.06994","n":"Claughton","q":-96,"r":81},
+		"E05000960":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.31832","lon":"-2.95839","n":"Eastham","q":-94,"r":78},
+		"E05000961":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.36795","lon":"-3.12413","n":"Greasby, Frankby and Irby","q":-97,"r":80},
+		"E05000962":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.32641","lon":"-3.10693","n":"Heswall","q":-96,"r":78},
+		"E05000963":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.39023","lon":"-3.16098","n":"Hoylake and Meols","q":-98,"r":80},
+		"E05000964":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.40989","lon":"-3.09611","n":"Leasowe and Moreton East","q":-97,"r":82},
+		"E05000965":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.41985","lon":"-3.03937","n":"Liscard","q":-96,"r":83},
+		"E05000966":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.40021","lon":"-3.12428","n":"Moreton West and Saughall Massie","q":-98,"r":81},
+		"E05000967":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.43349","lon":"-3.04502","n":"New Brighton","q":-96,"r":84},
+		"E05000968":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.37966","lon":"-3.04838","n":"Oxton","q":-95,"r":80},
+		"E05000969":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.35511","lon":"-3.09621","n":"Pensby and Thingwall","q":-96,"r":80},
+		"E05000970":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.36969","lon":"-3.04926","n":"Prenton","q":-95,"r":79},
+		"E05000971":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.37395","lon":"-3.0132","n":"Rock Ferry","q":-94,"r":80},
+		"E05000972":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.41034","lon":"-3.03551","n":"Seacombe","q":-95,"r":82},
+		"E05000973":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.38312","lon":"-3.09186","n":"Upton","q":-97,"r":81},
+		"E05000974":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.42703","lon":"-3.07047","n":"Wallasey","q":-97,"r":83},
+		"E05000975":{"LAD24CD":"E08000015","LAD24NM":"Wirral","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#FF0315","lat":"53.36418","lon":"-3.15534","n":"West Kirby and Thurstaston","q":-97,"r":79}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

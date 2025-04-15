@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"E05013564":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.52371","lon":"-0.4096","n":"Belmore","q":-29,"r":9},
+		"E05013565":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.53221","lon":"-0.42692","n":"Charville","q":-29,"r":10},
+		"E05013566":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.52585","lon":"-0.46551","n":"Colham & Cowley","q":-30,"r":10},
+		"E05013567":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.57794","lon":"-0.40238","n":"Eastcote","q":-29,"r":13},
+		"E05013568":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.61019","lon":"-0.47548","n":"Harefield Village","q":-31,"r":15},
+		"E05013569":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.51002","lon":"-0.42703","n":"Hayes Town","q":-30,"r":8},
+		"E05013570":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.47805","lon":"-0.45969","n":"Heathrow Villages","q":-32,"r":7},
+		"E05013571":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.54067","lon":"-0.43883","n":"Hillingdon East","q":-30,"r":11},
+		"E05013572":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.54088","lon":"-0.46454","n":"Hillingdon West","q":-31,"r":11},
+		"E05013573":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.56915","lon":"-0.4601","n":"Ickenham & South Harefield","q":-30,"r":12},
+		"E05013574":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.60529","lon":"-0.4372","n":"Northwood","q":-30,"r":15},
+		"E05013575":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.60199","lon":"-0.40812","n":"Northwood Hills","q":-29,"r":14},
+		"E05013576":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.49921","lon":"-0.43115","n":"Pinkwell","q":-31,"r":7},
+		"E05013577":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.58564","lon":"-0.43633","n":"Ruislip","q":-30,"r":14},
+		"E05013578":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.56809","lon":"-0.41656","n":"Ruislip Manor","q":-30,"r":13},
+		"E05013579":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.55557","lon":"-0.40446","n":"South Ruislip","q":-29,"r":12},
+		"E05013580":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.55118","lon":"-0.47624","n":"Uxbridge","q":-31,"r":12},
+		"E05013581":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.50212","lon":"-0.47647","n":"West Drayton","q":-31,"r":8},
+		"E05013582":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.51437","lon":"-0.40528","n":"Wood End","q":-30,"r":9},
+		"E05013583":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.52577","lon":"-0.38866","n":"Yeading","q":-28,"r":10},
+		"E05013584":{"LAD24CD":"E09000017","LAD24NM":"Hillingdon","RGN24CD":"E12000007","RGN24NM":"London","colour":"#82379D","lat":"51.51518","lon":"-0.47107","n":"Yiewsley","q":-31,"r":9}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

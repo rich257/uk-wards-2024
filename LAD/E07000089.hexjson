@@ -1,0 +1,17 @@
+{
+	"hexes":{
+		"E05009352":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.31992","lon":"-0.80293","n":"Blackwater and Hawley","q":-45,"r":-12},
+		"E05009353":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.26677","lon":"-0.82591","n":"Crookham East","q":-46,"r":-15},
+		"E05009354":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.25318","lon":"-0.83941","n":"Crookham West and Ewshot","q":-47,"r":-15},
+		"E05009355":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.27564","lon":"-0.84458","n":"Fleet Central","q":-46,"r":-14},
+		"E05009356":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.28786","lon":"-0.8138","n":"Fleet East","q":-46,"r":-13},
+		"E05009357":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.28699","lon":"-0.8552","n":"Fleet West","q":-47,"r":-13},
+		"E05009358":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.31443","lon":"-0.91083","n":"Hartley Wintney","q":-47,"r":-12},
+		"E05009359":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.29077","lon":"-0.96379","n":"Hook","q":-48,"r":-13},
+		"E05009360":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.23191","lon":"-0.90874","n":"Odiham","q":-47,"r":-14},
+		"E05009361":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.3382","lon":"-0.8133","n":"Yateley East","q":-46,"r":-11},
+		"E05009362":{"LAD24CD":"E07000089","LAD24NM":"Hart","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#88E509","lat":"51.33555","lon":"-0.84097","n":"Yateley West","q":-46,"r":-12}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

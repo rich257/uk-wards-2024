@@ -1,0 +1,31 @@
+{
+	"hexes":{
+		"E05015754":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"52.03484","lon":"-0.16984","n":"Arbury","q":-8,"r":40},
+		"E05015755":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.99442","lon":"-0.17624","n":"Baldock East ","q":-8,"r":39},
+		"E05015756":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.98243","lon":"-0.18725","n":"Baldock West","q":-9,"r":39},
+		"E05015757":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.98087","lon":"-0.282","n":"Cadwell ","q":-12,"r":40},
+		"E05015758":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.85406","lon":"-0.30391","n":"Codicote & Kimpton","q":-13,"r":35},
+		"E05015759":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"52.01699","lon":"-0.03084","n":"Ermine","q":-7,"r":38},
+		"E05015760":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.92676","lon":"-0.23603","n":"Graveley, St Ippolyts & Wymondley","q":-11,"r":37},
+		"E05015761":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.9279","lon":"-0.1636","n":"Great Ashby","q":-10,"r":36},
+		"E05015762":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.96156","lon":"-0.26933","n":"Hitchin Bearton","q":-12,"r":39},
+		"E05015763":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.94508","lon":"-0.26429","n":"Hitchin Highbury","q":-12,"r":37},
+		"E05015764":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.95737","lon":"-0.29581","n":"Hitchin Oughton","q":-12,"r":38},
+		"E05015765":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.94432","lon":"-0.29272","n":"Hitchin Priory","q":-13,"r":37},
+		"E05015766":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.95806","lon":"-0.25206","n":"Hitchin Walsworth","q":-11,"r":38},
+		"E05015767":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.89681","lon":"-0.28374","n":"Hitchwood","q":-12,"r":36},
+		"E05015768":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.86781","lon":"-0.21128","n":"Knebworth","q":-12,"r":35},
+		"E05015769":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.99733","lon":"-0.22711","n":"Letchworth Grange","q":-10,"r":40},
+		"E05015770":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.98831","lon":"-0.21872","n":"Letchworth Norton","q":-10,"r":39},
+		"E05015771":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.97599","lon":"-0.20588","n":"Letchworth South East ","q":-9,"r":38},
+		"E05015772":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.96413","lon":"-0.22338","n":"Letchworth South West","q":-10,"r":38},
+		"E05015773":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.98385","lon":"-0.24529","n":"Letchworth Wilbury","q":-11,"r":39},
+		"E05015774":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.94717","lon":"-0.34818","n":"Offa","q":-13,"r":38},
+		"E05015775":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"52.04798","lon":"-0.04276","n":"Royston Heath","q":-7,"r":39},
+		"E05015776":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"52.04542","lon":"-0.00624","n":"Royston Meridian","q":-6,"r":39},
+		"E05015777":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"52.05474","lon":"-0.02162","n":"Royston Palace","q":-6,"r":40},
+		"E05015778":{"LAD24CD":"E07000099","LAD24NM":"North Hertfordshire","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#208814","lat":"51.9795","lon":"-0.11716","n":"Weston & Sandon","q":-8,"r":38}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

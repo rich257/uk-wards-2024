@@ -1,0 +1,28 @@
+{
+	"hexes":{
+		"E05013882":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.55877","lon":"0.010484","n":"Cann Hall","q":-1,"r":13},
+		"E05013883":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.55731","lon":"0.000754","n":"Cathall","q":-2,"r":13},
+		"E05013884":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.59631","lon":"-0.01506","n":"Chapel End","q":-2,"r":17},
+		"E05013885":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.63648","lon":"0.004987","n":"Chingford Green","q":-1,"r":20},
+		"E05013886":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.62702","lon":"-0.00896","n":"Endlebury","q":-2,"r":19},
+		"E05013887":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.57605","lon":"0.00289","n":"Forest","q":-1,"r":15},
+		"E05013888":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.56322","lon":"-0.00282","n":"Grove Green","q":-1,"r":14},
+		"E05013889":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.60291","lon":"0.001529","n":"Hale End & Highams Park South","q":-1,"r":18},
+		"E05013890":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.61385","lon":"0.009348","n":"Hatch Lane & Highams Park North","q":-1,"r":19},
+		"E05013891":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.58305","lon":"-0.02799","n":"High Street","q":-3,"r":16},
+		"E05013892":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.5989","lon":"-0.03684","n":"Higham Hill","q":-3,"r":18},
+		"E05013893":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.58287","lon":"-0.01338","n":"Hoe Street","q":-2,"r":16},
+		"E05013894":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.61487","lon":"-0.0082","n":"Larkswood","q":-2,"r":18},
+		"E05013895":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.56873","lon":"-0.03617","n":"Lea Bridge","q":-2,"r":15},
+		"E05013896":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.56241","lon":"-0.01796","n":"Leyton","q":-2,"r":14},
+		"E05013897":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.56923","lon":"0.00728","n":"Leytonstone","q":0,"r":14},
+		"E05013898":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.57796","lon":"-0.02268","n":"Markhouse","q":-3,"r":15},
+		"E05013899":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.57864","lon":"-0.04615","n":"St James","q":-4,"r":15},
+		"E05013900":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.59051","lon":"0.005705","n":"Upper Walthamstow","q":-1,"r":17},
+		"E05013901":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.6142","lon":"-0.02562","n":"Valley","q":-3,"r":19},
+		"E05013902":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.59025","lon":"-0.02658","n":"William Morris","q":-3,"r":17},
+		"E05013903":{"LAD24CD":"E09000031","LAD24NM":"Waltham Forest","RGN24CD":"E12000007","RGN24NM":"London","colour":"#F748E8","lat":"51.58538","lon":"-0.00527","n":"Wood Street","q":-1,"r":16}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

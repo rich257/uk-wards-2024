@@ -1,0 +1,29 @@
+{
+	"hexes":{
+		"E05009800":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.7856","lon":"-0.70233","n":"Aldwick East","q":-37,"r":-35},
+		"E05009801":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.78189","lon":"-0.71759","n":"Aldwick West","q":-37,"r":-36},
+		"E05009802":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.85473","lon":"-0.4598","n":"Angmering & Findon","q":-31,"r":-32},
+		"E05009803":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.86803","lon":"-0.59394","n":"Arundel & Walberton","q":-33,"r":-32},
+		"E05009804":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.8302","lon":"-0.65612","n":"Barnham","q":-35,"r":-32},
+		"E05009805":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.80726","lon":"-0.52836","n":"Beach","q":-31,"r":-34},
+		"E05009806":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.807","lon":"-0.685","n":"Bersted","q":-36,"r":-33},
+		"E05009807":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.81727","lon":"-0.52701","n":"Brookfield","q":-32,"r":-33},
+		"E05009808":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.82157","lon":"-0.55842","n":"Courtwick with Toddington","q":-33,"r":-33},
+		"E05009809":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.81034","lon":"-0.47424","n":"East Preston","q":-29,"r":-34},
+		"E05009810":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.794","lon":"-0.64155","n":"Felpham East","q":-34,"r":-34},
+		"E05009811":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.79495","lon":"-0.65263","n":"Felpham West","q":-35,"r":-33},
+		"E05009812":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.8194","lon":"-0.44809","n":"Ferring","q":-28,"r":-34},
+		"E05009813":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.78963","lon":"-0.66621","n":"Hotham","q":-35,"r":-35},
+		"E05009814":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.7839","lon":"-0.68304","n":"Marine","q":-36,"r":-35},
+		"E05009815":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.79755","lon":"-0.61196","n":"Middleton-on-Sea","q":-33,"r":-34},
+		"E05009816":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.79383","lon":"-0.67913","n":"Orchard","q":-35,"r":-34},
+		"E05009817":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.78896","lon":"-0.73408","n":"Pagham","q":-38,"r":-36},
+		"E05009818":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.79165","lon":"-0.69037","n":"Pevensey","q":-36,"r":-34},
+		"E05009819":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.81139","lon":"-0.54217","n":"River","q":-32,"r":-34},
+		"E05009820":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.81043","lon":"-0.49892","n":"Rustington East","q":-30,"r":-34},
+		"E05009821":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.81206","lon":"-0.51198","n":"Rustington West","q":-31,"r":-33},
+		"E05009822":{"LAD24CD":"E07000224","LAD24NM":"Arun","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6C553E","lat":"50.81369","lon":"-0.60247","n":"Yapton","q":-34,"r":-33}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

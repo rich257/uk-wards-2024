@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05013967":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.52279","lon":"0.179032","n":"Beam Park","q":8,"r":16},
+		"E05013968":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.56842","lon":"0.268082","n":"Cranham","q":11,"r":20},
+		"E05013969":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.54708","lon":"0.195827","n":"Elm Park","q":9,"r":18},
+		"E05013970":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.57292","lon":"0.230465","n":"Emerson Park","q":10,"r":20},
+		"E05013971":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.61573","lon":"0.233387","n":"Gooshays","q":9,"r":23},
+		"E05013972":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.54941","lon":"0.216507","n":"Hacton","q":10,"r":18},
+		"E05013973":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.59137","lon":"0.242312","n":"Harold Wood","q":10,"r":21},
+		"E05013974":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.61155","lon":"0.176779","n":"Havering-atte-Bower","q":8,"r":23},
+		"E05013975":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.60242","lon":"0.211433","n":"Heaton","q":10,"r":22},
+		"E05013976":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.56349","lon":"0.197468","n":"Hylands & Harrow Lodge","q":9,"r":19},
+		"E05013977":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.59165","lon":"0.192055","n":"Marshalls & Rise Park","q":9,"r":22},
+		"E05013978":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.58985","lon":"0.162156","n":"Mawneys","q":8,"r":22},
+		"E05013979":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.51303","lon":"0.199609","n":"Rainham & Wennington","q":9,"r":17},
+		"E05013980":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.57167","lon":"0.164988","n":"Rush Green & Crowlands","q":8,"r":20},
+		"E05013981":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.57275","lon":"0.189991","n":"St Alban's","q":9,"r":20},
+		"E05013982":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.56047","lon":"0.224186","n":"St Andrew's","q":10,"r":19},
+		"E05013983":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.57971","lon":"0.183368","n":"St Edward's","q":8,"r":21},
+		"E05013984":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.53145","lon":"0.18886","n":"South Hornchurch","q":8,"r":17},
+		"E05013985":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.58369","lon":"0.21201","n":"Squirrels Heath","q":9,"r":21},
+		"E05013986":{"LAD24CD":"E09000016","LAD24NM":"Havering","RGN24CD":"E12000007","RGN24NM":"London","colour":"#3A5B40","lat":"51.54191","lon":"0.27621","n":"Upminster","q":11,"r":18}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

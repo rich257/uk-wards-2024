@@ -1,0 +1,30 @@
+{
+	"hexes":{
+		"E05013628":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.65012","lon":"-0.18229","n":"Barnet Vale","q":-16,"r":17},
+		"E05013629":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.62759","lon":"-0.14587","n":"Brunswick Park","q":-14,"r":16},
+		"E05013630":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.60403","lon":"-0.26166","n":"Burnt Oak","q":-19,"r":15},
+		"E05013631":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.56739","lon":"-0.19846","n":"Childs Hill","q":-17,"r":12},
+		"E05013632":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.60228","lon":"-0.24563","n":"Colindale North","q":-18,"r":15},
+		"E05013633":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.59069","lon":"-0.24659","n":"Colindale South","q":-19,"r":14},
+		"E05013634":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.56838","lon":"-0.21892","n":"Cricklewood","q":-18,"r":12},
+		"E05013635":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.64442","lon":"-0.15906","n":"East Barnet","q":-15,"r":17},
+		"E05013636":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.59508","lon":"-0.17062","n":"East Finchley","q":-16,"r":14},
+		"E05013637":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.61579","lon":"-0.27691","n":"Edgware","q":-19,"r":16},
+		"E05013638":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.63303","lon":"-0.26821","n":"Edgwarebury","q":-18,"r":16},
+		"E05013639":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.59892","lon":"-0.19956","n":"Finchley Church End","q":-17,"r":14},
+		"E05013640":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.60944","lon":"-0.15072","n":"Friern Barnet","q":-15,"r":15},
+		"E05013641":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.58155","lon":"-0.18287","n":"Garden Suburb","q":-17,"r":13},
+		"E05013642":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.58185","lon":"-0.20522","n":"Golders Green","q":-18,"r":13},
+		"E05013643":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.58805","lon":"-0.22194","n":"Hendon","q":-18,"r":14},
+		"E05013644":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.65334","lon":"-0.2219","n":"High Barnet","q":-18,"r":17},
+		"E05013645":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.61232","lon":"-0.22812","n":"Mill Hill","q":-17,"r":16},
+		"E05013646":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.63343","lon":"-0.20776","n":"Totteridge & Woodside","q":-16,"r":16},
+		"E05013647":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.6447","lon":"-0.20423","n":"Underhill","q":-17,"r":17},
+		"E05013648":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.6072","lon":"-0.1855","n":"West Finchley","q":-17,"r":15},
+		"E05013649":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.57818","lon":"-0.23755","n":"West Hendon","q":-19,"r":13},
+		"E05013650":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.62892","lon":"-0.16928","n":"Whetstone","q":-15,"r":16},
+		"E05013651":{"LAD24CD":"E09000003","LAD24NM":"Barnet","RGN24CD":"E12000007","RGN24NM":"London","colour":"#73A442","lat":"51.61134","lon":"-0.16968","n":"Woodhouse","q":-16,"r":15}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

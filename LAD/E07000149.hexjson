@@ -1,0 +1,32 @@
+{
+	"hexes":{
+		"E05011866":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.40523","lon":"1.216067","n":"Beck Vale, Dickleburgh & Scole","q":14,"r":55},
+		"E05011867":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.43113","lon":"1.105483","n":"Bressingham & Burston","q":13,"r":55},
+		"E05011868":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.53684","lon":"1.398665","n":"Brooke","q":16,"r":57},
+		"E05011869":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.48234","lon":"1.135605","n":"Bunwell","q":13,"r":56},
+		"E05011870":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.57572","lon":"1.113347","n":"Central Wymondham","q":12,"r":58},
+		"E05011871":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.60141","lon":"1.236938","n":"Cringleford","q":15,"r":58},
+		"E05011872":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.38296","lon":"1.100587","n":"Diss & Roydon","q":14,"r":54},
+		"E05011874":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.62994","lon":"1.152477","n":"Easton","q":13,"r":59},
+		"E05011875":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.49549","lon":"1.189129","n":"Forncett","q":14,"r":56},
+		"E05011877":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.48982","lon":"1.308548","n":"Hempnall","q":16,"r":56},
+		"E05011878":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.61468","lon":"1.190355","n":"Hethersett","q":14,"r":58},
+		"E05011879":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.56859","lon":"1.000686","n":"Hingham & Deopham","q":11,"r":57},
+		"E05011880":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.53273","lon":"1.49846","n":"Loddon & Chedgrave","q":17,"r":57},
+		"E05011881":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.55481","lon":"1.230865","n":"Mulbarton & Stoke Holy Cross","q":14,"r":57},
+		"E05011882":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.64807","lon":"1.228156","n":"New Costessey","q":15,"r":60},
+		"E05011883":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.53911","lon":"1.290173","n":"Newton Flotman","q":15,"r":57},
+		"E05011884":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.59306","lon":"1.116157","n":"North Wymondham","q":13,"r":58},
+		"E05011885":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.65642","lon":"1.211054","n":"Old Costessey","q":14,"r":59},
+		"E05011886":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.58705","lon":"1.326177","n":"Poringland, Framinghams & Trowse","q":16,"r":58},
+		"E05011887":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.58221","lon":"1.424057","n":"Rockland","q":17,"r":58},
+		"E05011888":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.54216","lon":"1.112195","n":"South Wymondham","q":13,"r":57},
+		"E05011889":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.48884","lon":"1.239212","n":"Stratton","q":15,"r":56},
+		"E05011890":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.50179","lon":"1.614264","n":"Thurlton","q":18,"r":56},
+		"E05011891":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.60123","lon":"1.076798","n":"Wicklewood","q":12,"r":57},
+		"E05012851":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.47043","lon":"1.384971","n":"Ditchingham & Earsham","q":17,"r":56},
+		"E05012852":{"LAD24CD":"E07000149","LAD24NM":"South Norfolk","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#F2ED6E","lat":"52.418","lon":"1.307035","n":"Harleston","q":15,"r":55}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

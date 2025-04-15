@@ -1,0 +1,23 @@
+{
+	"hexes":{
+		"S13002919":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.96315","lon":"-3.34916","n":"Almond","q":-83,"r":179},
+		"S13002920":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.8783","lon":"-3.35194","n":"Pentland Hills","q":-84,"r":175},
+		"S13002921":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.95106","lon":"-3.29641","n":"Drum Brae/Gyle","q":-83,"r":178},
+		"S13002922":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.97764","lon":"-3.22328","n":"Forth","q":-82,"r":179},
+		"S13002923":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.96064","lon":"-3.23519","n":"Inverleith","q":-82,"r":178},
+		"S13002924":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.94458","lon":"-3.2626","n":"Corstorphine/Murrayfield","q":-83,"r":177},
+		"S13002925":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.93093","lon":"-3.26917","n":"Sighthill/Gorgie","q":-83,"r":176},
+		"S13002926":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.89214","lon":"-3.24473","n":"Colinton/Fairmilehead","q":-83,"r":175},
+		"S13002927":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.92462","lon":"-3.23638","n":"Fountainbridge/Craiglockhart","q":-82,"r":176},
+		"S13002928":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.92165","lon":"-3.20386","n":"Morningside","q":-81,"r":176},
+		"S13002929":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.95014","lon":"-3.19714","n":"City Centre","q":-82,"r":177},
+		"S13002930":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.96607","lon":"-3.18305","n":"Leith Walk","q":-81,"r":178},
+		"S13002931":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.97412","lon":"-3.16466","n":"Leith","q":-81,"r":179},
+		"S13002932":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.95213","lon":"-3.14796","n":"Craigentinny/Duddingston","q":-80,"r":178},
+		"S13002933":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.93386","lon":"-3.17493","n":"Southside/Newington","q":-81,"r":177},
+		"S13002934":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.90731","lon":"-3.14514","n":"Liberton/Gilmerton","q":-80,"r":176},
+		"S13002935":{"LAD24CD":"S12000036","LAD24NM":"City of Edinburgh","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#2DE356","lat":"55.93786","lon":"-3.1158","n":"Portobello/Craigmillar","q":-80,"r":177}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

@@ -1,0 +1,13 @@
+{
+	"hexes":{
+		"S13002772":{"LAD24CD":"S12000027","LAD24NM":"Shetland Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F48DB2","lat":"60.61478","lon":"-1.09258","n":"North Isles","q":-83,"r":244},
+		"S13002773":{"LAD24CD":"S12000027","LAD24NM":"Shetland Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F48DB2","lat":"60.5686","lon":"-1.33806","n":"Shetland North","q":-85,"r":243},
+		"S13002777":{"LAD24CD":"S12000027","LAD24NM":"Shetland Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F48DB2","lat":"60.14434","lon":"-1.09739","n":"Lerwick North and Bressay","q":-83,"r":242},
+		"S13003153":{"LAD24CD":"S12000027","LAD24NM":"Shetland Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F48DB2","lat":"60.14428","lon":"-1.19092","n":"Lerwick South","q":-84,"r":241},
+		"S13003154":{"LAD24CD":"S12000027","LAD24NM":"Shetland Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F48DB2","lat":"60.21269","lon":"-1.25732","n":"Shetland Central","q":-84,"r":242},
+		"S13003155":{"LAD24CD":"S12000027","LAD24NM":"Shetland Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F48DB2","lat":"60.00938","lon":"-1.28143","n":"Shetland South","q":-84,"r":240},
+		"S13003156":{"LAD24CD":"S12000027","LAD24NM":"Shetland Islands","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#F48DB2","lat":"60.27345","lon":"-1.49779","n":"Shetland West","q":-85,"r":242}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

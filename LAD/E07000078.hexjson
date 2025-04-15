@@ -1,0 +1,26 @@
+{
+	"hexes":{
+		"E05015704":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.89847","lon":"-2.06459","n":"All Saints","q":-67,"r":13},
+		"E05015705":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.89033","lon":"-2.03672","n":"Battledown","q":-66,"r":13},
+		"E05015706":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.89648","lon":"-2.1318","n":"Benhall, the Reddings & Fiddler's Green","q":-70,"r":13},
+		"E05015707":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.87247","lon":"-2.04058","n":"Charlton Kings","q":-66,"r":12},
+		"E05015708":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.87854","lon":"-2.06199","n":"Charlton Park","q":-67,"r":11},
+		"E05015709":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.89109","lon":"-2.07357","n":"College","q":-67,"r":12},
+		"E05015710":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.90457","lon":"-2.11746","n":"Hesters Way","q":-69,"r":14},
+		"E05015711":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.89931","lon":"-2.08601","n":"Lansdown","q":-68,"r":13},
+		"E05015712":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.87917","lon":"-2.08404","n":"Leckhampton","q":-68,"r":11},
+		"E05015713":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.90611","lon":"-2.05087","n":"Oakley","q":-65,"r":14},
+		"E05015714":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.88861","lon":"-2.08821","n":"Park","q":-68,"r":12},
+		"E05015715":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.90792","lon":"-2.07089","n":"Pittville","q":-66,"r":14},
+		"E05015716":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.91848","lon":"-2.05941","n":"Prestbury","q":-67,"r":15},
+		"E05015717":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.91085","lon":"-2.12277","n":"Springbank","q":-70,"r":14},
+		"E05015718":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.90109","lon":"-2.10751","n":"St Mark's","q":-69,"r":13},
+		"E05015719":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.90694","lon":"-2.08066","n":"St Paul's","q":-67,"r":14},
+		"E05015720":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.90499","lon":"-2.09669","n":"St Peter's","q":-68,"r":14},
+		"E05015721":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.9231","lon":"-2.08736","n":"Swindon Village","q":-68,"r":15},
+		"E05015722":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.88537","lon":"-2.11817","n":"Up Hatherley","q":-70,"r":12},
+		"E05015723":{"LAD24CD":"E07000078","LAD24NM":"Cheltenham","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#DB7709","lat":"51.88559","lon":"-2.10131","n":"Warden Hill","q":-69,"r":12}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

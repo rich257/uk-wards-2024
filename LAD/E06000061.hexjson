@@ -1,0 +1,32 @@
+{
+	"hexes":{
+		"E05013213":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.3011","lon":"-0.72448","n":"Brickhill and Queensway","q":-24,"r":41},
+		"E05013214":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.36804","lon":"-0.71603","n":"Burton and Broughton","q":-24,"r":43},
+		"E05013215":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.41142","lon":"-0.72305","n":"Clover Hill","q":-25,"r":45},
+		"E05013216":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.50757","lon":"-0.76311","n":"Corby Rural","q":-22,"r":46},
+		"E05013217":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.49656","lon":"-0.7205","n":"Corby West","q":-24,"r":46},
+		"E05013218":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.28964","lon":"-0.69956","n":"Croyland and Swanspool","q":-23,"r":41},
+		"E05013219":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.47288","lon":"-0.83868","n":"Desborough","q":-25,"r":47},
+		"E05013220":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.27483","lon":"-0.75006","n":"Earls Barton","q":-24,"r":42},
+		"E05013221":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.32073","lon":"-0.65639","n":"Finedon","q":-23,"r":43},
+		"E05013222":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.3166","lon":"-0.71429","n":"Hatton Park","q":-23,"r":42},
+		"E05013223":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.30602","lon":"-0.56911","n":"Higham Ferrers","q":-22,"r":43},
+		"E05013224":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.24398","lon":"-0.68024","n":"Irchester","q":-22,"r":41},
+		"E05013225":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.36809","lon":"-0.5642","n":"Irthlingborough","q":-22,"r":44},
+		"E05013226":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.42056","lon":"-0.67665","n":"Ise","q":-23,"r":45},
+		"E05013227":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.47993","lon":"-0.71113","n":"Kingswood","q":-23,"r":47},
+		"E05013228":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.49827","lon":"-0.69883","n":"Lloyds","q":-24,"r":47},
+		"E05013229":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.39888","lon":"-0.73158","n":"Northall","q":-24,"r":44},
+		"E05013230":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.46897","lon":"-0.72979","n":"Oakley","q":-23,"r":46},
+		"E05013231":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.55094","lon":"-0.53628","n":"Oundle","q":-21,"r":46},
+		"E05013232":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.34401","lon":"-0.52825","n":"Raunds","q":-21,"r":44},
+		"E05013233":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.41975","lon":"-0.80865","n":"Rothwell and Mawsley","q":-25,"r":46},
+		"E05013234":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.28907","lon":"-0.60894","n":"Rushden Pemberton West","q":-22,"r":42},
+		"E05013235":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.27749","lon":"-0.56711","n":"Rushden South","q":-21,"r":42},
+		"E05013236":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.45241","lon":"-0.51351","n":"Thrapston","q":-22,"r":45},
+		"E05013237":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.38317","lon":"-0.70511","n":"Wicksteed","q":-23,"r":44},
+		"E05013238":{"LAD24CD":"E06000061","LAD24NM":"North Northamptonshire","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#B940A5","lat":"52.40134","lon":"-0.70874","n":"Windmill","q":-24,"r":45}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

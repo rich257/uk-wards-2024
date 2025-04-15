@@ -1,0 +1,27 @@
+{
+	"hexes":{
+		"E05015525":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.51716","lon":"-0.60863","n":"Baylis & Salt Hill","q":-38,"r":7},
+		"E05015526":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.5341","lon":"-0.62864","n":"Britwell","q":-39,"r":8},
+		"E05015527":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.50721","lon":"-0.60755","n":"Chalvey","q":-37,"r":6},
+		"E05015528":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.51741","lon":"-0.64427","n":"Cippenham Green","q":-40,"r":6},
+		"E05015529":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.50807","lon":"-0.62179","n":"Cippenham Manor","q":-38,"r":6},
+		"E05015530":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.5101","lon":"-0.64103","n":"Cippenham Village","q":-39,"r":6},
+		"E05015531":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.48248","lon":"-0.52242","n":"Colnbrook & Poyle","q":-33,"r":5},
+		"E05015532":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.51699","lon":"-0.59648","n":"Elliman","q":-37,"r":7},
+		"E05015533":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.52909","lon":"-0.61643","n":"Farnham","q":-38,"r":8},
+		"E05015534":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.5248","lon":"-0.64993","n":"Haymill","q":-40,"r":7},
+		"E05015535":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.50379","lon":"-0.59707","n":"Herschel Park","q":-36,"r":6},
+		"E05015536":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.49734","lon":"-0.54084","n":"Langley Foxborough","q":-33,"r":6},
+		"E05015537":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.50125","lon":"-0.55547","n":"Langley Marish","q":-34,"r":6},
+		"E05015538":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.50377","lon":"-0.53524","n":"Langley Meads","q":-34,"r":7},
+		"E05015539":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.50759","lon":"-0.56235","n":"Langley St Mary's","q":-35,"r":7},
+		"E05015540":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.52581","lon":"-0.6026","n":"Manor Park & Stoke","q":-37,"r":8},
+		"E05015541":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.52551","lon":"-0.63421","n":"Northborough & Lynch Hill Valley","q":-39,"r":7},
+		"E05015542":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.51291","lon":"-0.5901","n":"Slough Central","q":-36,"r":7},
+		"E05015543":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.49946","lon":"-0.57589","n":"Upton","q":-35,"r":6},
+		"E05015544":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.5134","lon":"-0.57441","n":"Upton Lea","q":-35,"r":8},
+		"E05015545":{"LAD24CD":"E06000039","LAD24NM":"Slough","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#A0DDC0","lat":"51.52524","lon":"-0.57729","n":"Wexham Court","q":-36,"r":8}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

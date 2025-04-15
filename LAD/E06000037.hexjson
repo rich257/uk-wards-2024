@@ -1,0 +1,30 @@
+{
+	"hexes":{
+		"E05012132":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.39348","lon":"-1.13003","n":"Aldermaston","q":-54,"r":-8},
+		"E05012133":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.50168","lon":"-1.1623","n":"Basildon","q":-54,"r":-6},
+		"E05012134":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.43605","lon":"-1.11747","n":"Bradfield","q":-54,"r":-7},
+		"E05012135":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.42398","lon":"-1.2024","n":"Bucklebury","q":-55,"r":-7},
+		"E05012136":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.39754","lon":"-1.03379","n":"Burghfield & Mortimer","q":-53,"r":-9},
+		"E05012137":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.44818","lon":"-1.30501","n":"Chieveley & Cold Ash","q":-57,"r":-7},
+		"E05012138":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.49986","lon":"-1.38911","n":"Downlands","q":-56,"r":-6},
+		"E05012139":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.39025","lon":"-1.45674","n":"Hungerford & Kintbury","q":-59,"r":-7},
+		"E05012140":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.50131","lon":"-1.53205","n":"Lambourn","q":-57,"r":-6},
+		"E05012141":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.39957","lon":"-1.33108","n":"Newbury Central","q":-58,"r":-8},
+		"E05012142":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.40775","lon":"-1.30457","n":"Newbury Clay Hill","q":-57,"r":-8},
+		"E05012143":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.38596","lon":"-1.29772","n":"Newbury Greenham","q":-57,"r":-9},
+		"E05012144":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.41826","lon":"-1.35876","n":"Newbury Speen","q":-58,"r":-7},
+		"E05012145":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.38137","lon":"-1.33483","n":"Newbury Wash Common","q":-58,"r":-9},
+		"E05012146":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.46552","lon":"-1.09666","n":"Pangbourne","q":-53,"r":-6},
+		"E05012147":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.50611","lon":"-1.26652","n":"Ridgeway","q":-55,"r":-6},
+		"E05012148":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.39867","lon":"-1.25802","n":"Thatcham Central","q":-55,"r":-8},
+		"E05012149":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.38497","lon":"-1.24551","n":"Thatcham Colthrop & Crookham","q":-56,"r":-9},
+		"E05012150":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.41064","lon":"-1.2466","n":"Thatcham North East","q":-56,"r":-7},
+		"E05012151":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.40488","lon":"-1.27961","n":"Thatcham West","q":-56,"r":-8},
+		"E05012152":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.4361","lon":"-1.07523","n":"Theale","q":-53,"r":-8},
+		"E05012153":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.47764","lon":"-1.05631","n":"Tilehurst & Purley","q":-52,"r":-6},
+		"E05012154":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.44971","lon":"-1.05053","n":"Tilehurst Birch Copse","q":-53,"r":-7},
+		"E05012155":{"LAD24CD":"E06000037","LAD24NM":"West Berkshire","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#3251AF","lat":"51.44347","lon":"-1.03375","n":"Tilehurst South & Holybrook","q":-52,"r":-8}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

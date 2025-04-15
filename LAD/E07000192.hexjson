@@ -1,0 +1,18 @@
+{
+	"hexes":{
+		"E05015742":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.74323","lon":"-1.92938","n":"Brereton & Ravenhill","q":-62,"r":61},
+		"E05015743":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.70616","lon":"-2.01805","n":"Chadsmoor","q":-64,"r":60},
+		"E05015744":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.68106","lon":"-2.03398","n":"Cannock Longford & Bridgtown","q":-65,"r":58},
+		"E05015745":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.69537","lon":"-2.03115","n":"Cannock Park & Old Fallow","q":-65,"r":59},
+		"E05015746":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.74514","lon":"-1.98235","n":"Etching Hill & the Heath","q":-63,"r":61},
+		"E05015747":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.69112","lon":"-2.00911","n":"Hawks Green with Rumer Hill","q":-64,"r":58},
+		"E05015748":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.69431","lon":"-1.96978","n":"Heath Hayes & Wimblebury","q":-63,"r":58},
+		"E05015749":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.71684","lon":"-2.01569","n":"Hednesford Green Heath","q":-64,"r":61},
+		"E05015750":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.70798","lon":"-1.95898","n":"Hednesford Hills & Rawnsley","q":-64,"r":59},
+		"E05015751":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.72304","lon":"-1.98477","n":"Hednesford Pye Green","q":-63,"r":60},
+		"E05015752":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.66604","lon":"-1.98866","n":"Norton Canes","q":-64,"r":57},
+		"E05015753":{"LAD24CD":"E07000192","LAD24NM":"Cannock Chase","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#47B1A7","lat":"52.75925","lon":"-1.92731","n":"Western Springs","q":-62,"r":62}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}

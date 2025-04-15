@@ -1,0 +1,23 @@
+{
+	"hexes":{
+		"E05011508":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.74393","lon":"-2.45892","n":"Audley & Queen's Park","q":-73,"r":108},
+		"E05011509":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.75551","lon":"-2.47412","n":"Bastwell & Daisyfield","q":-74,"r":109},
+		"E05011510":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.75932","lon":"-2.50945","n":"Billinge & Beardwood","q":-76,"r":109},
+		"E05011511":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.74422","lon":"-2.48385","n":"Blackburn Central","q":-74,"r":108},
+		"E05011512":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.72157","lon":"-2.47698","n":"Blackburn South & Lower Darwen","q":-74,"r":107},
+		"E05011513":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.73256","lon":"-2.46274","n":"Blackburn South East","q":-73,"r":107},
+		"E05011514":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.70068","lon":"-2.46505","n":"Darwen East","q":-74,"r":106},
+		"E05011515":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.68247","lon":"-2.47244","n":"Darwen South","q":-75,"r":105},
+		"E05011516":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.6911","lon":"-2.50459","n":"Darwen West","q":-75,"r":106},
+		"E05011517":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.72886","lon":"-2.49237","n":"Ewood","q":-75,"r":107},
+		"E05011518":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.76263","lon":"-2.45641","n":"Little Harwood & Whitebirk","q":-73,"r":110},
+		"E05011519":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.73633","lon":"-2.53389","n":"Livesey with Pleasington","q":-76,"r":108},
+		"E05011520":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.73515","lon":"-2.5053","n":"Mill Hill & Moorgate","q":-76,"r":107},
+		"E05011521":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.77083","lon":"-2.47524","n":"Roe Lee","q":-74,"r":110},
+		"E05011522":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.75631","lon":"-2.49266","n":"Shear Brow & Corporation Park","q":-75,"r":109},
+		"E05011523":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.74667","lon":"-2.5018","n":"Wensley Fold","q":-75,"r":108},
+		"E05011524":{"LAD24CD":"E06000008","LAD24NM":"Blackburn with Darwen","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EA2F17","lat":"53.65838","lon":"-2.44747","n":"West Pennine","q":-74,"r":105}
+	},
+	"layout":"odd-r",
+	"version":"0.4"
+}
