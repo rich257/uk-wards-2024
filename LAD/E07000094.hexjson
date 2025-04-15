@@ -1,22 +1,22 @@
 {
 	"hexes":{
-		"E05010995":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.09156","lon":"-1.19602","n":"Alresford and Itchen Valley","q":-229,"r":321 },
-		"E05010996":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.02428","lon":"-1.37776","n":"Badger Farm and Oliver's Battery","q":-231,"r":319 },
-		"E05010997":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"50.9597","lon":"-1.21173","n":"Bishop's Waltham","q":-229,"r":318 },
-		"E05010998":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"50.93799","lon":"-1.12356","n":"Central Meon Valley","q":-228,"r":318 },
-		"E05010999":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.01403","lon":"-1.308","n":"Colden Common and Twyford","q":-230,"r":319 },
-		"E05011000":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"50.90601","lon":"-1.08624","n":"Denmead","q":-227,"r":318 },
-		"E05011001":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.07741","lon":"-1.33646","n":"St Barnabas","q":-231,"r":321 },
-		"E05011002":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.07019","lon":"-1.30407","n":"St Bartholomew","q":-230,"r":321 },
-		"E05011003":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.05363","lon":"-1.33843","n":"St Luke","q":-230,"r":320 },
-		"E05011004":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.05405","lon":"-1.30823","n":"St Michael","q":-229,"r":320 },
-		"E05011005":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.0636","lon":"-1.33773","n":"St Paul","q":-231,"r":320 },
-		"E05011006":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"50.8872","lon":"-1.11764","n":"Southwick and Wickham","q":-228,"r":317 },
-		"E05011007":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.09738","lon":"-1.31793","n":"The Worthys","q":-230,"r":322 },
-		"E05011008":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.01965","lon":"-1.17143","n":"Upper Meon Valley","q":-229,"r":319 },
-		"E05011009":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"50.91721","lon":"-1.21889","n":"Whiteley and Shedfield","q":-229,"r":317 },
-		"E05011010":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.12848","lon":"-1.30442","n":"Wonston and Micheldever","q":-231,"r":323 }
+		"E05010995":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.09156","lon":"-1.19602","n":"Alresford and Itchen Valley","q":-52,"r":-18},
+		"E05010996":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.02428","lon":"-1.37776","n":"Badger Farm and Oliver's Battery","q":-54,"r":-20},
+		"E05010997":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"50.9597","lon":"-1.21173","n":"Bishop's Waltham","q":-53,"r":-21},
+		"E05010998":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"50.93799","lon":"-1.12356","n":"Central Meon Valley","q":-52,"r":-21},
+		"E05010999":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.01403","lon":"-1.308","n":"Colden Common and Twyford","q":-53,"r":-20},
+		"E05011000":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"50.90601","lon":"-1.08624","n":"Denmead","q":-51,"r":-21},
+		"E05011001":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.07741","lon":"-1.33646","n":"St Barnabas","q":-54,"r":-18},
+		"E05011002":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.07019","lon":"-1.30407","n":"St Bartholomew","q":-53,"r":-18},
+		"E05011003":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.05363","lon":"-1.33843","n":"St Luke","q":-54,"r":-19},
+		"E05011004":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.05405","lon":"-1.30823","n":"St Michael","q":-53,"r":-19},
+		"E05011005":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.0636","lon":"-1.33773","n":"St Paul","q":-55,"r":-19},
+		"E05011006":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"50.8872","lon":"-1.11764","n":"Southwick and Wickham","q":-51,"r":-22},
+		"E05011007":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.09738","lon":"-1.31793","n":"The Worthys","q":-54,"r":-17},
+		"E05011008":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.01965","lon":"-1.17143","n":"Upper Meon Valley","q":-52,"r":-20},
+		"E05011009":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"50.91721","lon":"-1.21889","n":"Whiteley and Shedfield","q":-52,"r":-22},
+		"E05011010":{"LAD24CD":"E07000094","LAD24NM":"Winchester","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#6F00D9","lat":"51.12848","lon":"-1.30442","n":"Wonston and Micheldever","q":-54,"r":-16}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

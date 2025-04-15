@@ -1,23 +1,23 @@
 {
 	"hexes":{
-		"E05004190":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.66451","lon":"0.739045","n":"Althorne","q":-161,"r":401 },
-		"E05004191":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.63623","lon":"0.856753","n":"Burnham-on-Crouch North","q":-160,"r":400 },
-		"E05004192":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.62832","lon":"0.818612","n":"Burnham-on-Crouch South","q":-160,"r":399 },
-		"E05004193":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.78489","lon":"0.702251","n":"Great Totham","q":-161,"r":404 },
-		"E05004194":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.73745","lon":"0.699984","n":"Heybridge East","q":-162,"r":403 },
-		"E05004195":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.74388","lon":"0.68068","n":"Heybridge West","q":-162,"r":404 },
-		"E05004196":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.71754","lon":"0.696322","n":"Maldon East","q":-161,"r":402 },
-		"E05004197":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.7355","lon":"0.660687","n":"Maldon North","q":-163,"r":403 },
-		"E05004198":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.71545","lon":"0.685223","n":"Maldon South","q":-162,"r":402 },
-		"E05004199":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.72151","lon":"0.662761","n":"Maldon West","q":-163,"r":402 },
-		"E05004200":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.69651","lon":"0.802816","n":"Mayland","q":-160,"r":401 },
-		"E05004201":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.67334","lon":"0.66692","n":"Purleigh","q":-162,"r":401 },
-		"E05004202":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.65616","lon":"0.853162","n":"Southminster","q":-159,"r":400 },
-		"E05004203":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.69757","lon":"0.880834","n":"Tillingham","q":-159,"r":401 },
-		"E05004204":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.752","lon":"0.85652","n":"Tollesbury","q":-159,"r":404 },
-		"E05004205":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.77739","lon":"0.778527","n":"Tolleshunt D'Arcy","q":-160,"r":404 },
-		"E05004206":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.72968","lon":"0.638128","n":"Wickham Bishops and Woodham","q":-164,"r":403 }
+		"E05004190":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.66451","lon":"0.739045","n":"Althorne","q":14,"r":31},
+		"E05004191":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.63623","lon":"0.856753","n":"Burnham-on-Crouch North","q":15,"r":30},
+		"E05004192":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.62832","lon":"0.818612","n":"Burnham-on-Crouch South","q":15,"r":29},
+		"E05004193":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.78489","lon":"0.702251","n":"Great Totham","q":14,"r":34},
+		"E05004194":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.73745","lon":"0.699984","n":"Heybridge East","q":13,"r":33},
+		"E05004195":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.74388","lon":"0.68068","n":"Heybridge West","q":13,"r":34},
+		"E05004196":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.71754","lon":"0.696322","n":"Maldon East","q":14,"r":32},
+		"E05004197":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.7355","lon":"0.660687","n":"Maldon North","q":12,"r":33},
+		"E05004198":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.71545","lon":"0.685223","n":"Maldon South","q":13,"r":32},
+		"E05004199":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.72151","lon":"0.662761","n":"Maldon West","q":12,"r":32},
+		"E05004200":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.69651","lon":"0.802816","n":"Mayland","q":15,"r":31},
+		"E05004201":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.67334","lon":"0.66692","n":"Purleigh","q":13,"r":31},
+		"E05004202":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.65616","lon":"0.853162","n":"Southminster","q":16,"r":30},
+		"E05004203":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.69757","lon":"0.880834","n":"Tillingham","q":16,"r":31},
+		"E05004204":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.752","lon":"0.85652","n":"Tollesbury","q":16,"r":34},
+		"E05004205":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.77739","lon":"0.778527","n":"Tolleshunt D'Arcy","q":15,"r":34},
+		"E05004206":{"LAD24CD":"E07000074","LAD24NM":"Maldon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#0C1513","lat":"51.72968","lon":"0.638128","n":"Wickham Bishops and Woodham","q":11,"r":33}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

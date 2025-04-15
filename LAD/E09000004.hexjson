@@ -1,23 +1,23 @@
 {
 	"hexes":{
-		"E05011217":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.46559","lon":"0.169292","n":"Barnehurst","q":-166,"r":358 },
-		"E05011218":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.48592","lon":"0.146304","n":"Belvedere","q":-167,"r":360 },
-		"E05011219":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.45964","lon":"0.14959","n":"Bexleyheath","q":-167,"r":358 },
-		"E05011220":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.44458","lon":"0.094816","n":"Blackfen & Lamorbey","q":-170,"r":357 },
-		"E05011221":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.44262","lon":"0.116743","n":"Blendon & Penhill","q":-169,"r":357 },
-		"E05011222":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.45276","lon":"0.173879","n":"Crayford","q":-167,"r":357 },
-		"E05011223":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.45951","lon":"0.12943","n":"Crook Log","q":-168,"r":358 },
-		"E05011224":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.46783","lon":"0.100805","n":"East Wickham","q":-169,"r":359 },
-		"E05011225":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.48291","lon":"0.166226","n":"Erith","q":-166,"r":360 },
-		"E05011226":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.45777","lon":"0.101336","n":"Falconwood & Welling","q":-169,"r":358 },
-		"E05011227":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.43039","lon":"0.088282","n":"Longlands","q":-169,"r":356 },
-		"E05011228":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.47576","lon":"0.160141","n":"Northumberland Heath","q":-167,"r":359 },
-		"E05011229":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.42935","lon":"0.143664","n":"St Mary's & St James","q":-168,"r":357 },
-		"E05011230":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.42377","lon":"0.114879","n":"Sidcup","q":-168,"r":356 },
-		"E05011231":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.46962","lon":"0.197619","n":"Slade Green & Northend","q":-166,"r":359 },
-		"E05011232":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.50198","lon":"0.13618","n":"Thamesmead East","q":-168,"r":361 },
-		"E05011233":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.47604","lon":"0.129682","n":"West Heath","q":-168,"r":359 }
+		"E05011217":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.46559","lon":"0.169292","n":"Barnehurst","q":6,"r":-7},
+		"E05011218":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.48592","lon":"0.146304","n":"Belvedere","q":5,"r":-5},
+		"E05011219":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.45964","lon":"0.14959","n":"Bexleyheath","q":5,"r":-7},
+		"E05011220":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.44458","lon":"0.094816","n":"Blackfen & Lamorbey","q":3,"r":-8},
+		"E05011221":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.44262","lon":"0.116743","n":"Blendon & Penhill","q":4,"r":-8},
+		"E05011222":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.45276","lon":"0.173879","n":"Crayford","q":6,"r":-8},
+		"E05011223":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.45951","lon":"0.12943","n":"Crook Log","q":4,"r":-7},
+		"E05011224":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.46783","lon":"0.100805","n":"East Wickham","q":4,"r":-6},
+		"E05011225":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.48291","lon":"0.166226","n":"Erith","q":6,"r":-5},
+		"E05011226":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.45777","lon":"0.101336","n":"Falconwood & Welling","q":3,"r":-7},
+		"E05011227":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.43039","lon":"0.088282","n":"Longlands","q":3,"r":-9},
+		"E05011228":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.47576","lon":"0.160141","n":"Northumberland Heath","q":6,"r":-6},
+		"E05011229":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.42935","lon":"0.143664","n":"St Mary's & St James","q":5,"r":-8},
+		"E05011230":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.42377","lon":"0.114879","n":"Sidcup","q":4,"r":-9},
+		"E05011231":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.46962","lon":"0.197619","n":"Slade Green & Northend","q":7,"r":-6},
+		"E05011232":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.50198","lon":"0.13618","n":"Thamesmead East","q":5,"r":-4},
+		"E05011233":{"LAD24CD":"E09000004","LAD24NM":"Bexley","RGN24CD":"E12000007","RGN24NM":"London","colour":"#EE72FD","lat":"51.47604","lon":"0.129682","n":"West Heath","q":5,"r":-6}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

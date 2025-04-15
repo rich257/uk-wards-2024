@@ -1,22 +1,22 @@
 {
 	"hexes":{
-		"E05015664":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.85157","lon":"-1.20453","n":"Avenue","q":-230,"r":313 },
-		"E05015665":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.86195","lon":"-1.21311","n":"Fareham Park","q":-229,"r":314 },
-		"E05015666":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.85362","lon":"-1.18125","n":"Fareham Town","q":-229,"r":313 },
-		"E05015667":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.84424","lon":"-1.19257","n":"Fort Fareham","q":-229,"r":312 },
-		"E05015668":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.82336","lon":"-1.22763","n":"Hill Head","q":-231,"r":312 },
-		"E05015669":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.84588","lon":"-1.27944","n":"Hook-with-Warsash","q":-232,"r":313 },
-		"E05015670":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.85995","lon":"-1.27758","n":"Locks Heath","q":-232,"r":314 },
-		"E05015671":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.87129","lon":"-1.26845","n":"Park Gate","q":-232,"r":315 },
-		"E05015672":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.84186","lon":"-1.12588","n":"Portchester Castle","q":-227,"r":313 },
-		"E05015673":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.84335","lon":"-1.13941","n":"Portchester Wicor","q":-227,"r":312 },
-		"E05015674":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.88816","lon":"-1.28043","n":"Sarisbury & Whiteley","q":-233,"r":315 },
-		"E05015675":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.82769","lon":"-1.20162","n":"Stubbington","q":-230,"r":312 },
-		"E05015676":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.84576","lon":"-1.23642","n":"Titchfield","q":-231,"r":313 },
-		"E05015677":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.85614","lon":"-1.26455","n":"Titchfield Common","q":-231,"r":314 },
-		"E05015678":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.87151","lon":"-1.19918","n":"Uplands & Funtley","q":-228,"r":314 },
-		"E05015679":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.86463","lon":"-1.16081","n":"Wallington & Downend","q":-228,"r":313 }
+		"E05015664":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.85157","lon":"-1.20453","n":"Avenue","q":-53,"r":-30},
+		"E05015665":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.86195","lon":"-1.21311","n":"Fareham Park","q":-53,"r":-29},
+		"E05015666":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.85362","lon":"-1.18125","n":"Fareham Town","q":-52,"r":-30},
+		"E05015667":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.84424","lon":"-1.19257","n":"Fort Fareham","q":-53,"r":-31},
+		"E05015668":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.82336","lon":"-1.22763","n":"Hill Head","q":-55,"r":-31},
+		"E05015669":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.84588","lon":"-1.27944","n":"Hook-with-Warsash","q":-55,"r":-30},
+		"E05015670":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.85995","lon":"-1.27758","n":"Locks Heath","q":-56,"r":-29},
+		"E05015671":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.87129","lon":"-1.26845","n":"Park Gate","q":-55,"r":-28},
+		"E05015672":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.84186","lon":"-1.12588","n":"Portchester Castle","q":-50,"r":-30},
+		"E05015673":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.84335","lon":"-1.13941","n":"Portchester Wicor","q":-51,"r":-31},
+		"E05015674":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.88816","lon":"-1.28043","n":"Sarisbury & Whiteley","q":-56,"r":-28},
+		"E05015675":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.82769","lon":"-1.20162","n":"Stubbington","q":-54,"r":-31},
+		"E05015676":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.84576","lon":"-1.23642","n":"Titchfield","q":-54,"r":-30},
+		"E05015677":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.85614","lon":"-1.26455","n":"Titchfield Common","q":-55,"r":-29},
+		"E05015678":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.87151","lon":"-1.19918","n":"Uplands & Funtley","q":-52,"r":-29},
+		"E05015679":{"LAD24CD":"E07000087","LAD24NM":"Fareham","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#678DFA","lat":"50.86463","lon":"-1.16081","n":"Wallington & Downend","q":-51,"r":-30}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

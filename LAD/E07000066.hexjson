@@ -1,20 +1,20 @@
 {
 	"hexes":{
-		"E05015637":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.63256","lon":"0.436122","n":"Billericay East","q":-170,"r":399 },
-		"E05015638":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.63992","lon":"0.411512","n":"Billericay West","q":-171,"r":399 },
-		"E05015639":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.60748","lon":"0.419919","n":"Burstead","q":-170,"r":398 },
-		"E05015640":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.60452","lon":"0.487827","n":"Castledon & Crouch","q":-169,"r":398 },
-		"E05015641":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.58309","lon":"0.46955","n":"Fryerns","q":-170,"r":397 },
-		"E05015642":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.57571","lon":"0.40273","n":"Laindon Park","q":-171,"r":397 },
-		"E05015643":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.55738","lon":"0.429811","n":"Langdon Hills","q":-171,"r":395 },
-		"E05015644":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.57305","lon":"0.435236","n":"Lee Chapel North","q":-171,"r":396 },
-		"E05015645":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.55354","lon":"0.472306","n":"Nethermayne","q":-170,"r":395 },
-		"E05015646":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.58143","lon":"0.509805","n":"Pitsea North West","q":-169,"r":396 },
-		"E05015647":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.55919","lon":"0.524984","n":"Pitsea South East","q":-169,"r":395 },
-		"E05015648":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.57267","lon":"0.471121","n":"St Martin's","q":-170,"r":396 },
-		"E05015649":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.61236","lon":"0.541917","n":"Wickford North","q":-168,"r":398 },
-		"E05015650":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.60227","lon":"0.529179","n":"Wickford Park","q":-169,"r":397 }
+		"E05015637":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.63256","lon":"0.436122","n":"Billericay East","q":14,"r":24},
+		"E05015638":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.63992","lon":"0.411512","n":"Billericay West","q":13,"r":24},
+		"E05015639":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.60748","lon":"0.419919","n":"Burstead","q":13,"r":23},
+		"E05015640":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.60452","lon":"0.487827","n":"Castledon & Crouch","q":14,"r":23},
+		"E05015641":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.58309","lon":"0.46955","n":"Fryerns","q":14,"r":22},
+		"E05015642":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.57571","lon":"0.40273","n":"Laindon Park","q":13,"r":22},
+		"E05015643":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.55738","lon":"0.429811","n":"Langdon Hills","q":13,"r":20},
+		"E05015644":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.57305","lon":"0.435236","n":"Lee Chapel North","q":12,"r":21},
+		"E05015645":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.55354","lon":"0.472306","n":"Nethermayne","q":14,"r":20},
+		"E05015646":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.58143","lon":"0.509805","n":"Pitsea North West","q":14,"r":21},
+		"E05015647":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.55919","lon":"0.524984","n":"Pitsea South East","q":15,"r":20},
+		"E05015648":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.57267","lon":"0.471121","n":"St Martin's","q":13,"r":21},
+		"E05015649":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.61236","lon":"0.541917","n":"Wickford North","q":15,"r":23},
+		"E05015650":{"LAD24CD":"E07000066","LAD24NM":"Basildon","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#A2D50D","lat":"51.60227","lon":"0.529179","n":"Wickford Park","q":15,"r":22}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

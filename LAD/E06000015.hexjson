@@ -1,24 +1,24 @@
 {
 	"hexes":{
-		"E05015507":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.91462","lon":"-1.50217","n":"Abbey","q":-240,"r":448 },
-		"E05015508":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.95234","lon":"-1.49377","n":"Allestree","q":-240,"r":450 },
-		"E05015509":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.90298","lon":"-1.4364","n":"Alvaston North","q":-239,"r":447 },
-		"E05015510":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.8853","lon":"-1.43355","n":"Alvaston South","q":-238,"r":446 },
-		"E05015511":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.91357","lon":"-1.4765","n":"Arboretum","q":-239,"r":448 },
-		"E05015512":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.89309","lon":"-1.50557","n":"Blagreaves","q":-240,"r":446 },
-		"E05015513":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.92225","lon":"-1.43213","n":"Chaddesden East","q":-237,"r":448 },
-		"E05015514":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.94158","lon":"-1.4547","n":"Chaddesden North","q":-239,"r":449 },
-		"E05015515":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.92684","lon":"-1.45258","n":"Chaddesden West","q":-238,"r":448 },
-		"E05015516":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.87317","lon":"-1.44599","n":"Chellaston & Shelton Lock","q":-239,"r":445 },
-		"E05015517":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.93619","lon":"-1.48334","n":"Darley","q":-240,"r":449 },
-		"E05015518":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.90095","lon":"-1.52348","n":"Littleover","q":-241,"r":447 },
-		"E05015519":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.92665","lon":"-1.51551","n":"Mackworth & New Zealand","q":-241,"r":449 },
-		"E05015520":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.91219","lon":"-1.53565","n":"Mickleover","q":-241,"r":448 },
-		"E05015521":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.90023","lon":"-1.48216","n":"Normanton","q":-240,"r":447 },
-		"E05015522":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.94535","lon":"-1.43315","n":"Oakwood","q":-238,"r":449 },
-		"E05015523":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.88268","lon":"-1.47757","n":"Sinfin & Osmaston","q":-239,"r":446 },
-		"E05015524":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.91702","lon":"-1.41188","n":"Spondon","q":-238,"r":447 }
+		"E05015507":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.91462","lon":"-1.50217","n":"Abbey","q":-54,"r":73},
+		"E05015508":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.95234","lon":"-1.49377","n":"Allestree","q":-54,"r":75},
+		"E05015509":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.90298","lon":"-1.4364","n":"Alvaston North","q":-52,"r":72},
+		"E05015510":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.8853","lon":"-1.43355","n":"Alvaston South","q":-52,"r":71},
+		"E05015511":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.91357","lon":"-1.4765","n":"Arboretum","q":-53,"r":73},
+		"E05015512":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.89309","lon":"-1.50557","n":"Blagreaves","q":-54,"r":71},
+		"E05015513":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.92225","lon":"-1.43213","n":"Chaddesden East","q":-51,"r":73},
+		"E05015514":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.94158","lon":"-1.4547","n":"Chaddesden North","q":-52,"r":74},
+		"E05015515":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.92684","lon":"-1.45258","n":"Chaddesden West","q":-52,"r":73},
+		"E05015516":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.87317","lon":"-1.44599","n":"Chellaston & Shelton Lock","q":-52,"r":70},
+		"E05015517":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.93619","lon":"-1.48334","n":"Darley","q":-53,"r":74},
+		"E05015518":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.90095","lon":"-1.52348","n":"Littleover","q":-54,"r":72},
+		"E05015519":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.92665","lon":"-1.51551","n":"Mackworth & New Zealand","q":-54,"r":74},
+		"E05015520":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.91219","lon":"-1.53565","n":"Mickleover","q":-55,"r":73},
+		"E05015521":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.90023","lon":"-1.48216","n":"Normanton","q":-53,"r":72},
+		"E05015522":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.94535","lon":"-1.43315","n":"Oakwood","q":-51,"r":74},
+		"E05015523":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.88268","lon":"-1.47757","n":"Sinfin & Osmaston","q":-53,"r":71},
+		"E05015524":{"LAD24CD":"E06000015","LAD24NM":"Derby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#1C9F8E","lat":"52.91702","lon":"-1.41188","n":"Spondon","q":-51,"r":72}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

@@ -1,19 +1,19 @@
 {
 	"hexes":{
-		"E05015624":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.91151","lon":"-0.19246","n":"Almond Hill","q":-190,"r":409 },
-		"E05015625":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.89382","lon":"-0.16408","n":"Bandley Hill & Poplars","q":-188,"r":408 },
-		"E05015626":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.89871","lon":"-0.19217","n":"Bedwell","q":-190,"r":408 },
-		"E05015627":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.90817","lon":"-0.17099","n":"Chells","q":-189,"r":409 },
-		"E05015628":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.87869","lon":"-0.16172","n":"Longmeadow","q":-189,"r":407 },
-		"E05015629":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.91585","lon":"-0.16364","n":"Manor","q":-188,"r":410 },
-		"E05015630":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.91612","lon":"-0.18173","n":"Martins Wood","q":-189,"r":410 },
-		"E05015631":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.90254","lon":"-0.20436","n":"Old Town","q":-191,"r":409 },
-		"E05015632":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.88832","lon":"-0.19667","n":"Roebuck","q":-190,"r":407 },
-		"E05015633":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.8975","lon":"-0.17978","n":"Shephall","q":-189,"r":408 },
-		"E05015634":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.92483","lon":"-0.17738","n":"St Nicholas","q":-189,"r":411 },
-		"E05015635":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.90883","lon":"-0.222","n":"Symonds Green","q":-191,"r":408 },
-		"E05015636":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.92373","lon":"-0.20655","n":"Woodfield","q":-190,"r":411 }
+		"E05015624":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.91151","lon":"-0.19246","n":"Almond Hill","q":-8,"r":34},
+		"E05015625":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.89382","lon":"-0.16408","n":"Bandley Hill & Poplars","q":-7,"r":33},
+		"E05015626":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.89871","lon":"-0.19217","n":"Bedwell","q":-9,"r":33},
+		"E05015627":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.90817","lon":"-0.17099","n":"Chells","q":-7,"r":34},
+		"E05015628":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.87869","lon":"-0.16172","n":"Longmeadow","q":-7,"r":32},
+		"E05015629":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.91585","lon":"-0.16364","n":"Manor","q":-7,"r":35},
+		"E05015630":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.91612","lon":"-0.18173","n":"Martins Wood","q":-8,"r":35},
+		"E05015631":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.90254","lon":"-0.20436","n":"Old Town","q":-9,"r":34},
+		"E05015632":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.88832","lon":"-0.19667","n":"Roebuck","q":-8,"r":32},
+		"E05015633":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.8975","lon":"-0.17978","n":"Shephall","q":-8,"r":33},
+		"E05015634":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.92483","lon":"-0.17738","n":"St Nicholas","q":-7,"r":36},
+		"E05015635":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.90883","lon":"-0.222","n":"Symonds Green","q":-10,"r":33},
+		"E05015636":{"LAD24CD":"E07000243","LAD24NM":"Stevenage","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#AF42A0","lat":"51.92373","lon":"-0.20655","n":"Woodfield","q":-8,"r":36}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

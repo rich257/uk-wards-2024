@@ -1,14 +1,14 @@
 {
 	"hexes":{
-		"S13003024":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.38834","lon":"-3.32559","n":"Speyside Glenlivet","q":-294,"r":635 },
-		"S13003025":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.61692","lon":"-2.84218","n":"Keith and Cullen","q":-292,"r":635 },
-		"S13003026":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.67424","lon":"-2.94791","n":"Buckie","q":-291,"r":636 },
-		"S13003027":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.6407","lon":"-3.11753","n":"Fochabers Lhanbryde","q":-292,"r":636 },
-		"S13003028":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.65193","lon":"-3.38598","n":"Heldon and Laich","q":-294,"r":637 },
-		"S13003029":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.65611","lon":"-3.31357","n":"Elgin City North","q":-293,"r":637 },
-		"S13003030":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.63677","lon":"-3.32326","n":"Elgin City South","q":-293,"r":636 },
-		"S13003031":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.53478","lon":"-3.62432","n":"Forres","q":-294,"r":636 }
+		"S13003024":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.38834","lon":"-3.32559","n":"Speyside Glenlivet","q":-89,"r":206},
+		"S13003025":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.61692","lon":"-2.84218","n":"Keith and Cullen","q":-87,"r":206},
+		"S13003026":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.67424","lon":"-2.94791","n":"Buckie","q":-87,"r":207},
+		"S13003027":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.6407","lon":"-3.11753","n":"Fochabers Lhanbryde","q":-88,"r":207},
+		"S13003028":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.65193","lon":"-3.38598","n":"Heldon and Laich","q":-89,"r":208},
+		"S13003029":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.65611","lon":"-3.31357","n":"Elgin City North","q":-88,"r":208},
+		"S13003030":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.63677","lon":"-3.32326","n":"Elgin City South","q":-89,"r":207},
+		"S13003031":{"LAD24CD":"S12000020","LAD24NM":"Moray","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#810373","lat":"57.53478","lon":"-3.62432","n":"Forres","q":-90,"r":207}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

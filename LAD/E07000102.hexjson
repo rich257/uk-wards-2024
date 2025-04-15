@@ -1,19 +1,19 @@
 {
 	"hexes":{
-		"E05009425":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.71852","lon":"-0.41946","n":"Abbots Langley & Bedmond","q":-205,"r":397 },
-		"E05009426":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.62728","lon":"-0.37608","n":"Carpenders Park","q":-203,"r":392 },
-		"E05009427":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.67432","lon":"-0.46688","n":"Chorleywood North & Sarratt","q":-206,"r":395 },
-		"E05009428":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.62683","lon":"-0.51734","n":"Chorleywood South & Maple Cross","q":-207,"r":394 },
-		"E05009429":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.6487","lon":"-0.45514","n":"Dickinsons","q":-204,"r":394 },
-		"E05009430":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.65366","lon":"-0.43847","n":"Durrants","q":-205,"r":395 },
-		"E05009431":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.69119","lon":"-0.44411","n":"Gade Valley","q":-205,"r":396 },
-		"E05009432":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.69766","lon":"-0.41359","n":"Leavesden","q":-204,"r":396 },
-		"E05009433":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.6268","lon":"-0.44289","n":"Moor Park & Eastbury","q":-205,"r":393 },
-		"E05009434":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.63439","lon":"-0.40288","n":"Oxhey Hall & Hayling","q":-204,"r":393 },
-		"E05009435":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.64006","lon":"-0.49766","n":"Penn & Mill End","q":-206,"r":394 },
-		"E05009436":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.64048","lon":"-0.47065","n":"Rickmansworth Town","q":-205,"r":394 },
-		"E05009437":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.62051","lon":"-0.39971","n":"South Oxhey","q":-204,"r":392 }
+		"E05009425":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.71852","lon":"-0.41946","n":"Abbots Langley & Bedmond","q":-24,"r":23},
+		"E05009426":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.62728","lon":"-0.37608","n":"Carpenders Park","q":-22,"r":18},
+		"E05009427":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.67432","lon":"-0.46688","n":"Chorleywood North & Sarratt","q":-25,"r":21},
+		"E05009428":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.62683","lon":"-0.51734","n":"Chorleywood South & Maple Cross","q":-26,"r":20},
+		"E05009429":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.6487","lon":"-0.45514","n":"Dickinsons","q":-23,"r":20},
+		"E05009430":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.65366","lon":"-0.43847","n":"Durrants","q":-24,"r":21},
+		"E05009431":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.69119","lon":"-0.44411","n":"Gade Valley","q":-24,"r":22},
+		"E05009432":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.69766","lon":"-0.41359","n":"Leavesden","q":-23,"r":22},
+		"E05009433":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.6268","lon":"-0.44289","n":"Moor Park & Eastbury","q":-24,"r":19},
+		"E05009434":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.63439","lon":"-0.40288","n":"Oxhey Hall & Hayling","q":-23,"r":19},
+		"E05009435":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.64006","lon":"-0.49766","n":"Penn & Mill End","q":-25,"r":20},
+		"E05009436":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.64048","lon":"-0.47065","n":"Rickmansworth Town","q":-24,"r":20},
+		"E05009437":{"LAD24CD":"E07000102","LAD24NM":"Three Rivers","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#7F88E4","lat":"51.62051","lon":"-0.39971","n":"South Oxhey","q":-23,"r":18}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

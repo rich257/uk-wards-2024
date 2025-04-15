@@ -1,17 +1,17 @@
 {
 	"hexes":{
-		"S13002761":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.65165","lon":"-3.32786","n":"Tweeddale West","q":-283,"r":593 },
-		"S13002762":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.63469","lon":"-3.03499","n":"Tweeddale East","q":-282,"r":593 },
-		"S13002763":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.73213","lon":"-2.92841","n":"Galashiels and District","q":-282,"r":594 },
-		"S13002764":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.46878","lon":"-3.07236","n":"Selkirkshire","q":-282,"r":592 },
-		"S13002765":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.70648","lon":"-2.7248","n":"Leaderdale and Melrose","q":-281,"r":594 },
-		"S13002766":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.78007","lon":"-2.41451","n":"Mid Berwickshire","q":-280,"r":594 },
-		"S13002767":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.82955","lon":"-2.22725","n":"East Berwickshire","q":-280,"r":595 },
-		"S13002768":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.5339","lon":"-2.38532","n":"Kelso and District","q":-281,"r":593 },
-		"S13002769":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.47634","lon":"-2.51689","n":"Jedburgh and District","q":-281,"r":592 },
-		"S13002770":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.40865","lon":"-2.67087","n":"Hawick and Denholm","q":-282,"r":591 },
-		"S13002771":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.272","lon":"-2.83801","n":"Hawick and Hermitage","q":-283,"r":591 }
+		"S13002761":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.65165","lon":"-3.32786","n":"Tweeddale West","q":-79,"r":170},
+		"S13002762":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.63469","lon":"-3.03499","n":"Tweeddale East","q":-78,"r":170},
+		"S13002763":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.73213","lon":"-2.92841","n":"Galashiels and District","q":-79,"r":171},
+		"S13002764":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.46878","lon":"-3.07236","n":"Selkirkshire","q":-79,"r":169},
+		"S13002765":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.70648","lon":"-2.7248","n":"Leaderdale and Melrose","q":-78,"r":171},
+		"S13002766":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.78007","lon":"-2.41451","n":"Mid Berwickshire","q":-77,"r":171},
+		"S13002767":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.82955","lon":"-2.22725","n":"East Berwickshire","q":-76,"r":172},
+		"S13002768":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.5339","lon":"-2.38532","n":"Kelso and District","q":-77,"r":170},
+		"S13002769":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.47634","lon":"-2.51689","n":"Jedburgh and District","q":-78,"r":169},
+		"S13002770":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.40865","lon":"-2.67087","n":"Hawick and Denholm","q":-78,"r":168},
+		"S13002771":{"LAD24CD":"S12000026","LAD24NM":"Scottish Borders","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9EACEC","lat":"55.272","lon":"-2.83801","n":"Hawick and Hermitage","q":-79,"r":168}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

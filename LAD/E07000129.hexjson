@@ -1,23 +1,23 @@
 {
 	"hexes":{
-		"E05015260":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.56715","lon":"-1.154","n":"Blaby","q":-227,"r":427 },
-		"E05015261":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.60647","lon":"-1.18094","n":"Braunstone Millfield","q":-226,"r":430 },
-		"E05015262":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.61444","lon":"-1.17886","n":"Braunstone Ravenhurst","q":-227,"r":430 },
-		"E05015263":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.54777","lon":"-1.18504","n":"Cosby & South Whetstone","q":-228,"r":426 },
-		"E05015264":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.55366","lon":"-1.11585","n":"Countesthorpe","q":-227,"r":426 },
-		"E05015265":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.58997","lon":"-1.19576","n":"Enderby","q":-228,"r":429 },
-		"E05015266":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.52183","lon":"-1.2986","n":"Fosse Highcross","q":-230,"r":427 },
-		"E05015267":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.59216","lon":"-1.26055","n":"Fosse Normanton","q":-229,"r":429 },
-		"E05015268":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.55339","lon":"-1.26584","n":"Fosse Stoney Cove","q":-229,"r":428 },
-		"E05015269":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.58268","lon":"-1.17336","n":"Glen Parva","q":-227,"r":428 },
-		"E05015270":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.649","lon":"-1.21002","n":"Glenfield Ellis","q":-228,"r":432 },
-		"E05015271":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.6475","lon":"-1.19384","n":"Glenfield Faire","q":-227,"r":432 },
-		"E05015272":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.62869","lon":"-1.23518","n":"Kirby Muxloe","q":-229,"r":431 },
-		"E05015273":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.61095","lon":"-1.22434","n":"Leicester Forest & Lubbesthorpe","q":-228,"r":430 },
-		"E05015274":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.57347","lon":"-1.20956","n":"Narborough & Littlethorpe","q":-228,"r":428 },
-		"E05015275":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.57332","lon":"-1.17865","n":"North Whetstone","q":-228,"r":427 },
-		"E05015276":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.61618","lon":"-1.19679","n":"Thorpe Astley & St Mary's","q":-227,"r":429 }
+		"E05015260":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.56715","lon":"-1.154","n":"Blaby","q":-36,"r":44},
+		"E05015261":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.60647","lon":"-1.18094","n":"Braunstone Millfield","q":-36,"r":47},
+		"E05015262":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.61444","lon":"-1.17886","n":"Braunstone Ravenhurst","q":-37,"r":47},
+		"E05015263":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.54777","lon":"-1.18504","n":"Cosby & South Whetstone","q":-38,"r":43},
+		"E05015264":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.55366","lon":"-1.11585","n":"Countesthorpe","q":-37,"r":43},
+		"E05015265":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.58997","lon":"-1.19576","n":"Enderby","q":-37,"r":46},
+		"E05015266":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.52183","lon":"-1.2986","n":"Fosse Highcross","q":-39,"r":44},
+		"E05015267":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.59216","lon":"-1.26055","n":"Fosse Normanton","q":-38,"r":46},
+		"E05015268":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.55339","lon":"-1.26584","n":"Fosse Stoney Cove","q":-39,"r":45},
+		"E05015269":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.58268","lon":"-1.17336","n":"Glen Parva","q":-37,"r":45},
+		"E05015270":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.649","lon":"-1.21002","n":"Glenfield Ellis","q":-38,"r":49},
+		"E05015271":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.6475","lon":"-1.19384","n":"Glenfield Faire","q":-37,"r":49},
+		"E05015272":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.62869","lon":"-1.23518","n":"Kirby Muxloe","q":-38,"r":48},
+		"E05015273":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.61095","lon":"-1.22434","n":"Leicester Forest & Lubbesthorpe","q":-38,"r":47},
+		"E05015274":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.57347","lon":"-1.20956","n":"Narborough & Littlethorpe","q":-38,"r":45},
+		"E05015275":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.57332","lon":"-1.17865","n":"North Whetstone","q":-37,"r":44},
+		"E05015276":{"LAD24CD":"E07000129","LAD24NM":"Blaby","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#DEDB85","lat":"52.61618","lon":"-1.19679","n":"Thorpe Astley & St Mary's","q":-36,"r":46}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

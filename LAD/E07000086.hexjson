@@ -1,20 +1,20 @@
 {
 	"hexes":{
-		"E05011187":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.96852","lon":"-1.32517","n":"Bishopstoke","q":-234,"r":320 },
-		"E05011188":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.90955","lon":"-1.28223","n":"Botley","q":-234,"r":317 },
-		"E05011189":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.88864","lon":"-1.32114","n":"Bursledon & Hound North","q":-234,"r":316 },
-		"E05011190":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.98249","lon":"-1.38171","n":"Chandler's Ford","q":-236,"r":320 },
-		"E05011191":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.96537","lon":"-1.36001","n":"Eastleigh Central","q":-235,"r":320 },
-		"E05011192":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.98545","lon":"-1.35256","n":"Eastleigh North","q":-235,"r":321 },
-		"E05011193":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.95708","lon":"-1.36486","n":"Eastleigh South","q":-236,"r":319 },
-		"E05011194":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.96419","lon":"-1.28868","n":"Fair Oak & Horton Heath","q":-234,"r":319 },
-		"E05011195":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.86867","lon":"-1.32968","n":"Hamble & Netley","q":-235,"r":315 },
-		"E05011196":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.92696","lon":"-1.29726","n":"Hedge End North","q":-234,"r":318 },
-		"E05011197":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.91358","lon":"-1.30905","n":"Hedge End South","q":-235,"r":317 },
-		"E05011198":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.99345","lon":"-1.37854","n":"Hiltingbury","q":-236,"r":321 },
-		"E05011199":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.94125","lon":"-1.32522","n":"West End North","q":-235,"r":319 },
-		"E05011200":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.91926","lon":"-1.32624","n":"West End South","q":-235,"r":318 }
+		"E05011187":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.96852","lon":"-1.32517","n":"Bishopstoke","q":-56,"r":-21},
+		"E05011188":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.90955","lon":"-1.28223","n":"Botley","q":-55,"r":-24},
+		"E05011189":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.88864","lon":"-1.32114","n":"Bursledon & Hound North","q":-56,"r":-25},
+		"E05011190":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.98249","lon":"-1.38171","n":"Chandler's Ford","q":-58,"r":-21},
+		"E05011191":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.96537","lon":"-1.36001","n":"Eastleigh Central","q":-57,"r":-21},
+		"E05011192":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.98545","lon":"-1.35256","n":"Eastleigh North","q":-56,"r":-20},
+		"E05011193":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.95708","lon":"-1.36486","n":"Eastleigh South","q":-57,"r":-22},
+		"E05011194":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.96419","lon":"-1.28868","n":"Fair Oak & Horton Heath","q":-55,"r":-22},
+		"E05011195":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.86867","lon":"-1.32968","n":"Hamble & Netley","q":-56,"r":-26},
+		"E05011196":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.92696","lon":"-1.29726","n":"Hedge End North","q":-56,"r":-23},
+		"E05011197":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.91358","lon":"-1.30905","n":"Hedge End South","q":-56,"r":-24},
+		"E05011198":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.99345","lon":"-1.37854","n":"Hiltingbury","q":-57,"r":-20},
+		"E05011199":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.94125","lon":"-1.32522","n":"West End North","q":-56,"r":-22},
+		"E05011200":{"LAD24CD":"E07000086","LAD24NM":"Eastleigh","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9CC6F9","lat":"50.91926","lon":"-1.32624","n":"West End South","q":-57,"r":-23}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

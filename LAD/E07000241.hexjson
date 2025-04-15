@@ -1,22 +1,22 @@
 {
 	"hexes":{
-		"E05011058":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.74591","lon":"-0.16661","n":"Brookmans Park and Little Heath","q":-191,"r":401 },
-		"E05011059":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.80757","lon":"-0.18224","n":"Haldens","q":-191,"r":404 },
-		"E05011060":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.79378","lon":"-0.21547","n":"Handside","q":-193,"r":403 },
-		"E05011061":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.76787","lon":"-0.22863","n":"Hatfield Central","q":-193,"r":402 },
-		"E05011062":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.76449","lon":"-0.19965","n":"Hatfield East","q":-192,"r":401 },
-		"E05011063":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.75308","lon":"-0.23495","n":"Hatfield South West","q":-193,"r":401 },
-		"E05011064":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.77727","lon":"-0.25052","n":"Hatfield Villages","q":-194,"r":403 },
-		"E05011065":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.78769","lon":"-0.19879","n":"Hollybush","q":-192,"r":402 },
-		"E05011066":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.78877","lon":"-0.17621","n":"Howlands","q":-191,"r":402 },
-		"E05011067":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.71401","lon":"-0.13251","n":"Northaw and Cuffley","q":-190,"r":400 },
-		"E05011068":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.79903","lon":"-0.16489","n":"Panshanger","q":-191,"r":403 },
-		"E05011069":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.79854","lon":"-0.19532","n":"Peartree","q":-192,"r":403 },
-		"E05011070":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.816","lon":"-0.21061","n":"Sherrards","q":-192,"r":404 },
-		"E05011071":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.72867","lon":"-0.21653","n":"Welham Green and Hatfield South","q":-192,"r":400 },
-		"E05011072":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.83054","lon":"-0.18863","n":"Welwyn East","q":-192,"r":405 },
-		"E05011073":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.8346","lon":"-0.24769","n":"Welwyn West","q":-193,"r":405 }
+		"E05011058":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.74591","lon":"-0.16661","n":"Brookmans Park and Little Heath","q":-9,"r":27},
+		"E05011059":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.80757","lon":"-0.18224","n":"Haldens","q":-9,"r":30},
+		"E05011060":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.79378","lon":"-0.21547","n":"Handside","q":-11,"r":29},
+		"E05011061":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.76787","lon":"-0.22863","n":"Hatfield Central","q":-11,"r":28},
+		"E05011062":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.76449","lon":"-0.19965","n":"Hatfield East","q":-10,"r":27},
+		"E05011063":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.75308","lon":"-0.23495","n":"Hatfield South West","q":-11,"r":27},
+		"E05011064":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.77727","lon":"-0.25052","n":"Hatfield Villages","q":-12,"r":29},
+		"E05011065":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.78769","lon":"-0.19879","n":"Hollybush","q":-10,"r":28},
+		"E05011066":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.78877","lon":"-0.17621","n":"Howlands","q":-9,"r":28},
+		"E05011067":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.71401","lon":"-0.13251","n":"Northaw and Cuffley","q":-8,"r":26},
+		"E05011068":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.79903","lon":"-0.16489","n":"Panshanger","q":-9,"r":29},
+		"E05011069":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.79854","lon":"-0.19532","n":"Peartree","q":-10,"r":29},
+		"E05011070":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.816","lon":"-0.21061","n":"Sherrards","q":-10,"r":30},
+		"E05011071":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.72867","lon":"-0.21653","n":"Welham Green and Hatfield South","q":-10,"r":26},
+		"E05011072":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.83054","lon":"-0.18863","n":"Welwyn East","q":-10,"r":31},
+		"E05011073":{"LAD24CD":"E07000241","LAD24NM":"Welwyn Hatfield","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E0CD39","lat":"51.8346","lon":"-0.24769","n":"Welwyn West","q":-11,"r":31}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

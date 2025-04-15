@@ -1,16 +1,16 @@
 {
 	"hexes":{
-		"E05005531":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.58752","lon":"-1.07266","n":"Oadby Brocks Hill","q":-218,"r":430 },
-		"E05005532":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.60847","lon":"-1.07979","n":"Oadby Grange","q":-218,"r":432 },
-		"E05005533":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.5999","lon":"-1.09085","n":"Oadby St Peter's","q":-219,"r":431 },
-		"E05005534":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.60148","lon":"-1.06661","n":"Oadby Uplands","q":-218,"r":431 },
-		"E05005535":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.59414","lon":"-1.05807","n":"Oadby Woodlands","q":-217,"r":430 },
-		"E05005536":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.5776","lon":"-1.13016","n":"South Wigston","q":-221,"r":429 },
-		"E05005537":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.5761","lon":"-1.11097","n":"Wigston All Saints","q":-220,"r":429 },
-		"E05005538":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.58958","lon":"-1.11736","n":"Wigston Fields","q":-220,"r":430 },
-		"E05005539":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.57293","lon":"-1.08558","n":"Wigston Meadowcourt","q":-219,"r":429 },
-		"E05005540":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.5914","lon":"-1.10046","n":"Wigston St Wolstan's","q":-219,"r":430 }
+		"E05005531":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.58752","lon":"-1.07266","n":"Oadby Brocks Hill","q":-28,"r":47},
+		"E05005532":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.60847","lon":"-1.07979","n":"Oadby Grange","q":-28,"r":49},
+		"E05005533":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.5999","lon":"-1.09085","n":"Oadby St Peter's","q":-28,"r":48},
+		"E05005534":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.60148","lon":"-1.06661","n":"Oadby Uplands","q":-27,"r":48},
+		"E05005535":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.59414","lon":"-1.05807","n":"Oadby Woodlands","q":-27,"r":47},
+		"E05005536":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.5776","lon":"-1.13016","n":"South Wigston","q":-30,"r":46},
+		"E05005537":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.5761","lon":"-1.11097","n":"Wigston All Saints","q":-29,"r":46},
+		"E05005538":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.58958","lon":"-1.11736","n":"Wigston Fields","q":-30,"r":47},
+		"E05005539":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.57293","lon":"-1.08558","n":"Wigston Meadowcourt","q":-28,"r":46},
+		"E05005540":{"LAD24CD":"E07000135","LAD24NM":"Oadby and Wigston","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#A52C8D","lat":"52.5914","lon":"-1.10046","n":"Wigston St Wolstan's","q":-29,"r":47}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

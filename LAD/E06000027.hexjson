@@ -1,22 +1,22 @@
 {
 	"hexes":{
-		"E05012254":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.49442","lon":"-3.54279","n":"Barton with Watcombe","q":-324,"r":334 },
-		"E05012255":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.39231","lon":"-3.55494","n":"Churston with Galmpton","q":-325,"r":328 },
-		"E05012256":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.43879","lon":"-3.57842","n":"Clifton with Maidenway","q":-325,"r":330 },
-		"E05012257":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.46368","lon":"-3.56677","n":"Cockington with Chelston","q":-324,"r":332 },
-		"E05012258":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.42461","lon":"-3.60381","n":"Collaton St Mary","q":-326,"r":329 },
-		"E05012259":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.47092","lon":"-3.52383","n":"Ellacombe","q":-323,"r":333 },
-		"E05012260":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.38966","lon":"-3.52272","n":"Furzeham with Summercombe","q":-324,"r":328 },
-		"E05012261":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.42193","lon":"-3.57353","n":"Goodrington with Roselands","q":-325,"r":329 },
-		"E05012262":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.44116","lon":"-3.5963","n":"King's Ash","q":-326,"r":331 },
-		"E05012263":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.44889","lon":"-3.5679","n":"Preston","q":-325,"r":331 },
-		"E05012264":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.43641","lon":"-3.56577","n":"Roundham with Hyde","q":-324,"r":330 },
-		"E05012265":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.49313","lon":"-3.51992","n":"St Marychurch","q":-323,"r":334 },
-		"E05012266":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.39205","lon":"-3.50383","n":"St Peter's with St Mary's","q":-323,"r":328 },
-		"E05012267":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.47899","lon":"-3.56717","n":"Shiphay","q":-325,"r":333 },
-		"E05012268":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.47123","lon":"-3.54369","n":"Tormohun","q":-324,"r":333 },
-		"E05012269":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.46541","lon":"-3.50609","n":"Wellswood","q":-322,"r":332 }
+		"E05012254":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.49442","lon":"-3.54279","n":"Barton with Watcombe","q":-105,"r":-46},
+		"E05012255":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.39231","lon":"-3.55494","n":"Churston with Galmpton","q":-106,"r":-52},
+		"E05012256":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.43879","lon":"-3.57842","n":"Clifton with Maidenway","q":-106,"r":-50},
+		"E05012257":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.46368","lon":"-3.56677","n":"Cockington with Chelston","q":-105,"r":-48},
+		"E05012258":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.42461","lon":"-3.60381","n":"Collaton St Mary","q":-107,"r":-51},
+		"E05012259":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.47092","lon":"-3.52383","n":"Ellacombe","q":-104,"r":-47},
+		"E05012260":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.38966","lon":"-3.52272","n":"Furzeham with Summercombe","q":-105,"r":-52},
+		"E05012261":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.42193","lon":"-3.57353","n":"Goodrington with Roselands","q":-106,"r":-51},
+		"E05012262":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.44116","lon":"-3.5963","n":"King's Ash","q":-107,"r":-49},
+		"E05012263":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.44889","lon":"-3.5679","n":"Preston","q":-106,"r":-49},
+		"E05012264":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.43641","lon":"-3.56577","n":"Roundham with Hyde","q":-105,"r":-50},
+		"E05012265":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.49313","lon":"-3.51992","n":"St Marychurch","q":-104,"r":-46},
+		"E05012266":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.39205","lon":"-3.50383","n":"St Peter's with St Mary's","q":-104,"r":-52},
+		"E05012267":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.47899","lon":"-3.56717","n":"Shiphay","q":-106,"r":-47},
+		"E05012268":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.47123","lon":"-3.54369","n":"Tormohun","q":-105,"r":-47},
+		"E05012269":{"LAD24CD":"E06000027","LAD24NM":"Torbay","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#1C839F","lat":"50.46541","lon":"-3.50609","n":"Wellswood","q":-103,"r":-48}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

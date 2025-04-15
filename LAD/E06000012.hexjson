@@ -1,21 +1,21 @@
 {
 	"hexes":{
-		"E05001713":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.5542","lon":"-0.03766","n":"Croft Baker","q":-212,"r":492 },
-		"E05001714":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.57183","lon":"-0.06576","n":"East Marsh","q":-214,"r":493 },
-		"E05001715":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.57448","lon":"-0.12172","n":"Freshney","q":-215,"r":494 },
-		"E05001716":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.54511","lon":"-0.02421","n":"Haverstoe","q":-212,"r":491 },
-		"E05001717":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.55241","lon":"-0.06201","n":"Heneage","q":-213,"r":492 },
-		"E05001718":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.53175","lon":"-0.0356","n":"Humberston and New Waltham","q":-213,"r":491 },
-		"E05001719":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.60393","lon":"-0.20788","n":"Immingham","q":-216,"r":494 },
-		"E05001720":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.55173","lon":"-0.08938","n":"Park","q":-214,"r":492 },
-		"E05001721":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.5333","lon":"-0.09433","n":"Scartho","q":-215,"r":491 },
-		"E05001722":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.56783","lon":"-0.04737","n":"Sidney Sussex","q":-213,"r":493 },
-		"E05001723":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.5525","lon":"-0.10988","n":"South","q":-215,"r":492 },
-		"E05001724":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.49765","lon":"-0.10795","n":"Waltham","q":-214,"r":491 },
-		"E05001725":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.57385","lon":"-0.09426","n":"West Marsh","q":-215,"r":493 },
-		"E05001726":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.50928","lon":"-0.15021","n":"Wolds","q":-216,"r":492 },
-		"E05001727":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.55996","lon":"-0.12033","n":"Yarborough","q":-216,"r":493 }
+		"E05001713":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.5542","lon":"-0.03766","n":"Croft Baker","q":-26,"r":95},
+		"E05001714":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.57183","lon":"-0.06576","n":"East Marsh","q":-27,"r":96},
+		"E05001715":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.57448","lon":"-0.12172","n":"Freshney","q":-29,"r":97},
+		"E05001716":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.54511","lon":"-0.02421","n":"Haverstoe","q":-25,"r":94},
+		"E05001717":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.55241","lon":"-0.06201","n":"Heneage","q":-27,"r":95},
+		"E05001718":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.53175","lon":"-0.0356","n":"Humberston and New Waltham","q":-26,"r":94},
+		"E05001719":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.60393","lon":"-0.20788","n":"Immingham","q":-30,"r":97},
+		"E05001720":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.55173","lon":"-0.08938","n":"Park","q":-28,"r":95},
+		"E05001721":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.5333","lon":"-0.09433","n":"Scartho","q":-28,"r":94},
+		"E05001722":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.56783","lon":"-0.04737","n":"Sidney Sussex","q":-26,"r":96},
+		"E05001723":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.5525","lon":"-0.10988","n":"South","q":-29,"r":95},
+		"E05001724":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.49765","lon":"-0.10795","n":"Waltham","q":-27,"r":94},
+		"E05001725":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.57385","lon":"-0.09426","n":"West Marsh","q":-28,"r":96},
+		"E05001726":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.50928","lon":"-0.15021","n":"Wolds","q":-30,"r":95},
+		"E05001727":{"LAD24CD":"E06000012","LAD24NM":"North East Lincolnshire","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#9677A9","lat":"53.55996","lon":"-0.12033","n":"Yarborough","q":-29,"r":96}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

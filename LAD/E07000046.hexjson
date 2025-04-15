@@ -1,22 +1,22 @@
 {
 	"hexes":{
-		"E05011916":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.04704","lon":"-4.21036","n":"Appledore","q":-336,"r":347 },
-		"E05011917":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.00864","lon":"-4.18018","n":"Bideford East","q":-335,"r":344 },
-		"E05011918":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.02072","lon":"-4.21681","n":"Bideford North","q":-336,"r":345 },
-		"E05011919":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.00417","lon":"-4.22214","n":"Bideford South","q":-336,"r":344 },
-		"E05011920":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.01727","lon":"-4.23434","n":"Bideford West","q":-337,"r":345 },
-		"E05011921":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.73642","lon":"-4.27075","n":"Broadheath","q":-337,"r":341 },
-		"E05011922":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.96168","lon":"-4.14036","n":"Great Torrington","q":-336,"r":343 },
-		"E05011923":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.93675","lon":"-4.44896","n":"Hartland","q":-338,"r":343 },
-		"E05011924":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.81347","lon":"-4.35258","n":"Holsworthy","q":-338,"r":341 },
-		"E05011925":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.82786","lon":"-4.33142","n":"Milton & Tamarside","q":-337,"r":342 },
-		"E05011926":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.96269","lon":"-4.22642","n":"Monkleigh & Putford","q":-337,"r":343 },
-		"E05011927":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.03354","lon":"-4.21622","n":"Northam","q":-335,"r":346 },
-		"E05011928":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.89265","lon":"-4.16837","n":"Shebbear & Langtree","q":-336,"r":342 },
-		"E05011929":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.93607","lon":"-4.05577","n":"Two Rivers & Three Moors","q":-335,"r":343 },
-		"E05011930":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.03718","lon":"-4.23695","n":"Westward Ho!","q":-336,"r":346 },
-		"E05011931":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.87976","lon":"-3.95139","n":"Winkleigh","q":-334,"r":342 }
+		"E05011916":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.04704","lon":"-4.21036","n":"Appledore","q":-115,"r":-28},
+		"E05011917":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.00864","lon":"-4.18018","n":"Bideford East","q":-115,"r":-31},
+		"E05011918":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.02072","lon":"-4.21681","n":"Bideford North","q":-115,"r":-30},
+		"E05011919":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.00417","lon":"-4.22214","n":"Bideford South","q":-116,"r":-31},
+		"E05011920":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.01727","lon":"-4.23434","n":"Bideford West","q":-116,"r":-30},
+		"E05011921":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.73642","lon":"-4.27075","n":"Broadheath","q":-116,"r":-34},
+		"E05011922":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.96168","lon":"-4.14036","n":"Great Torrington","q":-115,"r":-32},
+		"E05011923":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.93675","lon":"-4.44896","n":"Hartland","q":-117,"r":-32},
+		"E05011924":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.81347","lon":"-4.35258","n":"Holsworthy","q":-117,"r":-34},
+		"E05011925":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.82786","lon":"-4.33142","n":"Milton & Tamarside","q":-117,"r":-33},
+		"E05011926":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.96269","lon":"-4.22642","n":"Monkleigh & Putford","q":-116,"r":-32},
+		"E05011927":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.03354","lon":"-4.21622","n":"Northam","q":-115,"r":-29},
+		"E05011928":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.89265","lon":"-4.16837","n":"Shebbear & Langtree","q":-116,"r":-33},
+		"E05011929":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.93607","lon":"-4.05577","n":"Two Rivers & Three Moors","q":-114,"r":-32},
+		"E05011930":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"51.03718","lon":"-4.23695","n":"Westward Ho!","q":-116,"r":-29},
+		"E05011931":{"LAD24CD":"E07000046","LAD24NM":"Torridge","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#269FBE","lat":"50.87976","lon":"-3.95139","n":"Winkleigh","q":-114,"r":-33}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

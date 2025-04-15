@@ -1,22 +1,22 @@
 {
 	"hexes":{
-		"E05005206":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.78037","lon":"-2.36069","n":"Altham","q":-276,"r":520 },
-		"E05005207":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.7494","lon":"-2.34047","n":"Barnfield","q":-277,"r":517 },
-		"E05005208":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.73298","lon":"-2.34469","n":"Baxenden","q":-277,"r":516 },
-		"E05005209":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.75253","lon":"-2.37512","n":"Central","q":-277,"r":518 },
-		"E05005210":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.75872","lon":"-2.3893","n":"Church","q":-278,"r":519 },
-		"E05005211":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.77453","lon":"-2.39182","n":"Clayton-le-Moors","q":-277,"r":520 },
-		"E05005212":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.76862","lon":"-2.34004","n":"Huncoat","q":-276,"r":519 },
-		"E05005213":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.72503","lon":"-2.38662","n":"Immanuel","q":-278,"r":516 },
-		"E05005214":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.76335","lon":"-2.36596","n":"Milnshaw","q":-277,"r":519 },
-		"E05005215":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.78981","lon":"-2.38599","n":"Netherton","q":-278,"r":520 },
-		"E05005216":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.79551","lon":"-2.41385","n":"Overton","q":-279,"r":520 },
-		"E05005217":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.75557","lon":"-2.35883","n":"Peel","q":-276,"r":518 },
-		"E05005218":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.76478","lon":"-2.42811","n":"Rishton","q":-279,"r":519 },
-		"E05005219":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.7465","lon":"-2.39619","n":"St Andrew's","q":-278,"r":518 },
-		"E05005220":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.73144","lon":"-2.41972","n":"St Oswald's","q":-279,"r":517 },
-		"E05005221":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.74446","lon":"-2.37529","n":"Spring Hill","q":-278,"r":517 }
+		"E05005206":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.78037","lon":"-2.36069","n":"Altham","q":-69,"r":114},
+		"E05005207":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.7494","lon":"-2.34047","n":"Barnfield","q":-70,"r":111},
+		"E05005208":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.73298","lon":"-2.34469","n":"Baxenden","q":-70,"r":110},
+		"E05005209":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.75253","lon":"-2.37512","n":"Central","q":-70,"r":112},
+		"E05005210":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.75872","lon":"-2.3893","n":"Church","q":-71,"r":113},
+		"E05005211":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.77453","lon":"-2.39182","n":"Clayton-le-Moors","q":-70,"r":114},
+		"E05005212":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.76862","lon":"-2.34004","n":"Huncoat","q":-69,"r":113},
+		"E05005213":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.72503","lon":"-2.38662","n":"Immanuel","q":-71,"r":110},
+		"E05005214":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.76335","lon":"-2.36596","n":"Milnshaw","q":-70,"r":113},
+		"E05005215":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.78981","lon":"-2.38599","n":"Netherton","q":-71,"r":114},
+		"E05005216":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.79551","lon":"-2.41385","n":"Overton","q":-72,"r":114},
+		"E05005217":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.75557","lon":"-2.35883","n":"Peel","q":-69,"r":112},
+		"E05005218":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.76478","lon":"-2.42811","n":"Rishton","q":-72,"r":113},
+		"E05005219":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.7465","lon":"-2.39619","n":"St Andrew's","q":-71,"r":112},
+		"E05005220":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.73144","lon":"-2.41972","n":"St Oswald's","q":-72,"r":111},
+		"E05005221":{"LAD24CD":"E07000120","LAD24NM":"Hyndburn","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#443E32","lat":"53.74446","lon":"-2.37529","n":"Spring Hill","q":-71,"r":111}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

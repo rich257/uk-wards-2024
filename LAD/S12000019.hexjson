@@ -1,12 +1,12 @@
 {
 	"hexes":{
-		"S13003018":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.82298","lon":"-3.27462","n":"Penicuik","q":-286,"r":595 },
-		"S13003019":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.87225","lon":"-3.1085","n":"Bonnyrigg","q":-285,"r":596 },
-		"S13003020":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.90993","lon":"-3.07794","n":"Dalkeith","q":-285,"r":597 },
-		"S13003021":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.86169","lon":"-3.186","n":"Midlothian West","q":-286,"r":596 },
-		"S13003022":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.87267","lon":"-2.9899","n":"Midlothian East","q":-284,"r":596 },
-		"S13003023":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.81151","lon":"-3.08345","n":"Midlothian South","q":-285,"r":595 }
+		"S13003018":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.82298","lon":"-3.27462","n":"Penicuik","q":-81,"r":172},
+		"S13003019":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.87225","lon":"-3.1085","n":"Bonnyrigg","q":-81,"r":173},
+		"S13003020":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.90993","lon":"-3.07794","n":"Dalkeith","q":-80,"r":174},
+		"S13003021":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.86169","lon":"-3.186","n":"Midlothian West","q":-82,"r":173},
+		"S13003022":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.87267","lon":"-2.9899","n":"Midlothian East","q":-80,"r":173},
+		"S13003023":{"LAD24CD":"S12000019","LAD24NM":"Midlothian","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#5A48A7","lat":"55.81151","lon":"-3.08345","n":"Midlothian South","q":-80,"r":172}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

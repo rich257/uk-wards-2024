@@ -1,19 +1,19 @@
 {
 	"hexes":{
-		"E05010015":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.09011","lon":"1.165481","n":"Broadmead","q":-158,"r":319 },
-		"E05010016":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.09106","lon":"1.138993","n":"Cheriton","q":-159,"r":319 },
-		"E05010017":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.09666","lon":"1.174155","n":"East Folkestone","q":-157,"r":320 },
-		"E05010018":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.07864","lon":"1.170581","n":"Folkestone Central","q":-157,"r":318 },
-		"E05010019":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.09032","lon":"1.199389","n":"Folkestone Harbour","q":-157,"r":319 },
-		"E05010020":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.08394","lon":"1.08086","n":"Hythe","q":-159,"r":318 },
-		"E05010021":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.07107","lon":"1.006822","n":"Hythe Rural","q":-160,"r":318 },
-		"E05010022":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"50.98707","lon":"0.949959","n":"New Romney","q":-161,"r":317 },
-		"E05010023":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.1401","lon":"1.133024","n":"North Downs East","q":-158,"r":320 },
-		"E05010024":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.14647","lon":"1.053718","n":"North Downs West","q":-159,"r":320 },
-		"E05010025":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.02967","lon":"0.950652","n":"Romney Marsh","q":-161,"r":318 },
-		"E05010026":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.07823","lon":"1.144393","n":"Sandgate & West Folkestone","q":-158,"r":318 },
-		"E05010027":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"50.98043","lon":"0.881686","n":"Walland & Denge Marsh","q":-162,"r":317 }
+		"E05010015":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.09011","lon":"1.165481","n":"Broadmead","q":30,"r":-23},
+		"E05010016":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.09106","lon":"1.138993","n":"Cheriton","q":29,"r":-23},
+		"E05010017":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.09666","lon":"1.174155","n":"East Folkestone","q":31,"r":-22},
+		"E05010018":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.07864","lon":"1.170581","n":"Folkestone Central","q":31,"r":-24},
+		"E05010019":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.09032","lon":"1.199389","n":"Folkestone Harbour","q":31,"r":-23},
+		"E05010020":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.08394","lon":"1.08086","n":"Hythe","q":29,"r":-24},
+		"E05010021":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.07107","lon":"1.006822","n":"Hythe Rural","q":28,"r":-24},
+		"E05010022":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"50.98707","lon":"0.949959","n":"New Romney","q":27,"r":-25},
+		"E05010023":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.1401","lon":"1.133024","n":"North Downs East","q":30,"r":-22},
+		"E05010024":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.14647","lon":"1.053718","n":"North Downs West","q":29,"r":-22},
+		"E05010025":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.02967","lon":"0.950652","n":"Romney Marsh","q":27,"r":-24},
+		"E05010026":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"51.07823","lon":"1.144393","n":"Sandgate & West Folkestone","q":30,"r":-24},
+		"E05010027":{"LAD24CD":"E07000112","LAD24NM":"Folkestone and Hythe","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#CEF666","lat":"50.98043","lon":"0.881686","n":"Walland & Denge Marsh","q":26,"r":-25}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

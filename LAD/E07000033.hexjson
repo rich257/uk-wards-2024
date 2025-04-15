@@ -1,23 +1,23 @@
 {
 	"hexes":{
-		"E05011983":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.18911","lon":"-1.2693","n":"Ault Hucknall","q":-231,"r":465 },
-		"E05011984":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.29157","lon":"-1.29064","n":"Barlborough","q":-232,"r":469 },
-		"E05011985":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.12535","lon":"-1.33389","n":"Blackwell","q":-232,"r":463 },
-		"E05011986":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.23588","lon":"-1.26987","n":"Bolsover East","q":-231,"r":467 },
-		"E05011987":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.24376","lon":"-1.3036","n":"Bolsover North & Shuttlewood","q":-232,"r":467 },
-		"E05011988":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.22113","lon":"-1.29134","n":"Bolsover South","q":-231,"r":466 },
-		"E05011989":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.28021","lon":"-1.2535","n":"Clowne East","q":-231,"r":468 },
-		"E05011990":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.26162","lon":"-1.30024","n":"Clowne West","q":-232,"r":468 },
-		"E05011991":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.27013","lon":"-1.21685","n":"Elmton-with-Creswell","q":-230,"r":468 },
-		"E05011992":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.22688","lon":"-1.236","n":"Langwith","q":-230,"r":466 },
-		"E05011993":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.09005","lon":"-1.32721","n":"Pinxton","q":-232,"r":461 },
-		"E05011994":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.20472","lon":"-1.21921","n":"Shirebrook North","q":-230,"r":465 },
-		"E05011995":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.19268","lon":"-1.21334","n":"Shirebrook South","q":-230,"r":464 },
-		"E05011996":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.10852","lon":"-1.32712","n":"South Normanton East","q":-231,"r":462 },
-		"E05011997":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.10055","lon":"-1.34726","n":"South Normanton West","q":-232,"r":462 },
-		"E05011998":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.14246","lon":"-1.34282","n":"Tibshelf","q":-231,"r":464 },
-		"E05011999":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.29147","lon":"-1.21692","n":"Whitwell","q":-231,"r":469 }
+		"E05011983":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.18911","lon":"-1.2693","n":"Ault Hucknall","q":-42,"r":85},
+		"E05011984":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.29157","lon":"-1.29064","n":"Barlborough","q":-43,"r":89},
+		"E05011985":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.12535","lon":"-1.33389","n":"Blackwell","q":-43,"r":83},
+		"E05011986":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.23588","lon":"-1.26987","n":"Bolsover East","q":-42,"r":87},
+		"E05011987":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.24376","lon":"-1.3036","n":"Bolsover North & Shuttlewood","q":-43,"r":87},
+		"E05011988":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.22113","lon":"-1.29134","n":"Bolsover South","q":-42,"r":86},
+		"E05011989":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.28021","lon":"-1.2535","n":"Clowne East","q":-42,"r":88},
+		"E05011990":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.26162","lon":"-1.30024","n":"Clowne West","q":-43,"r":88},
+		"E05011991":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.27013","lon":"-1.21685","n":"Elmton-with-Creswell","q":-41,"r":88},
+		"E05011992":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.22688","lon":"-1.236","n":"Langwith","q":-41,"r":86},
+		"E05011993":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.09005","lon":"-1.32721","n":"Pinxton","q":-43,"r":81},
+		"E05011994":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.20472","lon":"-1.21921","n":"Shirebrook North","q":-41,"r":85},
+		"E05011995":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.19268","lon":"-1.21334","n":"Shirebrook South","q":-41,"r":84},
+		"E05011996":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.10852","lon":"-1.32712","n":"South Normanton East","q":-42,"r":82},
+		"E05011997":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.10055","lon":"-1.34726","n":"South Normanton West","q":-43,"r":82},
+		"E05011998":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.14246","lon":"-1.34282","n":"Tibshelf","q":-42,"r":84},
+		"E05011999":{"LAD24CD":"E07000033","LAD24NM":"Bolsover","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#AAAD20","lat":"53.29147","lon":"-1.21692","n":"Whitwell","q":-42,"r":89}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

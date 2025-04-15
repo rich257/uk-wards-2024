@@ -1,22 +1,22 @@
 {
 	"hexes":{
-		"E05014473":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.7952","lon":"-1.63781","n":"Anglesey","q":-259,"r":452 },
-		"E05014474":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.79644","lon":"-1.78811","n":"Bagots & Needwood","q":-260,"r":452 },
-		"E05014475":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.8876","lon":"-1.93264","n":"Blythe","q":-262,"r":454 },
-		"E05014476":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.78932","lon":"-1.67132","n":"Branston","q":-260,"r":453 },
-		"E05014477":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.79725","lon":"-1.60737","n":"Brizlincote","q":-258,"r":452 },
-		"E05014478":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.81666","lon":"-1.62773","n":"Burton & Eton","q":-258,"r":454 },
-		"E05014479":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.84828","lon":"-1.78539","n":"Crown","q":-261,"r":453 },
-		"E05014480":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.83764","lon":"-1.68371","n":"Dove","q":-260,"r":454 },
-		"E05014481":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.90488","lon":"-1.8781","n":"Heath","q":-262,"r":455 },
-		"E05014482":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.82542","lon":"-1.65526","n":"Horninglow & Outwoods","q":-259,"r":454 },
-		"E05014483":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.80628","lon":"-1.65276","n":"Shobnall","q":-259,"r":453 },
-		"E05014484":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.78873","lon":"-1.62423","n":"Stapenhill","q":-259,"r":451 },
-		"E05014485":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.9837","lon":"-1.84569","n":"Stramshall & Weaver","q":-262,"r":456 },
-		"E05014486":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.83406","lon":"-1.62971","n":"Stretton","q":-259,"r":455 },
-		"E05014487":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.89486","lon":"-1.86362","n":"Town","q":-261,"r":454 },
-		"E05014488":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.80773","lon":"-1.60616","n":"Winshill","q":-258,"r":453 }
+		"E05014473":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.7952","lon":"-1.63781","n":"Anglesey","q":-57,"r":68},
+		"E05014474":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.79644","lon":"-1.78811","n":"Bagots & Needwood","q":-58,"r":68},
+		"E05014475":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.8876","lon":"-1.93264","n":"Blythe","q":-60,"r":70},
+		"E05014476":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.78932","lon":"-1.67132","n":"Branston","q":-58,"r":69},
+		"E05014477":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.79725","lon":"-1.60737","n":"Brizlincote","q":-56,"r":68},
+		"E05014478":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.81666","lon":"-1.62773","n":"Burton & Eton","q":-56,"r":70},
+		"E05014479":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.84828","lon":"-1.78539","n":"Crown","q":-59,"r":69},
+		"E05014480":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.83764","lon":"-1.68371","n":"Dove","q":-58,"r":70},
+		"E05014481":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.90488","lon":"-1.8781","n":"Heath","q":-60,"r":71},
+		"E05014482":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.82542","lon":"-1.65526","n":"Horninglow & Outwoods","q":-57,"r":70},
+		"E05014483":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.80628","lon":"-1.65276","n":"Shobnall","q":-57,"r":69},
+		"E05014484":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.78873","lon":"-1.62423","n":"Stapenhill","q":-57,"r":67},
+		"E05014485":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.9837","lon":"-1.84569","n":"Stramshall & Weaver","q":-60,"r":72},
+		"E05014486":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.83406","lon":"-1.62971","n":"Stretton","q":-57,"r":71},
+		"E05014487":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.89486","lon":"-1.86362","n":"Town","q":-59,"r":70},
+		"E05014488":{"LAD24CD":"E07000193","LAD24NM":"East Staffordshire","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#54BAF9","lat":"52.80773","lon":"-1.60616","n":"Winshill","q":-56,"r":69}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

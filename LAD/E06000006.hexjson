@@ -1,24 +1,24 @@
 {
 	"hexes":{
-		"E05013169":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.37258","lon":"-2.72531","n":"Appleton","q":-291,"r":486 },
-		"E05013170":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.36726","lon":"-2.77144","n":"Bankfield","q":-293,"r":486 },
-		"E05013171":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.3206","lon":"-2.71939","n":"Beechwood & Heath","q":-293,"r":482 },
-		"E05013172":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.38595","lon":"-2.74438","n":"Birchfield","q":-292,"r":487 },
-		"E05013173":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.33744","lon":"-2.7153","n":"Bridgewater","q":-292,"r":483 },
-		"E05013174":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.35921","lon":"-2.73395","n":"Central & West Bank","q":-292,"r":485 },
-		"E05013175":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.3443","lon":"-2.64314","n":"Daresbury, Moore & Sandymoor","q":-290,"r":482 },
-		"E05013176":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.33922","lon":"-2.79281","n":"Ditton, Hale Village & Halebank","q":-293,"r":485 },
-		"E05013177":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.38944","lon":"-2.72402","n":"Farnworth","q":-291,"r":487 },
-		"E05013178":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.32906","lon":"-2.71482","n":"Grange","q":-292,"r":482 },
-		"E05013179":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.34336","lon":"-2.69828","n":"Halton Castle","q":-291,"r":483 },
-		"E05013180":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.32353","lon":"-2.69256","n":"Halton Lea","q":-292,"r":481 },
-		"E05013181":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.37173","lon":"-2.70632","n":"Halton View","q":-291,"r":485 },
-		"E05013182":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.37153","lon":"-2.7455","n":"Highfield","q":-292,"r":486 },
-		"E05013183":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.37785","lon":"-2.76584","n":"Hough Green","q":-293,"r":487 },
-		"E05013184":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.3164","lon":"-2.74002","n":"Mersey & Weston","q":-293,"r":483 },
-		"E05013185":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.33405","lon":"-2.6695","n":"Norton North","q":-291,"r":482 },
-		"E05013186":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.31646","lon":"-2.65468","n":"Norton South & Preston Brook","q":-291,"r":481 }
+		"E05013169":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.37258","lon":"-2.72531","n":"Appleton","q":-83,"r":85},
+		"E05013170":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.36726","lon":"-2.77144","n":"Bankfield","q":-85,"r":85},
+		"E05013171":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.3206","lon":"-2.71939","n":"Beechwood & Heath","q":-85,"r":81},
+		"E05013172":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.38595","lon":"-2.74438","n":"Birchfield","q":-83,"r":86},
+		"E05013173":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.33744","lon":"-2.7153","n":"Bridgewater","q":-83,"r":82},
+		"E05013174":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.35921","lon":"-2.73395","n":"Central & West Bank","q":-83,"r":84},
+		"E05013175":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.3443","lon":"-2.64314","n":"Daresbury, Moore & Sandymoor","q":-82,"r":81},
+		"E05013176":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.33922","lon":"-2.79281","n":"Ditton, Hale Village & Halebank","q":-84,"r":84},
+		"E05013177":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.38944","lon":"-2.72402","n":"Farnworth","q":-82,"r":86},
+		"E05013178":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.32906","lon":"-2.71482","n":"Grange","q":-84,"r":81},
+		"E05013179":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.34336","lon":"-2.69828","n":"Halton Castle","q":-82,"r":82},
+		"E05013180":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.32353","lon":"-2.69256","n":"Halton Lea","q":-83,"r":80},
+		"E05013181":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.37173","lon":"-2.70632","n":"Halton View","q":-82,"r":84},
+		"E05013182":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.37153","lon":"-2.7455","n":"Highfield","q":-84,"r":85},
+		"E05013183":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.37785","lon":"-2.76584","n":"Hough Green","q":-84,"r":86},
+		"E05013184":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.3164","lon":"-2.74002","n":"Mersey & Weston","q":-84,"r":82},
+		"E05013185":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.33405","lon":"-2.6695","n":"Norton North","q":-83,"r":81},
+		"E05013186":{"LAD24CD":"E06000006","LAD24NM":"Halton","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#E45728","lat":"53.31646","lon":"-2.65468","n":"Norton South & Preston Brook","q":-82,"r":80}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

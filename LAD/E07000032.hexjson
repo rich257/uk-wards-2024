@@ -1,24 +1,24 @@
 {
 	"hexes":{
-		"E05014690":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.09868","lon":"-1.38752","n":"Alfreton","q":-235,"r":460 },
-		"E05014691":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.00261","lon":"-1.54524","n":"Alport & South West Parishes","q":-239,"r":456 },
-		"E05014692":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.03123","lon":"-1.4589","n":"Belper East","q":-238,"r":457 },
-		"E05014693":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.03437","lon":"-1.48497","n":"Belper North","q":-239,"r":457 },
-		"E05014694":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.00786","lon":"-1.47572","n":"Belper South","q":-238,"r":456 },
-		"E05014695":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.03503","lon":"-1.35416","n":"Codnor, Langley Mill & Aldercar","q":-236,"r":457 },
-		"E05014696":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.09063","lon":"-1.45647","n":"Crich & South Wingfield","q":-237,"r":459 },
-		"E05014697":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"52.98441","lon":"-1.49371","n":"Duffield & Quarndon","q":-239,"r":455 },
-		"E05014698":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.04885","lon":"-1.45326","n":"Heage & Ambergate","q":-237,"r":458 },
-		"E05014699":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.00925","lon":"-1.33739","n":"Heanor East","q":-235,"r":456 },
-		"E05014700":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.02174","lon":"-1.36308","n":"Heanor West & Loscoe","q":-236,"r":456 },
-		"E05014701":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.06272","lon":"-1.36082","n":"Ironville & Riddings","q":-235,"r":458 },
-		"E05014702":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.01742","lon":"-1.42382","n":"Kilburn, Denby, Holbrook & Horsley","q":-237,"r":456 },
-		"E05014703":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.04835","lon":"-1.39925","n":"Ripley","q":-236,"r":458 },
-		"E05014704":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.04232","lon":"-1.41382","n":"Ripley & Marehay","q":-237,"r":457 },
-		"E05014705":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"52.99597","lon":"-1.37131","n":"Smalley, Shipley & Horsley Woodhouse","q":-237,"r":455 },
-		"E05014706":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.08013","lon":"-1.35804","n":"Somercotes","q":-235,"r":459 },
-		"E05014707":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.07589","lon":"-1.39195","n":"Swanwick","q":-236,"r":459 }
+		"E05014690":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.09868","lon":"-1.38752","n":"Alfreton","q":-46,"r":80},
+		"E05014691":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.00261","lon":"-1.54524","n":"Alport & South West Parishes","q":-50,"r":76},
+		"E05014692":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.03123","lon":"-1.4589","n":"Belper East","q":-49,"r":77},
+		"E05014693":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.03437","lon":"-1.48497","n":"Belper North","q":-50,"r":77},
+		"E05014694":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.00786","lon":"-1.47572","n":"Belper South","q":-49,"r":76},
+		"E05014695":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.03503","lon":"-1.35416","n":"Codnor, Langley Mill & Aldercar","q":-47,"r":77},
+		"E05014696":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.09063","lon":"-1.45647","n":"Crich & South Wingfield","q":-48,"r":79},
+		"E05014697":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"52.98441","lon":"-1.49371","n":"Duffield & Quarndon","q":-50,"r":75},
+		"E05014698":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.04885","lon":"-1.45326","n":"Heage & Ambergate","q":-48,"r":78},
+		"E05014699":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.00925","lon":"-1.33739","n":"Heanor East","q":-46,"r":76},
+		"E05014700":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.02174","lon":"-1.36308","n":"Heanor West & Loscoe","q":-47,"r":76},
+		"E05014701":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.06272","lon":"-1.36082","n":"Ironville & Riddings","q":-46,"r":78},
+		"E05014702":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.01742","lon":"-1.42382","n":"Kilburn, Denby, Holbrook & Horsley","q":-48,"r":76},
+		"E05014703":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.04835","lon":"-1.39925","n":"Ripley","q":-47,"r":78},
+		"E05014704":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.04232","lon":"-1.41382","n":"Ripley & Marehay","q":-48,"r":77},
+		"E05014705":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"52.99597","lon":"-1.37131","n":"Smalley, Shipley & Horsley Woodhouse","q":-48,"r":75},
+		"E05014706":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.08013","lon":"-1.35804","n":"Somercotes","q":-46,"r":79},
+		"E05014707":{"LAD24CD":"E07000032","LAD24NM":"Amber Valley","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#61FA91","lat":"53.07589","lon":"-1.39195","n":"Swanwick","q":-47,"r":79}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

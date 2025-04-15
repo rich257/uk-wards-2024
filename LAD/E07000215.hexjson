@@ -1,24 +1,24 @@
 {
 	"hexes":{
-		"E05015885":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.24381","lon":"-0.11076","n":"Bletchingley & Nutfield","q":-195,"r":325 },
-		"E05015886":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.17706","lon":"-0.09037","n":"Burstow, Horne & Outwood","q":-194,"r":325 },
-		"E05015887":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.27912","lon":"-0.11197","n":"Chaldon","q":-196,"r":327 },
-		"E05015888":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.1668","lon":"0.022828","n":"Dormansland & Felbridge","q":-193,"r":325 },
-		"E05015889":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.22255","lon":"-0.05492","n":"Godstone","q":-193,"r":326 },
-		"E05015890":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.27212","lon":"-0.07667","n":"Harestone","q":-194,"r":326 },
-		"E05015891":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.23881","lon":"0.019982","n":"Limpsfield","q":-190,"r":326 },
-		"E05015892":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.18745","lon":"-0.0125","n":"Lingfield & Crowhurst","q":-192,"r":326 },
-		"E05015893":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.25902","lon":"-0.01552","n":"Oxted North","q":-192,"r":327 },
-		"E05015894":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.23215","lon":"-0.00158","n":"Oxted South","q":-191,"r":326 },
-		"E05015895":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.29106","lon":"-0.08953","n":"Portley & Queens Park","q":-195,"r":327 },
-		"E05015896":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.28457","lon":"0.017444","n":"Tatsfield & Titsey","q":-191,"r":327 },
-		"E05015897":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.28967","lon":"-0.07488","n":"Valley","q":-194,"r":327 },
-		"E05015898":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.31369","lon":"-0.0257","n":"Warlingham East & Chelsham & Farleigh","q":-192,"r":328 },
-		"E05015899":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.30944","lon":"-0.06771","n":"Warlingham West","q":-193,"r":328 },
-		"E05015900":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.29112","lon":"-0.10458","n":"Westway","q":-195,"r":328 },
-		"E05015901":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.29986","lon":"-0.07451","n":"Whyteleafe","q":-194,"r":328 },
-		"E05015902":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.28277","lon":"-0.04631","n":"Woldingham","q":-193,"r":327 }
+		"E05015885":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.24381","lon":"-0.11076","n":"Bletchingley & Nutfield","q":-8,"r":-24},
+		"E05015886":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.17706","lon":"-0.09037","n":"Burstow, Horne & Outwood","q":-7,"r":-24},
+		"E05015887":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.27912","lon":"-0.11197","n":"Chaldon","q":-9,"r":-22},
+		"E05015888":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.1668","lon":"0.022828","n":"Dormansland & Felbridge","q":-6,"r":-24},
+		"E05015889":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.22255","lon":"-0.05492","n":"Godstone","q":-7,"r":-23},
+		"E05015890":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.27212","lon":"-0.07667","n":"Harestone","q":-8,"r":-23},
+		"E05015891":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.23881","lon":"0.019982","n":"Limpsfield","q":-4,"r":-23},
+		"E05015892":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.18745","lon":"-0.0125","n":"Lingfield & Crowhurst","q":-6,"r":-23},
+		"E05015893":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.25902","lon":"-0.01552","n":"Oxted North","q":-5,"r":-22},
+		"E05015894":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.23215","lon":"-0.00158","n":"Oxted South","q":-5,"r":-23},
+		"E05015895":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.29106","lon":"-0.08953","n":"Portley & Queens Park","q":-8,"r":-22},
+		"E05015896":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.28457","lon":"0.017444","n":"Tatsfield & Titsey","q":-4,"r":-22},
+		"E05015897":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.28967","lon":"-0.07488","n":"Valley","q":-7,"r":-22},
+		"E05015898":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.31369","lon":"-0.0257","n":"Warlingham East & Chelsham & Farleigh","q":-6,"r":-21},
+		"E05015899":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.30944","lon":"-0.06771","n":"Warlingham West","q":-7,"r":-21},
+		"E05015900":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.29112","lon":"-0.10458","n":"Westway","q":-9,"r":-21},
+		"E05015901":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.29986","lon":"-0.07451","n":"Whyteleafe","q":-8,"r":-21},
+		"E05015902":{"LAD24CD":"E07000215","LAD24NM":"Tandridge","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#0637AC","lat":"51.28277","lon":"-0.04631","n":"Woldingham","q":-6,"r":-22}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

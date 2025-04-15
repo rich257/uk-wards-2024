@@ -1,11 +1,11 @@
 {
 	"hexes":{
-		"S13002875":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.15244","lon":"-3.84068","n":"Clackmannanshire West","q":-297,"r":611 },
-		"S13002876":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.176","lon":"-3.75752","n":"Clackmannanshire North","q":-295,"r":612 },
-		"S13002877":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.13287","lon":"-3.76754","n":"Clackmannanshire Central","q":-296,"r":611 },
-		"S13002878":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.11351","lon":"-3.79895","n":"Clackmannanshire South","q":-296,"r":610 },
-		"S13002879":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.13923","lon":"-3.67944","n":"Clackmannanshire East","q":-295,"r":610 }
+		"S13002875":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.15244","lon":"-3.84068","n":"Clackmannanshire West","q":-89,"r":186},
+		"S13002876":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.176","lon":"-3.75752","n":"Clackmannanshire North","q":-88,"r":187},
+		"S13002877":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.13287","lon":"-3.76754","n":"Clackmannanshire Central","q":-88,"r":186},
+		"S13002878":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.11351","lon":"-3.79895","n":"Clackmannanshire South","q":-89,"r":185},
+		"S13002879":{"LAD24CD":"S12000005","LAD24NM":"Clackmannanshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#862DEA","lat":"56.13923","lon":"-3.67944","n":"Clackmannanshire East","q":-88,"r":185}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

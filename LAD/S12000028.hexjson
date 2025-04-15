@@ -1,14 +1,14 @@
 {
 	"hexes":{
-		"S13003087":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.5447","lon":"-4.64874","n":"Troon","q":-308,"r":594 },
-		"S13003088":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.49348","lon":"-4.5979","n":"Prestwick","q":-308,"r":593 },
-		"S13003089":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.47128","lon":"-4.61035","n":"Ayr North","q":-308,"r":592 },
-		"S13003090":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.44624","lon":"-4.60844","n":"Ayr East","q":-308,"r":591 },
-		"S13003091":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.44218","lon":"-4.63466","n":"Ayr West","q":-309,"r":591 },
-		"S13003092":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.5315","lon":"-4.51359","n":"Kyle","q":-307,"r":594 },
-		"S13003093":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.34649","lon":"-4.60191","n":"Maybole, North Carrick and Coylton","q":-308,"r":590 },
-		"S13003094":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.19854","lon":"-4.76859","n":"Girvan and South Carrick","q":-309,"r":589 }
+		"S13003087":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.5447","lon":"-4.64874","n":"Troon","q":-102,"r":165},
+		"S13003088":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.49348","lon":"-4.5979","n":"Prestwick","q":-101,"r":164},
+		"S13003089":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.47128","lon":"-4.61035","n":"Ayr North","q":-102,"r":163},
+		"S13003090":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.44624","lon":"-4.60844","n":"Ayr East","q":-101,"r":162},
+		"S13003091":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.44218","lon":"-4.63466","n":"Ayr West","q":-102,"r":162},
+		"S13003092":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.5315","lon":"-4.51359","n":"Kyle","q":-101,"r":165},
+		"S13003093":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.34649","lon":"-4.60191","n":"Maybole, North Carrick and Coylton","q":-102,"r":161},
+		"S13003094":{"LAD24CD":"S12000028","LAD24NM":"South Ayrshire","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#0D9D0E","lat":"55.19854","lon":"-4.76859","n":"Girvan and South Carrick","q":-102,"r":160}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

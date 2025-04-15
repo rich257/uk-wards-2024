@@ -1,22 +1,22 @@
 {
 	"hexes":{
-		"E05008974":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.37665","lon":"-1.25807","n":"Benn","q":-242,"r":430 },
-		"E05008975":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.35712","lon":"-1.28375","n":"Bilton","q":-243,"r":428 },
-		"E05008976":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.39937","lon":"-1.22615","n":"Clifton, Newton and Churchover","q":-241,"r":430 },
-		"E05008977":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.39697","lon":"-1.24899","n":"Coton and Boughton","q":-243,"r":431 },
-		"E05008979":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.36324","lon":"-1.19903","n":"Hillmorton","q":-241,"r":429 },
-		"E05008980":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.29088","lon":"-1.30203","n":"Leam Valley","q":-244,"r":427 },
-		"E05008981":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.37732","lon":"-1.28354","n":"New Bilton","q":-243,"r":429 },
-		"E05008982":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.3959","lon":"-1.26592","n":"Newbold and Brownsover","q":-243,"r":430 },
-		"E05008983":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.35791","lon":"-1.23476","n":"Paddox","q":-241,"r":428 },
-		"E05008984":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.43936","lon":"-1.33971","n":"Revel and Binley Woods","q":-244,"r":431 },
-		"E05008985":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.35867","lon":"-1.27224","n":"Rokeby and Overslade","q":-242,"r":428 },
-		"E05008986":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.3627","lon":"-1.24756","n":"Eastlands","q":-242,"r":429 },
-		"E05008988":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.4884","lon":"-1.36033","n":"Wolvey and Shilton","q":-244,"r":432 },
-		"E05010758":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.36225","lon":"-1.30274","n":"Admirals and Cawston","q":-244,"r":429 },
-		"E05010759":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.34172","lon":"-1.34748","n":"Dunsmore","q":-244,"r":428 },
-		"E05010760":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.37691","lon":"-1.37812","n":"Wolston and the Lawfords","q":-244,"r":430 }
+		"E05008974":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.37665","lon":"-1.25807","n":"Benn","q":-40,"r":40},
+		"E05008975":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.35712","lon":"-1.28375","n":"Bilton","q":-41,"r":38},
+		"E05008976":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.39937","lon":"-1.22615","n":"Clifton, Newton and Churchover","q":-39,"r":40},
+		"E05008977":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.39697","lon":"-1.24899","n":"Coton and Boughton","q":-41,"r":41},
+		"E05008979":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.36324","lon":"-1.19903","n":"Hillmorton","q":-39,"r":39},
+		"E05008980":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.29088","lon":"-1.30203","n":"Leam Valley","q":-42,"r":37},
+		"E05008981":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.37732","lon":"-1.28354","n":"New Bilton","q":-41,"r":39},
+		"E05008982":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.3959","lon":"-1.26592","n":"Newbold and Brownsover","q":-41,"r":40},
+		"E05008983":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.35791","lon":"-1.23476","n":"Paddox","q":-39,"r":38},
+		"E05008984":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.43936","lon":"-1.33971","n":"Revel and Binley Woods","q":-42,"r":41},
+		"E05008985":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.35867","lon":"-1.27224","n":"Rokeby and Overslade","q":-40,"r":38},
+		"E05008986":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.3627","lon":"-1.24756","n":"Eastlands","q":-40,"r":39},
+		"E05008988":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.4884","lon":"-1.36033","n":"Wolvey and Shilton","q":-42,"r":42},
+		"E05010758":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.36225","lon":"-1.30274","n":"Admirals and Cawston","q":-42,"r":39},
+		"E05010759":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.34172","lon":"-1.34748","n":"Dunsmore","q":-42,"r":38},
+		"E05010760":{"LAD24CD":"E07000220","LAD24NM":"Rugby","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#CC2216","lat":"52.37691","lon":"-1.37812","n":"Wolston and the Lawfords","q":-42,"r":40}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

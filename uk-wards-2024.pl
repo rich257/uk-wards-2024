@@ -20,6 +20,14 @@ if($ARGV[0] eq "split"){
 		combineRegions();
 	}
 
+}elsif($ARGV[0] eq "shift"){
+
+	shiftMap($ARGV[1],$ARGV[2]);
+
+}elsif($ARGV[0] eq "augment"){
+
+	augment();
+
 }elsif($ARGV[0] eq "ticklist"){
 
 	#createTickList();
@@ -147,7 +155,7 @@ sub simplify {
 	
 	foreach $id (keys(%{$hexjson->{'hexes'}})){
 		foreach $d (keys(%{$hexjson->{'hexes'}{$id}})){
-			if($d ne "q" && $d ne "r" && $d ne "name" && $d ne "n" && $d ne "colour" && $d ne "RGN24CD" && $d ne "LAD24CD"){
+			if($d ne "q" && $d ne "r" && $d ne "name" && $d ne "n" && $d ne "colour" && $d ne "RGN24CD" && $d ne "LAD24CD" && $d ne "RGN24NM" && $d ne "LAD24NM"){
 				delete $hexjson->{'hexes'}{$id}{$d};
 			}
 		}
@@ -168,6 +176,25 @@ sub createTickList {
 	foreach $lad (sort(keys(%{$lads}))){
 		msg("- [ ] [$lad](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/$lads->{$lad}{'region'}.hexjson) - $lads->{$lad}{'name'}\n");
 	}
+}
+
+sub shiftMap {
+	my $drow = shift;
+	my $dcol = shift;
+	msg("Shifting hexes in <cyan>$config->{'final'}<none>\n");
+	my ($regions,$id,$region,$fh,$lads,$lad,$json,$file,$newtxt,$oldtxt);
+	my $hexjson = LoadJSON($config->{'final'});
+	
+	foreach $id (keys(%{$hexjson->{'hexes'}})){
+
+		$hexjson->{'hexes'}{$id}{'r'} += $drow;
+		$hexjson->{'hexes'}{$id}{'q'} += $dcol;
+
+	}
+
+	# Make regions
+	msg("Updating map\n");
+	SaveJSON($hexjson,$config->{'final'}.".new",2);
 }
 
 sub splitAreas {

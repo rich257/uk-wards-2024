@@ -1,23 +1,23 @@
 {
 	"hexes":{
-		"E05001371":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.69918","lon":"-1.757","n":"Brighouse","q":-249,"r":498 },
-		"E05001372":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.76215","lon":"-2.04422","n":"Calder","q":-253,"r":500 },
-		"E05001373":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.68471","lon":"-1.82502","n":"Elland","q":-251,"r":498 },
-		"E05001374":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.67823","lon":"-1.88671","n":"Greetland and Stainland","q":-252,"r":497 },
-		"E05001375":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.73012","lon":"-1.79425","n":"Hipperholme and Lightcliffe","q":-250,"r":499 },
-		"E05001376":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.76484","lon":"-1.9082","n":"Illingworth and Mixenden","q":-252,"r":501 },
-		"E05001377":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.71448","lon":"-1.98775","n":"Luddendenfoot","q":-253,"r":498 },
-		"E05001378":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.74374","lon":"-1.83415","n":"Northowram and Shelf","q":-250,"r":500 },
-		"E05001379":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.74015","lon":"-1.88574","n":"Ovenden","q":-252,"r":500 },
-		"E05001380":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.72315","lon":"-1.87936","n":"Park","q":-251,"r":500 },
-		"E05001381":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.69265","lon":"-1.78357","n":"Rastrick","q":-250,"r":498 },
-		"E05001382":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.66441","lon":"-1.97187","n":"Ryburn","q":-253,"r":497 },
-		"E05001383":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.70823","lon":"-1.86825","n":"Skircoat","q":-252,"r":499 },
-		"E05001384":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.71039","lon":"-1.90136","n":"Sowerby Bridge","q":-252,"r":498 },
-		"E05001385":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.70633","lon":"-2.11497","n":"Todmorden","q":-254,"r":499 },
-		"E05001386":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.71129","lon":"-1.84421","n":"Town","q":-251,"r":499 },
-		"E05001387":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.73324","lon":"-1.90836","n":"Warley","q":-253,"r":499 }
+		"E05001371":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.69918","lon":"-1.757","n":"Brighouse","q":-60,"r":109},
+		"E05001372":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.76215","lon":"-2.04422","n":"Calder","q":-64,"r":111},
+		"E05001373":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.68471","lon":"-1.82502","n":"Elland","q":-62,"r":109},
+		"E05001374":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.67823","lon":"-1.88671","n":"Greetland and Stainland","q":-62,"r":108},
+		"E05001375":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.73012","lon":"-1.79425","n":"Hipperholme and Lightcliffe","q":-60,"r":110},
+		"E05001376":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.76484","lon":"-1.9082","n":"Illingworth and Mixenden","q":-62,"r":112},
+		"E05001377":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.71448","lon":"-1.98775","n":"Luddendenfoot","q":-64,"r":109},
+		"E05001378":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.74374","lon":"-1.83415","n":"Northowram and Shelf","q":-61,"r":111},
+		"E05001379":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.74015","lon":"-1.88574","n":"Ovenden","q":-63,"r":111},
+		"E05001380":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.72315","lon":"-1.87936","n":"Park","q":-62,"r":111},
+		"E05001381":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.69265","lon":"-1.78357","n":"Rastrick","q":-61,"r":109},
+		"E05001382":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.66441","lon":"-1.97187","n":"Ryburn","q":-63,"r":108},
+		"E05001383":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.70823","lon":"-1.86825","n":"Skircoat","q":-62,"r":110},
+		"E05001384":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.71039","lon":"-1.90136","n":"Sowerby Bridge","q":-63,"r":109},
+		"E05001385":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.70633","lon":"-2.11497","n":"Todmorden","q":-64,"r":110},
+		"E05001386":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.71129","lon":"-1.84421","n":"Town","q":-61,"r":110},
+		"E05001387":{"LAD24CD":"E08000033","LAD24NM":"Calderdale","RGN24CD":"E12000003","RGN24NM":"Yorkshire and The Humber","colour":"#0413FA","lat":"53.73324","lon":"-1.90836","n":"Warley","q":-63,"r":110}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

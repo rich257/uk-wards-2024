@@ -1,24 +1,24 @@
 {
 	"hexes":{
-		"E05009388":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.49643","lon":"-0.19724","n":"Abingdon","q":-197,"r":362 },
-		"E05009389":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.4966","lon":"-0.16757","n":"Brompton & Hans Town","q":-195,"r":361 },
-		"E05009390":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.50464","lon":"-0.19375","n":"Campden","q":-197,"r":363 },
-		"E05009391":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.48214","lon":"-0.17626","n":"Chelsea Riverside","q":-195,"r":359 },
-		"E05009392":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.51582","lon":"-0.20449","n":"Colville","q":-198,"r":365 },
-		"E05009393":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.49126","lon":"-0.17808","n":"Courtfield","q":-196,"r":361 },
-		"E05009394":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.52433","lon":"-0.22086","n":"Dalgarno","q":-199,"r":367 },
-		"E05009395":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.49102","lon":"-0.19547","n":"Earl's Court","q":-197,"r":361 },
-		"E05009396":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.52226","lon":"-0.20811","n":"Golborne","q":-198,"r":366 },
-		"E05009397":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.50133","lon":"-0.20777","n":"Holland","q":-198,"r":363 },
-		"E05009398":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.50809","lon":"-0.21048","n":"Norland","q":-198,"r":364 },
-		"E05009399":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.51264","lon":"-0.21585","n":"Notting Dale","q":-199,"r":365 },
-		"E05009400":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.51145","lon":"-0.1982","n":"Pembridge","q":-197,"r":364 },
-		"E05009401":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.49843","lon":"-0.18605","n":"Queen's Gate","q":-196,"r":362 },
-		"E05009402":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.48622","lon":"-0.18755","n":"Redcliffe","q":-196,"r":360 },
-		"E05009403":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.48928","lon":"-0.15991","n":"Royal Hospital","q":-194,"r":360 },
-		"E05009404":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.51886","lon":"-0.21829","n":"St. Helen's","q":-199,"r":366 },
-		"E05009405":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.48635","lon":"-0.17596","n":"Stanley","q":-195,"r":360 }
+		"E05009388":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.49643","lon":"-0.19724","n":"Abingdon","q":-18,"r":0},
+		"E05009389":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.4966","lon":"-0.16757","n":"Brompton & Hans Town","q":-16,"r":-1},
+		"E05009390":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.50464","lon":"-0.19375","n":"Campden","q":-18,"r":1},
+		"E05009391":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.48214","lon":"-0.17626","n":"Chelsea Riverside","q":-16,"r":-3},
+		"E05009392":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.51582","lon":"-0.20449","n":"Colville","q":-19,"r":3},
+		"E05009393":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.49126","lon":"-0.17808","n":"Courtfield","q":-17,"r":-1},
+		"E05009394":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.52433","lon":"-0.22086","n":"Dalgarno","q":-20,"r":5},
+		"E05009395":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.49102","lon":"-0.19547","n":"Earl's Court","q":-18,"r":-1},
+		"E05009396":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.52226","lon":"-0.20811","n":"Golborne","q":-19,"r":4},
+		"E05009397":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.50133","lon":"-0.20777","n":"Holland","q":-19,"r":1},
+		"E05009398":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.50809","lon":"-0.21048","n":"Norland","q":-19,"r":2},
+		"E05009399":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.51264","lon":"-0.21585","n":"Notting Dale","q":-20,"r":3},
+		"E05009400":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.51145","lon":"-0.1982","n":"Pembridge","q":-18,"r":2},
+		"E05009401":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.49843","lon":"-0.18605","n":"Queen's Gate","q":-17,"r":0},
+		"E05009402":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.48622","lon":"-0.18755","n":"Redcliffe","q":-17,"r":-2},
+		"E05009403":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.48928","lon":"-0.15991","n":"Royal Hospital","q":-15,"r":-2},
+		"E05009404":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.51886","lon":"-0.21829","n":"St. Helen's","q":-20,"r":4},
+		"E05009405":{"LAD24CD":"E09000020","LAD24NM":"Kensington and Chelsea","RGN24CD":"E12000007","RGN24NM":"London","colour":"#B9A1E4","lat":"51.48635","lon":"-0.17596","n":"Stanley","q":-16,"r":-2}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

@@ -1,14 +1,14 @@
 {
 	"hexes":{
-		"S13002545":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.49017","lon":"-3.00698","n":"Strathmartine","q":-287,"r":623 },
-		"S13002546":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.47341","lon":"-3.0473","n":"Lochee","q":-288,"r":622 },
-		"S13002547":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.45996","lon":"-3.01587","n":"West End","q":-288,"r":621 },
-		"S13002548":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.47363","lon":"-2.98447","n":"Coldside","q":-287,"r":622 },
-		"S13002549":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.47053","lon":"-2.95928","n":"Maryfield","q":-287,"r":621 },
-		"S13002551":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.47611","lon":"-2.91768","n":"East End","q":-286,"r":622 },
-		"S13002552":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.47971","lon":"-2.87336","n":"The Ferry","q":-285,"r":622 },
-		"S13002830":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.49235","lon":"-2.92944","n":"North East","q":-286,"r":623 }
+		"S13002545":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.49017","lon":"-3.00698","n":"Strathmartine","q":-83,"r":195},
+		"S13002546":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.47341","lon":"-3.0473","n":"Lochee","q":-84,"r":194},
+		"S13002547":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.45996","lon":"-3.01587","n":"West End","q":-84,"r":193},
+		"S13002548":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.47363","lon":"-2.98447","n":"Coldside","q":-83,"r":194},
+		"S13002549":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.47053","lon":"-2.95928","n":"Maryfield","q":-83,"r":193},
+		"S13002551":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.47611","lon":"-2.91768","n":"East End","q":-82,"r":194},
+		"S13002552":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.47971","lon":"-2.87336","n":"The Ferry","q":-81,"r":194},
+		"S13002830":{"LAD24CD":"S12000042","LAD24NM":"Dundee City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#004046","lat":"56.49235","lon":"-2.92944","n":"North East","q":-82,"r":195}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

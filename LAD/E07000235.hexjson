@@ -1,24 +1,24 @@
 {
 	"hexes":{
-		"E05015380":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.17329","lon":"-2.35374","n":"Alfrick, Leigh & Rushwick","q":-279,"r":418 },
-		"E05015381":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.28342","lon":"-2.34469","n":"Baldwin","q":-279,"r":420 },
-		"E05015382":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.10516","lon":"-2.30016","n":"Barnards Green","q":-278,"r":415 },
-		"E05015383":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.20961","lon":"-2.27563","n":"Broadheath","q":-278,"r":418 },
-		"E05015384":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.0532","lon":"-2.3063","n":"Castlemorton, Welland & Wells","q":-278,"r":414 },
-		"E05015385":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.1095","lon":"-2.32399","n":"Great Malvern","q":-279,"r":415 },
-		"E05015386":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.24709","lon":"-2.27488","n":"Hallow & Holt","q":-279,"r":419 },
-		"E05015387":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.10482","lon":"-2.19611","n":"Kempsey","q":-277,"r":415 },
-		"E05015388":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.33813","lon":"-2.4671","n":"Lindridge","q":-280,"r":421 },
-		"E05015389":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.13586","lon":"-2.30641","n":"Link","q":-279,"r":417 },
-		"E05015390":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.00897","lon":"-2.25767","n":"Longdon","q":-278,"r":413 },
-		"E05015391":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.2284","lon":"-2.34935","n":"Martley","q":-280,"r":419 },
-		"E05015392":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.12014","lon":"-2.29943","n":"Pickersleigh","q":-278,"r":416 },
-		"E05015393":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.12176","lon":"-2.26327","n":"Powick & the Hanleys","q":-277,"r":416 },
-		"E05015394":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.27977","lon":"-2.54469","n":"Tenbury","q":-280,"r":420 },
-		"E05015395":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.13881","lon":"-2.32306","n":"Upper Howsell","q":-279,"r":416 },
-		"E05015396":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.05262","lon":"-2.22111","n":"Upton & Ripple","q":-277,"r":414 },
-		"E05015397":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.12107","lon":"-2.34023","n":"West","q":-280,"r":415 }
+		"E05015380":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.17329","lon":"-2.35374","n":"Alfrick, Leigh & Rushwick","q":-77,"r":23},
+		"E05015381":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.28342","lon":"-2.34469","n":"Baldwin","q":-77,"r":25},
+		"E05015382":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.10516","lon":"-2.30016","n":"Barnards Green","q":-75,"r":20},
+		"E05015383":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.20961","lon":"-2.27563","n":"Broadheath","q":-76,"r":23},
+		"E05015384":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.0532","lon":"-2.3063","n":"Castlemorton, Welland & Wells","q":-76,"r":19},
+		"E05015385":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.1095","lon":"-2.32399","n":"Great Malvern","q":-76,"r":20},
+		"E05015386":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.24709","lon":"-2.27488","n":"Hallow & Holt","q":-76,"r":24},
+		"E05015387":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.10482","lon":"-2.19611","n":"Kempsey","q":-74,"r":20},
+		"E05015388":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.33813","lon":"-2.4671","n":"Lindridge","q":-77,"r":26},
+		"E05015389":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.13586","lon":"-2.30641","n":"Link","q":-76,"r":22},
+		"E05015390":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.00897","lon":"-2.25767","n":"Longdon","q":-75,"r":18},
+		"E05015391":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.2284","lon":"-2.34935","n":"Martley","q":-77,"r":24},
+		"E05015392":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.12014","lon":"-2.29943","n":"Pickersleigh","q":-76,"r":21},
+		"E05015393":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.12176","lon":"-2.26327","n":"Powick & the Hanleys","q":-75,"r":21},
+		"E05015394":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.27977","lon":"-2.54469","n":"Tenbury","q":-78,"r":25},
+		"E05015395":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.13881","lon":"-2.32306","n":"Upper Howsell","q":-77,"r":21},
+		"E05015396":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.05262","lon":"-2.22111","n":"Upton & Ripple","q":-75,"r":19},
+		"E05015397":{"LAD24CD":"E07000235","LAD24NM":"Malvern Hills","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#D5F53B","lat":"52.12107","lon":"-2.34023","n":"West","q":-77,"r":20}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

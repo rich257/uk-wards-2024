@@ -1,15 +1,15 @@
 {
 	"hexes":{
-		"E05011574":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.77601","lon":"0.295869","n":"Devonshire","q":-171,"r":306 },
-		"E05011575":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.79872","lon":"0.276943","n":"Hampden Park","q":-172,"r":308 },
-		"E05011576":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.80557","lon":"0.300199","n":"Langney","q":-171,"r":308 },
-		"E05011577":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.75221","lon":"0.241623","n":"Meads","q":-173,"r":305 },
-		"E05011578":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.77421","lon":"0.241781","n":"Old Town","q":-173,"r":306 },
-		"E05011579":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.79313","lon":"0.249029","n":"Ratton","q":-173,"r":307 },
-		"E05011580":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.79218","lon":"0.299158","n":"St Anthony's","q":-172,"r":307 },
-		"E05011581":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.79041","lon":"0.322938","n":"Sovereign","q":-171,"r":307 },
-		"E05011582":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.77781","lon":"0.275374","n":"Upperton","q":-172,"r":306 }
+		"E05011574":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.77601","lon":"0.295869","n":"Devonshire","q":11,"r":-37},
+		"E05011575":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.79872","lon":"0.276943","n":"Hampden Park","q":10,"r":-35},
+		"E05011576":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.80557","lon":"0.300199","n":"Langney","q":11,"r":-35},
+		"E05011577":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.75221","lon":"0.241623","n":"Meads","q":10,"r":-38},
+		"E05011578":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.77421","lon":"0.241781","n":"Old Town","q":9,"r":-37},
+		"E05011579":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.79313","lon":"0.249029","n":"Ratton","q":10,"r":-36},
+		"E05011580":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.79218","lon":"0.299158","n":"St Anthony's","q":11,"r":-36},
+		"E05011581":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.79041","lon":"0.322938","n":"Sovereign","q":12,"r":-36},
+		"E05011582":{"LAD24CD":"E07000061","LAD24NM":"Eastbourne","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#2F1305","lat":"50.77781","lon":"0.275374","n":"Upperton","q":10,"r":-37}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

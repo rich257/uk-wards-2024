@@ -1,23 +1,23 @@
 {
 	"hexes":{
-		"E05015490":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.9145","lon":"-1.41137","n":"Banister & Polygon","q":-240,"r":316 },
-		"E05015491":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.90222","lon":"-1.40231","n":"Bargate","q":-240,"r":315 },
-		"E05015492":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.94249","lon":"-1.4081","n":"Bassett","q":-239,"r":318 },
-		"E05015493":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.91032","lon":"-1.39066","n":"Bevois","q":-239,"r":316 },
-		"E05015494":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.9263","lon":"-1.37023","n":"Bitterne Park","q":-238,"r":317 },
-		"E05015495":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.94155","lon":"-1.44209","n":"Coxford","q":-240,"r":318 },
-		"E05015496":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.91168","lon":"-1.43182","n":"Freemantle","q":-241,"r":316 },
-		"E05015497":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.92019","lon":"-1.3487","n":"Harefield","q":-237,"r":317 },
-		"E05015498":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.91673","lon":"-1.44929","n":"Millbrook","q":-241,"r":317 },
-		"E05015499":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.90687","lon":"-1.37054","n":"Peartree","q":-238,"r":316 },
-		"E05015500":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.92865","lon":"-1.39597","n":"Portswood","q":-239,"r":317 },
-		"E05015501":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.92748","lon":"-1.46115","n":"Redbridge","q":-241,"r":318 },
-		"E05015502":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.92673","lon":"-1.42434","n":"Shirley","q":-240,"r":317 },
-		"E05015503":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.90071","lon":"-1.35105","n":"Sholing","q":-237,"r":316 },
-		"E05015504":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.93795","lon":"-1.37881","n":"Swaythling","q":-238,"r":318 },
-		"E05015505":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.9096","lon":"-1.33799","n":"Thornhill","q":-236,"r":316 },
-		"E05015506":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.88903","lon":"-1.36619","n":"Woolston","q":-238,"r":315 }
+		"E05015490":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.9145","lon":"-1.41137","n":"Banister & Polygon","q":-62,"r":-25},
+		"E05015491":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.90222","lon":"-1.40231","n":"Bargate","q":-61,"r":-26},
+		"E05015492":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.94249","lon":"-1.4081","n":"Bassett","q":-61,"r":-23},
+		"E05015493":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.91032","lon":"-1.39066","n":"Bevois","q":-61,"r":-25},
+		"E05015494":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.9263","lon":"-1.37023","n":"Bitterne Park","q":-59,"r":-24},
+		"E05015495":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.94155","lon":"-1.44209","n":"Coxford","q":-62,"r":-23},
+		"E05015496":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.91168","lon":"-1.43182","n":"Freemantle","q":-63,"r":-25},
+		"E05015497":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.92019","lon":"-1.3487","n":"Harefield","q":-58,"r":-24},
+		"E05015498":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.91673","lon":"-1.44929","n":"Millbrook","q":-62,"r":-24},
+		"E05015499":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.90687","lon":"-1.37054","n":"Peartree","q":-60,"r":-25},
+		"E05015500":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.92865","lon":"-1.39597","n":"Portswood","q":-60,"r":-24},
+		"E05015501":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.92748","lon":"-1.46115","n":"Redbridge","q":-63,"r":-23},
+		"E05015502":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.92673","lon":"-1.42434","n":"Shirley","q":-61,"r":-24},
+		"E05015503":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.90071","lon":"-1.35105","n":"Sholing","q":-59,"r":-25},
+		"E05015504":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.93795","lon":"-1.37881","n":"Swaythling","q":-60,"r":-23},
+		"E05015505":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.9096","lon":"-1.33799","n":"Thornhill","q":-58,"r":-25},
+		"E05015506":{"LAD24CD":"E06000045","LAD24NM":"Southampton","RGN24CD":"E12000008","RGN24NM":"South East","colour":"#9C1EA5","lat":"50.88903","lon":"-1.36619","n":"Woolston","q":-59,"r":-26}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

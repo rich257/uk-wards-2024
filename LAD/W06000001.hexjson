@@ -1,20 +1,20 @@
 {
 	"hexes":{
-		"W05001492":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.23955","lon":"-4.2119","n":"Aethwy","q":-339,"r":461},
-		"W05001493":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.20585","lon":"-4.27848","n":"Bodowyr","q":-339,"r":460},
-		"W05001494":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.20019","lon":"-4.43053","n":"Bro Aberffraw","q":-340,"r":460},
-		"W05001495":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.2799","lon":"-4.5192","n":"Bro'r Llynnoedd","q":-341,"r":462},
-		"W05001496":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.27822","lon":"-4.31965","n":"Canolbarth Môn","q":-340,"r":462},
-		"W05001497":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.23183","lon":"-4.35509","n":"Cefni","q":-340,"r":461},
-		"W05001498":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.25123","lon":"-4.44686","n":"Crigyll","q":-341,"r":461},
-		"W05001499":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.3278","lon":"-4.24853","n":"Lligwy","q":-339,"r":462},
-		"W05001500":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.31841","lon":"-4.65817","n":"Parc a'r Mynydd","q":-343,"r":463},
-		"W05001501":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.28466","lon":"-4.11707","n":"Seiriol","q":-338,"r":462},
-		"W05001502":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.35315","lon":"-4.45514","n":"Talybolion","q":-341,"r":463},
-		"W05001503":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.30188","lon":"-4.60858","n":"Tref Cybi","q":-342,"r":462},
-		"W05001504":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.37703","lon":"-4.34023","n":"Twrcelyn","q":-340,"r":463},
-		"W05001505":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.29126","lon":"-4.62587","n":"Ynys Gybi","q":-343,"r":462}
+		"W05001492":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.23955","lon":"-4.2119","n":"Aethwy","q":-120,"r":72},
+		"W05001493":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.20585","lon":"-4.27848","n":"Bodowyr","q":-121,"r":71},
+		"W05001494":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.20019","lon":"-4.43053","n":"Bro Aberffraw","q":-122,"r":71},
+		"W05001495":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.2799","lon":"-4.5192","n":"Bro'r Llynnoedd","q":-123,"r":73},
+		"W05001496":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.27822","lon":"-4.31965","n":"Canolbarth Môn","q":-122,"r":73},
+		"W05001497":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.23183","lon":"-4.35509","n":"Cefni","q":-121,"r":72},
+		"W05001498":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.25123","lon":"-4.44686","n":"Crigyll","q":-122,"r":72},
+		"W05001499":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.3278","lon":"-4.24853","n":"Lligwy","q":-121,"r":73},
+		"W05001500":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.31841","lon":"-4.65817","n":"Parc a'r Mynydd","q":-124,"r":74},
+		"W05001501":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.28466","lon":"-4.11707","n":"Seiriol","q":-120,"r":73},
+		"W05001502":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.35315","lon":"-4.45514","n":"Talybolion","q":-122,"r":74},
+		"W05001503":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.30188","lon":"-4.60858","n":"Tref Cybi","q":-124,"r":73},
+		"W05001504":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.37703","lon":"-4.34023","n":"Twrcelyn","q":-121,"r":74},
+		"W05001505":{"LAD24CD":"W06000001","LAD24NM":"Isle of Anglesey","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#469037","lat":"53.29126","lon":"-4.62587","n":"Ynys Gybi","q":-125,"r":73}
 	},
 	"layout":"odd-r",
-	"version":"0.2"
+	"version":"0.5"
 }

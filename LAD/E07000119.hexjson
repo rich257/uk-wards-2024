@@ -1,23 +1,23 @@
 {
 	"hexes":{
-		"E05014538":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74195","lon":"-2.99651","n":"Ansdell & Fairhaven","q":-295,"r":517 },
-		"E05014539":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.75703","lon":"-3.02412","n":"Ashton","q":-294,"r":518 },
-		"E05014540":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74518","lon":"-3.01971","n":"Carnegie","q":-295,"r":518 },
-		"E05014541":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74661","lon":"-2.86694","n":"Freckleton Village","q":-291,"r":517 },
-		"E05014542":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.75146","lon":"-3.01148","n":"Heyhouses","q":-294,"r":519 },
-		"E05014543":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.75637","lon":"-3.04111","n":"Kilgrimol","q":-296,"r":519 },
-		"E05014544":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.76507","lon":"-3.01733","n":"Kilnhouse","q":-295,"r":519 },
-		"E05014545":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.78035","lon":"-2.87694","n":"Kirkham","q":-291,"r":518 },
-		"E05014546":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74345","lon":"-2.94895","n":"Lytham East","q":-293,"r":517 },
-		"E05014547":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74333","lon":"-2.96508","n":"Lytham West","q":-294,"r":517 },
-		"E05014548":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.81627","lon":"-2.88794","n":"Medlar-with-Wesham","q":-291,"r":519 },
-		"E05014549":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.75655","lon":"-2.98671","n":"Park","q":-293,"r":518 },
-		"E05014550":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.78396","lon":"-2.8331","n":"Rural East Fylde","q":-290,"r":518 },
-		"E05014551":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.82544","lon":"-2.92482","n":"Rural North Fylde","q":-292,"r":519 },
-		"E05014552":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.81902","lon":"-2.97443","n":"Staining","q":-292,"r":520 },
-		"E05014553":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74226","lon":"-2.90401","n":"Warton","q":-292,"r":517 },
-		"E05014554":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.76994","lon":"-2.93271","n":"Wrea Green with Westby","q":-292,"r":518 }
+		"E05014538":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74195","lon":"-2.99651","n":"Ansdell & Fairhaven","q":-83,"r":112},
+		"E05014539":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.75703","lon":"-3.02412","n":"Ashton","q":-83,"r":113},
+		"E05014540":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74518","lon":"-3.01971","n":"Carnegie","q":-84,"r":113},
+		"E05014541":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74661","lon":"-2.86694","n":"Freckleton Village","q":-79,"r":112},
+		"E05014542":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.75146","lon":"-3.01148","n":"Heyhouses","q":-82,"r":114},
+		"E05014543":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.75637","lon":"-3.04111","n":"Kilgrimol","q":-84,"r":114},
+		"E05014544":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.76507","lon":"-3.01733","n":"Kilnhouse","q":-83,"r":114},
+		"E05014545":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.78035","lon":"-2.87694","n":"Kirkham","q":-80,"r":113},
+		"E05014546":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74345","lon":"-2.94895","n":"Lytham East","q":-81,"r":112},
+		"E05014547":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74333","lon":"-2.96508","n":"Lytham West","q":-82,"r":112},
+		"E05014548":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.81627","lon":"-2.88794","n":"Medlar-with-Wesham","q":-79,"r":114},
+		"E05014549":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.75655","lon":"-2.98671","n":"Park","q":-82,"r":113},
+		"E05014550":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.78396","lon":"-2.8331","n":"Rural East Fylde","q":-79,"r":113},
+		"E05014551":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.82544","lon":"-2.92482","n":"Rural North Fylde","q":-80,"r":114},
+		"E05014552":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.81902","lon":"-2.97443","n":"Staining","q":-81,"r":115},
+		"E05014553":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.74226","lon":"-2.90401","n":"Warton","q":-80,"r":112},
+		"E05014554":{"LAD24CD":"E07000119","LAD24NM":"Fylde","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#C5EC1B","lat":"53.76994","lon":"-2.93271","n":"Wrea Green with Westby","q":-81,"r":113}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

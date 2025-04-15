@@ -1,24 +1,24 @@
 {
 	"hexes":{
-		"E05015724":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.6321","lon":"0.054574","n":"Buckhurst Hill East & Whitebridge","q":-181,"r":398 },
-		"E05015725":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.6281","lon":"0.036087","n":"Buckhurst Hill West","q":-182,"r":398 },
-		"E05015726":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.63512","lon":"0.108816","n":"Chigwell with Lambourne","q":-180,"r":398 },
-		"E05015727":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.6919","lon":"0.116532","n":"Epping East","q":-181,"r":401 },
-		"E05015728":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.71804","lon":"0.071816","n":"Epping West & Rural","q":-182,"r":401 },
-		"E05015729":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.61183","lon":"0.087096","n":"Grange Hill","q":-180,"r":397 },
-		"E05015730":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.65614","lon":"0.083955","n":"Loughton Fairmead","q":-181,"r":400 },
-		"E05015731":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.64466","lon":"0.050199","n":"Loughton Forest","q":-182,"r":399 },
-		"E05015732":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.64428","lon":"0.077991","n":"Loughton Roding","q":-181,"r":399 },
-		"E05015733":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.66221","lon":"0.064251","n":"Loughton St John's","q":-182,"r":400 },
-		"E05015734":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.73317","lon":"0.143791","n":"North Weald Bassett","q":-180,"r":401 },
-		"E05015735":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.70722","lon":"0.248921","n":"Ongar","q":-179,"r":400 },
-		"E05015736":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.75343","lon":"0.027028","n":"Roydon & Lower Nazeing","q":-182,"r":402 },
-		"E05015737":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.75119","lon":"0.254191","n":"Rural East","q":-179,"r":401 },
-		"E05015738":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.66974","lon":"0.145074","n":"Theydon Bois with Passingford","q":-180,"r":400 },
-		"E05015739":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.70347","lon":"0.019352","n":"Waltham Abbey North","q":-183,"r":401 },
-		"E05015740":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.66624","lon":"0.034312","n":"Waltham Abbey South & Rural","q":-183,"r":399 },
-		"E05015741":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.68323","lon":"-0.00157","n":"Waltham Abbey West","q":-183,"r":400 }
+		"E05015724":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.6321","lon":"0.054574","n":"Buckhurst Hill East & Whitebridge","q":-1,"r":23},
+		"E05015725":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.6281","lon":"0.036087","n":"Buckhurst Hill West","q":-2,"r":23},
+		"E05015726":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.63512","lon":"0.108816","n":"Chigwell with Lambourne","q":0,"r":23},
+		"E05015727":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.6919","lon":"0.116532","n":"Epping East","q":0,"r":26},
+		"E05015728":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.71804","lon":"0.071816","n":"Epping West & Rural","q":-1,"r":26},
+		"E05015729":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.61183","lon":"0.087096","n":"Grange Hill","q":1,"r":22},
+		"E05015730":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.65614","lon":"0.083955","n":"Loughton Fairmead","q":-1,"r":25},
+		"E05015731":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.64466","lon":"0.050199","n":"Loughton Forest","q":-1,"r":24},
+		"E05015732":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.64428","lon":"0.077991","n":"Loughton Roding","q":0,"r":24},
+		"E05015733":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.66221","lon":"0.064251","n":"Loughton St John's","q":-2,"r":25},
+		"E05015734":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.73317","lon":"0.143791","n":"North Weald Bassett","q":1,"r":26},
+		"E05015735":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.70722","lon":"0.248921","n":"Ongar","q":1,"r":25},
+		"E05015736":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.75343","lon":"0.027028","n":"Roydon & Lower Nazeing","q":-2,"r":27},
+		"E05015737":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.75119","lon":"0.254191","n":"Rural East","q":2,"r":26},
+		"E05015738":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.66974","lon":"0.145074","n":"Theydon Bois with Passingford","q":0,"r":25},
+		"E05015739":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.70347","lon":"0.019352","n":"Waltham Abbey North","q":-2,"r":26},
+		"E05015740":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.66624","lon":"0.034312","n":"Waltham Abbey South & Rural","q":-2,"r":24},
+		"E05015741":{"LAD24CD":"E07000072","LAD24NM":"Epping Forest","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#D2CF58","lat":"51.68323","lon":"-0.00157","n":"Waltham Abbey West","q":-3,"r":25}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

@@ -1,24 +1,24 @@
 {
 	"hexes":{
-		"E05010950":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.84316","lon":"-2.21141","n":"Abbeydale","q":-289,"r":390 },
-		"E05010951":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.84575","lon":"-2.19625","n":"Abbeymead","q":-289,"r":391 },
-		"E05010952":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85762","lon":"-2.20745","n":"Barnwood","q":-289,"r":392 },
-		"E05010953":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85662","lon":"-2.23383","n":"Barton and Tredworth","q":-290,"r":392 },
-		"E05010954":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85392","lon":"-2.21863","n":"Coney Hill","q":-290,"r":391 },
-		"E05010955":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.8688","lon":"-2.21622","n":"Elmbridge","q":-290,"r":393 },
-		"E05010956":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.82974","lon":"-2.26295","n":"Grange","q":-292,"r":390 },
-		"E05010957":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85583","lon":"-2.18879","n":"Hucclecote","q":-288,"r":392 },
-		"E05010958":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.87258","lon":"-2.23714","n":"Kingsholm and Wotton","q":-291,"r":393 },
-		"E05010959":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.82257","lon":"-2.26668","n":"Kingsway","q":-293,"r":389 },
-		"E05010960":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.87781","lon":"-2.22134","n":"Longlevens","q":-290,"r":394 },
-		"E05010961":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.83797","lon":"-2.22423","n":"Matson, Robinswood and White City","q":-290,"r":390 },
-		"E05010962":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85026","lon":"-2.24762","n":"Moreland","q":-291,"r":391 },
-		"E05010963":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.84304","lon":"-2.25527","n":"Podsmead","q":-292,"r":391 },
-		"E05010964":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.82474","lon":"-2.27715","n":"Quedgeley Fieldcourt","q":-294,"r":389 },
-		"E05010965":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.83317","lon":"-2.28661","n":"Quedgeley Severn Vale","q":-293,"r":390 },
-		"E05010966":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.83311","lon":"-2.24575","n":"Tuffley","q":-291,"r":390 },
-		"E05010967":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85852","lon":"-2.27184","n":"Westgate","q":-291,"r":392 }
+		"E05010950":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.84316","lon":"-2.21141","n":"Abbeydale","q":-73,"r":9},
+		"E05010951":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.84575","lon":"-2.19625","n":"Abbeymead","q":-72,"r":10},
+		"E05010952":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85762","lon":"-2.20745","n":"Barnwood","q":-73,"r":11},
+		"E05010953":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85662","lon":"-2.23383","n":"Barton and Tredworth","q":-74,"r":11},
+		"E05010954":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85392","lon":"-2.21863","n":"Coney Hill","q":-73,"r":10},
+		"E05010955":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.8688","lon":"-2.21622","n":"Elmbridge","q":-73,"r":12},
+		"E05010956":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.82974","lon":"-2.26295","n":"Grange","q":-76,"r":9},
+		"E05010957":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85583","lon":"-2.18879","n":"Hucclecote","q":-72,"r":11},
+		"E05010958":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.87258","lon":"-2.23714","n":"Kingsholm and Wotton","q":-74,"r":12},
+		"E05010959":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.82257","lon":"-2.26668","n":"Kingsway","q":-76,"r":8},
+		"E05010960":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.87781","lon":"-2.22134","n":"Longlevens","q":-74,"r":13},
+		"E05010961":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.83797","lon":"-2.22423","n":"Matson, Robinswood and White City","q":-74,"r":9},
+		"E05010962":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85026","lon":"-2.24762","n":"Moreland","q":-74,"r":10},
+		"E05010963":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.84304","lon":"-2.25527","n":"Podsmead","q":-75,"r":10},
+		"E05010964":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.82474","lon":"-2.27715","n":"Quedgeley Fieldcourt","q":-77,"r":8},
+		"E05010965":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.83317","lon":"-2.28661","n":"Quedgeley Severn Vale","q":-77,"r":9},
+		"E05010966":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.83311","lon":"-2.24575","n":"Tuffley","q":-75,"r":9},
+		"E05010967":{"LAD24CD":"E07000081","LAD24NM":"Gloucester","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#0A81A9","lat":"51.85852","lon":"-2.27184","n":"Westgate","q":-75,"r":11}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

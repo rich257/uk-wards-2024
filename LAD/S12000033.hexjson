@@ -1,19 +1,19 @@
 {
 	"hexes":{
-		"S13002835":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.20009","lon":"-2.22506","n":"Dyce/Bucksburn/Danestone","q":-282,"r":633 },
-		"S13002836":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.19959","lon":"-2.11284","n":"Bridge of Don","q":-281,"r":633 },
-		"S13002837":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.15859","lon":"-2.21212","n":"Kingswells/Sheddocksley/Summerhill","q":-283,"r":632 },
-		"S13002838":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.16439","lon":"-2.15597","n":"Northfield/Mastrick North","q":-282,"r":632 },
-		"S13002839":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.16531","lon":"-2.13168","n":"Hilton/Woodside/Stockethill","q":-281,"r":632 },
-		"S13002840":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.16865","lon":"-2.09738","n":"Tillydrone/Seaton/Old Aberdeen","q":-280,"r":632 },
-		"S13002841":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.15187","lon":"-2.12925","n":"Midstocket/Rosemount","q":-282,"r":631 },
-		"S13002842":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.15126","lon":"-2.09287","n":"George St/Harbour","q":-281,"r":631 },
-		"S13002843":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.11201","lon":"-2.26809","n":"Lower Deeside","q":-283,"r":630 },
-		"S13002844":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.1369","lon":"-2.1713","n":"Hazlehead/Queens Cross/Countesswells","q":-283,"r":631 },
-		"S13002845":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.12866","lon":"-2.13889","n":"Airyhall/Broomhill/Garthdee","q":-282,"r":630 },
-		"S13002846":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.13652","lon":"-2.07313","n":"Torry/Ferryhill","q":-281,"r":630 },
-		"S13002847":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.10742","lon":"-2.08715","n":"Kincorth/Nigg/Cove","q":-282,"r":629 }
+		"S13002835":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.20009","lon":"-2.22506","n":"Dyce/Bucksburn/Danestone","q":-79,"r":205},
+		"S13002836":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.19959","lon":"-2.11284","n":"Bridge of Don","q":-78,"r":205},
+		"S13002837":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.15859","lon":"-2.21212","n":"Kingswells/Sheddocksley/Summerhill","q":-80,"r":204},
+		"S13002838":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.16439","lon":"-2.15597","n":"Northfield/Mastrick North","q":-79,"r":204},
+		"S13002839":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.16531","lon":"-2.13168","n":"Hilton/Woodside/Stockethill","q":-78,"r":204},
+		"S13002840":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.16865","lon":"-2.09738","n":"Tillydrone/Seaton/Old Aberdeen","q":-77,"r":204},
+		"S13002841":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.15187","lon":"-2.12925","n":"Midstocket/Rosemount","q":-79,"r":203},
+		"S13002842":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.15126","lon":"-2.09287","n":"George St/Harbour","q":-78,"r":203},
+		"S13002843":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.11201","lon":"-2.26809","n":"Lower Deeside","q":-80,"r":202},
+		"S13002844":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.1369","lon":"-2.1713","n":"Hazlehead/Queens Cross/Countesswells","q":-80,"r":203},
+		"S13002845":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.12866","lon":"-2.13889","n":"Airyhall/Broomhill/Garthdee","q":-79,"r":202},
+		"S13002846":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.13652","lon":"-2.07313","n":"Torry/Ferryhill","q":-78,"r":202},
+		"S13002847":{"LAD24CD":"S12000033","LAD24NM":"Aberdeen City","RGN24CD":"S92000003","RGN24NM":"Scotland","colour":"#9AAE5C","lat":"57.10742","lon":"-2.08715","n":"Kincorth/Nigg/Cove","q":-79,"r":201}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

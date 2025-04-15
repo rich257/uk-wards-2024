@@ -1,19 +1,19 @@
 {
 	"hexes":{
-		"E05015691":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.55821","lon":"0.56332","n":"Appleton","q":-167,"r":393 },
-		"E05015692":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.51924","lon":"0.558682","n":"Canvey Island Central","q":-166,"r":390 },
-		"E05015693":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.51847","lon":"0.613763","n":"Canvey Island East","q":-165,"r":391 },
-		"E05015694":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.52387","lon":"0.615644","n":"Canvey Island North","q":-166,"r":391 },
-		"E05015695":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.51556","lon":"0.580212","n":"Canvey Island South","q":-165,"r":390 },
-		"E05015696":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.53192","lon":"0.568593","n":"Canvey Island Winter Gardens","q":-167,"r":391 },
-		"E05015697":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.54835","lon":"0.607629","n":"Hadleigh St James","q":-165,"r":392 },
-		"E05015698":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.57389","lon":"0.553191","n":"St George's","q":-167,"r":394 },
-		"E05015699":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.54971","lon":"0.555458","n":"St Mary's","q":-167,"r":392 },
-		"E05015700":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.56491","lon":"0.615474","n":"St Michael's","q":-165,"r":393 },
-		"E05015701":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.56667","lon":"0.554878","n":"Tarpots","q":-168,"r":393 },
-		"E05015702":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.57338","lon":"0.577972","n":"Thundersley North","q":-166,"r":393 },
-		"E05015703":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.55288","lon":"0.58518","n":"Thundersley South","q":-166,"r":392 }
+		"E05015691":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.55821","lon":"0.56332","n":"Appleton","q":17,"r":21},
+		"E05015692":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.51924","lon":"0.558682","n":"Canvey Island Central","q":18,"r":18},
+		"E05015693":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.51847","lon":"0.613763","n":"Canvey Island East","q":19,"r":19},
+		"E05015694":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.52387","lon":"0.615644","n":"Canvey Island North","q":18,"r":19},
+		"E05015695":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.51556","lon":"0.580212","n":"Canvey Island South","q":19,"r":18},
+		"E05015696":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.53192","lon":"0.568593","n":"Canvey Island Winter Gardens","q":17,"r":19},
+		"E05015697":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.54835","lon":"0.607629","n":"Hadleigh St James","q":19,"r":20},
+		"E05015698":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.57389","lon":"0.553191","n":"St George's","q":17,"r":22},
+		"E05015699":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.54971","lon":"0.555458","n":"St Mary's","q":17,"r":20},
+		"E05015700":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.56491","lon":"0.615474","n":"St Michael's","q":19,"r":21},
+		"E05015701":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.56667","lon":"0.554878","n":"Tarpots","q":16,"r":21},
+		"E05015702":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.57338","lon":"0.577972","n":"Thundersley North","q":18,"r":21},
+		"E05015703":{"LAD24CD":"E07000069","LAD24NM":"Castle Point","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#3F606B","lat":"51.55288","lon":"0.58518","n":"Thundersley South","q":18,"r":20}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

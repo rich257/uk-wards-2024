@@ -1,24 +1,24 @@
 {
 	"hexes":{
-		"E05001218":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.4404","lon":"-1.56303","n":"Bablake","q":-249,"r":430 },
-		"E05001219":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.39051","lon":"-1.45987","n":"Binley and Willenhall","q":-246,"r":428 },
-		"E05001220":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.38673","lon":"-1.48864","n":"Cheylesmore","q":-248,"r":428 },
-		"E05001221":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.39312","lon":"-1.53393","n":"Earlsdon","q":-249,"r":428 },
-		"E05001222":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.43059","lon":"-1.49879","n":"Foleshill","q":-247,"r":430 },
-		"E05001223":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.43339","lon":"-1.44702","n":"Henley","q":-246,"r":430 },
-		"E05001224":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.44317","lon":"-1.51435","n":"Holbrook","q":-248,"r":431 },
-		"E05001225":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.44313","lon":"-1.47617","n":"Longford","q":-247,"r":431 },
-		"E05001226":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.40531","lon":"-1.4745","n":"Lower Stoke","q":-247,"r":428 },
-		"E05001227":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.42549","lon":"-1.51718","n":"Radford","q":-248,"r":430 },
-		"E05001228":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.4089","lon":"-1.50357","n":"St Michael's","q":-248,"r":429 },
-		"E05001229":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.41694","lon":"-1.53896","n":"Sherbourne","q":-249,"r":429 },
-		"E05001230":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.41759","lon":"-1.47419","n":"Upper Stoke","q":-247,"r":429 },
-		"E05001231":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.3778","lon":"-1.54638","n":"Wainbody","q":-250,"r":427 },
-		"E05001232":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.39619","lon":"-1.5787","n":"Westwood","q":-250,"r":428 },
-		"E05001233":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.41152","lon":"-1.55237","n":"Whoberley","q":-250,"r":429 },
-		"E05001234":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.4138","lon":"-1.5853","n":"Woodlands","q":-251,"r":429 },
-		"E05001235":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.41454","lon":"-1.45247","n":"Wyken","q":-246,"r":429 }
+		"E05001218":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.4404","lon":"-1.56303","n":"Bablake","q":-48,"r":42},
+		"E05001219":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.39051","lon":"-1.45987","n":"Binley and Willenhall","q":-45,"r":40},
+		"E05001220":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.38673","lon":"-1.48864","n":"Cheylesmore","q":-47,"r":40},
+		"E05001221":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.39312","lon":"-1.53393","n":"Earlsdon","q":-48,"r":40},
+		"E05001222":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.43059","lon":"-1.49879","n":"Foleshill","q":-46,"r":42},
+		"E05001223":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.43339","lon":"-1.44702","n":"Henley","q":-45,"r":42},
+		"E05001224":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.44317","lon":"-1.51435","n":"Holbrook","q":-47,"r":43},
+		"E05001225":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.44313","lon":"-1.47617","n":"Longford","q":-46,"r":43},
+		"E05001226":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.40531","lon":"-1.4745","n":"Lower Stoke","q":-46,"r":40},
+		"E05001227":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.42549","lon":"-1.51718","n":"Radford","q":-47,"r":42},
+		"E05001228":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.4089","lon":"-1.50357","n":"St Michael's","q":-47,"r":41},
+		"E05001229":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.41694","lon":"-1.53896","n":"Sherbourne","q":-48,"r":41},
+		"E05001230":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.41759","lon":"-1.47419","n":"Upper Stoke","q":-46,"r":41},
+		"E05001231":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.3778","lon":"-1.54638","n":"Wainbody","q":-49,"r":39},
+		"E05001232":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.39619","lon":"-1.5787","n":"Westwood","q":-49,"r":40},
+		"E05001233":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.41152","lon":"-1.55237","n":"Whoberley","q":-49,"r":41},
+		"E05001234":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.4138","lon":"-1.5853","n":"Woodlands","q":-50,"r":41},
+		"E05001235":{"LAD24CD":"E08000026","LAD24NM":"Coventry","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#5DF52B","lat":"52.41454","lon":"-1.45247","n":"Wyken","q":-45,"r":41}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

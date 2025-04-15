@@ -1,23 +1,23 @@
 {
 	"hexes":{
-		"E05014152":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.54966","lon":"-2.27664","n":"Besses","q":-277,"r":500 },
-		"E05014153":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.59826","lon":"-2.26286","n":"Bury East","q":-276,"r":502 },
-		"E05014154":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.58928","lon":"-2.3253","n":"Bury West","q":-278,"r":503 },
-		"E05014155":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.6071","lon":"-2.31493","n":"Elton","q":-277,"r":504 },
-		"E05014156":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.54591","lon":"-2.25393","n":"Holyrood","q":-276,"r":500 },
-		"E05014157":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.60716","lon":"-2.28706","n":"Moorside","q":-277,"r":503 },
-		"E05014158":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.62545","lon":"-2.3222","n":"North Manor","q":-278,"r":505 },
-		"E05014159":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.54091","lon":"-2.31663","n":"Pilkington Park","q":-278,"r":500 },
-		"E05014160":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.57041","lon":"-2.31793","n":"Radcliffe East","q":-278,"r":502 },
-		"E05014161":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.58067","lon":"-2.35545","n":"Radcliffe North & Ainsworth","q":-279,"r":503 },
-		"E05014162":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.55629","lon":"-2.33537","n":"Radcliffe West","q":-279,"r":501 },
-		"E05014163":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.6491","lon":"-2.33205","n":"Ramsbottom","q":-277,"r":506 },
-		"E05014164":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.5836","lon":"-2.29714","n":"Redvales","q":-277,"r":502 },
-		"E05014165":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.52347","lon":"-2.26474","n":"Sedgley","q":-277,"r":499 },
-		"E05014166":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.52673","lon":"-2.30029","n":"St. Mary's","q":-278,"r":499 },
-		"E05014167":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.61044","lon":"-2.35161","n":"Tottington","q":-278,"r":504 },
-		"E05014168":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.5677","lon":"-2.27349","n":"Unsworth","q":-278,"r":501 }
+		"E05014152":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.54966","lon":"-2.27664","n":"Besses","q":-69,"r":100},
+		"E05014153":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.59826","lon":"-2.26286","n":"Bury East","q":-68,"r":102},
+		"E05014154":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.58928","lon":"-2.3253","n":"Bury West","q":-70,"r":103},
+		"E05014155":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.6071","lon":"-2.31493","n":"Elton","q":-69,"r":104},
+		"E05014156":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.54591","lon":"-2.25393","n":"Holyrood","q":-68,"r":100},
+		"E05014157":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.60716","lon":"-2.28706","n":"Moorside","q":-69,"r":103},
+		"E05014158":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.62545","lon":"-2.3222","n":"North Manor","q":-70,"r":105},
+		"E05014159":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.54091","lon":"-2.31663","n":"Pilkington Park","q":-70,"r":100},
+		"E05014160":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.57041","lon":"-2.31793","n":"Radcliffe East","q":-70,"r":102},
+		"E05014161":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.58067","lon":"-2.35545","n":"Radcliffe North & Ainsworth","q":-71,"r":103},
+		"E05014162":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.55629","lon":"-2.33537","n":"Radcliffe West","q":-71,"r":101},
+		"E05014163":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.6491","lon":"-2.33205","n":"Ramsbottom","q":-69,"r":106},
+		"E05014164":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.5836","lon":"-2.29714","n":"Redvales","q":-69,"r":102},
+		"E05014165":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.52347","lon":"-2.26474","n":"Sedgley","q":-69,"r":99},
+		"E05014166":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.52673","lon":"-2.30029","n":"St. Mary's","q":-70,"r":99},
+		"E05014167":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.61044","lon":"-2.35161","n":"Tottington","q":-70,"r":104},
+		"E05014168":{"LAD24CD":"E08000002","LAD24NM":"Bury","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#CC546C","lat":"53.5677","lon":"-2.27349","n":"Unsworth","q":-70,"r":101}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

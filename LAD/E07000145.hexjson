@@ -1,23 +1,23 @@
 {
 	"hexes":{
-		"E05005784":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.58896","lon":"1.697039","n":"Bradwell North","q":-154,"r":442 },
-		"E05005785":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.5482","lon":"1.707109","n":"Bradwell South and Hopton","q":-154,"r":441 },
-		"E05005786":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.65638","lon":"1.722447","n":"Caister North","q":-153,"r":446 },
-		"E05005787":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.64412","lon":"1.713642","n":"Caister South","q":-154,"r":445 },
-		"E05005788":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.61403","lon":"1.679055","n":"Central and Northgate","q":-152,"r":444 },
-		"E05005789":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.58205","lon":"1.718901","n":"Claydon","q":-154,"r":443 },
-		"E05005790":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.71265","lon":"1.676174","n":"East Flegg","q":-154,"r":446 },
-		"E05005791":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.65208","lon":"1.629837","n":"Fleggburgh","q":-155,"r":445 },
-		"E05005792":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.55644","lon":"1.718887","n":"Gorleston","q":-152,"r":442 },
-		"E05005793":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.56811","lon":"1.654452","n":"Lothingland","q":-153,"r":441 },
-		"E05005794":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.56752","lon":"1.716032","n":"Magdalen","q":-153,"r":442 },
-		"E05005795":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.59195","lon":"1.734982","n":"Nelson","q":-154,"r":444 },
-		"E05005796":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.67611","lon":"1.681153","n":"Ormesby","q":-154,"r":447 },
-		"E05005797":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.57852","lon":"1.728967","n":"St Andrews","q":-153,"r":443 },
-		"E05005798":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.6014","lon":"1.712343","n":"Southtown and Cobholm","q":-153,"r":444 },
-		"E05005799":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.69068","lon":"1.598759","n":"West Flegg","q":-155,"r":446 },
-		"E05005800":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.6268","lon":"1.732986","n":"Yarmouth North","q":-153,"r":445 }
+		"E05005784":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.58896","lon":"1.697039","n":"Bradwell North","q":20,"r":63},
+		"E05005785":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.5482","lon":"1.707109","n":"Bradwell South and Hopton","q":21,"r":62},
+		"E05005786":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.65638","lon":"1.722447","n":"Caister North","q":21,"r":67},
+		"E05005787":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.64412","lon":"1.713642","n":"Caister South","q":21,"r":66},
+		"E05005788":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.61403","lon":"1.679055","n":"Central and Northgate","q":22,"r":65},
+		"E05005789":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.58205","lon":"1.718901","n":"Claydon","q":21,"r":64},
+		"E05005790":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.71265","lon":"1.676174","n":"East Flegg","q":20,"r":67},
+		"E05005791":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.65208","lon":"1.629837","n":"Fleggburgh","q":20,"r":66},
+		"E05005792":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.55644","lon":"1.718887","n":"Gorleston","q":22,"r":63},
+		"E05005793":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.56811","lon":"1.654452","n":"Lothingland","q":22,"r":62},
+		"E05005794":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.56752","lon":"1.716032","n":"Magdalen","q":21,"r":63},
+		"E05005795":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.59195","lon":"1.734982","n":"Nelson","q":20,"r":65},
+		"E05005796":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.67611","lon":"1.681153","n":"Ormesby","q":21,"r":68},
+		"E05005797":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.57852","lon":"1.728967","n":"St Andrews","q":22,"r":64},
+		"E05005798":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.6014","lon":"1.712343","n":"Southtown and Cobholm","q":21,"r":65},
+		"E05005799":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.69068","lon":"1.598759","n":"West Flegg","q":19,"r":67},
+		"E05005800":{"LAD24CD":"E07000145","LAD24NM":"Great Yarmouth","RGN24CD":"E12000006","RGN24NM":"East of England","colour":"#E72999","lat":"52.6268","lon":"1.732986","n":"Yarmouth North","q":22,"r":66}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

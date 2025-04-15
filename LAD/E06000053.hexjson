@@ -1,11 +1,11 @@
 {
 	"hexes":{
-		"E05011090":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.95252","lon":"-6.35647","n":"Bryher","q":-370,"r":310 },
-		"E05011091":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.89044","lon":"-6.34596","n":"St Agnes","q":-369,"r":307 },
-		"E05011092":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.96494","lon":"-6.2953","n":"St Martin's","q":-368,"r":311 },
-		"E05011093":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.92332","lon":"-6.30217","n":"St Mary's","q":-368,"r":309 },
-		"E05011094":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.95321","lon":"-6.33499","n":"Tresco","q":-369,"r":310 }
+		"E05011090":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.95252","lon":"-6.35647","n":"Bryher","q":-147,"r":-67},
+		"E05011091":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.89044","lon":"-6.34596","n":"St Agnes","q":-145,"r":-70},
+		"E05011092":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.96494","lon":"-6.2953","n":"St Martin's","q":-144,"r":-66},
+		"E05011093":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.92332","lon":"-6.30217","n":"St Mary's","q":-144,"r":-68},
+		"E05011094":{"LAD24CD":"E06000053","LAD24NM":"Isles of Scilly","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#5B3FAB","lat":"49.95321","lon":"-6.33499","n":"Tresco","q":-146,"r":-67}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

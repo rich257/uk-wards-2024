@@ -1,20 +1,20 @@
 {
 	"hexes":{
-		"W05001256":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.7239","lon":"-3.13751","n":"Abertillery and Six Bells","q":-312,"r":406 },
-		"W05001257":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.79584","lon":"-3.20468","n":"Beaufort","q":-314,"r":408 },
-		"W05001258":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.76862","lon":"-3.15151","n":"Blaina","q":-313,"r":407 },
-		"W05001259":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.8049","lon":"-3.16788","n":"Brynmawr","q":-314,"r":409 },
-		"W05001260":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.74111","lon":"-3.18188","n":"Cwm","q":-313,"r":405 },
-		"W05001261":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.755","lon":"-3.13239","n":"Cwmtillery","q":-312,"r":407 },
-		"W05001262":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.78389","lon":"-3.21057","n":"Ebbw Vale North","q":-314,"r":407 },
-		"W05001263":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.76855","lon":"-3.19877","n":"Ebbw Vale South","q":-313,"r":406 },
-		"W05001264":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.76521","lon":"-3.22669","n":"Georgetown","q":-314,"r":406 },
-		"W05001265":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.70153","lon":"-3.12712","n":"Llanhilleth","q":-312,"r":405 },
-		"W05001266":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.78373","lon":"-3.1706","n":"Nantyglo","q":-313,"r":408 },
-		"W05001267":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.80459","lon":"-3.22486","n":"Rassau and Garnlydan","q":-315,"r":409 },
-		"W05001268":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.80074","lon":"-3.26945","n":"Sirhowy","q":-315,"r":407 },
-		"W05001269":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.76124","lon":"-3.24308","n":"Tredegar","q":-315,"r":406 }
+		"W05001256":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.7239","lon":"-3.13751","n":"Abertillery and Six Bells","q":-98,"r":16},
+		"W05001257":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.79584","lon":"-3.20468","n":"Beaufort","q":-100,"r":18},
+		"W05001258":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.76862","lon":"-3.15151","n":"Blaina","q":-99,"r":17},
+		"W05001259":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.8049","lon":"-3.16788","n":"Brynmawr","q":-100,"r":19},
+		"W05001260":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.74111","lon":"-3.18188","n":"Cwm","q":-99,"r":15},
+		"W05001261":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.755","lon":"-3.13239","n":"Cwmtillery","q":-98,"r":17},
+		"W05001262":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.78389","lon":"-3.21057","n":"Ebbw Vale North","q":-100,"r":17},
+		"W05001263":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.76855","lon":"-3.19877","n":"Ebbw Vale South","q":-99,"r":16},
+		"W05001264":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.76521","lon":"-3.22669","n":"Georgetown","q":-100,"r":16},
+		"W05001265":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.70153","lon":"-3.12712","n":"Llanhilleth","q":-98,"r":15},
+		"W05001266":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.78373","lon":"-3.1706","n":"Nantyglo","q":-99,"r":18},
+		"W05001267":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.80459","lon":"-3.22486","n":"Rassau and Garnlydan","q":-101,"r":19},
+		"W05001268":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.80074","lon":"-3.26945","n":"Sirhowy","q":-101,"r":17},
+		"W05001269":{"LAD24CD":"W06000019","LAD24NM":"Blaenau Gwent","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#C27136","lat":"51.76124","lon":"-3.24308","n":"Tredegar","q":-101,"r":16}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

@@ -1,22 +1,22 @@
 {
 	"hexes":{
-		"E05005495":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.77207","lon":"-0.94469","n":"Asfordby","q":-219,"r":443 },
-		"E05005496":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.94581","lon":"-0.79849","n":"Bottesford","q":-216,"r":445 },
-		"E05005497":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.85124","lon":"-0.79041","n":"Croxton Kerrial","q":-216,"r":444 },
-		"E05005498":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.78514","lon":"-0.97689","n":"Frisby-on-the-Wreake","q":-220,"r":443 },
-		"E05005499":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.72127","lon":"-0.88108","n":"Gaddesby","q":-217,"r":441 },
-		"E05005500":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.86674","lon":"-0.8781","n":"Long Clawson and Stathern","q":-217,"r":445 },
-		"E05005501":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.75648","lon":"-0.86573","n":"Melton Craven","q":-216,"r":442 },
-		"E05005502":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.75065","lon":"-0.90556","n":"Melton Dorian","q":-218,"r":441 },
-		"E05005503":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.76677","lon":"-0.90617","n":"Melton Egerton","q":-218,"r":442 },
-		"E05005504":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.77861","lon":"-0.86873","n":"Melton Newport","q":-217,"r":443 },
-		"E05005505":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.78305","lon":"-0.89739","n":"Melton Sysonby","q":-218,"r":443 },
-		"E05005506":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.74838","lon":"-0.87911","n":"Melton Warwick","q":-217,"r":442 },
-		"E05005507":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.81261","lon":"-0.96629","n":"Old Dalby","q":-218,"r":444 },
-		"E05005508":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.68812","lon":"-0.86583","n":"Somerby","q":-216,"r":441 },
-		"E05005509":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.804","lon":"-0.84604","n":"Waltham-on-the-Wolds","q":-217,"r":444 },
-		"E05005510":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.7735","lon":"-0.75954","n":"Wymondham","q":-216,"r":443 }
+		"E05005495":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.77207","lon":"-0.94469","n":"Asfordby","q":-30,"r":59},
+		"E05005496":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.94581","lon":"-0.79849","n":"Bottesford","q":-27,"r":61},
+		"E05005497":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.85124","lon":"-0.79041","n":"Croxton Kerrial","q":-27,"r":60},
+		"E05005498":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.78514","lon":"-0.97689","n":"Frisby-on-the-Wreake","q":-31,"r":59},
+		"E05005499":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.72127","lon":"-0.88108","n":"Gaddesby","q":-28,"r":57},
+		"E05005500":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.86674","lon":"-0.8781","n":"Long Clawson and Stathern","q":-28,"r":61},
+		"E05005501":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.75648","lon":"-0.86573","n":"Melton Craven","q":-27,"r":58},
+		"E05005502":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.75065","lon":"-0.90556","n":"Melton Dorian","q":-29,"r":57},
+		"E05005503":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.76677","lon":"-0.90617","n":"Melton Egerton","q":-29,"r":58},
+		"E05005504":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.77861","lon":"-0.86873","n":"Melton Newport","q":-28,"r":59},
+		"E05005505":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.78305","lon":"-0.89739","n":"Melton Sysonby","q":-29,"r":59},
+		"E05005506":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.74838","lon":"-0.87911","n":"Melton Warwick","q":-28,"r":58},
+		"E05005507":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.81261","lon":"-0.96629","n":"Old Dalby","q":-29,"r":60},
+		"E05005508":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.68812","lon":"-0.86583","n":"Somerby","q":-27,"r":57},
+		"E05005509":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.804","lon":"-0.84604","n":"Waltham-on-the-Wolds","q":-28,"r":60},
+		"E05005510":{"LAD24CD":"E07000133","LAD24NM":"Melton","RGN24CD":"E12000004","RGN24NM":"East Midlands","colour":"#2292F6","lat":"52.7735","lon":"-0.75954","n":"Wymondham","q":-27,"r":59}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }

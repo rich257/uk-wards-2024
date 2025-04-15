@@ -1,24 +1,24 @@
 {
 	"hexes":{
-		"E05010550":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.46668","lon":"-4.1905","n":"Bere Ferrers","q":-336,"r":331 },
-		"E05010551":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.69162","lon":"-4.13372","n":"Bridestowe","q":-334,"r":334 },
-		"E05010552":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.48877","lon":"-4.11553","n":"Buckland Monachorum","q":-335,"r":331 },
-		"E05010553":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.50664","lon":"-4.04119","n":"Burrator","q":-334,"r":331 },
-		"E05010554":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.65587","lon":"-3.85119","n":"Chagford","q":-332,"r":332 },
-		"E05010555":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.60738","lon":"-4.02018","n":"Dartmoor","q":-333,"r":332 },
-		"E05010556":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.7383","lon":"-3.84027","n":"Drewsteignton","q":-332,"r":333 },
-		"E05010557":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.80432","lon":"-3.94263","n":"Exbourne","q":-333,"r":335 },
-		"E05010558":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.79506","lon":"-4.10056","n":"Hatherleigh","q":-334,"r":335 },
-		"E05010559":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.5973","lon":"-4.09422","n":"Mary Tavy","q":-334,"r":333 },
-		"E05010560":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.5825","lon":"-4.20395","n":"Milton Ford","q":-336,"r":333 },
-		"E05010561":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.76253","lon":"-4.03385","n":"Okehampton North","q":-333,"r":334 },
-		"E05010562":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.70518","lon":"-4.01397","n":"Okehampton South","q":-333,"r":333 },
-		"E05010563":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.73592","lon":"-3.92079","n":"South Tawton","q":-332,"r":334 },
-		"E05010564":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.63201","lon":"-4.26905","n":"Tamarside","q":-335,"r":334 },
-		"E05010565":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.56352","lon":"-4.14004","n":"Tavistock North","q":-335,"r":333 },
-		"E05010566":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.54335","lon":"-4.13328","n":"Tavistock South East","q":-334,"r":332 },
-		"E05010567":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.53869","lon":"-4.1528","n":"Tavistock South West","q":-335,"r":332 }
+		"E05010550":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.46668","lon":"-4.1905","n":"Bere Ferrers","q":-117,"r":-49},
+		"E05010551":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.69162","lon":"-4.13372","n":"Bridestowe","q":-115,"r":-46},
+		"E05010552":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.48877","lon":"-4.11553","n":"Buckland Monachorum","q":-116,"r":-49},
+		"E05010553":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.50664","lon":"-4.04119","n":"Burrator","q":-115,"r":-49},
+		"E05010554":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.65587","lon":"-3.85119","n":"Chagford","q":-113,"r":-48},
+		"E05010555":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.60738","lon":"-4.02018","n":"Dartmoor","q":-114,"r":-48},
+		"E05010556":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.7383","lon":"-3.84027","n":"Drewsteignton","q":-113,"r":-47},
+		"E05010557":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.80432","lon":"-3.94263","n":"Exbourne","q":-114,"r":-45},
+		"E05010558":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.79506","lon":"-4.10056","n":"Hatherleigh","q":-115,"r":-45},
+		"E05010559":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.5973","lon":"-4.09422","n":"Mary Tavy","q":-115,"r":-47},
+		"E05010560":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.5825","lon":"-4.20395","n":"Milton Ford","q":-117,"r":-47},
+		"E05010561":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.76253","lon":"-4.03385","n":"Okehampton North","q":-114,"r":-46},
+		"E05010562":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.70518","lon":"-4.01397","n":"Okehampton South","q":-114,"r":-47},
+		"E05010563":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.73592","lon":"-3.92079","n":"South Tawton","q":-113,"r":-46},
+		"E05010564":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.63201","lon":"-4.26905","n":"Tamarside","q":-116,"r":-46},
+		"E05010565":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.56352","lon":"-4.14004","n":"Tavistock North","q":-116,"r":-47},
+		"E05010566":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.54335","lon":"-4.13328","n":"Tavistock South East","q":-115,"r":-48},
+		"E05010567":{"LAD24CD":"E07000047","LAD24NM":"West Devon","RGN24CD":"E12000009","RGN24NM":"South West","colour":"#C3BAC7","lat":"50.53869","lon":"-4.1528","n":"Tavistock South West","q":-116,"r":-48}
 	},
 	"layout":"odd-r",
-	"version":"0.1"
+	"version":"0.4"
 }
