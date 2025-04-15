@@ -18,7 +18,7 @@ To help break up the task into more manageable pieces, the full ward map has bee
 Please edit a local authority (below) using the hex builder tool, save the output as HexJSON[^1], then over-write the appropriate file in this directory. 
 The [full map](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/uk-wards-2024.hexjson) will be created by combining each of the local authorities into a final HexJSON file.
 
-The [Wards (May 2024) Boundaries UK SGC](https://geoportal.statistics.gov.uk/datasets/ons::wards-may-2024-boundaries-uk-bsc-2/explore) from the ONS is useful to see the geographic placement of wards. We have a [version of the ward map](wards.html) that may be useful. 
+We have a [geographic ward map](wards.html) (based on the [Wards (May 2024) Boundaries UK SGC](https://geoportal.statistics.gov.uk/datasets/ons::wards-may-2024-boundaries-uk-bsc-2/explore) from the ONS) and a [geographic local authority map](lads.html) that are useful to see the geographic placement of wards.
 
 Local authority layouts:
 
